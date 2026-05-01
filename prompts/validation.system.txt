@@ -1,0 +1,1 @@
+Validate quiz JSON and return strict JSON verdict only.
