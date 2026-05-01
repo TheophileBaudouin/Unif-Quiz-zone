@@ -1,0 +1,533 @@
+{
+  "quizId": "quiz-guerre-froide",
+  "title": "Quiz sur la Guerre froide",
+  "section": {
+    "id": "guerre-froide",
+    "title": "La Guerre froide",
+    "startPage": 108,
+    "endPage": 117,
+    "summary": "La création de l'ONU, la bipolarisation du monde, l'équilibre de la terreur nucléaire, les guerres périphériques (Vietnam) et la désintégration du bloc soviétique."
+  },
+  "questions": [
+    {
+      "id": "gf-q1",
+      "prompt": "Quand la Charte des Nations unies a-t-elle été signée à San Francisco ?",
+      "choices": [
+        "Le 8 mai 1945",
+        "Le 26 juin 1945",
+        "Le 2 septembre 1945",
+        "Le 24 octobre 1945",
+        "Le 10 décembre 1948"
+      ],
+      "correctIndex": 1,
+      "explanation": "La conférence de San Francisco s'est conclue par la signature de la charte le 26 juin 1945."
+    },
+    {
+      "id": "gf-q2",
+      "prompt": "Quel est l'objectif principal de l'ONU lors de sa création ?",
+      "choices": [
+        "Coloniser de nouveaux territoires",
+        "Éviter de nouveaux conflits mondiaux",
+        "Imposer le capitalisme",
+        "Démanteler les empires coloniaux",
+        "Gérer exclusivement l'économie européenne"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'objectif principal était de remplacer la SDN et d'éviter un troisième conflit mondial."
+    },
+    {
+      "id": "gf-q3",
+      "prompt": "Combien d'États sont membres permanents du Conseil de sécurité de l'ONU ?",
+      "choices": [
+        "3 membres",
+        "5 membres",
+        "10 membres",
+        "15 membres",
+        "25 membres"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les 5 grands vainqueurs de la guerre (USA, URSS, Royaume-Uni, France et Chine) sont membres permanents."
+    },
+    {
+      "id": "gf-q4",
+      "prompt": "Quel pays ne disposait PAS du droit de veto permanent à la création de l'ONU ?",
+      "choices": [
+        "États-Unis",
+        "URSS",
+        "France",
+        "Chine",
+        "Italie"
+      ],
+      "correctIndex": 4,
+      "explanation": "L'Italie, en tant que puissance de l'Axe, n'était pas parmi les membres permanents d'origine."
+    },
+    {
+      "id": "gf-q5",
+      "prompt": "Quand la Convention pour la prévention et la répression du crime de génocide a-t-elle été adoptée par l'ONU ?",
+      "choices": [
+        "9 décembre 1948",
+        "10 décembre 1948",
+        "4 novembre 1950",
+        "12 août 1949",
+        "5 mars 1946"
+      ],
+      "correctIndex": 0,
+      "explanation": "La convention sur le génocide a été adoptée le 9 décembre 1948, un jour avant la Déclaration des droits de l'homme."
+    },
+    {
+      "id": "gf-q6",
+      "prompt": "Qui a prononcé le célèbre discours de Fulton évoquant un 'rideau de fer' en 1946 ?",
+      "choices": [
+        "Harry Truman",
+        "Franklin Roosevelt",
+        "Winston Churchill",
+        "George Marshall",
+        "Dwight Eisenhower"
+      ],
+      "correctIndex": 2,
+      "explanation": "Winston Churchill a utilisé cette expression à Fulton le 5 mars 1946 pour désigner la division de l'Europe."
+    },
+    {
+      "id": "gf-q7",
+      "prompt": "Qu'est-ce que le 'containment' (endiguement) prôné par Harry Truman en 1947 ?",
+      "choices": [
+        "Une aide militaire directe à l'URSS",
+        "Une politique visant à stopper l'influence communiste",
+        "Un plan de désarmement nucléaire",
+        "La décolonisation immédiate de l'Afrique",
+        "L'unification de l'Allemagne"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le containment visait à endiguer l'expansion du bloc soviétique."
+    },
+    {
+      "id": "gf-q8",
+      "prompt": "Quelle doctrine soviétique répond à la doctrine Truman en divisant le monde en deux camps ?",
+      "choices": [
+        "La doctrine Brejnev",
+        "La doctrine Jdanov",
+        "La doctrine Khrouchtchev",
+        "La doctrine Staline",
+        "La doctrine Gorbatchev"
+      ],
+      "correctIndex": 1,
+      "explanation": "Andreï Jdanov présente en 1947 une vision binaire du monde opposant le camp impérialiste au camp anti-impérialiste."
+    },
+    {
+      "id": "gf-q9",
+      "prompt": "Quel était l'objectif du Plan Marshall lancé en 1947 ?",
+      "choices": [
+        "Envahir l'URSS par l'est",
+        "Fournir une aide financière pour la reconstruction de l'Europe",
+        "Créer une monnaie unique mondiale",
+        "Interdire le parti communiste en France",
+        "Construire le mur de Berlin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Plan Marshall était un programme d'aide économique pour stabiliser l'Europe de l'Ouest."
+    },
+    {
+      "id": "gf-q10",
+      "prompt": "Quel événement a provoqué le blocus de Berlin en 1948-1949 ?",
+      "choices": [
+        "La construction du mur de Berlin",
+        "La réforme monétaire et la création du Deutsche Mark à l'ouest",
+        "L'assassinat d'un diplomate soviétique",
+        "L'entrée de la RFA dans l'OTAN",
+        "Le survol de Berlin par des avions espions"
+      ],
+      "correctIndex": 1,
+      "explanation": "Staline a bloqué les accès terrestres suite à la décision des alliés occidentaux d'unifier économiquement leurs zones."
+    },
+    {
+      "id": "gf-q11",
+      "prompt": "Comment les alliés occidentaux ont-ils contourné le blocus de Berlin ?",
+      "choices": [
+        "En creusant des tunnels",
+        "Par un pont aérien massif",
+        "En lançant une offensive blindée",
+        "Par une médiation de l'ONU",
+        "En utilisant des sous-marins"
+      ],
+      "correctIndex": 1,
+      "explanation": "Un ravitaillement aérien continu a permis de nourrir la population de Berlin-Ouest pendant près d'un an."
+    },
+    {
+      "id": "gf-q12",
+      "prompt": "Quelle alliance militaire défensive est créée par les pays occidentaux en 1949 ?",
+      "choices": [
+        "Le Pacte de Varsovie",
+        "L'OTAN",
+        "La SDN",
+        "L'UE",
+        "Le CAEM"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'Organisation du Traité de l'Atlantique Nord (OTAN) a été créée en 1949."
+    },
+    {
+      "id": "gf-q13",
+      "prompt": "Quelle entité politique est créée à l'Est de l'Allemagne en octobre 1949 ?",
+      "choices": [
+        "La RFA",
+        "La RDA",
+        "Le Benelux",
+        "La Confédération germanique",
+        "Le Reich"
+      ],
+      "correctIndex": 1,
+      "explanation": "La République démocratique allemande (RDA) est la réponse soviétique à la création de la RFA."
+    },
+    {
+      "id": "gf-q14",
+      "prompt": "Qu'est-ce que le maccarthysme aux États-Unis dans les années 1950 ?",
+      "choices": [
+        "Une aide aux pays du tiers-monde",
+        "Une 'chasse aux sorcières' contre les communistes présumés",
+        "Un courant artistique d'avant-garde",
+        "Une réforme du système de santé",
+        "La conquête spatiale"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le sénateur Joseph McCarthy a mené une campagne virulente pour épurer l'administration des communistes."
+    },
+    {
+      "id": "gf-q15",
+      "prompt": "En quelle année l'URSS a-t-elle testé sa première bombe atomique ?",
+      "choices": [
+        "1945",
+        "1947",
+        "1949",
+        "1952",
+        "1953"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'URSS brise le monopole nucléaire américain en 1949."
+    },
+    {
+      "id": "gf-q16",
+      "prompt": "Quelle technologie de transport de bombes est développée à partir de 1957 ?",
+      "choices": [
+        "Les zeppelins",
+        "Les porte-avions nucléaires",
+        "Les missiles balistiques intercontinentaux (ICBM)",
+        "Les trains à grande vitesse",
+        "Les drones furtifs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Les ICBM permettent d'envoyer une charge nucléaire d'un continent à l'autre sans avion."
+    },
+    {
+      "id": "gf-q17",
+      "prompt": "Quelle crise de 1962 a failli mener à une guerre nucléaire totale ?",
+      "choices": [
+        "La crise du canal de Suez",
+        "La crise des missiles de Cuba",
+        "La crise des Euromissiles",
+        "Le blocus de Berlin",
+        "La guerre de Corée"
+      ],
+      "correctIndex": 1,
+      "explanation": "La découverte de missiles soviétiques à Cuba a provoqué une confrontation directe entre Kennedy et Khrouchtchev."
+    },
+    {
+      "id": "gf-q18",
+      "prompt": "Qu'est-ce que le 'Téléphone rouge' installé en 1963 ?",
+      "choices": [
+        "Un système de propagande soviétique",
+        "Une ligne directe entre le Kremlin et la Maison Blanche",
+        "Un film d'espionnage célèbre",
+        "Une arme secrète laser",
+        "Un réseau social crypté"
+      ],
+      "correctIndex": 1,
+      "explanation": "Installé après la crise de Cuba, il visait à permettre une communication immédiate pour éviter un accident nucléaire."
+    },
+    {
+      "id": "gf-q19",
+      "prompt": "Quel traité de 1968 vise à limiter la possession d'armes nucléaires aux membres du 'Club nucléaire' ?",
+      "choices": [
+        "Le traité de Versailles",
+        "Le traité de non-prolifération nucléaire (TNP)",
+        "Les accords de Salt I",
+        "Le traité de Rome",
+        "Le traité de Westphalie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le TNP interdit aux pays non dotés d'acquérir l'arme atomique."
+    },
+    {
+      "id": "gf-q20",
+      "prompt": "Quel fut le premier satellite artificiel lancé dans l'espace en 1957 ?",
+      "choices": [
+        "Apollo 11",
+        "Sputnik",
+        "Vostok 1",
+        "Skylab",
+        "Explorer 1"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le lancement de Sputnik par l'URSS a marqué le début de la course à l'espace."
+    },
+    {
+      "id": "gf-q21",
+      "prompt": "Qui fut le premier homme dans l'espace en 1961 ?",
+      "choices": [
+        "Neil Armstrong",
+        "Youri Gagarine",
+        "John Glenn",
+        "Buzz Aldrin",
+        "Sylvester Stallone"
+      ],
+      "correctIndex": 1,
+      "explanation": "Youri Gagarine est le premier homme à avoir effectué une orbite terrestre."
+    },
+    {
+      "id": "gf-q22",
+      "prompt": "Quelle conférence de 1955 marque l'émergence politique du Tiers-Monde ?",
+      "choices": [
+        "La conférence de Yalta",
+        "La conférence de Bandoeng",
+        "La conférence de Berlin",
+        "La conférence de San Francisco",
+        "La conférence de Potsdam"
+      ],
+      "correctIndex": 1,
+      "explanation": "La conférence de Bandoeng réunit des pays d'Asie et d'Afrique refusant de s'aligner sur les deux blocs."
+    },
+    {
+      "id": "gf-q23",
+      "prompt": "En quelle année les États-Unis retirent-ils leurs dernières troupes du Vietnam ?",
+      "choices": [
+        "1964",
+        "1968",
+        "1973",
+        "1975",
+        "1979"
+      ],
+      "correctIndex": 2,
+      "explanation": "Les accords de Paris en 1973 marquent la fin de l'engagement direct américain."
+    },
+    {
+      "id": "gf-q24",
+      "prompt": "Quel dirigeant communiste a pris ses distances avec Moscou dès 1948 ?",
+      "choices": [
+        "Mao Zedong",
+        "Tito (Yougoslavie)",
+        "Fidel Castro",
+        "Ho Chi Minh",
+        "Enver Hoxha"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tito a refusé la tutelle de Staline, faisant de la Yougoslavie un pays communiste indépendant."
+    },
+    {
+      "id": "gf-q25",
+      "prompt": "Qu'a dénoncé Khrouchtchev dans son 'Rapport secret' en 1956 ?",
+      "choices": [
+        "Le capitalisme américain",
+        "Les crimes et le culte de la personnalité de Staline",
+        "La trahison de la Chine",
+        "L'inefficacité de l'OTAN",
+        "Le mur de Berlin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ce rapport marque le début de la déstalinisation."
+    },
+    {
+      "id": "gf-q26",
+      "prompt": "Quel pays a subi une intervention des chars soviétiques en 1956 suite à une tentative de retrait du bloc ?",
+      "choices": [
+        "La Pologne",
+        "La Hongrie",
+        "La Tchécoslovaquie",
+        "L'Afghanistan",
+        "La Roumanie"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'insurrection de Budapest a été violemment réprimée par l'Armée rouge."
+    },
+    {
+      "id": "gf-q27",
+      "prompt": "Comment appelle-t-on la tentative de libéralisation politique en Tchécoslovaquie en 1968 ?",
+      "choices": [
+        "La Révolution culturelle",
+        "Le Printemps de Prague",
+        "La Perestroïka",
+        "Le Grand bond en avant",
+        "La chute du rideau de fer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Printemps de Prague de Dubcek fut stoppé par l'intervention du Pacte de Varsovie."
+    },
+    {
+      "id": "gf-q28",
+      "prompt": "Quelle politique de Mao Zedong (1958-1961) a causé une famine géante en Chine ?",
+      "choices": [
+        "La Révolution culturelle",
+        "Le Grand bond en avant",
+        "La Longue marche",
+        "Les cent fleurs",
+        "La Glasnost"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cette politique d'industrialisation forcée de la campagne a mené à une catastrophe humanitaire."
+    },
+    {
+      "id": "gf-q29",
+      "prompt": "Quel syndicat polonais indépendant a contesté le régime communiste dès 1980 ?",
+      "choices": [
+        "Le Komintern",
+        "Solidarnosc",
+        "Le Viet-Cong",
+        "Stasi",
+        "Le Parti ouvrier"
+      ],
+      "correctIndex": 1,
+      "explanation": "Solidarnosc, mené par Lech Walesa, a joué un rôle clé dans la chute du bloc de l'Est."
+    },
+    {
+      "id": "gf-q30",
+      "prompt": "Dans quel pays l'URSS s'est-elle enlisée militairement entre 1979 et 1989 ?",
+      "choices": [
+        "Le Vietnam",
+        "L'Afghanistan",
+        "La Corée",
+        "Cuba",
+        "L'Angola"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ce conflit est souvent comparé au Vietnam pour les Soviétiques."
+    },
+    {
+      "id": "gf-q31",
+      "prompt": "Quel président américain a lancé le projet 'Star Wars' (IDS) en 1983 ?",
+      "choices": [
+        "Richard Nixon",
+        "Jimmy Carter",
+        "Ronald Reagan",
+        "George H.W. Bush",
+        "John Kennedy"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'Initiative de défense stratégique (IDS) visait à créer un bouclier spatial antimissile."
+    },
+    {
+      "id": "gf-q32",
+      "prompt": "En quelle année le mur de Berlin est-il tombé ?",
+      "choices": [
+        "1961",
+        "1985",
+        "1989",
+        "1990",
+        "1991"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le mur est tombé le 9 novembre 1989."
+    },
+    {
+      "id": "gf-q33",
+      "prompt": "Que signifie le terme 'Glasnost' introduit par Gorbatchev ?",
+      "choices": [
+        "Restructuration économique",
+        "Transparence",
+        "Égalité sociale",
+        "Défense nationale",
+        "Unification"
+      ],
+      "correctIndex": 1,
+      "explanation": "La Glasnost visait à libérer la parole et la presse en URSS."
+    },
+    {
+      "id": "gf-q34",
+      "prompt": "En quel mois et quelle année l'URSS a-t-elle été officiellement dissoute ?",
+      "choices": [
+        "Janvier 1989",
+        "Novembre 1989",
+        "Octobre 1990",
+        "Décembre 1991",
+        "Mars 1992"
+      ],
+      "correctIndex": 3,
+      "explanation": "L'URSS a cessé d'exister en décembre 1991, remplacée par 15 États indépendants."
+    },
+    {
+      "id": "gf-q35",
+      "prompt": "Quel événement sanglant a eu lieu en Chine en juin 1989 ?",
+      "choices": [
+        "La proclamation de la République",
+        "Le massacre de la place Tian'anmen",
+        "La mort de Mao",
+        "L'explosion d'une centrale nucléaire",
+        "La chute du mur de Pékin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le régime chinois a violemment réprimé les manifestations étudiantes pour la démocratie."
+    },
+    {
+      "id": "gf-q36",
+      "prompt": "Qu'est-ce que l'hiver nucléaire ?",
+      "choices": [
+        "Une période de grand froid en Sibérie",
+        "Un concept scientifique décrivant les retombées climatiques d'une guerre nucléaire",
+        "Le nom d'un test atomique au pôle Nord",
+        "Une stratégie de défense contre les missiles",
+        "Le surnom de la guerre de Corée"
+      ],
+      "correctIndex": 1,
+      "explanation": "La poussière et la fumée d'explosions nucléaires bloqueraient le soleil, rendant la vie terrestre impossible."
+    },
+    {
+      "id": "gf-q37",
+      "prompt": "Quelle catastrophe nucléaire civile a été cachée par les autorités soviétiques en 1986 ?",
+      "choices": [
+        "Fukushima",
+        "Three Mile Island",
+        "Tchernobyl",
+        "Bhopal",
+        "Kychtym"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'explosion du réacteur de Tchernobyl a révélé les failles du système soviétique."
+    },
+    {
+      "id": "gf-q38",
+      "prompt": "Selon l'article 5 de l'OTAN, qu'arrive-t-il si un membre est attaqué ?",
+      "choices": [
+        "Il doit se débrouiller seul",
+        "Les autres peuvent se considérer comme attaqués et riposter",
+        "L'OTAN est dissoute automatiquement",
+        "Le pays doit quitter l'alliance",
+        "L'ONU prend le relais exclusivement"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'article 5 prévoit la défense collective : une attaque contre un est une attaque contre tous."
+    },
+    {
+      "id": "gf-q39",
+      "prompt": "Quel pays n'a JAMAIS eu d'empire colonial selon les documents ?",
+      "choices": [
+        "Belgique",
+        "Allemagne",
+        "Italie",
+        "Japon",
+        "Suisse"
+      ],
+      "correctIndex": 4,
+      "explanation": "Le document mentionne les puissances colonisatrices et la Suisse n'en fait pas partie."
+    },
+    {
+      "id": "gf-q40",
+      "prompt": "Qui était le chef de l'URSS lors de la chute du bloc soviétique ?",
+      "choices": [
+        "Léonid Brejnev",
+        "Youri Andropov",
+        "Mikhaïl Gorbatchev",
+        "Boris Eltsine",
+        "Vladimir Poutine"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gorbatchev a initié les réformes qui ont conduit malgré lui à la fin du bloc."
+    }
+  ]
+}
