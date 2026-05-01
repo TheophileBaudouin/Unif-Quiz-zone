@@ -1,0 +1,559 @@
+{
+  "quizId": "restauration-nationalisme-liberalisme",
+  "title": "Quiz - Restauration, nationalisme et libéralisme",
+  "section": {
+    "id": "restauration-nationalisme-liberalisme",
+    "title": "Restauration, nationalisme et libéralisme",
+    "startPage": 78,
+    "endPage": 87,
+    "summary": "Cette section examine l'ordre européen après Napoléon, le Congrès de Vienne de 1815, l'émergence des idéologies libérales et nationales, les vagues révolutionnaires de 1830 et 1848, ainsi que l'unification de l'Italie et de l'Allemagne."
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quel était l'objectif principal du Congrès de Vienne (1814-1815) ?",
+      "choices": [
+        "Rétablir l'ordre monarchique et garantir la paix",
+        "Encourager les mouvements révolutionnaires en Europe",
+        "Établir un gouvernement démocratique paneuropéen",
+        "Partager les territoires coloniaux africains",
+        "Soutenir l'indépendance de la Grèce"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le Congrès de Vienne visait à stabiliser l'Europe après Napoléon en restaurant les monarchies et en prévenant de nouvelles révolutions."
+    },
+    {
+      "id": "q2",
+      "prompt": "Parmi ces puissances, laquelle n'est PAS l'un des 'quatre grands' vainqueurs de Napoléon à Vienne ?",
+      "choices": [
+        "La Prusse",
+        "La Russie",
+        "Le Royaume-Uni",
+        "L'Espagne",
+        "L'Autriche"
+      ],
+      "correctIndex": 3,
+      "explanation": "Les quatre grandes puissances victorieuses sont la Prusse, la Russie, l'Autriche et le Royaume-Uni."
+    },
+    {
+      "id": "q3",
+      "prompt": "À quelles frontières le territoire de la France est-il ramené par le traité de 1815 ?",
+      "choices": [
+        "Celles de 1812",
+        "Celles de 1789",
+        "Celles de 1804",
+        "Celles de 1814",
+        "Celles du traité de Westphalie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Après la défaite définitive de Napoléon, la France retrouve ses frontières de 1789."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel État est créé en 1815 comme 'État-tampon' au nord de la France pour freiner une offensive éventuelle ?",
+      "choices": [
+        "La Confédération germanique",
+        "La Belgique indépendante",
+        "Le Royaume uni des Pays-Bas",
+        "Le Grand-Duché de Luxembourg",
+        "Le Royaume de Piémont-Sardaigne"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le Royaume uni des Pays-Bas (comprenant l'actuel Benelux) a été créé pour servir de zone de sécurité au nord de la France."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle région de l'Italie actuelle est annexée par l'Empire d'Autriche en 1815 ?",
+      "choices": [
+        "Le Latium",
+        "Le Piémont",
+        "Le Nord-Est (Lombardie-Vénétie)",
+        "Le Royaume des Deux-Siciles",
+        "La Toscane"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'Autriche reçoit le nord-est de l'Italie pour garantir sa stabilité et son influence."
+    },
+    {
+      "id": "q6",
+      "prompt": "Comment se nomme l'organisation des 38 États allemands créée en 1815 ?",
+      "choices": [
+        "L'Empire allemand",
+        "Le Zollverein",
+        "La Confédération germanique",
+        "L'Union rhénane",
+        "Le Saint-Empire"
+      ],
+      "correctIndex": 2,
+      "explanation": "La Confédération germanique est une alliance de 38 États souverains dotée d'une diète commune."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quel territoire est annexé par la Russie lors du Congrès de Vienne ?",
+      "choices": [
+        "La Finlande",
+        "La Pologne",
+        "L'Ukraine",
+        "La Crimée",
+        "La Sibérie"
+      ],
+      "correctIndex": 1,
+      "explanation": "La Russie obtient l'annexion de la Pologne lors des redistributions territoriales de 1815."
+    },
+    {
+      "id": "q8",
+      "prompt": "Qu'est-ce que le 'Concert européen' ?",
+      "choices": [
+        "Un festival de musique classique à Vienne",
+        "Un système de diplomatie multilatérale entre grandes puissances",
+        "Un accord commercial sur le libre-échange",
+        "Une alliance militaire contre l'Empire ottoman",
+        "Une ligue de défense des droits de l'homme"
+      ],
+      "correctIndex": 1,
+      "explanation": "Il s'agit d'une concertation permanente entre les grandes puissances pour régler ensemble les questions européennes."
+    },
+    {
+      "id": "q9",
+      "prompt": "Quelles nations composent initialement la 'Sainte Alliance' ?",
+      "choices": [
+        "France, Royaume-Uni, Autriche",
+        "Prusse, Autriche, Russie",
+        "Espagne, Portugal, Italie",
+        "Russie, Pologne, Suède",
+        "Belgique, Pays-Bas, Luxembourg"
+      ],
+      "correctIndex": 1,
+      "explanation": "La Sainte Alliance regroupe les trois monarchies réactionnaires : Prusse, Autriche et Russie."
+    },
+    {
+      "id": "q10",
+      "prompt": "Qui est le roi de France restauré sur le trône en 1814 ?",
+      "choices": [
+        "Charles X",
+        "Louis-Philippe Ier",
+        "Louis XVII",
+        "Louis XVIII",
+        "Napoléon III"
+      ],
+      "correctIndex": 3,
+      "explanation": "Louis XVIII, frère de Louis XVI, est replacé sur le trône par les puissances alliées."
+    },
+    {
+      "id": "q11",
+      "prompt": "Selon la Charte de 1814 en France, qui détient l'initiative législative ?",
+      "choices": [
+        "La Chambre des députés",
+        "Le Roi exclusivement",
+        "Le peuple par pétition",
+        "Le Conseil d'État",
+        "La Chambre des pairs"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Roi garde l'initiative des lois, bien que le Parlement vote ces dernières."
+    },
+    {
+      "id": "q12",
+      "prompt": "Qui sont les 'Ultras' sous la Restauration en France ?",
+      "choices": [
+        "Des républicains radicaux",
+        "Des libéraux progressistes",
+        "Des traditionalistes souhaitant un retour à l'Ancien Régime",
+        "Des partisans de Napoléon",
+        "Des socialistes utopiques"
+      ],
+      "correctIndex": 2,
+      "explanation": "Les ultras sont des royalistes extrémistes qui veulent effacer les acquis de la Révolution."
+    },
+    {
+      "id": "q13",
+      "prompt": "Quel est le fondement principal de la société selon l'idéologie libérale ?",
+      "choices": [
+        "La collectivité",
+        "La tradition religieuse",
+        "L'individu",
+        "L'obéissance au souverain",
+        "La race"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le libéralisme pose l'individu comme le fondement de la société et de la liberté."
+    },
+    {
+      "id": "q14",
+      "prompt": "Sur le plan religieux, que prône le libéralisme du 19e siècle ?",
+      "choices": [
+        "L'athéisme obligatoire",
+        "Le contrôle de l'État sur l'Église",
+        "La laïcité (religion comme affaire privée)",
+        "Le retour au catholicisme d'État",
+        "La suppression des lieux de culte"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pour les libéraux, la religion doit être une affaire privée et ne pas être dictée par l'État."
+    },
+    {
+      "id": "q15",
+      "prompt": "Quel principe économique est central pour les libéraux ?",
+      "choices": [
+        "Le protectionnisme",
+        "Le mercantilisme",
+        "Le libre-échange (laissez-faire)",
+        "La planification d'État",
+        "L'économie de subsistance"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le libéralisme économique prône la libre circulation des marchandises et la non-intervention de l'État."
+    },
+    {
+      "id": "q16",
+      "prompt": "En quelle année l'esclavage est-il aboli au Brésil, l'un des derniers pays occidentaux à le faire ?",
+      "choices": [
+        "1848",
+        "1865",
+        "1888",
+        "1901",
+        "1794"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le Brésil est le dernier pays occidental à abolir l'esclavage en 1888."
+    },
+    {
+      "id": "q17",
+      "prompt": "Quel homme politique français a déclaré : 'Enrichissez-vous par le travail et par l'épargne' ?",
+      "choices": [
+        "François Guizot",
+        "Adolphe Thiers",
+        "Alphonse de Lamartine",
+        "Jules Ferry",
+        "Jean Jaurès"
+      ],
+      "correctIndex": 0,
+      "explanation": "Guizot, chef de file des libéraux doctrinaires, encourageait l'enrichissement pour accéder au droit de vote censitaire."
+    },
+    {
+      "id": "q18",
+      "prompt": "Quelle est la principale différence entre libéraux doctrinaires et libéraux progressistes ?",
+      "choices": [
+        "Leur vision de la propriété privée",
+        "L'élargissement ou non de la participation politique (suffrage)",
+        "Leur position sur la liberté de la presse",
+        "Leur attachement à la monarchie",
+        "Leur rejet de la machine à vapeur"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les doctrinaires voulaient limiter le vote aux élites aisées, tandis que les progressistes voulaient élargir la participation."
+    },
+    {
+      "id": "q19",
+      "prompt": "Comment se nomme le mouvement secret en Italie qui s'oppose à l'absolutisme par des tentatives de coups d'État dès 1820 ?",
+      "choices": [
+        "Les Jacobins",
+        "Les Carbonari",
+        "Les Garibaldiens",
+        "La Giovine Italia",
+        "Le Risorgimento"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les Carbonari étaient des membres de sociétés secrètes luttant pour la liberté politique en Italie."
+    },
+    {
+      "id": "q20",
+      "prompt": "Que se passe-t-il lors des 'Trois Glorieuses' en France en 1830 ?",
+      "choices": [
+        "La proclamation de la République",
+        "Le couronnement de Napoléon II",
+        "Le renversement de Charles X au profit de Louis-Philippe",
+        "L'annexion de la Belgique",
+        "La fin de la monarchie de Juillet"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cette révolution de trois jours renverse la branche aînée des Bourbons au profit de Louis-Philippe d'Orléans."
+    },
+    {
+      "id": "q21",
+      "prompt": "Quelle nation parvient à obtenir son indépendance suite à l'onde de choc de la révolution française de 1830 ?",
+      "choices": [
+        "La Pologne",
+        "L'Italie",
+        "L'Allemagne",
+        "La Belgique",
+        "La Hongrie"
+      ],
+      "correctIndex": 3,
+      "explanation": "La Belgique se soulève contre le Royaume des Pays-Bas en 1830 et obtient son indépendance."
+    },
+    {
+      "id": "q22",
+      "prompt": "Comment appelle-t-on la vague révolutionnaire qui balaie l'Europe en 1848 ?",
+      "choices": [
+        "L'Été des Peuples",
+        "Le Printemps des Peuples",
+        "Le Grand Renversement",
+        "La Révolte des Nations",
+        "L'Hiver libéral"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Printemps des Peuples est le nom donné aux révolutions libérales et nationales de 1848."
+    },
+    {
+      "id": "q23",
+      "prompt": "Quelle crise majeure favorise l'éclatement des révolutions de 1848 ?",
+      "choices": [
+        "Une crise agricole et économique",
+        "Une invasion mongole",
+        "La découverte de l'or en Californie",
+        "L'invention du télégraphe",
+        "La fin de l'Empire ottoman"
+      ],
+      "correctIndex": 0,
+      "explanation": "Une double crise agricole (famine) et capitaliste crée un mécontentement social massif en 1848."
+    },
+    {
+      "id": "q24",
+      "prompt": "Quel est le résultat immédiat de la révolution de 1848 en France ?",
+      "choices": [
+        "Le maintien de Louis-Philippe",
+        "Le retour de Napoléon Ier",
+        "Le renversement de la monarchie de Juillet et l'instauration de la IIe République",
+        "La prise du pouvoir par les Ultras",
+        "Le transfert de la capitale à Lyon"
+      ],
+      "correctIndex": 2,
+      "explanation": "La révolution de février 1848 met fin au règne de Louis-Philippe et proclame la République."
+    },
+    {
+      "id": "q25",
+      "prompt": "Qu'est-ce que le 'nationalisme' au début du 19e siècle ?",
+      "choices": [
+        "Un désir de conquête mondiale",
+        "L'aspiration d'un peuple partageant une identité commune à posséder son propre État",
+        "La haine systématique des étrangers",
+        "L'obligation de parler latin",
+        "Un mouvement de retour à la campagne"
+      ],
+      "correctIndex": 1,
+      "explanation": "C'est la volonté de faire coïncider l'unité de la nation avec celle de l'État."
+    },
+    {
+      "id": "q26",
+      "prompt": "En quelle année l'indépendance de la Grèce face à l'Empire Ottoman est-elle officiellement reconnue ?",
+      "choices": [
+        "1815",
+        "1822",
+        "1830",
+        "1848",
+        "1871"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'indépendance grecque est reconnue en 1822 après une guerre d'indépendance soutenue par les intellectuels européens."
+    },
+    {
+      "id": "q27",
+      "prompt": "Quel État italien mène le processus d'unification du pays (le Risorgimento) ?",
+      "choices": [
+        "Le Royaume de Naples",
+        "Les États Pontificaux",
+        "Le Royaume de Piémont-Sardaigne",
+        "La République de Venise",
+        "Le Duché de Parme"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sous l'impulsion de Victor-Emmanuel II et de Cavour, le Piémont-Sardaigne dirige l'unification italienne."
+    },
+    {
+      "id": "q28",
+      "prompt": "Qui est Camillo Benso, comte de Cavour ?",
+      "choices": [
+        "Un général révolutionnaire",
+        "Le Premier ministre du Piémont-Sardaigne",
+        "Le Pape",
+        "Un peintre de la Renaissance",
+        "L'ambassadeur d'Autriche"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cavour est l'architecte politique de l'unité italienne."
+    },
+    {
+      "id": "q29",
+      "prompt": "Contre quelle puissance le Piémont-Sardaigne s'allie-t-il à la France de Napoléon III en 1859 ?",
+      "choices": [
+        "La Russie",
+        "Le Royaume-Uni",
+        "L'Autriche",
+        "L'Empire ottoman",
+        "L'Espagne"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'alliance franco-piémontaise vise à chasser l'Autriche du nord de l'Italie."
+    },
+    {
+      "id": "q30",
+      "prompt": "En quelle année le Royaume d'Italie est-il officiellement proclamé ?",
+      "choices": [
+        "1848",
+        "1861",
+        "1870",
+        "1815",
+        "1885"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Royaume d'Italie est proclamé en 1861 avec Victor-Emmanuel II comme roi."
+    },
+    {
+      "id": "q31",
+      "prompt": "Quel événement permet l'annexion finale de Rome par l'Italie en 1870 ?",
+      "choices": [
+        "Une bulle papale",
+        "La défaite de Napoléon III face à la Prusse",
+        "Un accord avec l'Autriche",
+        "Une invasion britannique",
+        "Un tremblement de terre"
+      ],
+      "correctIndex": 1,
+      "explanation": "La chute de Napoléon III, protecteur du Pape, laisse le champ libre aux troupes italiennes pour prendre Rome."
+    },
+    {
+      "id": "q32",
+      "prompt": "Qu'est-ce que le 'Zollverein' créé en 1834 ?",
+      "choices": [
+        "Une alliance militaire allemande",
+        "Une union douanière entre États allemands",
+        "Une langue nationale unifiée",
+        "Le nom du parlement de Francfort",
+        "Un code civil prussien"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Zollverein est une union douanière dirigée par la Prusse, préparant l'unification économique avant l'unité politique."
+    },
+    {
+      "id": "q33",
+      "prompt": "Qui est le principal artisan de l'unité allemande (le Chancelier de fer) ?",
+      "choices": [
+        "Guillaume Ier",
+        "Metternich",
+        "Otto von Bismarck",
+        "Frédéric-Guillaume IV",
+        "Ludwig II de Bavière"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bismarck a mené l'unification de l'Allemagne par la diplomatie et la guerre ('le fer et le sang')."
+    },
+    {
+      "id": "q34",
+      "prompt": "Quelle bataille décisive en 1866 assure la prépondérance de la Prusse sur l'Autriche en Allemagne ?",
+      "choices": [
+        "Waterloo",
+        "Sadowa",
+        "Magenta",
+        "Sedan",
+        "Leipzig"
+      ],
+      "correctIndex": 1,
+      "explanation": "La victoire de Sadowa exclut l'Autriche de la future unité allemande au profit de la Prusse."
+    },
+    {
+      "id": "q35",
+      "prompt": "Où l'Empire allemand est-il officiellement proclamé le 18 janvier 1871 ?",
+      "choices": [
+        "À Berlin, au Reichstag",
+        "À Francfort, au Parlement",
+        "Dans la Galerie des Glaces à Versailles",
+        "À Vienne, au palais de Schönbrunn",
+        "À Sedan, sur le champ de bataille"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'Empire est proclamé symboliquement à Versailles après la défaite de la France."
+    },
+    {
+      "id": "q36",
+      "prompt": "Quel territoire la France perd-elle suite à la guerre de 1870-1871 ?",
+      "choices": [
+        "La Savoie",
+        "L'Alsace-Lorraine",
+        "La Bretagne",
+        "La Normandie",
+        "Le comté de Nice"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'Alsace et une partie de la Lorraine sont annexées par le nouvel Empire allemand."
+    },
+    {
+      "id": "q37",
+      "prompt": "Quel outil est utilisé pour le 'Nation-building' (construction de la nation) au 19e siècle ?",
+      "choices": [
+        "L'éducation nationale (géographie, histoire)",
+        "L'interdiction des journaux",
+        "Le maintien des dialectes régionaux",
+        "La suppression de l'armée",
+        "Le refus des symboles nationaux"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'école et le service militaire sont les deux grands outils d'unification culturelle et linguistique."
+    },
+    {
+      "id": "q38",
+      "prompt": "Qu'est-ce que le 'darwinisme social' apparu à la fin du 19e siècle ?",
+      "choices": [
+        "Une théorie sur la protection des espèces menacées",
+        "L'application de la lutte pour la vie de Darwin aux rapports entre les sociétés et les races",
+        "Un mouvement socialiste pour l'égalité des chances",
+        "Une réforme agraire inspirée des sciences naturelles",
+        "Une nouvelle méthode d'enseignement de la biologie"
+      ],
+      "correctIndex": 1,
+      "explanation": "C'est une dérive idéologique qui voit les États comme des entités biologiques en lutte perpétuelle."
+    },
+    {
+      "id": "q39",
+      "prompt": "Quel compositeur finlandais illustre la montée du nationalisme culturel avec son œuvre 'Finlandia' (1900) ?",
+      "choices": [
+        "Smetana",
+        "Sibelius",
+        "Wagner",
+        "Verdi",
+        "Chopin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sibelius a utilisé sa musique pour exprimer l'aspiration à l'indépendance de la Finlande face à la Russie."
+    },
+    {
+      "id": "q40",
+      "prompt": "En 1848, quel roi français abdique face à la pression révolutionnaire ?",
+      "choices": [
+        "Louis XVIII",
+        "Charles X",
+        "Louis-Philippe Ier",
+        "Napoléon III",
+        "Henri V"
+      ],
+      "correctIndex": 2,
+      "explanation": "Louis-Philippe, le 'roi-citoyen', est chassé du pouvoir par la révolution de février 1848."
+    },
+    {
+      "id": "q41",
+      "prompt": "Comment les historiens appellent-ils le système d'équilibre entre puissances établi à Vienne en 1815 ?",
+      "choices": [
+        "L'Ordre de Westphalie",
+        "Le Concert européen",
+        "La Paix d'Augsbourg",
+        "Le Pacte de Varsovie",
+        "La Société des Nations"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Concert européen a maintenu une paix relative entre les grandes puissances pendant une grande partie du 19e siècle."
+    },
+    {
+      "id": "q42",
+      "prompt": "Quelle était la position des 'libéraux' vis-à-vis du Congrès de Vienne ?",
+      "choices": [
+        "Ils en étaient les principaux organisateurs",
+        "Ils étaient déçus par le retour à l'ordre ancien et l'absence de constitutions",
+        "Ils soutenaient le rétablissement de l'absolutisme",
+        "Ils voulaient supprimer toute notion de nation",
+        "Ils souhaitaient l'unification immédiate sous la Russie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les libéraux considéraient le Congrès de Vienne comme une réaction injuste contre les libertés individuelles et nationales."
+    }
+  ]
+}
