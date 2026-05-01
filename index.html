@@ -4,25 +4,45 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Quiz Zone</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <!-- scaffold-managed:minimal-modern -->
-  <main class="wrap">
-    <header class="hero">
-      <h1>Quiz Zone</h1>
-      <p id="meta">Chargement…</p>
+  <main class="page" aria-live="polite">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Quiz académique</p>
+        <h1>Quiz Zone</h1>
+      </div>
+      <p id="meta" class="meta">Préparation de la session…</p>
     </header>
-    <section class="grid">
-      <aside class="panel">
-        <h2>Quiz</h2>
-        <ul id="quiz-list"></ul>
+
+    <section class="layout" aria-label="Espace quiz">
+      <aside class="panel panel-list" aria-labelledby="quiz-list-title">
+        <div class="panel-head">
+          <h2 id="quiz-list-title">Quiz disponibles</h2>
+          <span id="quiz-count" class="chip">0</span>
+        </div>
+        <p class="panel-sub">Sélectionne un chapitre pour lancer la session.</p>
+        <ul id="quiz-list" class="quiz-list"></ul>
+        <div id="list-error" class="inline-alert hidden" role="alert"></div>
       </aside>
-      <section id="quiz-panel" class="panel">
-        <p>Choisis un quiz pour commencer.</p>
+
+      <section id="quiz-panel" class="panel panel-main" aria-labelledby="session-title">
+        <h2 id="session-title">Session</h2>
+        <div id="panel-content">
+          <div class="empty-state">
+            <p>Aucun quiz chargé pour le moment.</p>
+            <p>Action: lance <code>quizgen run &lt;pdf&gt;</code> pour générer les JSON.</p>
+          </div>
+        </div>
       </section>
     </section>
   </main>
+
   <script type="module" src="app.js"></script>
 </body>
 </html>
