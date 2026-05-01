@@ -1,0 +1,533 @@
+{
+  "quizId": "ideologies-politiques-masses",
+  "title": "Quiz - Régimes et idéologies politiques à l'ère des masses",
+  "section": {
+    "id": "ideologies-politiques-masses",
+    "title": "Régimes et idéologies politiques à l'ère des masses",
+    "startPage": 88,
+    "endPage": 97,
+    "summary": "L'influence du marxisme, la démocratisation des sociétés, la condition féminine et l'avènement des régimes totalitaires (stalinisme, fascisme, nazisme)."
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quelle œuvre de Karl Marx et Friedrich Engels, publiée en 1848, pose les bases du marxisme ?",
+      "choices": [
+        "Le Capital",
+        "Manifeste du Parti communiste",
+        "L'Idéologie allemande",
+        "Misère de la philosophie",
+        "La Question juive"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Manifeste du Parti communiste (1848) est l'ouvrage fondateur présentant la lutte des classes comme moteur de l'histoire."
+    },
+    {
+      "id": "q2",
+      "prompt": "Selon l'analyse de Marx, quel concept définit l'histoire comme étant basée sur les rapports de force économiques ?",
+      "choices": [
+        "L'idéalisme transcendantal",
+        "Le matérialisme dialectique",
+        "Le libéralisme économique",
+        "Le positivisme social",
+        "Le mercantilisme industriel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Marx utilise le matérialisme dialectique pour analyser l'évolution des sociétés à travers les rapports de production."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quelles sont les deux classes sociales antagonistes au cœur de la lutte des classes au XIXe siècle selon Marx ?",
+      "choices": [
+        "Noblesse et Clergé",
+        "Aristocratie et Bourgeoisie",
+        "Bourgeoisie capitaliste et Prolétariat ouvrier",
+        "Paysans et Seigneurs",
+        "Artisans et Commerçants"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le conflit central oppose les détenteurs des moyens de production (bourgeoisie) à ceux qui vendent leur force de travail (prolétariat)."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quelle étape intermédiaire Marx prévoit-il après la révolution pour abolir la propriété privée ?",
+      "choices": [
+        "La démocratie parlementaire",
+        "L'anarchie totale",
+        "La dictature du prolétariat",
+        "La monarchie constitutionnelle",
+        "Le protectorat syndical"
+      ],
+      "correctIndex": 2,
+      "explanation": "La dictature du prolétariat est une phase de transition nécessaire pour s'emparer des moyens de production et établir le socialisme."
+    },
+    {
+      "id": "q5",
+      "prompt": "Où et quand a été créée l'Association Internationale des Travailleurs (AIT), ou Première Internationale ?",
+      "choices": [
+        "Paris, 1848",
+        "Berlin, 1871",
+        "Londres, 1864",
+        "Bruxelles, 1885",
+        "Moscou, 1919"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'AIT est fondée à Londres en 1864 pour fédérer le mouvement ouvrier à l'échelle internationale."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quel courant s'oppose violemment à Marx au sein de la Première Internationale, prônant l'abolition immédiate de l'État ?",
+      "choices": [
+        "Le social-catholicisme",
+        "Le libéralisme radical",
+        "L'anarchisme de Mikhaïl Bakounine",
+        "Le réformisme social-démocrate",
+        "Le positivisme"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bakounine et les anarchistes rejettent toute forme d'autorité, y compris celle de l'État ouvrier préconisé par Marx."
+    },
+    {
+      "id": "q7",
+      "prompt": "À la fin du XIXe siècle, comment se manifeste la 'propagande par le fait' chez certains anarchistes ?",
+      "choices": [
+        "Par des grèves pacifiques",
+        "Par des victoires électorales",
+        "Par des attentats terroristes contre les élites",
+        "Par la création de coopératives",
+        "Par l'écriture de pamphlets philosophiques"
+      ],
+      "correctIndex": 2,
+      "explanation": "Une minorité d'anarchistes a eu recours à l'action terroriste, assassinant plusieurs dirigeants européens."
+    },
+    {
+      "id": "q8",
+      "prompt": "Quelle organisation est fondée en 1889 pour coordonner les partis socialistes et ouvriers ?",
+      "choices": [
+        "La Komintern",
+        "La SDN",
+        "La Deuxième Internationale",
+        "L'OTAN",
+        "Le Pacte de Varsovie"
+      ],
+      "correctIndex": 2,
+      "explanation": "La Deuxième Internationale, fondée en 1889, est plus cohérente idéologiquement autour du marxisme."
+    },
+    {
+      "id": "q9",
+      "prompt": "Quel est le principe défendu par le réformisme au sein du mouvement ouvrier ?",
+      "choices": [
+        "La révolution armée immédiate",
+        "L'amélioration des conditions de vie par la négociation et la loi",
+        "Le retour à l'Ancien Régime",
+        "L'abolition des syndicats",
+        "Le libre-échange absolu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le réformisme cherche à obtenir des gains concrets (salaires, législation sociale) sans passer par une rupture révolutionnaire."
+    },
+    {
+      "id": "q10",
+      "prompt": "Quelle encyclique du pape Léon XIII (1891) marque la contre-attaque sociale de l'Église contre le marxisme ?",
+      "choices": [
+        "Quanta Cura",
+        "Rerum Novarum",
+        "Syllabus",
+        "Humanae Vitae",
+        "Pacem in Terris"
+      ],
+      "correctIndex": 1,
+      "explanation": "Rerum Novarum définit la doctrine sociale de l'Église, condamnant le socialisme athée tout en critiquant les excès du capitalisme."
+    },
+    {
+      "id": "q11",
+      "prompt": "En Belgique, quelle loi de 1893 modifie le système électoral suite à des revendications populaires ?",
+      "choices": [
+        "Le suffrage censitaire pur",
+        "Le suffrage universel féminin",
+        "Le suffrage universel masculin tempéré par le vote plural",
+        "Le suffrage capacitaire",
+        "Le vote obligatoire pour tous"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le suffrage universel masculin plural accorde une à trois voix aux hommes selon leur fortune ou diplôme."
+    },
+    {
+      "id": "q12",
+      "prompt": "Pourquoi dit-on que le système du XIXe siècle est plus patriarcal que celui du XVIIIe siècle ?",
+      "choices": [
+        "Les femmes ont perdu le droit de vote",
+        "La vision de la femme comme mineure guidée par la passion s'est accentuée",
+        "L'industrie a interdit le travail des femmes",
+        "L'Église a perdu son influence sur les familles",
+        "Les femmes ne pouvaient plus hériter"
+      ],
+      "correctIndex": 1,
+      "explanation": "Au XIXe siècle, une vision biologique et restrictive de la femme s'impose, la cantonnant au rôle de mère et d'épouse dépendante."
+    },
+    {
+      "id": "q13",
+      "prompt": "Quel mouvement féministe radical apparaît en Grande-Bretagne vers 1903 pour réclamer le droit de vote ?",
+      "choices": [
+        "Les Jacobines",
+        "Les Suffragettes",
+        "Les Filles de la Liberté",
+        "Le Mouvement de libération des femmes (MLF)",
+        "Les ligues de tempérance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les suffragettes britanniques utilisaient des méthodes militantes et parfois violentes pour obtenir le droit de vote."
+    },
+    {
+      "id": "q14",
+      "prompt": "Quel événement de 1929 a contribué à discréditer les démocraties libérales en Europe ?",
+      "choices": [
+        "La signature du traité de Versailles",
+        "La révolution russe",
+        "Le krach de Wall Street",
+        "L'assassinat de François-Ferdinand",
+        "La fin de la prohibition"
+      ],
+      "correctIndex": 2,
+      "explanation": "La crise économique mondiale issue du krach de 1929 a favorisé la montée des extrêmes et la remise en cause du parlementarisme."
+    },
+    {
+      "id": "q15",
+      "prompt": "Quelle est la caractéristique principale d'un régime totalitaire ?",
+      "choices": [
+        "La séparation des pouvoirs exécutif et législatif",
+        "Le multipartisme et la liberté de la presse",
+        "Le contrôle total de toutes les fonctions de la société par un parti unique",
+        "Une monarchie constitutionnelle forte",
+        "La décentralisation administrative"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le totalitarisme vise à contrôler non seulement l'État, mais aussi la vie privée, sociale et intellectuelle des individus."
+    },
+    {
+      "id": "q16",
+      "prompt": "Comment Hannah Arendt définit-elle les mouvements totalitaires en 1951 ?",
+      "choices": [
+        "Comme des dictatures militaires classiques",
+        "Comme des organisations massives d'individus atomisés et isolés",
+        "Comme le sommet de la démocratie participative",
+        "Comme des vestiges du féodalisme",
+        "Comme des systèmes basés uniquement sur la religion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Arendt souligne que le totalitarisme s'appuie sur la destruction des liens sociaux pour transformer les masses en un bloc monolithique."
+    },
+    {
+      "id": "q17",
+      "prompt": "Quel dirigeant bolchevique mène la 'Révolution d'Octobre' en 1917 ?",
+      "choices": [
+        "Nicolas II",
+        "Léon Trotski",
+        "Vladimir Lénine",
+        "Joseph Staline",
+        "Alexandre Kerenski"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lénine est le principal théoricien et chef de la révolution bolchevique qui renverse le gouvernement provisoire en octobre 1917."
+    },
+    {
+      "id": "q18",
+      "prompt": "Quel traité de 1918 marque la sortie de la Russie de la Première Guerre mondiale ?",
+      "choices": [
+        "Le traité de Versailles",
+        "Le traité de Brest-Litovsk",
+        "Le traité de Trianon",
+        "Le traité de Rapallo",
+        "Le traité de Lausanne"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le traité de Brest-Litovsk est une paix séparée conclue par les bolcheviques avec l'Allemagne au prix de lourdes pertes territoriales."
+    },
+    {
+      "id": "q19",
+      "prompt": "Quelle organisation est créée en 1919 pour exporter la révolution communiste dans le monde ?",
+      "choices": [
+        "L'ONU",
+        "Le Komintern (Troisième Internationale)",
+        "L'AIT",
+        "Le Conseil de l'Europe",
+        "Le Comecon"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Komintern regroupait les partis communistes étrangers sous l'autorité de Moscou pour préparer la révolution mondiale."
+    },
+    {
+      "id": "q20",
+      "prompt": "Quelle doctrine Staline impose-t-il après la mort de Lénine pour consolider son pouvoir ?",
+      "choices": [
+        "La révolution permanente",
+        "La nouvelle politique économique (NEP)",
+        "Le socialisme dans un seul pays",
+        "Le grand bond en avant",
+        "Le libéralisme planifié"
+      ],
+      "correctIndex": 2,
+      "explanation": "Staline s'oppose à Trotski en prônant le renforcement du socialisme en URSS avant de chercher à l'étendre ailleurs."
+    },
+    {
+      "id": "q21",
+      "prompt": "Comment appelle-t-on la famine provoquée en Ukraine (1932-1933) par la collectivisation forcée de Staline ?",
+      "choices": [
+        "Le Grand Bond",
+        "L'Holodomor",
+        "La Grande Terreur",
+        "Le Goulag",
+        "La Shoah par balles"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'Holodomor est considéré comme un génocide par l'Ukraine, ayant causé environ 3 millions de morts."
+    },
+    {
+      "id": "q22",
+      "prompt": "Quel est le nom du système de camps de concentration et de travail forcé en URSS ?",
+      "choices": [
+        "Kolkhoze",
+        "Sovkhoze",
+        "Goulag",
+        "NKVD",
+        "Politburo"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le Goulag était l'administration chargée de gérer les camps où étaient déportés les opposants réels ou supposés au régime."
+    },
+    {
+      "id": "q23",
+      "prompt": "Pendant la 'Grande Terreur' (1937-1938), qui Staline a-t-il principalement éliminé ?",
+      "choices": [
+        "Seulement les paysans riches (koulaks)",
+        "Les membres du clergé uniquement",
+        "Les dirigeants étrangers",
+        "Les cadres du Parti communiste lui-même par paranoïa",
+        "Les armées impériales japonaises"
+      ],
+      "correctIndex": 3,
+      "explanation": "La Grande Terreur a vu l'élimination systématique de la vieille garde bolchevique et des élites pour assurer un contrôle total."
+    },
+    {
+      "id": "q24",
+      "prompt": "Quel terme désigne l'idéal d'homme nouveau, dévoué à la collectivité, promu par la propagande soviétique ?",
+      "choices": [
+        "L'Aryen",
+        "Le Citoyen du monde",
+        "L'Homo sovieticus",
+        "Le Surhomme (Übermensch)",
+        "Le Prolétaire divin"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'Homo sovieticus est l'individu censé être débarrassé de son égoïsme et entièrement au service du projet marxiste-léniniste."
+    },
+    {
+      "id": "q25",
+      "prompt": "En quelle année Mussolini accède-t-il au pouvoir après la 'Marche sur Rome' ?",
+      "choices": [
+        "1919",
+        "1922",
+        "1925",
+        "1933",
+        "1939"
+      ],
+      "correctIndex": 1,
+      "explanation": "En octobre 1922, suite à la pression des Chemises noires, le roi Victor-Emmanuel III nomme Mussolini Premier ministre."
+    },
+    {
+      "id": "q26",
+      "prompt": "Quelles lois (1925-1926) marquent la fin du pluralisme politique en Italie fasciste ?",
+      "choices": [
+        "Les lois de Nuremberg",
+        "Les lois fascistissimes",
+        "Le Code Noir",
+        "La Charte du Travail",
+        "Le Concordat du Latran"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les lois fascistissimes interdisent les partis d'opposition et instaurent la dictature de Mussolini."
+    },
+    {
+      "id": "q27",
+      "prompt": "Dans quel ouvrage, écrit en prison en 1924, Adolf Hitler expose-t-il son idéologie raciale ?",
+      "choices": [
+        "Le Mythe du XXe siècle",
+        "Mein Kampf",
+        "La Doctrine de l'État",
+        "Vers l'Empire",
+        "La Révolution allemande"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dans 'Mein Kampf' (Mon Combat), Hitler théorise la supériorité de la race aryenne et la haine des Juifs."
+    },
+    {
+      "id": "q28",
+      "prompt": "À quelle date Hitler est-il officiellement nommé chancelier par le président Hindenburg ?",
+      "choices": [
+        "11 novembre 1918",
+        "24 octobre 1929",
+        "30 janvier 1933",
+        "23 mars 1933",
+        "1er septembre 1939"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hitler accède légalement au pouvoir le 30 janvier 1933 dans un contexte de crise économique et d'instabilité parlementaire."
+    },
+    {
+      "id": "q29",
+      "prompt": "Quelle loi permet à Hitler d'obtenir les pleins pouvoirs le 23 mars 1933 ?",
+      "choices": [
+        "La loi sur la pureté du sang",
+        "La loi d'habilitation (ou d'autorisation)",
+        "Le décret de l'incendie du Reichstag",
+        "La constitution de Weimar",
+        "La loi sur le service militaire"
+      ],
+      "correctIndex": 1,
+      "explanation": "La loi d'habilitation, votée sous l'intimidation, permet au gouvernement nazi de légiférer sans l'accord du Parlement."
+    },
+    {
+      "id": "q30",
+      "prompt": "Quel architecte était chargé d'illustrer la puissance du régime nazi à travers des projets monumentaux ?",
+      "choices": [
+        "Walter Gropius",
+        "Le Corbusier",
+        "Albert Speer",
+        "Frank Lloyd Wright",
+        "Ludwig Mies van der Rohe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Albert Speer était l'architecte officiel d'Hitler, concevant des bâtiments censés durer mille ans."
+    },
+    {
+      "id": "q31",
+      "prompt": "Comment s'appelle le concept nazi de 'communauté du peuple' qui exclut tous les 'indésirables' ?",
+      "choices": [
+        "Lebensraum",
+        "Volksgemeinschaft",
+        "Blitzkrieg",
+        "Anschluss",
+        "Gleichschaltung"
+      ],
+      "correctIndex": 1,
+      "explanation": "La Volksgemeinschaft est une vision organique de la société basée sur l'unité raciale pure, excluant Juifs, tziganes et opposants."
+    },
+    {
+      "id": "q32",
+      "prompt": "Où fut ouvert le premier camp de concentration nazi permanent en 1933 ?",
+      "choices": [
+        "Auschwitz",
+        "Buchenwald",
+        "Dachau",
+        "Treblinka",
+        "Sobibor"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dachau, près de Munich, servit de modèle aux autres camps et fut ouvert dès l'arrivée des nazis au pouvoir pour les prisonniers politiques."
+    },
+    {
+      "id": "q33",
+      "prompt": "Quel service de police secrète, dirigé par Himmler, était chargé de traquer les ennemis du régime nazi ?",
+      "choices": [
+        "La Wehrmacht",
+        "La Gestapo",
+        "La SA",
+        "Le NKVD",
+        "L'OVRA"
+      ],
+      "correctIndex": 1,
+      "explanation": "La Gestapo (Geheime Staatspolizei) était la police politique traquant impitoyablement toute opposition."
+    },
+    {
+      "id": "q34",
+      "prompt": "Quelle est l'une des différences majeures entre le communisme stalinien et le fascisme/nazisme ?",
+      "choices": [
+        "L'utilisation de la violence politique",
+        "Le culte du chef unique",
+        "L'idéologie basée sur la race contre l'idéologie basée sur la classe",
+        "Le contrôle de l'économie par l'État",
+        "Le rejet de la démocratie libérale"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le nazisme est fondé sur une hiérarchie raciale biologique, tandis que le stalinisme se fonde sur une analyse socio-économique de classe."
+    },
+    {
+      "id": "q35",
+      "prompt": "Qu'est-ce que la 'brutalisation des sociétés' selon l'historien George Mosse ?",
+      "choices": [
+        "L'augmentation des crimes de droit commun",
+        "La persistance des comportements de guerre dans la vie politique civile après 1918",
+        "Le retour à l'esclavage colonial",
+        "L'impact de la révolution industrielle sur les ouvriers",
+        "La fin de l'éducation obligatoire"
+      ],
+      "correctIndex": 1,
+      "explanation": "La brutalisation désigne le transfert des méthodes et de la haine de la guerre des tranchées dans le combat politique de l'entre-deux-guerres."
+    },
+    {
+      "id": "q36",
+      "prompt": "Quelle cinéaste a réalisé 'Le Triomphe de la volonté' pour glorifier le congrès nazi de Nuremberg ?",
+      "choices": [
+        "Marlene Dietrich",
+        "Leni Riefenstahl",
+        "Hanna Reitsch",
+        "Eva Braun",
+        "Magda Goebbels"
+      ],
+      "correctIndex": 1,
+      "explanation": "Leni Riefenstahl a mis son talent esthétique au service du régime nazi pour créer des films de propagande d'une grande efficacité visuelle."
+    },
+    {
+      "id": "q37",
+      "prompt": "Quel est le sort réservé aux 'ennemis du peuple' dans le système concentrationnaire soviétique ?",
+      "choices": [
+        "L'exil définitif aux États-Unis",
+        "La rééducation par le travail dans des conditions extrêmes",
+        "Le droit à un procès public équitable",
+        "L'intégration forcée dans l'armée d'élite",
+        "La déportation vers les colonies d'Afrique"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le travail forcé au Goulag visait à la fois l'exploitation économique et l'élimination physique ou morale des opposants."
+    },
+    {
+      "id": "q38",
+      "prompt": "Qu'est-ce que le 'centralisme démocratique' instauré par Lénine ?",
+      "choices": [
+        "Une démocratie directe sans chefs",
+        "Un système où les décisions prises par les organes supérieurs sont obligatoires pour tous",
+        "La décentralisation du pouvoir vers les régions",
+        "Le vote secret pour tous les citoyens russes",
+        "L'alliance avec les partis libéraux"
+      ],
+      "correctIndex": 1,
+      "explanation": "Il s'agit d'une discipline de fer au sein du parti où la discussion est libre avant le vote, mais l'obéissance totale après."
+    },
+    {
+      "id": "q39",
+      "prompt": "Quel groupe paramilitaire fasciste a mené les expéditions punitives contre les socialistes en Italie ?",
+      "choices": [
+        "Les Chemises brunes (SA)",
+        "Les Chemises noires (Fasci di combattimento)",
+        "Les Phalanges",
+        "Les Gardes rouges",
+        "La Milice citoyenne"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les Chemises noires utilisaient la violence physique pour briser les mouvements ouvriers et préparer l'accession de Mussolini au pouvoir."
+    },
+    {
+      "id": "q40",
+      "prompt": "Quel était l'objectif des 'Fronts Populaires' formés au milieu des années 1930 en Europe ?",
+      "choices": [
+        "Soutenir l'invasion allemande de l'URSS",
+        "Rallier les mouvements de gauche pour faire barrage au fascisme",
+        "Promouvoir le libre-échange avec l'Amérique",
+        "Rétablir la monarchie absolue",
+        "Organiser l'exode des populations ouvrières"
+      ],
+      "correctIndex": 1,
+      "explanation": "Face à la menace fasciste, communistes, socialistes et radicaux se sont unis (ex: en France en 1936) pour défendre la République."
+    }
+  ]
+}
