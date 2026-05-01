@@ -1,0 +1,533 @@
+{
+  "quizId": "humanisme-et-reformes",
+  "title": "Quiz - Humanisme et Réformes",
+  "section": {
+    "id": "humanisme-et-reformes",
+    "title": "Humanisme, réformes protestantes et réforme catholique",
+    "startPage": 21,
+    "endPage": 29,
+    "summary": "Étude du mouvement humaniste, de la rupture de 1517 avec Martin Luther, de l'essor de l'imprimerie et de la réaction de l'Église catholique via le Concile de Trente."
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "En quelle année Martin Luther publie-t-il ses 95 thèses critiquant les indulgences de l'Église ?",
+      "choices": [
+        "1455",
+        "1509",
+        "1517",
+        "1534",
+        "1555"
+      ],
+      "correctIndex": 2,
+      "explanation": "En 1517, Martin Luther publie ses 95 thèses à Wittenberg, marquant le début de la Réforme protestante."
+    },
+    {
+      "id": "q2",
+      "prompt": "Que signifie la pratique des 'indulgences' dénoncée par les réformateurs ?",
+      "choices": [
+        "Le droit de traduire la Bible",
+        "Payer pour réduire ou annuler ses années au purgatoire",
+        "Le choix du prince de sa propre religion",
+        "L'obligation de faire un pèlerinage à Rome",
+        "Le refus de l'autorité du pape"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les indulgences consistaient à verser de l'argent à l'Église pour obtenir la rémission des peines temporelles dues aux péchés."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel humaniste est l'auteur de l'ouvrage 'Éloge de la folie' publié en 1509 ?",
+      "choices": [
+        "Thomas More",
+        "Nicolas Machiavel",
+        "Érasme",
+        "Jean Calvin",
+        "Johannes Gutenberg"
+      ],
+      "correctIndex": 2,
+      "explanation": "Didier Érasme de Rotterdam est l'auteur de l'Éloge de la folie, où il critique les dérives de l'Église de son temps."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quelle innovation technique majeure de 1455 a permis la diffusion massive des idées de la Réforme ?",
+      "choices": [
+        "La boussole",
+        "L'imprimerie à caractères mobiles",
+        "L'astrolabe",
+        "Le télescope astronomique",
+        "La caravelle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Johannes Gutenberg réalise la première impression de la Bible en 1455 à Mayence grâce à l'imprimerie."
+    },
+    {
+      "id": "q5",
+      "prompt": "Selon la doctrine protestante, quelle est la source unique de l'autorité religieuse ?",
+      "choices": [
+        "La Tradition de l'Église",
+        "Les décrets du Pape",
+        "La 'Sola Scriptura' (l'Écriture seule)",
+        "Le Concile de Trente",
+        "Le droit canonique"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le principe de 'Sola Scriptura' affirme que la Bible est la seule autorité pour la foi et la pratique chrétienne."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quel empereur s'oppose à Martin Luther lors de la Diète de Worms en 1521 ?",
+      "choices": [
+        "François Ier",
+        "Henri VIII",
+        "Charles Quint",
+        "Philippe II",
+        "Louis XIV"
+      ],
+      "correctIndex": 2,
+      "explanation": "Charles Quint, roi d'Espagne et empereur du Saint-Empire, tente de sauvegarder l'unité religieuse face à la Réforme."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quelle est la définition du principe 'Cuius regio, eius religio' établi lors de la paix d'Augsbourg en 1555 ?",
+      "choices": [
+        "La liberté religieuse pour tous les citoyens",
+        "Le pape décide de la religion de chaque État",
+        "Le prince choisit la confession de son territoire",
+        "Seul le catholicisme est autorisé en Europe",
+        "Le partage des églises entre cultes différents"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ce principe signifie que celui qui possède le territoire en détermine la religion (catholique ou luthérienne)."
+    },
+    {
+      "id": "q8",
+      "prompt": "Dans quelle ville Jean Calvin instaure-t-il son modèle de Réforme à partir de 1536 ?",
+      "choices": [
+        "Paris",
+        "Londres",
+        "Rome",
+        "Genève",
+        "Zurich"
+      ],
+      "correctIndex": 3,
+      "explanation": "Calvin fait de Genève le centre de sa réforme radicale et un modèle de cité-Église."
+    },
+    {
+      "id": "q9",
+      "prompt": "Qu'est-ce que l'Acte de Suprématie de 1534 en Angleterre ?",
+      "choices": [
+        "Une loi interdisant la Bible en anglais",
+        "Un traité de paix avec la France",
+        "La proclamation du roi comme chef de l'Église d'Angleterre",
+        "L'abolition de la peine de mort",
+        "La reconnaissance de l'autorité du Pape"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'Acte de Suprématie officialise le schisme anglican en faisant de Henri VIII le chef de l'Église d'Angleterre."
+    },
+    {
+      "id": "q10",
+      "prompt": "Quel concile catholique (1545-1563) a été convoqué pour répondre à la vague protestante ?",
+      "choices": [
+        "Le Concile de Latran",
+        "Le Concile de Nicée",
+        "Le Concile de Trente",
+        "Le Concile de Constance",
+        "Le Concile Vatican II"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le Concile de Trente définit la Contre-Réforme en réaffirmant les dogmes catholiques et en réformant le clergé."
+    },
+    {
+      "id": "q11",
+      "prompt": "Quelle institution est chargée par la papauté de lutter contre l'hérésie protestante via la répression ?",
+      "choices": [
+        "Le Consistoire",
+        "Le tribunal de l'Inquisition",
+        "La Diète d'Empire",
+        "Le Parlement de Londres",
+        "La Ligue Hanséatique"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'Inquisition a été réactivée sous le nom de Saint-Office pour contrôler et réprimer les idées jugées hérétiques."
+    },
+    {
+      "id": "q12",
+      "prompt": "Sur quel point précis les théologiens de Trente s'opposent-ils aux protestants concernant le salut ?",
+      "choices": [
+        "Le salut vient uniquement de la prédestination",
+        "Le salut nécessite la médiation indispensable du clergé et des sacrements",
+        "Le salut ne dépend que de la lecture de la Bible",
+        "Le salut est impossible pour les laïcs",
+        "Le salut s'achète uniquement par les indulgences"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le concile réaffirme que la foi, les œuvres et les sacrements via l'Église sont nécessaires au salut."
+    },
+    {
+      "id": "q13",
+      "prompt": "Qui est l'auteur des 'Essais' (1580) mettant en avant le relativisme culturel face au Nouveau Monde ?",
+      "choices": [
+        "Jean de Léry",
+        "Michel de Montaigne",
+        "Bartolomé de las Casas",
+        "Rabelais",
+        "Machiavel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Montaigne critique l'ethnocentrisme européen en affirmant que 'chacun appelle barbarie ce qui n'est pas de son usage'."
+    },
+    {
+      "id": "q14",
+      "prompt": "En 1609, quel scientifique utilise la lunette astronomique pour confirmer l'héliocentrisme ?",
+      "choices": [
+        "Isaac Newton",
+        "René Descartes",
+        "Galilée",
+        "Nicolas Copernic",
+        "Tycho Brahe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Galilée apporte la preuve par l'observation des théories de Copernic, défiant l'interprétation littérale de la Bible."
+    },
+    {
+      "id": "q15",
+      "prompt": "Quel philosophe publie le 'Discours sur la méthode' en 1637, prônant le doute méthodique ?",
+      "choices": [
+        "John Locke",
+        "Thomas Hobbes",
+        "René Descartes",
+        "Blaise Pascal",
+        "Francis Bacon"
+      ],
+      "correctIndex": 2,
+      "explanation": "René Descartes établit les bases de la recherche scientifique moderne par la raison et le doute."
+    },
+    {
+      "id": "q16",
+      "prompt": "Comment appelle-t-on le mouvement hostile à la vénération des images et des saints chez les protestants ?",
+      "choices": [
+        "La Philologie",
+        "L'Iconoclasme",
+        "L'Héliocentrisme",
+        "L'Humanisme",
+        "La Scolastique"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'iconoclasme a conduit à la destruction d'images religieuses, considérées comme de l'idolâtrie par certains réformés."
+    },
+    {
+      "id": "q17",
+      "prompt": "Quel est le rôle de la 'Compagnie de Jésus' (Jésuites) dans la Réforme catholique ?",
+      "choices": [
+        "Traduire la Bible en allemand",
+        "Fonder des banques pour le Pape",
+        "Mener des missions d'évangélisation et d'éducation à l'échelle mondiale",
+        "Organiser des révoltes contre Charles Quint",
+        "Vendre des indulgences en Amérique"
+      ],
+      "correctIndex": 2,
+      "explanation": "Les Jésuites sont l'instrument de l'influence catholique à travers l'enseignement et les missions mondiales."
+    },
+    {
+      "id": "q18",
+      "prompt": "Qui est considéré comme le 'Prince des humanistes' ?",
+      "choices": [
+        "Thomas More",
+        "Érasme",
+        "Pétrarque",
+        "Laurent de Médicis",
+        "Guillaume Budé"
+      ],
+      "correctIndex": 1,
+      "explanation": "Érasme de Rotterdam a dominé la vie intellectuelle européenne par sa vaste culture et ses réseaux épistolaires."
+    },
+    {
+      "id": "q19",
+      "prompt": "Quelle ville italienne est le berceau autoproclamé de la Renaissance artistique ?",
+      "choices": [
+        "Venise",
+        "Milan",
+        "Florence",
+        "Rome",
+        "Naples"
+      ],
+      "correctIndex": 2,
+      "explanation": "Florence, sous l'influence des Médicis et de grands artistes comme Giotto ou Masaccio, est le coeur de la Renaissance."
+    },
+    {
+      "id": "q20",
+      "prompt": "Quel peintre de la Renaissance flamande a réalisé 'Les Époux Arnolfini' ?",
+      "choices": [
+        "Jan Van Eyck",
+        "Albrecht Dürer",
+        "Rogier Van der Weyden",
+        "Jérôme Bosch",
+        "Hans Holbein"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jan Van Eyck est un maître de la peinture à l'huile et du détail minutieux dans le Nord de l'Europe."
+    },
+    {
+      "id": "q21",
+      "prompt": "Quel ouvrage de 1528 de Baldassare Castiglione définit l'idéal de l'homme accompli de la Renaissance ?",
+      "choices": [
+        "Le Prince",
+        "L'Utopie",
+        "Le Courtisan",
+        "Gargantua",
+        "Le Décaméron"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le Courtisan (Il Libro del Cortegiano) décrit les valeurs et les mœurs idéales de l'élite européenne."
+    },
+    {
+      "id": "q22",
+      "prompt": "Quel terme désigne l'étude historique d'une langue par l'analyse critique des textes, chère aux humanistes ?",
+      "choices": [
+        "La Théologie",
+        "La Philologie",
+        "La Philosophie",
+        "L'Épistémologie",
+        "La Rhétorique"
+      ],
+      "correctIndex": 1,
+      "explanation": "La philologie permet de redécouvrir les textes originaux de l'Antiquité et de la Bible sans les erreurs de traduction médiévales."
+    },
+    {
+      "id": "q23",
+      "prompt": "Quel pape a commandé les fresques de la Chapelle Sixtine à Michel-Ange (période du chantier italien) ?",
+      "choices": [
+        "Paul III",
+        "Léon X",
+        "Jules II",
+        "Clément VII",
+        "Alexandre VI"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jules II a été un grand mécène, dotant Rome de monuments prestigieux et commandant des œuvres majeures."
+    },
+    {
+      "id": "q24",
+      "prompt": "Quelle était la devise de l'abbaye de Thélème dans l'œuvre de Rabelais ?",
+      "choices": [
+        "Ora et labora",
+        "Savoir c'est pouvoir",
+        "Fais ce que voudras",
+        "Le salut par la foi",
+        "Rien n'est vrai, tout est permis"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cette devise illustre l'optimisme humaniste de Rabelais et la confiance en la nature humaine bien éduquée."
+    },
+    {
+      "id": "q25",
+      "prompt": "L'Inquisition romaine a été établie en 1542 sous quel pape ?",
+      "choices": [
+        "Léon X",
+        "Paul III",
+        "Pie V",
+        "Grégoire XIII",
+        "Urbain VIII"
+      ],
+      "correctIndex": 1,
+      "explanation": "Paul III fonde la congrégation de l'Inquisition (le Saint-Office) pour lutter contre la propagation du protestantisme."
+    },
+    {
+      "id": "q26",
+      "prompt": "Quel pays a connu la 'Guerre de Quatre-Vingts Ans' mêlant enjeux religieux et politiques face à l'Espagne ?",
+      "choices": [
+        "La France",
+        "L'Angleterre",
+        "Les Pays-Bas",
+        "Le Portugal",
+        "La Suède"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cette révolte contre Philippe II d'Espagne mène à la division des Pays-Bas et à l'indépendance des Provinces-Unies."
+    },
+    {
+      "id": "q27",
+      "prompt": "Qui est l'auteur de 'La Tempête' (1506-1508), tableau célèbre pour son atmosphère et sa géométrie ?",
+      "choices": [
+        "Titien",
+        "Tintoret",
+        "Giorgione",
+        "Véronèse",
+        "Bellini"
+      ],
+      "correctIndex": 2,
+      "explanation": "Giorgione est un maître vénitien dont l'œuvre illustre l'implication active du spectateur dans l'interprétation de l'art."
+    },
+    {
+      "id": "q28",
+      "prompt": "Quel savant a publié 'Philosophiae Naturalis Principia Mathematica' en 1687 ?",
+      "choices": [
+        "Galilée",
+        "Johannes Kepler",
+        "Isaac Newton",
+        "Gottfried Leibniz",
+        "Blaise Pascal"
+      ],
+      "correctIndex": 2,
+      "explanation": "Newton y explique le mouvement des planètes par la loi de la gravitation universelle."
+    },
+    {
+      "id": "q29",
+      "prompt": "Quel était le statut de la langue latine classique pour les humanistes ?",
+      "choices": [
+        "Une langue morte inutile",
+        "L'idéal linguistique et le socle de l'éducation",
+        "Une langue exclusivement réservée aux paysans",
+        "Une invention de l'imprimerie",
+        "Le seul obstacle à la connaissance"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pour les humanistes, le latin classique (Cicéron) est le modèle de pureté et d'élégance intellectuelle."
+    },
+    {
+      "id": "q30",
+      "prompt": "Le schisme d'Occident (1378-1417) est cité comme contexte de crise pour quelle raison ?",
+      "choices": [
+        "Il a causé la peste noire",
+        "Plusieurs papes se disputaient l'autorité suprême, affaiblissant l'Église",
+        "Il a marqué la fin de l'Empire romain",
+        "Il a empêché l'invention de l'imprimerie",
+        "Il a provoqué la découverte de l'Amérique"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cette crise institutionnelle profonde a préparé le terrain aux critiques ultérieures de Luther et des réformateurs."
+    },
+    {
+      "id": "q31",
+      "prompt": "Qui a rédigé le texte de la 'Confession d'Augsbourg' en 1530 ?",
+      "choices": [
+        "Martin Luther",
+        "Philippe Mélanchthon",
+        "Jean Calvin",
+        "Ulrich Zwingli",
+        "Thomas Müntzer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bien que non cité explicitement comme choix unique dans ce résumé, le contexte de la Diète d'Augsbourg (1530) lie les luthériens à Charles Quint."
+    },
+    {
+      "id": "q32",
+      "prompt": "Quel réformateur a prôné la doctrine de la prédestination ?",
+      "choices": [
+        "Martin Luther",
+        "Jean Calvin",
+        "Henri VIII",
+        "Érasme",
+        "Ignace de Loyola"
+      ],
+      "correctIndex": 1,
+      "explanation": "Calvin enseigne que Dieu a choisi d'avance ceux qui seront sauvés et ceux qui seront damnés."
+    },
+    {
+      "id": "q33",
+      "prompt": "Quel est l'objectif principal de la Compagnie de Jésus fondée par Ignace de Loyola ?",
+      "choices": [
+        "Vivre en ermite dans le désert",
+        "Combattre militairement les Turcs",
+        "La défense et la propagation de la foi catholique",
+        "La traduction de la Bible en hébreu",
+        "Le commerce des épices avec l'Asie"
+      ],
+      "correctIndex": 2,
+      "explanation": "Les Jésuites deviennent les 'soldats du Christ' au service direct du Pape pour la Contre-Réforme."
+    },
+    {
+      "id": "q34",
+      "prompt": "Comment appelle-t-on la liste des livres interdits par l'Église catholique à partir du XVIe siècle ?",
+      "choices": [
+        "Le Codex",
+        "L'Index",
+        "Le Vulgata",
+        "Le Canon",
+        "La Vulgate"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'Index Librorum Prohibitorum visait à empêcher la lecture d'ouvrages jugés hérétiques ou immoraux."
+    },
+    {
+      "id": "q35",
+      "prompt": "En 1571, quelle bataille navale marque une victoire de la Ligue sainte contre les Ottomans ?",
+      "choices": [
+        "Bataille de Pavie",
+        "Bataille de Lépante",
+        "Siège de Vienne",
+        "Bataille de Marignan",
+        "Bataille de Mühlberg"
+      ],
+      "correctIndex": 1,
+      "explanation": "La bataille de Lépante est perçue comme un coup d'arrêt à l'expansion maritime ottomane en Méditerranée."
+    },
+    {
+      "id": "q36",
+      "prompt": "Qui est l'auteur du tableau 'Les Ambassadeurs' (1533), riche en symboles humanistes et scientifiques ?",
+      "choices": [
+        "Albrecht Dürer",
+        "Hans Holbein le Jeune",
+        "Lucas Cranach",
+        "Matthias Grünewald",
+        "Pieter Brueghel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Holbein illustre dans ce tableau la culture, la science et les tensions religieuses de son époque."
+    },
+    {
+      "id": "q37",
+      "prompt": "Quel architecte florentin a conçu le dôme de la cathédrale de Florence en utilisant les mathématiques ?",
+      "choices": [
+        "Alberti",
+        "Brunelleschi",
+        "Bramante",
+        "Palladio",
+        "Michel-Ange"
+      ],
+      "correctIndex": 1,
+      "explanation": "Filippo Brunelleschi est l'un des pionniers de la perspective et de l'architecture mathématique de la Renaissance."
+    },
+    {
+      "id": "q38",
+      "prompt": "Quel était le rôle des 'condottieri' dans l'Italie de la Renaissance ?",
+      "choices": [
+        "Des chefs religieux",
+        "Des marchands de soie",
+        "Des chefs de mercenaires devenant parfois princes",
+        "Des professeurs d'université",
+        "Des imprimeurs de livres grecs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Des personnages comme Sigismond Malatesta ou les Sforza illustrent cette ascension sociale par les armes et le mécénat."
+    },
+    {
+      "id": "q39",
+      "prompt": "Quelle reine d'Angleterre, fille de Henri VIII, a instauré un mélange de structures catholiques et de théologie protestante ?",
+      "choices": [
+        "Marie Tudor",
+        "Élisabeth Ire",
+        "Marie Stuart",
+        "Catherine d'Aragon",
+        "Anne Boleyn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Élisabeth Ire a stabilisé l'anglicanisme par le 'Settlement' religieux, créant une église nationale hybride."
+    },
+    {
+      "id": "q40",
+      "prompt": "Quel peintre allemand est célèbre pour ses autoportraits et ses gravures minutieuses (ex: 1500) ?",
+      "choices": [
+        "Hans Holbein",
+        "Albrecht Dürer",
+        "Lucas Cranach",
+        "Mathias Grünewald",
+        "Hieronymus Bosch"
+      ],
+      "correctIndex": 1,
+      "explanation": "Albrecht Dürer a introduit les théories italiennes sur la perspective et l'anatomie dans le monde germanique."
+    }
+  ]
+}
