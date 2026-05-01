@@ -1,3 +1,4 @@
+// scaffold-managed:minimal-modern
 const q = (s) => document.querySelector(s);
 const listEl = q('#quiz-list');
 const panelContent = q('#panel-content');
@@ -130,33 +131,6 @@ function renderResult() {
   });
 }
 
-function shuffleQuizChoices(quiz) {
-  for (const q of quiz.questions) {
-    const choicesWithOriginal = q.choices.map((text, idx) => ({
-      text,
-      isCorrect: idx === q.correctIndex,
-      isAllFalse: text.toLowerCase().trim() === "toutes les réponses sont fausses"
-    }));
-
-    const normalChoices = [];
-    const allFalseChoices = [];
-    for (const c of choicesWithOriginal) {
-      if (c.isAllFalse) allFalseChoices.push(c);
-      else normalChoices.push(c);
-    }
-
-    for (let i = normalChoices.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [normalChoices[i], normalChoices[j]] = [normalChoices[j], normalChoices[i]];
-    }
-
-    const newChoices = [...normalChoices, ...allFalseChoices];
-    
-    q.choices = newChoices.map(c => c.text);
-    q.correctIndex = newChoices.findIndex(c => c.isCorrect);
-  }
-}
-
 async function loadQuiz(file) {
   currentFile = file;
   renderList();
@@ -169,7 +143,6 @@ async function loadQuiz(file) {
       showPanelMessage('Quiz invalide', shapeErr, 'error');
       return;
     }
-    shuffleQuizChoices(data);
     currentQuiz = data;
     answers = new Map();
     currentIndex = 0;
