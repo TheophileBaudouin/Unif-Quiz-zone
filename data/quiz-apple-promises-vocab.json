@@ -1,0 +1,144 @@
+{
+  "quizId": "apple-promises-vocab",
+  "title": "Apple's Broken Promises - Vocabulary",
+  "section": {
+    "id": "apple-promises-vocab",
+    "title": "Apple's Broken Promises - Vocabulary",
+    "startPage": 10,
+    "endPage": 11,
+    "summary": "Business, labor, and supply chain management vocabulary focusing on corporate responsibility and production.",
+    "estimatedQuestionCount": 83
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "What is the French translation for the term 'supply chain' as used in the text?",
+      "choices": [
+        "la chaîne logistique",
+        "le service client",
+        "la main-d'œuvre",
+        "le réseau marchand",
+        "la gestion totale"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to the vocabulary list, 'supply chain' translates to 'chaîne logistique'."
+    },
+    {
+      "id": "q2",
+      "prompt": "Which term corresponds to the French definition 'main-d'œuvre'?",
+      "choices": [
+        "the workforce",
+        "the production",
+        "the consumer",
+        "the supplier",
+        "the commitment"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text defines 'workforce' (and 'labour') as 'main-d'œuvre'."
+    },
+    {
+      "id": "q3",
+      "prompt": "What does the English verb 'to fulfil' mean in a business context according to the source?",
+      "choices": [
+        "accomplir, réaliser",
+        "enquêter, fouiller",
+        "exploiter, utiliser",
+        "fournir, apporter",
+        "dresser, placer"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source defines 'to fulfil' as 'accomplir, réaliser'."
+    },
+    {
+      "id": "q4",
+      "prompt": "Which English term is translated as 'dortoir'?",
+      "choices": [
+        "dormitory",
+        "outskirts",
+        "shop floor",
+        "headquarters",
+        "accommodation"
+      ],
+      "correctIndex": 0,
+      "explanation": "The vocabulary list for page 62 defines 'dormitory' as 'dortoir'."
+    },
+    {
+      "id": "q5",
+      "prompt": "What is the French equivalent for the noun 'breach'?",
+      "choices": [
+        "infraction",
+        "engagement",
+        "périphérie",
+        "protection",
+        "production"
+      ],
+      "correctIndex": 0,
+      "explanation": "The document defines 'breach' as 'infraction'."
+    },
+    {
+      "id": "q6",
+      "prompt": "What does 'to hand out' mean in this vocabulary context?",
+      "choices": [
+        "distribuer",
+        "saisir",
+        "réussir",
+        "enfreindre",
+        "transmettre"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to the provided vocabulary list on page 11, 'to hand out' means 'distribuer'."
+    },
+    {
+      "id": "q7",
+      "prompt": "Which term represents the French translation 'exigu'?",
+      "choices": [
+        "cramped",
+        "heartless",
+        "valuable",
+        "faithful",
+        "cheaply"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text lists 'cramped' as the translation for 'exigu'."
+    },
+    {
+      "id": "q8",
+      "prompt": "What is the translation for 'heart-stopping'?",
+      "choices": [
+        "angoissant, effrayant",
+        "très important",
+        "rapide, soudain",
+        "cher, précieux",
+        "cruel, sans cœur"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source identifies 'heart-stopping' as 'angoissant, effrayant'."
+    },
+    {
+      "id": "q9",
+      "prompt": "How is 'headquarters' translated in the provided list?",
+      "choices": [
+        "siège",
+        "atelier",
+        "périphérie",
+        "direction",
+        "logistique"
+      ],
+      "correctIndex": 0,
+      "explanation": "The document translates 'headquarters' as 'siège'."
+    },
+    {
+      "id": "q10",
+      "prompt": "Which term translates to 'à peine'?",
+      "choices": [
+        "hardly",
+        "cheaply",
+        "closely",
+        "overnight",
+        "together"
+      ],
+      "correctIndex": 0,
+      "explanation": "The list provided in the text defines 'hardly' as 'à peine'."
+    }
+  ]
+}
