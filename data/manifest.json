@@ -1,6 +1,6 @@
 {
   "documentTitle": "English Vocabulary and Irregular Verbs",
-  "generatedAt": "2026-05-02T16:35:57.903Z",
+  "generatedAt": "2026-05-02T17:12:29.551Z",
   "sourcePdf": "anglais_voc.pdf",
   "quizzes": [
     {
@@ -12,10 +12,10 @@
       "pageEnd": 55
     },
     {
-      "id": "apple-promises-vocab",
-      "title": "Apple's Broken Promises - Vocabulary",
-      "file": "quiz-apple-promises-vocab.json",
-      "questionCount": 10,
+      "id": "apple-broken-promises-vocabulary",
+      "title": "Apple's Broken Promises Vocabulary",
+      "file": "quiz-apple-broken-promises-vocabulary.json",
+      "questionCount": 94,
       "pageStart": 10,
       "pageEnd": 11
     },
@@ -28,18 +28,18 @@
       "pageEnd": 126
     },
     {
-      "id": "childhood-obesity-vocab",
-      "title": "Childhood Obesity - Vocabulary",
-      "file": "quiz-childhood-obesity-vocab.json",
-      "questionCount": 45,
+      "id": "childhood-obesity-vocabulary-quiz",
+      "title": "Childhood Obesity Vocabulary Quiz",
+      "file": "quiz-childhood-obesity-vocabulary.json",
+      "questionCount": 47,
       "pageStart": 3,
       "pageEnd": 3
     },
     {
-      "id": "coca-cola-marketing-vocab",
-      "title": "The Secret Behind The Coca-Cola Marketing Strategy - Vocabulary",
-      "file": "quiz-coca-cola-marketing-vocab.json",
-      "questionCount": 20,
+      "id": "coca-cola-marketing-strategy-vocabulary",
+      "title": "The Secret Behind The Coca-Cola Marketing Strategy",
+      "file": "quiz-coca-cola-marketing-strategy-vocabulary.json",
+      "questionCount": 114,
       "pageStart": 15,
       "pageEnd": 17
     },
@@ -84,10 +84,10 @@
       "pageEnd": 2
     },
     {
-      "id": "irregular-verbs-table",
+      "id": "irregular-verbs-reference",
       "title": "Irregular Verbs",
-      "file": "quiz-irregular-verbs-table.json",
-      "questionCount": 10,
+      "file": "quiz-irregular-verbs-reference.json",
+      "questionCount": 159,
       "pageStart": 18,
       "pageEnd": 21
     },
@@ -100,10 +100,10 @@
       "pageEnd": 36
     },
     {
-      "id": "metropolis-london-vocab",
-      "title": "Metropolis: London - Vocabulary",
-      "file": "quiz-metropolis-london-vocab.json",
-      "questionCount": 79,
+      "id": "metropolis-london-vocabulary",
+      "title": "Metropolis: London Vocabulary",
+      "file": "quiz-metropolis-london-vocabulary.json",
+      "questionCount": 81,
       "pageStart": 4,
       "pageEnd": 5
     },
@@ -124,20 +124,20 @@
       "pageEnd": 77
     },
     {
-      "id": "police-violence-vocab-quiz",
-      "title": "Police Violence - Vocabulary",
-      "file": "quiz-police-violence-vocab.json",
-      "questionCount": 54,
+      "id": "police-violence-vocabulary",
+      "title": "Police Violence Vocabulary",
+      "file": "quiz-police-violence-vocabulary.json",
+      "questionCount": 68,
       "pageStart": 8,
       "pageEnd": 9
     },
     {
-      "id": "problems-learners-english-vocab",
+      "id": "problems-and-questions-vocabulary",
       "title": "Problems and Questions Submitted by Learners of English",
-      "file": "quiz-problems-learners-english.json",
-      "questionCount": 30,
-      "pageStart": 14,
-      "pageEnd": 14
+      "file": "quiz-problems-and-questions-vocabulary.json",
+      "questionCount": 40,
+      "pageStart": 1,
+      "pageEnd": 10
     },
     {
       "id": "quiz-conflits-mondiaux",
@@ -172,28 +172,28 @@
       "pageEnd": 87
     },
     {
-      "id": "six-degrees-vocab",
-      "title": "Six Degrees Could Change the World - Vocabulary",
-      "file": "quiz-six-degrees-vocab.json",
-      "questionCount": 10,
+      "id": "six-degrees-change-world-vocabulary",
+      "title": "Six Degrees Could Change the World Vocabulary",
+      "file": "quiz-six-degrees-change-world-vocabulary.json",
+      "questionCount": 135,
       "pageStart": 12,
       "pageEnd": 14
     },
     {
-      "id": "smartphones-focus-vocab",
-      "title": "How Smartphones Sabotage Your Brain's Ability to Focus - Vocabulary",
-      "file": "quiz-smartphones-focus-vocab.json",
-      "questionCount": 20,
-      "pageStart": 43,
-      "pageEnd": 44
+      "id": "smartphone-brain-focus-vocabulary",
+      "title": "How Smartphones Sabotage Your Brain's Ability to Focus",
+      "file": "quiz-smartphone-brain-focus-vocabulary.json",
+      "questionCount": 60,
+      "pageStart": 6,
+      "pageEnd": 7
     },
     {
-      "id": "walking-dead-vocabulary-quiz",
-      "title": "The Walking Dead - Vocabulary Mastery",
-      "file": "quiz-walking-dead-vocab.json",
-      "questionCount": 45,
-      "pageStart": 2,
-      "pageEnd": 2
+      "id": "the-walking-dead-vocabulary",
+      "title": "The Walking Dead Vocabulary",
+      "file": "quiz-the-walking-dead-vocabulary.json",
+      "questionCount": 48,
+      "pageStart": 17,
+      "pageEnd": 17
     }
   ]
 }
