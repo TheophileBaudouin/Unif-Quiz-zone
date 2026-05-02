@@ -1,0 +1,793 @@
+{
+  "quizId": "coca-cola-marketing-quiz-1",
+  "title": "The Secret Behind The Coca-Cola Marketing Strategy Vocabulary Quiz",
+  "section": {
+    "id": "coca-cola-marketing-vocabulary",
+    "title": "The Secret Behind The Coca-Cola Marketing Strategy",
+    "startPage": 15,
+    "endPage": 17,
+    "summary": "Terms and expressions related to advertising, branding, market analysis, and commercial business strategies."
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "What is the French translation for \"a counter\"?",
+      "choices": [
+        "un comptoir",
+        "une caisse",
+        "un bureau",
+        "une étagère",
+        "un guichet"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to the vocabulary list, 'a counter' translates to 'un comptoir'."
+    },
+    {
+      "id": "q2",
+      "prompt": "What does \"growing\" mean in French?",
+      "choices": [
+        "en pleine expansion, croissant",
+        "en diminution, décroissant",
+        "en stagnation, constant",
+        "en régression, déclinant",
+        "en suspension, arrêté"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'growing' is translated as 'en pleine expansion, croissant' in the provided text."
+    },
+    {
+      "id": "q3",
+      "prompt": "Choose the correct French translation for \"a beverage\":",
+      "choices": [
+        "une boisson",
+        "un aliment",
+        "un plat",
+        "une épice",
+        "un dessert"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text indicates that 'a beverage' means 'une boisson'."
+    },
+    {
+      "id": "q4",
+      "prompt": "How do you translate \"to lead (led-led) to sth\"?",
+      "choices": [
+        "mener à qqch",
+        "éviter qqch",
+        "suivre qqch",
+        "abandonner qqch",
+        "retenir qqch"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct translation for 'to lead (led-led) to sth' is 'mener à qqch'."
+    },
+    {
+      "id": "q5",
+      "prompt": "The term \"to bottle\" means:",
+      "choices": [
+        "mettre en bouteilles",
+        "ouvrir une bouteille",
+        "casser une bouteille",
+        "remplir un verre",
+        "vider un récipient"
+      ],
+      "correctIndex": 0,
+      "explanation": "The provided vocabulary defines 'to bottle' as 'mettre en bouteilles'."
+    },
+    {
+      "id": "q6",
+      "prompt": "What is the French equivalent for \"sparkling\"?",
+      "choices": [
+        "pétillant",
+        "plat",
+        "frais",
+        "chaud",
+        "sucré"
+      ],
+      "correctIndex": 0,
+      "explanation": "In the context, 'sparkling' translates to 'pétillant'."
+    },
+    {
+      "id": "q7",
+      "prompt": "Translate \"ever so slightly\" into French:",
+      "choices": [
+        "sensiblement, un tant soit peu",
+        "très clairement, de manière évidente",
+        "complètement, entièrement",
+        "rarement, occasionnellement",
+        "brusquement, soudainement"
+      ],
+      "correctIndex": 0,
+      "explanation": "The vocabulary gives 'sensiblement, un tant soit peu' as the translation for 'ever so slightly'."
+    },
+    {
+      "id": "q8",
+      "prompt": "What does \"currently\" mean in French?",
+      "choices": [
+        "actuellement, en ce moment",
+        "anciennement, autrefois",
+        "futurément, plus tard",
+        "rarement, sporadiquement",
+        "constamment, toujours"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'currently' is translated as 'actuellement, en ce moment'."
+    },
+    {
+      "id": "q9",
+      "prompt": "The French translation for \"a rate\" is:",
+      "choices": [
+        "cadence, vitesse, rythme",
+        "taille, dimension, grandeur",
+        "quantité, mesure, volume",
+        "couleur, nuance, teinte",
+        "forme, structure, modèle"
+      ],
+      "correctIndex": 0,
+      "explanation": "The provided vocabulary shows 'a rate' translates to 'cadence, vitesse, rythme'."
+    },
+    {
+      "id": "q10",
+      "prompt": "What is the meaning of \"billion\" in French?",
+      "choices": [
+        "milliard",
+        "million",
+        "centaine",
+        "douzaine",
+        "millier"
+      ],
+      "correctIndex": 0,
+      "explanation": "The word 'billion' translates directly to 'milliard' in French."
+    },
+    {
+      "id": "q11",
+      "prompt": "How do you say \"a serving\" in French?",
+      "choices": [
+        "une portion",
+        "une assiette",
+        "un plat",
+        "une recette",
+        "un repas"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct translation for 'a serving' is 'une portion'."
+    },
+    {
+      "id": "q12",
+      "prompt": "Choose the French translation for \"one in four\":",
+      "choices": [
+        "1 sur 4",
+        "2 sur 5",
+        "3 sur 6",
+        "4 sur 7",
+        "5 sur 8"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text translates 'one in four' as '1 sur 4'."
+    },
+    {
+      "id": "q13",
+      "prompt": "What does \"carbonated\" mean?",
+      "choices": [
+        "gazeux, gazeuse",
+        "non gazeux, plate",
+        "sucré, sucrée",
+        "acide, acide",
+        "amer, amère"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'carbonated' is defined as 'gazeux, gazeuse'."
+    },
+    {
+      "id": "q14",
+      "prompt": "Translate \"a soft drink\" into French:",
+      "choices": [
+        "boisson sans alcool",
+        "boisson alcoolisée",
+        "boisson chaude",
+        "boisson fraîche",
+        "boisson énergisante"
+      ],
+      "correctIndex": 0,
+      "explanation": "The vocabulary lists 'boisson sans alcool' as the translation for 'a soft drink'."
+    },
+    {
+      "id": "q15",
+      "prompt": "How would you translate \"substantial\"?",
+      "choices": [
+        "considérable, important",
+        "insignifiant, mineur",
+        "modéré, moyen",
+        "négligeable, petit",
+        "superficiel, léger"
+      ],
+      "correctIndex": 0,
+      "explanation": "The word 'substantial' translates to 'considérable, important'."
+    },
+    {
+      "id": "q16",
+      "prompt": "What is the French equivalent for \"a chunk\"?",
+      "choices": [
+        "un gros morceau",
+        "une petite miette",
+        "un fin filet",
+        "un minuscule grain",
+        "une mince tranche"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct translation for 'a chunk' is 'un gros morceau'."
+    },
+    {
+      "id": "q17",
+      "prompt": "What does \"somewhat\" mean?",
+      "choices": [
+        "quelque peu",
+        "totalement",
+        "jamais",
+        "toujours",
+        "rarement"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'somewhat' is translated as 'quelque peu'."
+    },
+    {
+      "id": "q18",
+      "prompt": "Choose the French translation for \"best-known\":",
+      "choices": [
+        "le plus connu",
+        "le moins connu",
+        "le mieux caché",
+        "le plus ancien",
+        "le plus récent"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text provides 'le plus connu' as the translation for 'best-known'."
+    },
+    {
+      "id": "q19",
+      "prompt": "How do you translate \"valuable\"?",
+      "choices": [
+        "précieux, important",
+        "sans valeur, insignifiant",
+        "commun, ordinaire",
+        "fragile, délicat",
+        "abondant, nombreux"
+      ],
+      "correctIndex": 0,
+      "explanation": "The word 'valuable' translates to 'précieux, important'."
+    },
+    {
+      "id": "q20",
+      "prompt": "What is the French equivalent for \"a brand\"?",
+      "choices": [
+        "une marque",
+        "un produit",
+        "une entreprise",
+        "une publicité",
+        "un nom"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct translation for 'a brand' is 'une marque'."
+    },
+    {
+      "id": "q21",
+      "prompt": "What does \"to hold (held-held)\" mean?",
+      "choices": [
+        "avoir, détenir",
+        "lâcher, relâcher",
+        "perdre, égarer",
+        "jeter, lancer",
+        "prendre, saisir"
+      ],
+      "correctIndex": 0,
+      "explanation": "The vocabulary defines 'to hold (held-held)' as 'avoir, détenir'."
+    },
+    {
+      "id": "q22",
+      "prompt": "Translate \"within\" into French:",
+      "choices": [
+        "au sein de",
+        "en dehors de",
+        "à côté de",
+        "devant",
+        "derrière"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text translates 'within' as 'au sein de'."
+    },
+    {
+      "id": "q23",
+      "prompt": "Choose the correct French translation for \"to span from ... to\":",
+      "choices": [
+        "aller de ... à",
+        "séparer de ... à",
+        "limiter de ... à",
+        "exclure de ... à",
+        "contenir de ... à"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct translation for 'to span from ... to' is 'aller de ... à'."
+    },
+    {
+      "id": "q24",
+      "prompt": "What does \"despite\" mean in French?",
+      "choices": [
+        "malgré",
+        "grâce à",
+        "en raison de",
+        "conformément à",
+        "selon"
+      ],
+      "correctIndex": 0,
+      "explanation": "The word 'despite' translates to 'malgré'."
+    },
+    {
+      "id": "q25",
+      "prompt": "How would you translate \"advertising (unc.)\"?",
+      "choices": [
+        "la publicité",
+        "le marketing",
+        "la vente",
+        "la promotion",
+        "le commerce"
+      ],
+      "correctIndex": 0,
+      "explanation": "The vocabulary lists 'la publicité' as the translation for 'advertising (unc.)'."
+    },
+    {
+      "id": "q26",
+      "prompt": "What is the French equivalent for \"a range of\"?",
+      "choices": [
+        "une série de",
+        "un unique élément de",
+        "une absence de",
+        "une restriction de",
+        "un ensemble de"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct translation for 'a range of' is 'une série de'."
+    },
+    {
+      "id": "q27",
+      "prompt": "The term \"hefty\" means:",
+      "choices": [
+        "gros, lourd",
+        "petit, léger",
+        "mince, fin",
+        "court, bref",
+        "rapide, agile"
+      ],
+      "correctIndex": 0,
+      "explanation": "The provided vocabulary defines 'hefty' as 'gros, lourd'."
+    },
+    {
+      "id": "q28",
+      "prompt": "What is the French translation for \"to experiment with\"?",
+      "choices": [
+        "tester",
+        "rejeter",
+        "ignorer",
+        "éviter",
+        "imiter"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to the vocabulary list, 'to experiment with' translates to 'tester'."
+    },
+    {
+      "id": "q29",
+      "prompt": "How do you translate \"to provide\"?",
+      "choices": [
+        "fournir",
+        "demander",
+        "retirer",
+        "refuser",
+        "stocker"
+      ],
+      "correctIndex": 0,
+      "explanation": "The word 'to provide' translates to 'fournir'."
+    },
+    {
+      "id": "q30",
+      "prompt": "What does \"to remind so. of sth.\" mean in French?",
+      "choices": [
+        "rappeler qqch à qqun",
+        "oublier qqch à qqun",
+        "ignorer qqch à qqun",
+        "enseigner qqch à qqun",
+        "cacher qqch à qqun"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text indicates that 'to remind so. of sth.' means 'rappeler qqch à qqun'."
+    },
+    {
+      "id": "q31",
+      "prompt": "Choose the correct French translation for \"to train\":",
+      "choices": [
+        "former, entraîner",
+        "détruire, démolir",
+        "modifier, changer",
+        "observer, regarder",
+        "copier, reproduire"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct translation for 'to train' is 'former, entraîner'."
+    },
+    {
+      "id": "q32",
+      "prompt": "The term \"brains\" refers to:",
+      "choices": [
+        "tête, cerveau",
+        "corps, physique",
+        "cœur, émotion",
+        "main, geste",
+        "pied, pas"
+      ],
+      "correctIndex": 0,
+      "explanation": "The provided vocabulary defines 'brains' as 'tête, cerveau'."
+    },
+    {
+      "id": "q33",
+      "prompt": "What is the French equivalent for \"an advert\"?",
+      "choices": [
+        "une pub, une réclame",
+        "un journal, une revue",
+        "un livre, un ouvrage",
+        "un film, un documentaire",
+        "une chanson, une mélodie"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct translation for 'an advert' is 'une pub, une réclame'."
+    },
+    {
+      "id": "q34",
+      "prompt": "How do you say \"a truck\" in French?",
+      "choices": [
+        "un camion",
+        "une voiture",
+        "un vélo",
+        "une moto",
+        "un train"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text translates 'a truck' as 'un camion'."
+    },
+    {
+      "id": "q35",
+      "prompt": "What does \"highlight\" mean?",
+      "choices": [
+        "temps fort, moment le plus marquant",
+        "moment oublié, détail insignifiant",
+        "période difficile, épreuve",
+        "phase transitoire, étape",
+        "interruption, pause"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'highlight' is defined as 'temps fort, moment le plus marquant'."
+    },
+    {
+      "id": "q36",
+      "prompt": "What is the French translation for \"to bring out (brought-brought)\"?",
+      "choices": [
+        "souligner, faire ressortir, mettre en valeur",
+        "cacher, dissimuler, masquer",
+        "atténuer, minimiser, effacer",
+        "détruire, anéantir, ruiner",
+        "ignorer, négliger, omettre"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to the vocabulary list, 'to bring out (brought-brought)' translates to 'souligner, faire ressortir, mettre en valeur'."
+    },
+    {
+      "id": "q37",
+      "prompt": "How do you translate \"to follow\"?",
+      "choices": [
+        "suivre",
+        "précéder",
+        "ignorer",
+        "s'éloigner",
+        "abandonner"
+      ],
+      "correctIndex": 0,
+      "explanation": "The word 'to follow' translates to 'suivre'."
+    },
+    {
+      "id": "q38",
+      "prompt": "What does \"to spread (spread-spread)\" mean?",
+      "choices": [
+        "propager, répandre",
+        "rétrécir, contracter",
+        "limiter, confiner",
+        "rassembler, regrouper",
+        "isoler, séparer"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'to spread (spread-spread)' is defined as 'propager, répandre'."
+    },
+    {
+      "id": "q39",
+      "prompt": "Choose the correct French translation for \"through\":",
+      "choices": [
+        "à travers, par, en",
+        "autour de, près de",
+        "au-dessus de, sur",
+        "en dessous de, sous",
+        "loin de, à distance de"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct translation for 'through' is 'à travers, par, en'."
+    },
+    {
+      "id": "q40",
+      "prompt": "The term \"a shop assistant\" refers to:",
+      "choices": [
+        "vendeur, vendeuse",
+        "acheteur, acheteuse",
+        "gérant, gérante",
+        "livreur, livreuse",
+        "caissier, caissière"
+      ],
+      "correctIndex": 0,
+      "explanation": "The provided vocabulary defines 'a shop assistant' as 'vendeur, vendeuse'."
+    },
+    {
+      "id": "q41",
+      "prompt": "What is the French equivalent for \"to target\"?",
+      "choices": [
+        "cibler, viser",
+        "manquer, rater",
+        "ignorer, omettre",
+        "éviter, esquiver",
+        "détourner, dévier"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct translation for 'to target' is 'cibler, viser'."
+    },
+    {
+      "id": "q42",
+      "prompt": "How do you say \"whole\" in French?",
+      "choices": [
+        "entier, entière",
+        "partiel, partielle",
+        "fragmenté, fragmentée",
+        "divisé, divisée",
+        "séparé, séparée"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text translates 'whole' as 'entier, entière'."
+    },
+    {
+      "id": "q43",
+      "prompt": "What does \"closely\" mean in French?",
+      "choices": [
+        "de près, étroitement",
+        "de loin, à distance",
+        "rarement, occasionnellement",
+        "superficiellement, légèrement",
+        "brièvement, rapidement"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'closely' is translated as 'de près, étroitement'."
+    },
+    {
+      "id": "q44",
+      "prompt": "Translate \"to attempt\" into French:",
+      "choices": [
+        "tenter, essayer de",
+        "réussir, accomplir de",
+        "abandonner, renoncer à",
+        "refuser, décliner de",
+        "ignorer, omettre de"
+      ],
+      "correctIndex": 0,
+      "explanation": "The vocabulary lists 'tenter, essayer de' as the translation for 'to attempt'."
+    },
+    {
+      "id": "q45",
+      "prompt": "Choose the correct French translation for \"to focus on\":",
+      "choices": [
+        "se concentrer sur, se focaliser sur",
+        "se détourner de, ignorer",
+        "se disperser sur, divaguer",
+        "éviter, éluder",
+        "oublier, négliger"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct translation for 'to focus on' is 'se concentrer sur, se focaliser sur'."
+    },
+    {
+      "id": "q46",
+      "prompt": "The term \"sharing\" means:",
+      "choices": [
+        "le partage",
+        "la possession",
+        "la division",
+        "l'accumulation",
+        "la conservation"
+      ],
+      "correctIndex": 0,
+      "explanation": "The provided vocabulary defines 'sharing' as 'le partage'."
+    },
+    {
+      "id": "q47",
+      "prompt": "What is the French equivalent for \"to remain\"?",
+      "choices": [
+        "rester",
+        "partir",
+        "arriver",
+        "changer",
+        "disparaître"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct translation for 'to remain' is 'rester'."
+    },
+    {
+      "id": "q48",
+      "prompt": "How do you say \"core values\" in French?",
+      "choices": [
+        "les valeurs fondamentales",
+        "les valeurs superficielles",
+        "les valeurs secondaires",
+        "les valeurs accessoires",
+        "les valeurs temporaires"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text translates 'core values' as 'les valeurs fondamentales'."
+    },
+    {
+      "id": "q49",
+      "prompt": "What does \"year-round\" mean?",
+      "choices": [
+        "sur toute l'année",
+        "une partie de l'année",
+        "à la fin de l'année",
+        "au début de l'année",
+        "une fois par an"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'year-round' is defined as 'sur toute l'année'."
+    },
+    {
+      "id": "q50",
+      "prompt": "What is the French translation for \"along with\"?",
+      "choices": [
+        "avec",
+        "sans",
+        "contre",
+        "après",
+        "avant"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to the vocabulary list, 'along with' translates to 'avec'."
+    },
+    {
+      "id": "q51",
+      "prompt": "How do you translate \"the focal point\"?",
+      "choices": [
+        "le centre d'attention",
+        "le point de départ",
+        "le point final",
+        "le point de repère",
+        "le point de vue"
+      ],
+      "correctIndex": 0,
+      "explanation": "The word 'the focal point' translates to 'le centre d'attention'."
+    },
+    {
+      "id": "q52",
+      "prompt": "What does \"a commercial\" mean in French?",
+      "choices": [
+        "un spot publicitaire",
+        "un reportage d'actualité",
+        "un film d'art et essai",
+        "un débat télévisé",
+        "une émission de variétés"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'a commercial' is defined as 'un spot publicitaire'."
+    },
+    {
+      "id": "q53",
+      "prompt": "Choose the correct French translation for \"to broaden\":",
+      "choices": [
+        "élargir",
+        "rétrécir",
+        "allonger",
+        "raccourcir",
+        "réduire"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct translation for 'to broaden' is 'élargir'."
+    },
+    {
+      "id": "q54",
+      "prompt": "The term \"radius\" refers to:",
+      "choices": [
+        "rayon, périmètre",
+        "diamètre, circonférence",
+        "longueur, hauteur",
+        "surface, aire",
+        "volume, capacité"
+      ],
+      "correctIndex": 0,
+      "explanation": "The provided vocabulary defines 'radius' as 'rayon, périmètre'."
+    },
+    {
+      "id": "q55",
+      "prompt": "What is the French equivalent for \"key\"?",
+      "choices": [
+        "clé, fondamental",
+        "secondaire, accessoire",
+        "mineur, insignifiant",
+        "superflu, inutile",
+        "dérivé, subsidiaire"
+      ],
+      "correctIndex": 0,
+      "explanation": "The correct translation for 'key' is 'clé, fondamental'."
+    },
+    {
+      "id": "q56",
+      "prompt": "How do you say \"a pillar\" in French?",
+      "choices": [
+        "un pilier",
+        "un mur",
+        "une poutre",
+        "un plafond",
+        "un sol"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text translates 'a pillar' as 'un pilier'."
+    },
+    {
+      "id": "q57",
+      "prompt": "What does \"to hug\" mean?",
+      "choices": [
+        "prendre dans ses bras, faire un calin",
+        "repousser, éloigner",
+        "frapper, cogner",
+        "ignorer, éviter",
+        "saluer, serrer la main"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'to hug' is defined as 'prendre dans ses bras, faire un calin'."
+    },
+    {
+      "id": "q58",
+      "prompt": "What is the French translation for \"debranding\"?",
+      "choices": [
+        "le fait de dégriffer, de démarquer",
+        "le fait de marquer, de labelliser",
+        "le fait de promouvoir, de valoriser",
+        "le fait de reconnaître, d'identifier",
+        "le fait de créer, d'inventer"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to the vocabulary list, 'debranding' translates to 'le fait de dégriffer, de démarquer'."
+    },
+    {
+      "id": "q59",
+      "prompt": "How do you translate \"rendition\"?",
+      "choices": [
+        "interprétation, traduction",
+        "création, invention",
+        "destruction, démolition",
+        "original, prototype",
+        "rejet, refus"
+      ],
+      "correctIndex": 0,
+      "explanation": "The word 'rendition' translates to 'interprétation, traduction'."
+    },
+    {
+      "id": "q60",
+      "prompt": "What does \"a can\" mean in French?",
+      "choices": [
+        "une cannette",
+        "une bouteille",
+        "un verre",
+        "une tasse",
+        "un récipient"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'a can' is defined as 'une cannette'."
+    }
+  ]
+}
