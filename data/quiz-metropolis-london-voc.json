@@ -1,0 +1,794 @@
+{
+  "quizId": "metropolis-london-voc-comprehensive",
+  "title": "Metropolis: London Vocabulary",
+  "section": {
+    "id": "metropolis-london-voc",
+    "title": "Metropolis: London Vocabulary",
+    "startPage": 4,
+    "endPage": 5,
+    "summary": "Extensive vocabulary list focusing on urban development, history, and trade specifically for the London context.",
+    "estimatedQuestionCount": 75
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "What is the French translation for the expression 'in plain sight'?",
+      "choices": [
+        "à la vue de tous",
+        "à la fin de tous",
+        "à la mort de tous",
+        "à la merci de tous",
+        "à la suite de tous"
+      ],
+      "correctIndex": 0,
+      "explanation": "In the source text, 'in plain sight' is translated as 'à la vue de tous'."
+    },
+    {
+      "id": "q2",
+      "prompt": "What does 'the height of the British Empire' mean according to the source?",
+      "choices": [
+        "l’entrée de l’Empire britannique",
+        "l’échec de l’Empire britannique",
+        "l’apogée de l’Empire britannique",
+        "l’étude de l’Empire britannique",
+        "l’essor de l’Empire britannique"
+      ],
+      "correctIndex": 2,
+      "explanation": "The vocabulary list defines 'the height of the British Empire' as its 'apogée'."
+    },
+    {
+      "id": "q3",
+      "prompt": "How is the term 'a trading hub' translated in the vocabulary list?",
+      "choices": [
+        "un centre d’échanges commerciaux",
+        "un centre d'attaches territoriaux",
+        "un centre d'ouvertures financières",
+        "un centre d'affaires industrielles",
+        "un centre d'accords diplomatiques"
+      ],
+      "correctIndex": 0,
+      "explanation": "A 'trading hub' is defined as 'un centre d’échanges commerciaux'."
+    },
+    {
+      "id": "q4",
+      "prompt": "What is the French equivalent for 'to earn one’s living'?",
+      "choices": [
+        "gagner sa vie",
+        "perdre sa vie",
+        "risquer sa vie",
+        "sauver sa vie",
+        "vendre sa vie"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To earn one’s living' is translated as 'gagner sa vie'."
+    },
+    {
+      "id": "q5",
+      "prompt": "According to the source, what does 'the cargo' refer to?",
+      "choices": [
+        "la cargaison, le chargement",
+        "la puissance, le rendement",
+        "la livraison, le versement",
+        "la procédure, le règlement",
+        "la structure, le placement"
+      ],
+      "correctIndex": 0,
+      "explanation": "The word 'cargo' is associated with 'la cargaison, le chargement'."
+    },
+    {
+      "id": "q6",
+      "prompt": "How should 'on a daily basis' be translated in French?",
+      "choices": [
+        "pendant jour",
+        "toujours jour",
+        "quelque jour",
+        "chaque jour",
+        "dernier jour"
+      ],
+      "correctIndex": 3,
+      "explanation": "'On a daily basis' means 'chaque jour' in the vocabulary list."
+    },
+    {
+      "id": "q7",
+      "prompt": "What is the translation for 'the wharf'?",
+      "choices": [
+        "le port",
+        "le quai",
+        "le rail",
+        "le bord",
+        "le pont"
+      ],
+      "correctIndex": 1,
+      "explanation": "'The wharf' is specifically translated as 'le quai' in the London context."
+    },
+    {
+      "id": "q8",
+      "prompt": "What does 'a sea power' refer to in the source document?",
+      "choices": [
+        "une puissance maritime",
+        "une puissance aérienne",
+        "une puissance militaire",
+        "une puissance politique",
+        "une puissance coloniale"
+      ],
+      "correctIndex": 0,
+      "explanation": "'A sea power' is translated as 'une puissance maritime'."
+    },
+    {
+      "id": "q9",
+      "prompt": "What is the French translation for 'the home base'?",
+      "choices": [
+        "le port d’attache, la base",
+        "le port d'entrée, la zone",
+        "le port de départ, le site",
+        "le port d'escale, le lieu",
+        "le port de transit, le pôle"
+      ],
+      "correctIndex": 0,
+      "explanation": "'The home base' is 'le port d’attache, la base'."
+    },
+    {
+      "id": "q10",
+      "prompt": "How is the verb 'to rise-rose-risen' defined?",
+      "choices": [
+        "augmenter, grandir",
+        "diminuer, faiblir",
+        "procéder, agir",
+        "déplacer, finir",
+        "réussir, servir"
+      ],
+      "correctIndex": 0,
+      "explanation": "In this context, 'to rise' means 'augmenter, grandir'."
+    },
+    {
+      "id": "q11",
+      "prompt": "What does the term 'a perk' mean?",
+      "choices": [
+        "un avantage, un à-côté",
+        "un obstacle, un en-bas",
+        "un contrôle, un au-delà",
+        "un héritage, un après",
+        "un reproche, un en-deça"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'a perk' is defined as 'un avantage, un à-côté'."
+    },
+    {
+      "id": "q12",
+      "prompt": "What is the French translation for 'to catch on'?",
+      "choices": [
+        "devenir populaire",
+        "devenir complexe",
+        "devenir rentable",
+        "devenir fragile",
+        "devenir célèbre"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To catch on' means 'devenir populaire'."
+    },
+    {
+      "id": "q13",
+      "prompt": "How is 'to take advantage of sth' translated?",
+      "choices": [
+        "profiter de qqch",
+        "dépendre de qqch",
+        "disposer de qqch",
+        "procéder de qqch",
+        "souligner de qqch"
+      ],
+      "correctIndex": 0,
+      "explanation": "The list translates 'to take advantage of sth' as 'profiter de qqch'."
+    },
+    {
+      "id": "q14",
+      "prompt": "What is the French equivalent for 'a gathering'?",
+      "choices": [
+        "une réunion, un rassemblement",
+        "une rupture, un détachement",
+        "une réforme, un changement",
+        "une relance, un glissement",
+        "une remise, un placement"
+      ],
+      "correctIndex": 0,
+      "explanation": "'A gathering' is 'une réunion, un rassemblement'."
+    },
+    {
+      "id": "q15",
+      "prompt": "What is the translation for 'twice-weekly'?",
+      "choices": [
+        "bihebdomadaire, 2X par semaine",
+        "bimestriel, 2X par période",
+        "bisannuel, 2X par année",
+        "biplace, 2X par rangée",
+        "bilatéral, 2X par partie"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Twice-weekly' is defined as 'bihebdomadaire, 2X par semaine'."
+    },
+    {
+      "id": "q16",
+      "prompt": "How are 'the stock prices' translated in French?",
+      "choices": [
+        "le cours de la Bourse",
+        "le coût de la Douane",
+        "le taux de la Banque",
+        "le prix de la Vente",
+        "le flux de la Masse"
+      ],
+      "correctIndex": 0,
+      "explanation": "'The stock prices' is 'le cours de la Bourse'."
+    },
+    {
+      "id": "q17",
+      "prompt": "What is a 'share' in the context of finance?",
+      "choices": [
+        "une action",
+        "une option",
+        "une fusion",
+        "une caution",
+        "une gestion"
+      ],
+      "correctIndex": 0,
+      "explanation": "In finance, 'a share' is 'une action'."
+    },
+    {
+      "id": "q18",
+      "prompt": "What does 'to be eye-opening' mean?",
+      "choices": [
+        "être révélateur",
+        "être trompeur",
+        "être novateur",
+        "être flatteur",
+        "être créateur"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To be eye-opening' is translated as 'être révélateur'."
+    },
+    {
+      "id": "q19",
+      "prompt": "How is 'raw materials' translated in the document?",
+      "choices": [
+        "des matières premières",
+        "des matières scolaires",
+        "des matières secondaires",
+        "des matières nucléaires",
+        "des matières forestières"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Raw materials' means 'des matières premières'."
+    },
+    {
+      "id": "q20",
+      "prompt": "What is the meaning of 'burgeoning' when applied to industries?",
+      "choices": [
+        "florissant, en plein essor",
+        "déclining, en plein arrêt",
+        "dépassé, en plein retard",
+        "stagnant, en plein doute",
+        "limitant, en plein recul"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Burgeoning' is 'florissant, en plein essor'."
+    },
+    {
+      "id": "q21",
+      "prompt": "What is the French translation for 'throughout'?",
+      "choices": [
+        "dans tout(e) le/la, pendant tout(e) le/la",
+        "dans un(e) le/la, pendant un(e) le/la",
+        "dans cet(te) le/la, pendant cet(te) le/la",
+        "dans nul(le) le/la, pendant nul(le) le/la",
+        "dans peu(e) le/la, pendant peu(e) le/la"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source defines 'throughout' as 'dans tout(e) le/la, pendant tout(e) le/la'."
+    },
+    {
+      "id": "q22",
+      "prompt": "How is 'in a matter of ...' translated?",
+      "choices": [
+        "en l’espace de quelques ...",
+        "en l'attente de quelques ...",
+        "en l'absence de quelques ...",
+        "en l'accord de quelques ...",
+        "en l'apport de quelques ..."
+      ],
+      "correctIndex": 0,
+      "explanation": "'In a matter of ...' translates to 'en l’espace de quelques ...'."
+    },
+    {
+      "id": "q23",
+      "prompt": "What does the adjective 'enduring' mean?",
+      "choices": [
+        "durable",
+        "sensible",
+        "flexible",
+        "nuisible",
+        "passable"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Enduring' is translated as 'durable'."
+    },
+    {
+      "id": "q24",
+      "prompt": "What is the translation for 'a testament to sth'?",
+      "choices": [
+        "un témoignage de qqch",
+        "un dictionnaire de qqch",
+        "un changement de qqch",
+        "un personnage de qqch",
+        "un prélèvement de qqch"
+      ],
+      "correctIndex": 0,
+      "explanation": "'A testament to sth' is 'un témoignage de qqch'."
+    },
+    {
+      "id": "q25",
+      "prompt": "What does the idiom 'to know every nook and cranny' mean?",
+      "choices": [
+        "connaitre le moindre recoin",
+        "connaitre le moindre retard",
+        "connaitre le moindre défaut",
+        "connaitre le moindre chemin",
+        "connaitre le moindre détail"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To know every nook and cranny' means 'connaitre le moindre recoin'."
+    },
+    {
+      "id": "q26",
+      "prompt": "How is the verb 'to undertake' translated?",
+      "choices": [
+        "entreprendre",
+        "comprendre",
+        "apprendre",
+        "descendre",
+        "prétendre"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To undertake' translates as 'entreprendre'."
+    },
+    {
+      "id": "q27",
+      "prompt": "What is the meaning of 'to get a sense of sth'?",
+      "choices": [
+        "avoir une idée de qqch",
+        "avoir une hâte de qqch",
+        "avoir une peur de qqch",
+        "avoir une base de qqch",
+        "avoir une trace de qqch"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To get a sense of sth' means 'avoir une idée de qqch'."
+    },
+    {
+      "id": "q28",
+      "prompt": "How is 'the scale' translated in this context?",
+      "choices": [
+        "l’ampleur",
+        "l'écorce",
+        "l'entrée",
+        "l'action",
+        "l'erreur"
+      ],
+      "correctIndex": 0,
+      "explanation": "In the London Metropolis context, 'the scale' is 'l’ampleur'."
+    },
+    {
+      "id": "q29",
+      "prompt": "What does 'to power a revolution' mean?",
+      "choices": [
+        "alimenter une révolution",
+        "arrêter une révolution",
+        "annoncer une révolution",
+        "attaquer une révolution",
+        "analyser une révolution"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To power a revolution' means 'alimenter une révolution'."
+    },
+    {
+      "id": "q30",
+      "prompt": "What is a 'block' in the context of urban buildings?",
+      "choices": [
+        "un pâté de maisons",
+        "un tas de décombres",
+        "un lot de chantiers",
+        "un pan de murailles",
+        "un nid de corbeaux"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'block' is defined as 'un pâté de maisons'."
+    },
+    {
+      "id": "q31",
+      "prompt": "What is the translation for 'the entertainment'?",
+      "choices": [
+        "la distraction, le divertissement",
+        "la description, le dévouement",
+        "la distinction, le dépaysement",
+        "la destination, le déplacement",
+        "la décoration, le dégagement"
+      ],
+      "correctIndex": 0,
+      "explanation": "'The entertainment' is 'la distraction, le divertissement'."
+    },
+    {
+      "id": "q32",
+      "prompt": "What does 'to leave sth behind' mean?",
+      "choices": [
+        "quitter, laisser qqch derrière soi",
+        "garder, placer qqch devant soi",
+        "perdre, jeter qqch contre soi",
+        "vendre, donner qqch selon soi",
+        "suivre, porter qqch après soi"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To leave sth behind' means 'quitter, laisser qqch derrière soi'."
+    },
+    {
+      "id": "q33",
+      "prompt": "What is the translation for 'the life blood'?",
+      "choices": [
+        "l’élément vital, la force vive",
+        "l'élément fatal, la force dure",
+        "l'élément total, la force pure",
+        "l'élément moral, la force rare",
+        "l'élément rural, la force fixe"
+      ],
+      "correctIndex": 0,
+      "explanation": "'The life blood' translates as 'l’élément vital, la force vive'."
+    },
+    {
+      "id": "q34",
+      "prompt": "How is the phrase 'to coin a term' translated?",
+      "choices": [
+        "inventer un mot",
+        "imprimer un mot",
+        "inscrire un mot",
+        "invoquer un mot",
+        "indiquer un mot"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To coin a term' means 'inventer un mot'."
+    },
+    {
+      "id": "q35",
+      "prompt": "What is 'The West Indies' in French?",
+      "choices": [
+        "les Caraïbes, les Antilles anglaises",
+        "les Bermudes, les Antilles françaises",
+        "les Bahamas, les Antilles espagnoles",
+        "les Canaries, les Antilles portugaises",
+        "les Cyclades, les Antilles hollandaises"
+      ],
+      "correctIndex": 0,
+      "explanation": "'The West Indies' is translated as 'les Caraïbes, les Antilles anglaises'."
+    },
+    {
+      "id": "q36",
+      "prompt": "What is the translation for 'to go back in time'?",
+      "choices": [
+        "remonter dans le temps",
+        "regarder dans le temps",
+        "rattraper dans le temps",
+        "ressentir dans le temps",
+        "répartir dans le temps"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To go back in time' means 'remonter dans le temps'."
+    },
+    {
+      "id": "q37",
+      "prompt": "How is 'the height' (haɪt) translated?",
+      "choices": [
+        "la taille, la hauteur",
+        "la force, la largeur",
+        "la forme, la longueur",
+        "la règle, la pesanteur",
+        "la phase, la profondeur"
+      ],
+      "correctIndex": 0,
+      "explanation": "'The height' translates as 'la taille, la hauteur'."
+    },
+    {
+      "id": "q38",
+      "prompt": "What does 'to be under (British) rule' mean?",
+      "choices": [
+        "être sous domination (britannique)",
+        "être sous protection (britannique)",
+        "être sous légation (britannique)",
+        "être sous fédération (britannique)",
+        "être sous délégation (britannique)"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To be under rule' is 'être sous domination'."
+    },
+    {
+      "id": "q39",
+      "prompt": "How is 'to flow-flew-flown' translated?",
+      "choices": [
+        "couler",
+        "couper",
+        "courir",
+        "coudre",
+        "couver"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To flow' means 'couler' in French."
+    },
+    {
+      "id": "q40",
+      "prompt": "What is the French translation for 'huge' (hjuːdʒ)?",
+      "choices": [
+        "immense, énorme",
+        "humain, étrange",
+        "infime, étroite",
+        "intime, élégante",
+        "inégal, erronée"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Huge' translates to 'immense, énorme'."
+    },
+    {
+      "id": "q41",
+      "prompt": "What does 'to unload' mean?",
+      "choices": [
+        "décharger",
+        "décliner",
+        "déplacer",
+        "dépasser",
+        "démarquer"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To unload' is 'décharger'."
+    },
+    {
+      "id": "q42",
+      "prompt": "How is 'whether it is X or Y' translated?",
+      "choices": [
+        "que ce soit X ou Y",
+        "que ce soit X et Y",
+        "que ce soit X ni Y",
+        "que ce soit X car Y",
+        "que ce soit X par Y"
+      ],
+      "correctIndex": 0,
+      "explanation": "The list translates this as 'que ce soit X ou Y'."
+    },
+    {
+      "id": "q43",
+      "prompt": "What is the meaning of 'the spice'?",
+      "choices": [
+        "l’épice",
+        "l’étape",
+        "l’étude",
+        "l’échelle",
+        "l’énigme"
+      ],
+      "correctIndex": 0,
+      "explanation": "'The spice' is 'l’épice'."
+    },
+    {
+      "id": "q44",
+      "prompt": "How is 'accurately' translated?",
+      "choices": [
+        "précisément",
+        "brusquement",
+        "étroitement",
+        "totalement",
+        "légèrement"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Accurately' translates as 'précisément'."
+    },
+    {
+      "id": "q45",
+      "prompt": "What does 'to be X hours ahead of ...' mean?",
+      "choices": [
+        "être X heures en avance sur",
+        "être X heures en retard sur",
+        "être X heures en accord sur",
+        "être X heures en dehors sur",
+        "être X heures en limite sur"
+      ],
+      "correctIndex": 0,
+      "explanation": "It means 'être X heures en avance sur'."
+    },
+    {
+      "id": "q46",
+      "prompt": "What is the translation for 'since' in this context?",
+      "choices": [
+        "étant donné que",
+        "étant admis que",
+        "étant exclu que",
+        "étant prévu que",
+        "étant connu que"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Since' is translated as 'étant donné que'."
+    },
+    {
+      "id": "q47",
+      "prompt": "What is 'Greenwich Mean Time'?",
+      "choices": [
+        "Heure de Greenwich, Heure GMT",
+        "Heure de Glasgow, Heure GMT",
+        "Heure de Gênes, Heure GMT",
+        "Heure de Gand, Heure GMT",
+        "Heure de Genève, Heure GMT"
+      ],
+      "correctIndex": 0,
+      "explanation": "GMT stands for Greenwich Mean Time."
+    },
+    {
+      "id": "q48",
+      "prompt": "How is 'to be fuelled by' translated?",
+      "choices": [
+        "être alimenté par",
+        "être emporté par",
+        "être alarmé par",
+        "être attaché par",
+        "être achevé par"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To be fuelled by' translates as 'être alimenté par'."
+    },
+    {
+      "id": "q49",
+      "prompt": "What is the translation for 'awesome'?",
+      "choices": [
+        "super",
+        "sombre",
+        "simple",
+        "souple",
+        "stable"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Awesome' is translated simply as 'super'."
+    },
+    {
+      "id": "q50",
+      "prompt": "What does 'to seek-sought-sought' mean?",
+      "choices": [
+        "chercher",
+        "changer",
+        "chanter",
+        "chasser",
+        "charger"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To seek' means 'chercher'."
+    },
+    {
+      "id": "q51",
+      "prompt": "How is 'an edge' defined?",
+      "choices": [
+        "un avantage",
+        "un passage",
+        "un message",
+        "un blocage",
+        "un partage"
+      ],
+      "correctIndex": 0,
+      "explanation": "In this vocabulary list, 'an edge' is 'un avantage'."
+    },
+    {
+      "id": "q52",
+      "prompt": "What is 'the crowd' (kraʊd)?",
+      "choices": [
+        "la foule",
+        "la route",
+        "la ville",
+        "la force",
+        "la règle"
+      ],
+      "correctIndex": 0,
+      "explanation": "'The crowd' is 'la foule'."
+    },
+    {
+      "id": "q53",
+      "prompt": "How is 'to issue' (ˈɪʃuː) translated?",
+      "choices": [
+        "émettre, publier",
+        "éluder, oublier",
+        "élargir, lier",
+        "éviter, trier",
+        "évaluer, scier"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To issue' means 'émettre, publier'."
+    },
+    {
+      "id": "q54",
+      "prompt": "What does 'to be worth X dollars' mean?",
+      "choices": [
+        "valoir X dollars",
+        "vendre X dollars",
+        "vouloir X dollars",
+        "verser X dollars",
+        "voter X dollars"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To be worth' means 'valoir'."
+    },
+    {
+      "id": "q55",
+      "prompt": "What is 'a beverage'?",
+      "choices": [
+        "une boisson",
+        "une mission",
+        "une gestion",
+        "une pension",
+        "une tension"
+      ],
+      "correctIndex": 0,
+      "explanation": "'A beverage' is 'une boisson'."
+    },
+    {
+      "id": "q56",
+      "prompt": "What is 'the railway'?",
+      "choices": [
+        "la ligne de chemin de fer",
+        "la ligne de chemin de bus",
+        "la ligne de chemin de mer",
+        "la ligne de chemin de sol",
+        "la ligne de chemin de air"
+      ],
+      "correctIndex": 0,
+      "explanation": "'The railway' is 'la ligne de chemin de fer'."
+    },
+    {
+      "id": "q57",
+      "prompt": "How is the word 'among' translated?",
+      "choices": [
+        "parmi",
+        "parle",
+        "parti",
+        "parvi",
+        "parsi"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Among' translates to 'parmi'."
+    },
+    {
+      "id": "q58",
+      "prompt": "What does 'to turn sth into sth else' mean?",
+      "choices": [
+        "se changer en, se transformer en",
+        "se limiter en, se conformer en",
+        "se diviser en, se transporter en",
+        "se diriger en, se transmettre en",
+        "se décider en, se transcrire en"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To turn sth into sth else' means 'se changer en, se transformer en'."
+    },
+    {
+      "id": "q59",
+      "prompt": "How is 'an enclosed space' translated?",
+      "choices": [
+        "un espace clos",
+        "un espace vert",
+        "un espace gris",
+        "un espace bleu",
+        "un espace noir"
+      ],
+      "correctIndex": 0,
+      "explanation": "'An enclosed space' is 'un espace clos'."
+    },
+    {
+      "id": "q60",
+      "prompt": "What is the translation for 'to go back to'?",
+      "choices": [
+        "revenir à",
+        "retenir à",
+        "recevoir à",
+        "regarder à",
+        "relever à"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To go back to' means 'revenir à'."
+    }
+  ]
+}
