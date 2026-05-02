@@ -1,0 +1,598 @@
+{
+  "quizId": "apple-broken-promises-vocabulary-quiz",
+  "title": "Apple’s Broken Promises",
+  "section": {
+    "id": "apples-broken-promises-vocabulary",
+    "title": "Apple’s Broken Promises",
+    "startPage": 10,
+    "endPage": 11,
+    "summary": "Business and manufacturing vocabulary focusing on labor conditions, supply chains, and corporate social responsibility."
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "What is the English equivalent for the French term 'vérité'?",
+      "choices": [
+        "truth",
+        "faith",
+        "state",
+        "brand",
+        "worth"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to the vocabulary list, 'truth' translates to 'vérité'."
+    },
+    {
+      "id": "q2",
+      "prompt": "In a corporate context, what does the term 'valuable' mean?",
+      "choices": [
+        "de grande valeur",
+        "de faible intérêt",
+        "de nature interne",
+        "de source unique",
+        "de type complexe"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Valuable' is defined in the source as 'de grande valeur'."
+    },
+    {
+      "id": "q3",
+      "prompt": "How is the verb 'to operate' translated in the text?",
+      "choices": [
+        "exploiter",
+        "enquêter",
+        "rappeler",
+        "préparer",
+        "connaître"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source identifies 'to operate' as 'exploiter'."
+    },
+    {
+      "id": "q4",
+      "prompt": "What is the translation for the adjective 'heartless'?",
+      "choices": [
+        "cruel",
+        "froid",
+        "brave",
+        "lourd",
+        "vague"
+      ],
+      "correctIndex": 0,
+      "explanation": "The word 'heartless' is translated as 'cruel' in the provided vocabulary list."
+    },
+    {
+      "id": "q5",
+      "prompt": "Which term corresponds to the action of starting a project or product, known as 'lancer'?",
+      "choices": [
+        "to launch",
+        "to handle",
+        "to change",
+        "to follow",
+        "to manage"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To launch' corresponds to 'lancer' in the text."
+    },
+    {
+      "id": "q6",
+      "prompt": "The word 'iconic' is translated as:",
+      "choices": [
+        "emblématique",
+        "périphérique",
+        "systématique",
+        "automatique",
+        "cinématique"
+      ],
+      "correctIndex": 0,
+      "explanation": "The list specifies 'iconic' as 'emblématique'."
+    },
+    {
+      "id": "q7",
+      "prompt": "What is the French equivalent for 'commitment'?",
+      "choices": [
+        "engagement",
+        "alignement",
+        "développement",
+        "déplacement",
+        "équipement"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Commitment' is translated as 'engagement' in the provided list."
+    },
+    {
+      "id": "q8",
+      "prompt": "What does the business term 'supply chain' refer to?",
+      "choices": [
+        "chaîne logistique",
+        "chaîne de valeur",
+        "chaîne de commande",
+        "chaîne de montage",
+        "chaîne de qualité"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source defines 'supply chain' as 'chaîne logistique'."
+    },
+    {
+      "id": "q9",
+      "prompt": "Which French phrase translates the English verb 'to fulfil'?",
+      "choices": [
+        "accomplir, réaliser",
+        "instruire, former",
+        "conclure, fermer",
+        "prévoir, estimer",
+        "élaborer, tenter"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To fulfil' is translated as 'accomplir, réaliser' in the source text."
+    },
+    {
+      "id": "q10",
+      "prompt": "What is the definition of 'purpose' in the context of this vocabulary?",
+      "choices": [
+        "objectif",
+        "courrier",
+        "bénéfice",
+        "progrès",
+        "contrat"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to the list, 'purpose' means 'objectif'."
+    },
+    {
+      "id": "q11",
+      "prompt": "Translate the phrase 'the whole package' into French.",
+      "choices": [
+        "la totale",
+        "la raison",
+        "la source",
+        "la valeur",
+        "la hausse"
+      ],
+      "correctIndex": 0,
+      "explanation": "The list defines 'whole package' (or 'the whole package') as 'la totale'."
+    },
+    {
+      "id": "q12",
+      "prompt": "What does the verb 'to investigate' mean?",
+      "choices": [
+        "enquêter",
+        "rapporter",
+        "demander",
+        "prévenir",
+        "modifier"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To investigate' is translated as 'enquêter'."
+    },
+    {
+      "id": "q13",
+      "prompt": "The term 'workforce' refers to:",
+      "choices": [
+        "population active",
+        "période de repos",
+        "condition locale",
+        "ressource brute",
+        "direction fixe"
+      ],
+      "correctIndex": 0,
+      "explanation": "In the text, 'workforce' is translated as 'population active, main-d’œuvre'."
+    },
+    {
+      "id": "q14",
+      "prompt": "What is the translation for 'raw materials'?",
+      "choices": [
+        "matières premières",
+        "matières toxiques",
+        "matières simples",
+        "matières lourdes",
+        "matières brèves"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Raw materials' corresponds to 'matières premières'."
+    },
+    {
+      "id": "q15",
+      "prompt": "How is 'to manufacture' translated?",
+      "choices": [
+        "fabriquer",
+        "distribuer",
+        "enfreindre",
+        "ressortir",
+        "proposer"
+      ],
+      "correctIndex": 0,
+      "explanation": "The list defines 'to manufacture' as 'fabriquer'."
+    },
+    {
+      "id": "q16",
+      "prompt": "The term 'labour' is another word for:",
+      "choices": [
+        "main-d’œuvre",
+        "perte de temps",
+        "frais de port",
+        "centre d'art",
+        "poids du sac"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Labour' is translated as 'main-d’œuvre'."
+    },
+    {
+      "id": "q17",
+      "prompt": "What does the adverb 'cheaply' mean?",
+      "choices": [
+        "à moindre prix",
+        "à haute voix",
+        "à juste titre",
+        "à titre privé",
+        "à durée fixe"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Cheaply' translates to 'à moindre prix, à peu de frais'."
+    },
+    {
+      "id": "q18",
+      "prompt": "What is a 'supplier' in French?",
+      "choices": [
+        "fournisseur",
+        "examinateur",
+        "utilisateur",
+        "coordinateur",
+        "négociateur"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Supplier' translates to 'fournisseur' in the list."
+    },
+    {
+      "id": "q19",
+      "prompt": "Translate the adjective 'harsh' into French.",
+      "choices": [
+        "dur, rude",
+        "noir, gris",
+        "vif, fort",
+        "pur, sain",
+        "net, poli"
+      ],
+      "correctIndex": 0,
+      "explanation": "The adjective 'harsh' is translated as 'dur, rude'."
+    },
+    {
+      "id": "q20",
+      "prompt": "Which term describes the 'outskirts' of a city?",
+      "choices": [
+        "périphérie",
+        "industrie",
+        "hiérarchie",
+        "stratégie",
+        "académie"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Outskirts' corresponds to 'périphérie'."
+    },
+    {
+      "id": "q21",
+      "prompt": "How is the word 'undercover' defined?",
+      "choices": [
+        "clandestinement",
+        "essentiellement",
+        "favorablement",
+        "particulièrement",
+        "traditionnellement"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Undercover' is translated as 'clandestinement'."
+    },
+    {
+      "id": "q22",
+      "prompt": "What is the translation of 'to fingerprint'?",
+      "choices": [
+        "relever les empreintes digitales",
+        "étudier les structures sociales",
+        "vérifier les conditions locales",
+        "calculer les bénéfices annuels",
+        "publier les documents officiels"
+      ],
+      "correctIndex": 0,
+      "explanation": "The list defines 'to fingerprint' as 'relever les empreintes digitales'."
+    },
+    {
+      "id": "q23",
+      "prompt": "Which English verb means 'enfreindre' in French?",
+      "choices": [
+        "to breach",
+        "to branch",
+        "to reach",
+        "to beach",
+        "to search"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source identifies 'to breach' as 'enfreindre'."
+    },
+    {
+      "id": "q24",
+      "prompt": "Translate the verb 'to state' as it appears in the list.",
+      "choices": [
+        "déclarer, affirmer",
+        "évaluer, mesurer",
+        "prévoir, attendre",
+        "changer, modifier",
+        "étendre, élargir"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To state' is translated as 'déclarer, affirmer'."
+    },
+    {
+      "id": "q25",
+      "prompt": "What is a 'dormitory'?",
+      "choices": [
+        "dortoir",
+        "logement",
+        "couloir",
+        "manoir",
+        "comptoir"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Dortoir' is the French translation for 'dormitory'."
+    },
+    {
+      "id": "q26",
+      "prompt": "What does 'accommodation' refer to?",
+      "choices": [
+        "logement",
+        "vêtement",
+        "traitement",
+        "équipement",
+        "mouvement"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'accommodation' is translated as 'logement' in the text."
+    },
+    {
+      "id": "q27",
+      "prompt": "What is the translation for the adjective 'cramped'?",
+      "choices": [
+        "exigu",
+        "froid",
+        "large",
+        "ouvert",
+        "souple"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Cramped' is translated as 'exigu'."
+    },
+    {
+      "id": "q28",
+      "prompt": "As a noun, what does 'breach' mean?",
+      "choices": [
+        "infraction",
+        "exception",
+        "opération",
+        "intention",
+        "direction"
+      ],
+      "correctIndex": 0,
+      "explanation": "The noun 'breach' is defined as 'infraction' in the source."
+    },
+    {
+      "id": "q29",
+      "prompt": "Translate 'chemicals' into French.",
+      "choices": [
+        "produits chimiques",
+        "produits toxiques",
+        "produits basiques",
+        "produits uniques",
+        "produits locaux"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Chemicals' translates to 'produits chimiques'."
+    },
+    {
+      "id": "q30",
+      "prompt": "What does the phrasal verb 'to hand out' mean?",
+      "choices": [
+        "distribuer",
+        "organiser",
+        "supprimer",
+        "renforcer",
+        "déterminer"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To hand out' is translated as 'distribuer'."
+    },
+    {
+      "id": "q31",
+      "prompt": "What is the French equivalent for 'paperwork'?",
+      "choices": [
+        "les documents administratifs",
+        "les rapports de production",
+        "les contrats de travail",
+        "les dossiers techniques",
+        "les fichiers numériques"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Paperwork' is defined as 'les documents administratifs'."
+    },
+    {
+      "id": "q32",
+      "prompt": "Translate 'evidence' in the context of this vocabulary list.",
+      "choices": [
+        "preuve",
+        "source",
+        "charge",
+        "besoin",
+        "risque"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Evidence' corresponds to 'preuve' in the list."
+    },
+    {
+      "id": "q33",
+      "prompt": "Where is the 'shop floor' located in a factory?",
+      "choices": [
+        "atelier",
+        "bureau",
+        "entrepôt",
+        "parking",
+        "accueil"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Shop floor' is translated as 'atelier' in the source."
+    },
+    {
+      "id": "q34",
+      "prompt": "What does 'heart-stopping' mean?",
+      "choices": [
+        "angoissant, effrayant",
+        "ennuyeux, lassant",
+        "intéressant, plaisant",
+        "fatigant, épuisant",
+        "excellent, brillant"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Heart-stopping' is defined as 'angoissant, effrayant'."
+    },
+    {
+      "id": "q35",
+      "prompt": "Which verb is used for 'emprisonner'?",
+      "choices": [
+        "to jail",
+        "to nail",
+        "to sail",
+        "to tail",
+        "to mail"
+      ],
+      "correctIndex": 0,
+      "explanation": "The verb 'to jail' corresponds to 'emprisonner'."
+    },
+    {
+      "id": "q36",
+      "prompt": "What does 'to stand out' mean?",
+      "choices": [
+        "ressortir, sauter aux yeux",
+        "partir, quitter les lieux",
+        "venir, être au milieu",
+        "agir, faire de son mieux",
+        "finir, être le plus vieux"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To stand out' is translated as 'ressortir, sauter aux yeux'."
+    },
+    {
+      "id": "q37",
+      "prompt": "Translate the adjective 'exhausted' into French.",
+      "choices": [
+        "épuisé, exténué",
+        "ennuyé, agacé",
+        "étonné, surpris",
+        "écouté, suivi",
+        "élu, choisi"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Exhausted' is defined as 'épuisé, exténué' in the source."
+    },
+    {
+      "id": "q38",
+      "prompt": "What is the translation for 'shift' in a work environment?",
+      "choices": [
+        "équipe, période de travail",
+        "pause, période de repos",
+        "poste, période de garde",
+        "ordre, période de tâche",
+        "tâche, période de durée"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Shift' translates to 'équipe, période de travail'."
+    },
+    {
+      "id": "q39",
+      "prompt": "What does 'overtime' refer to?",
+      "choices": [
+        "heures supplémentaires",
+        "heures obligatoires",
+        "heures intérimaires",
+        "heures journalières",
+        "heures régulières"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Overtime' is translated as 'heures supplémentaires'."
+    },
+    {
+      "id": "q40",
+      "prompt": "What are 'headquarters'?",
+      "choices": [
+        "siège",
+        "usine",
+        "vente",
+        "ordre",
+        "stade"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Headquarters' translates to 'siège' in the vocabulary list."
+    },
+    {
+      "id": "q41",
+      "prompt": "How is 'to expect' translated?",
+      "choices": [
+        "attendre",
+        "atteindre",
+        "apprendre",
+        "entendre",
+        "vendre"
+      ],
+      "correctIndex": 0,
+      "explanation": "The verb 'to expect' is translated as 'attendre'."
+    },
+    {
+      "id": "q42",
+      "prompt": "What does 'to dig' mean in French?",
+      "choices": [
+        "creuser",
+        "choisir",
+        "conduire",
+        "chercher",
+        "courir"
+      ],
+      "correctIndex": 0,
+      "explanation": "The verb 'to dig' translates to 'creuser'."
+    },
+    {
+      "id": "q43",
+      "prompt": "What is the French word for 'mud'?",
+      "choices": [
+        "boue",
+        "sable",
+        "terre",
+        "roche",
+        "poussière"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Mud' is translated as 'boue' in the provided list."
+    },
+    {
+      "id": "q44",
+      "prompt": "What is the French word for 'sand'?",
+      "choices": [
+        "sable",
+        "boue",
+        "terre",
+        "pierre",
+        "brique"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Sand' is translated as 'sable' in the source."
+    },
+    {
+      "id": "q45",
+      "prompt": "What does 'hardly' mean?",
+      "choices": [
+        "à peine",
+        "à temps",
+        "à l'aise",
+        "à fond",
+        "à part"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Hardly' is translated as 'à peine' in the vocabulary list."
+    }
+  ]
+}
