@@ -1,0 +1,599 @@
+{
+  "quizId": "childhood-obesity-voc-quiz",
+  "title": "Childhood Obesity Vocabulary",
+  "section": {
+    "id": "childhood-obesity-voc",
+    "title": "Childhood Obesity Vocabulary",
+    "startPage": 3,
+    "endPage": 3,
+    "summary": "Health and nutrition-focused vocabulary, including words like 'nutritious', 'whole grains', and 'well-being'.",
+    "estimatedQuestionCount": 46
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "How do you translate 'childhood' into French?",
+      "choices": [
+        "enfance",
+        "jeunesse",
+        "innocence",
+        "existence",
+        "naissance"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to the source, 'childhood' translates to 'enfance'."
+    },
+    {
+      "id": "q2",
+      "prompt": "What is the French equivalent of 'overweight'?",
+      "choices": [
+        "en surpoids",
+        "en difficulté",
+        "en croissance",
+        "en mouvement",
+        "en retard"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source defines 'overweight' as 'en surpoids'."
+    },
+    {
+      "id": "q3",
+      "prompt": "How is 'weight' translated in the provided list?",
+      "choices": [
+        "masse",
+        "taille",
+        "poids",
+        "forme",
+        "santé"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Weight' is translated as 'poids'."
+    },
+    {
+      "id": "q4",
+      "prompt": "What does the term 'breakneck' mean in French?",
+      "choices": [
+        "calme, serein",
+        "rapide, agile",
+        "vertigineux, fou",
+        "dangereux, lent",
+        "complexe, dur"
+      ],
+      "correctIndex": 2,
+      "explanation": "In the source, 'breakneck' is translated as 'vertigineux, fou'."
+    },
+    {
+      "id": "q5",
+      "prompt": "Translate the word 'pace' into French:",
+      "choices": [
+        "allure, vitesse",
+        "temps, durée",
+        "force, vigueur",
+        "forme, ligne",
+        "santé, état"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Pace' means 'allure, vitesse'."
+    },
+    {
+      "id": "q6",
+      "prompt": "What is the French translation for 'well-being'?",
+      "choices": [
+        "bien-aimé",
+        "bien-pensé",
+        "bien-être",
+        "bien-fondé",
+        "bien-faire"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Well-being' corresponds to 'bien-être'."
+    },
+    {
+      "id": "q7",
+      "prompt": "Translate 'to get lost in the shuffle' into French:",
+      "choices": [
+        "être perdu dans la foule",
+        "être oublié dans le processus",
+        "être guidé vers la réussite",
+        "être rejeté par les experts",
+        "être inclus dans le programme"
+      ],
+      "correctIndex": 1,
+      "explanation": "The source lists 'to get lost in the shuffle' as 'être oublié dans le processus'."
+    },
+    {
+      "id": "q8",
+      "prompt": "How do you translate the conjunction 'whether'?",
+      "choices": [
+        "si (oui ou non)",
+        "ainsi que cela",
+        "malgré le fait",
+        "tandis que non",
+        "pourtant ou si"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Whether' is translated as 'si (oui ou non)'."
+    },
+    {
+      "id": "q9",
+      "prompt": "What is the French word for 'recess'?",
+      "choices": [
+        "récréation",
+        "éducation",
+        "formation",
+        "rédaction",
+        "traduction"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Recess' is translated as 'récréation'."
+    },
+    {
+      "id": "q10",
+      "prompt": "Translate 'to market (to)' into French:",
+      "choices": [
+        "industrialiser",
+        "généraliser",
+        "centraliser",
+        "commercialiser",
+        "standardiser"
+      ],
+      "correctIndex": 3,
+      "explanation": "'To market (to)' means 'commercialiser'."
+    },
+    {
+      "id": "q11",
+      "prompt": "What is the French equivalent of 'actually'?",
+      "choices": [
+        "en fait",
+        "souvent",
+        "parfois",
+        "bientôt",
+        "partout"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'actually' means 'en fait'."
+    },
+    {
+      "id": "q12",
+      "prompt": "How is 'to solve' translated in the vocabulary list?",
+      "choices": [
+        "réagir",
+        "réduire",
+        "résoudre",
+        "réussir",
+        "répéter"
+      ],
+      "correctIndex": 2,
+      "explanation": "'To solve' is translated as 'résoudre'."
+    },
+    {
+      "id": "q13",
+      "prompt": "Translate 'adulthood' into French:",
+      "choices": [
+        "âge tendre",
+        "âge mûr",
+        "âge adulte",
+        "âge légal",
+        "âge requis"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Adulthood' corresponds to 'âge adulte'."
+    },
+    {
+      "id": "q14",
+      "prompt": "What is the French word for 'healthy'?",
+      "choices": [
+        "bon",
+        "sain",
+        "pur",
+        "vif",
+        "fort"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Healthy' is translated as 'sain'."
+    },
+    {
+      "id": "q15",
+      "prompt": "Translate the idiom 'to turn back the clock' into French:",
+      "choices": [
+        "remonter dans le temps, revenir en arrière",
+        "observer le monde, agir sur le futur",
+        "regarder le passé, ignorer la réalité",
+        "dépasser les limites, aller de l'avant",
+        "modifier les chiffres, changer la donne"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source translates 'to turn back the clock' as 'remonter dans le temps, revenir en arrière'."
+    },
+    {
+      "id": "q16",
+      "prompt": "What does 'from scratch' mean in French?",
+      "choices": [
+        "à partir de rien",
+        "à la fin du jour",
+        "à cause du vent",
+        "à travers le mur",
+        "à l'aide de tous"
+      ],
+      "correctIndex": 0,
+      "explanation": "'From scratch' is translated as 'à partir de rien'."
+    },
+    {
+      "id": "q17",
+      "prompt": "How is 'manageable' translated?",
+      "choices": [
+        "gérable, faisable",
+        "simple, agréable",
+        "souple, ajustable",
+        "stable, durable",
+        "rapide, rentable"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Manageable' is translated as 'gérable, faisable'."
+    },
+    {
+      "id": "q18",
+      "prompt": "Translate 'fit' into French in this context:",
+      "choices": [
+        "en ligne",
+        "en forme",
+        "en route",
+        "en ordre",
+        "en reste"
+      ],
+      "correctIndex": 1,
+      "explanation": "In this vocabulary list, 'fit' means 'en forme'."
+    },
+    {
+      "id": "q19",
+      "prompt": "How is 'schedule' translated into French?",
+      "choices": [
+        "emploi du temps, horaire",
+        "niveau de vie, budget",
+        "moyen de transport, bus",
+        "ordre de marche, plan",
+        "durée de vie, cycle"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Schedule' translates to 'emploi du temps, horaire'."
+    },
+    {
+      "id": "q20",
+      "prompt": "What is the French word for 'nutritious'?",
+      "choices": [
+        "naturel",
+        "nerveux",
+        "nutritif",
+        "nuisible",
+        "nominal"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Nutritious' corresponds to 'nutritif'."
+    },
+    {
+      "id": "q21",
+      "prompt": "Translate 'whole grains' into French:",
+      "choices": [
+        "céréales complètes",
+        "produits laitiers",
+        "légumes surgelés",
+        "graisses saturées",
+        "sucres synthétiques"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Whole grains' translates to 'céréales complètes'."
+    },
+    {
+      "id": "q22",
+      "prompt": "How do you translate the verb 'to lead'?",
+      "choices": [
+        "mener",
+        "suivre",
+        "gagner",
+        "donner",
+        "porter"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To lead' is translated as 'mener'."
+    },
+    {
+      "id": "q23",
+      "prompt": "What is the French equivalent of 'mayor'?",
+      "choices": [
+        "maire, bourgmestre",
+        "maitre, enseignant",
+        "juge, magistrat",
+        "chef, dirigeant",
+        "préfet, délégué"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Mayor' translates as 'maire, bourgmestre'."
+    },
+    {
+      "id": "q24",
+      "prompt": "Translate 'school supplier' into French:",
+      "choices": [
+        "un fournisseur d’école",
+        "un inspecteur d’école",
+        "un professeur d’école",
+        "un directeur d’école",
+        "un surveillant d’école"
+      ],
+      "correctIndex": 0,
+      "explanation": "'School supplier' is 'un fournisseur d’école'."
+    },
+    {
+      "id": "q25",
+      "prompt": "How is 'the amount of' translated in French?",
+      "choices": [
+        "la quantité de",
+        "le bénéfice de",
+        "le résultat de",
+        "la structure de",
+        "la naissance de"
+      ],
+      "correctIndex": 0,
+      "explanation": "'The amount of' translates as 'la quantité de'."
+    },
+    {
+      "id": "q26",
+      "prompt": "What is the French word for 'beverage'?",
+      "choices": [
+        "boisson",
+        "cuisson",
+        "mission",
+        "passion",
+        "pension"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Beverage' is translated as 'boisson'."
+    },
+    {
+      "id": "q27",
+      "prompt": "Translate 'to provide' into French:",
+      "choices": [
+        "réduire",
+        "fournir",
+        "choisir",
+        "réussir",
+        "dormir"
+      ],
+      "correctIndex": 1,
+      "explanation": "'To provide' means 'fournir'."
+    },
+    {
+      "id": "q28",
+      "prompt": "How is 'vending machine' translated in French?",
+      "choices": [
+        "ordinateur portable",
+        "machine à calculer",
+        "distributeur automatique",
+        "projecteur numérique",
+        "lecteur de badges"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Vending machine' is 'distributeur automatique'."
+    },
+    {
+      "id": "q29",
+      "prompt": "What is the French word for 'confident'?",
+      "choices": [
+        "patient",
+        "étonnant",
+        "méfiant",
+        "constant",
+        "confiant"
+      ],
+      "correctIndex": 4,
+      "explanation": "'Confident' translates to 'confiant'."
+    },
+    {
+      "id": "q30",
+      "prompt": "How do you translate 'to ensure'?",
+      "choices": [
+        "assurer",
+        "préparer",
+        "décorer",
+        "ignorer",
+        "libérer"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To ensure' means 'assurer'."
+    },
+    {
+      "id": "q31",
+      "prompt": "What is the French translation for 'strength'?",
+      "choices": [
+        "la force",
+        "le calme",
+        "le poids",
+        "le choix",
+        "le doute"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source translates 'strength' as 'la force'."
+    },
+    {
+      "id": "q32",
+      "prompt": "Translate the verb 'to seize' into French:",
+      "choices": [
+        "ouvrir",
+        "saisir",
+        "dormir",
+        "réussir",
+        "partir"
+      ],
+      "correctIndex": 1,
+      "explanation": "'To seize' is translated as 'saisir'."
+    },
+    {
+      "id": "q33",
+      "prompt": "What does 'to pursue' mean in French?",
+      "choices": [
+        "poursuivre",
+        "convaincre",
+        "construire",
+        "détruire",
+        "produire"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To pursue' translates to 'poursuivre'."
+    },
+    {
+      "id": "q34",
+      "prompt": "Translate 'to keep up with' into French:",
+      "choices": [
+        "suivre, garder le rythme",
+        "courir, éviter le danger",
+        "rester, fixer la limite",
+        "ouvrir, casser le verrou",
+        "partir, changer le plan"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To keep up with' means 'suivre, garder le rythme'."
+    },
+    {
+      "id": "q35",
+      "prompt": "How do you translate the expression 'no matter'?",
+      "choices": [
+        "pas du tout",
+        "peu importe",
+        "sans aucun",
+        "plus encore",
+        "bien assez"
+      ],
+      "correctIndex": 1,
+      "explanation": "'No matter' is translated as 'peu importe'."
+    },
+    {
+      "id": "q36",
+      "prompt": "Translate 'to beg (for)' into French:",
+      "choices": [
+        "supplier",
+        "demander",
+        "insister",
+        "proposer",
+        "accepter"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To beg (for)' means 'supplier'."
+    },
+    {
+      "id": "q37",
+      "prompt": "Translate the idiom 'to call the shots' into French:",
+      "choices": [
+        "faire la loi, mener la danse",
+        "prendre le risque, jouer le jeu",
+        "donner le ton, gérer la crise",
+        "perdre le nord, rater le coche",
+        "garder le secret, briser le lien"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source translates 'to call the shots' as 'faire la loi, mener la danse'."
+    },
+    {
+      "id": "q38",
+      "prompt": "What does 'a condition' mean in this context?",
+      "choices": [
+        "une maladie",
+        "une règle",
+        "une limite",
+        "une étape",
+        "une cause"
+      ],
+      "correctIndex": 0,
+      "explanation": "In this list, 'a condition' is translated as 'une maladie'."
+    },
+    {
+      "id": "q39",
+      "prompt": "Translate 'manufacturer' into French:",
+      "choices": [
+        "un détaillant",
+        "un fabricant",
+        "un commerçant",
+        "un négociant",
+        "un consultant"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Manufacturer' translates to 'un fabricant'."
+    },
+    {
+      "id": "q40",
+      "prompt": "What is the French equivalent of 'retailer'?",
+      "choices": [
+        "un détaillant",
+        "un fabricant",
+        "un artisan",
+        "un paysan",
+        "un gardien"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Retailer' translates to 'un détaillant'."
+    },
+    {
+      "id": "q41",
+      "prompt": "How is the verb 'to urge' translated?",
+      "choices": [
+        "inciter",
+        "inviter",
+        "insister",
+        "ignorer",
+        "indiquer"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To urge' is translated as 'inciter'."
+    },
+    {
+      "id": "q42",
+      "prompt": "Translate 'to screen' into French in this context:",
+      "choices": [
+        "dépister",
+        "regarder",
+        "bloquer",
+        "cacher",
+        "filmer"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'to screen' is translated as 'dépister'."
+    },
+    {
+      "id": "q43",
+      "prompt": "What is the French equivalent of 'to write out'?",
+      "choices": [
+        "rédiger par écrit",
+        "lire à haute voix",
+        "dire sans parler",
+        "faire par erreur",
+        "être en colère"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To write out' means 'rédiger par écrit'."
+    },
+    {
+      "id": "q44",
+      "prompt": "How do you translate 'either' in the list?",
+      "choices": [
+        "non plus",
+        "tout bas",
+        "bien sûr",
+        "plus tôt",
+        "partout"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to the source, 'either' translates to 'non plus'."
+    },
+    {
+      "id": "q45",
+      "prompt": "Translate 'grocery store' into French:",
+      "choices": [
+        "supérette, magasin d’alimentation",
+        "boulangerie, point de vente",
+        "librairie, centre de loisirs",
+        "papeterie, bureau de poste",
+        "bijouterie, salon de mode"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Grocery store' corresponds to 'supérette, magasin d’alimentation'."
+    }
+  ]
+}
