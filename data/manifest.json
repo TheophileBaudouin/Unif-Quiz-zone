@@ -1,55 +1,15 @@
 {
   "documentTitle": "English Vocabulary and Irregular Verbs",
-  "generatedAt": "2026-05-02T13:31:14.676Z",
+  "generatedAt": "2026-05-02T14:06:57.733Z",
   "sourcePdf": "anglais_voc.pdf",
   "quizzes": [
     {
-      "id": "quiz-problems-questions-learners",
-      "title": "Problems and Questions Submitted by Learners of English",
-      "file": "quiz-problems-questions-learners.json",
+      "id": "affirmation-absolutisme",
+      "title": "Quiz - L'absolutisme",
+      "file": "quiz-affirmation-absolutisme.json",
       "questionCount": 40,
-      "pageStart": 1,
-      "pageEnd": 1
-    },
-    {
-      "id": "walking-dead-vocabulary-quiz",
-      "title": "The Walking Dead Vocabulary",
-      "file": "quiz-walking-dead-vocabulary.json",
-      "questionCount": 45,
-      "pageStart": 17,
-      "pageEnd": 17
-    },
-    {
-      "id": "childhood-obesity-vocabulary-quiz",
-      "title": "Childhood Obesity Vocabulary",
-      "file": "quiz-childhood-obesity-vocabulary.json",
-      "questionCount": 45,
-      "pageStart": 21,
-      "pageEnd": 21
-    },
-    {
-      "id": "metropolis-london-vocabulary-quiz",
-      "title": "Metropolis: London Vocabulary",
-      "file": "quiz-metropolis-london-vocabulary.json",
-      "questionCount": 50,
-      "pageStart": 31,
-      "pageEnd": 32
-    },
-    {
-      "id": "smartphones-brain-focus-vocabulary-quiz",
-      "title": "How Smartphones Sabotage Your Brain's Ability to Focus",
-      "file": "quiz-smartphones-brain-focus-vocabulary.json",
-      "questionCount": 55,
-      "pageStart": 6,
-      "pageEnd": 7
-    },
-    {
-      "id": "police-violence-vocabulary-comprehensive",
-      "title": "Police Violence Vocabulary Quiz",
-      "file": "quiz-police-violence-vocabulary.json",
-      "questionCount": 64,
-      "pageStart": 51,
-      "pageEnd": 52
+      "pageStart": 45,
+      "pageEnd": 55
     },
     {
       "id": "apple-broken-promises-vocabulary-quiz",
@@ -60,12 +20,20 @@
       "pageEnd": 11
     },
     {
-      "id": "six-degrees-change-world-vocabulary",
-      "title": "Six Degrees Could Change the World",
-      "file": "quiz-six-degrees-change-world-vocabulary.json",
+      "id": "capitalisme-globalise-anthropocene",
+      "title": "Quiz - Le capitalisme globalisé et les défis mondiaux",
+      "file": "quiz-capitalisme-globalise-anthropocene.json",
       "questionCount": 50,
-      "pageStart": 12,
-      "pageEnd": 14
+      "pageStart": 118,
+      "pageEnd": 126
+    },
+    {
+      "id": "childhood-obesity-vocabulary-quiz",
+      "title": "Childhood Obesity Vocabulary",
+      "file": "quiz-childhood-obesity-vocabulary.json",
+      "questionCount": 45,
+      "pageStart": 21,
+      "pageEnd": 21
     },
     {
       "id": "coca-cola-marketing-quiz-1",
@@ -76,12 +44,156 @@
       "pageEnd": 17
     },
     {
+      "id": "empires-mondialisation-modernes",
+      "title": "Quiz - Empires et mondialisation aux temps modernes",
+      "file": "quiz-empires-mondialisation-modernes.json",
+      "questionCount": 50,
+      "pageStart": 2,
+      "pageEnd": 20
+    },
+    {
+      "id": "guerres-et-societes-quiz",
+      "title": "Quiz - Guerres et sociétés aux temps modernes",
+      "file": "quiz-guerres-et-societes.json",
+      "questionCount": 41,
+      "pageStart": 56,
+      "pageEnd": 64
+    },
+    {
+      "id": "humanisme-et-reformes",
+      "title": "Quiz - Humanisme et Réformes",
+      "file": "quiz-humanisme-et-reformes.json",
+      "questionCount": 40,
+      "pageStart": 21,
+      "pageEnd": 29
+    },
+    {
+      "id": "ideologies-politiques-masses",
+      "title": "Quiz - Régimes et idéologies politiques à l'ère des masses",
+      "file": "quiz-ideologies-politiques-masses.json",
+      "questionCount": 40,
+      "pageStart": 88,
+      "pageEnd": 97
+    },
+    {
+      "id": "introduction-temps-modernes",
+      "title": "Quiz - Les temps modernes : Introduction",
+      "file": "quiz-introduction-temps-modernes.json",
+      "questionCount": 40,
+      "pageStart": 1,
+      "pageEnd": 2
+    },
+    {
       "id": "irregular-verbs-quiz-1",
       "title": "Irregular Verbs",
       "file": "quiz-irregular-verbs-list.json",
       "questionCount": 50,
       "pageStart": 18,
       "pageEnd": 21
+    },
+    {
+      "id": "lumieres-et-revolutions",
+      "title": "Quiz - Révolutions et Lumières au XVIIIe siècle",
+      "file": "quiz-lumieres-et-revolutions.json",
+      "questionCount": 40,
+      "pageStart": 30,
+      "pageEnd": 36
+    },
+    {
+      "id": "metropolis-london-vocabulary-quiz",
+      "title": "Metropolis: London Vocabulary",
+      "file": "quiz-metropolis-london-vocabulary.json",
+      "questionCount": 50,
+      "pageStart": 31,
+      "pageEnd": 32
+    },
+    {
+      "id": "modern-contemporary-history-exam-examples",
+      "title": "Exemples de questions d'examen - Histoire Moderne et Contemporaine",
+      "file": "quiz-exemples-questions-examen.json",
+      "questionCount": 45,
+      "pageStart": 127,
+      "pageEnd": 151
+    },
+    {
+      "id": "mondialisation-industrielle",
+      "title": "Quiz - Mondialisation industrielle, bourgeoise et capitaliste",
+      "file": "quiz-mondialisation-industrielle.json",
+      "questionCount": 40,
+      "pageStart": 66,
+      "pageEnd": 77
+    },
+    {
+      "id": "police-violence-vocabulary-comprehensive",
+      "title": "Police Violence Vocabulary Quiz",
+      "file": "quiz-police-violence-vocabulary.json",
+      "questionCount": 64,
+      "pageStart": 51,
+      "pageEnd": 52
+    },
+    {
+      "id": "quiz-conflits-mondiaux",
+      "title": "Quiz - Les Guerres Mondiales et le Droit International",
+      "file": "quiz-conflits-mondiaux.json",
+      "questionCount": 45,
+      "pageStart": 98,
+      "pageEnd": 107
+    },
+    {
+      "id": "quiz-guerre-froide",
+      "title": "Quiz sur la Guerre froide",
+      "file": "quiz-guerre-froide.json",
+      "questionCount": 40,
+      "pageStart": 108,
+      "pageEnd": 117
+    },
+    {
+      "id": "quiz-problems-questions-learners",
+      "title": "Problems and Questions Submitted by Learners of English",
+      "file": "quiz-problems-questions-learners.json",
+      "questionCount": 40,
+      "pageStart": 1,
+      "pageEnd": 1
+    },
+    {
+      "id": "renaissance-culture-art",
+      "title": "Quiz - La Renaissance",
+      "file": "quiz-renaissance-artistique-humanisme.json",
+      "questionCount": 40,
+      "pageStart": 37,
+      "pageEnd": 44
+    },
+    {
+      "id": "restauration-nationalisme-liberalisme",
+      "title": "Quiz - Restauration, nationalisme et libéralisme",
+      "file": "quiz-restauration-nationalisme-liberalisme.json",
+      "questionCount": 42,
+      "pageStart": 78,
+      "pageEnd": 87
+    },
+    {
+      "id": "six-degrees-change-world-vocabulary",
+      "title": "Six Degrees Could Change the World",
+      "file": "quiz-six-degrees-change-world-vocabulary.json",
+      "questionCount": 50,
+      "pageStart": 12,
+      "pageEnd": 14
+    },
+    {
+      "id": "smartphones-brain-focus-vocabulary-quiz",
+      "title": "How Smartphones Sabotage Your Brain's Ability to Focus",
+      "file": "quiz-smartphones-brain-focus-vocabulary.json",
+      "questionCount": 55,
+      "pageStart": 6,
+      "pageEnd": 7
+    },
+    {
+      "id": "walking-dead-vocabulary-quiz",
+      "title": "The Walking Dead Vocabulary",
+      "file": "quiz-walking-dead-vocabulary.json",
+      "questionCount": 45,
+      "pageStart": 17,
+      "pageEnd": 17
     }
   ]
 }
