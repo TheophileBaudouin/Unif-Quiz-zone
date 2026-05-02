@@ -1,0 +1,794 @@
+{
+  "quizId": "smartphone-brain-focus-vocabulary",
+  "title": "How Smartphones Sabotage Your Brain's Ability to Focus",
+  "section": {
+    "id": "smartphone-brain-focus-vocabulary",
+    "title": "How Smartphones Sabotage Your Brain's Ability to Focus",
+    "startPage": 6,
+    "endPage": 7,
+    "summary": "Psychological and technological vocabulary focusing on attention, cognitive load, and digital distraction.",
+    "estimatedQuestionCount": 60
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quelle est la traduction du verbe : 'to sabotage' ?",
+      "choices": [
+        "saboter",
+        "ignorer",
+        "limiter",
+        "évaluer",
+        "adapter"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon la source, 'to sabotage' se traduit par 'saboter'."
+    },
+    {
+      "id": "q2",
+      "prompt": "Que signifie le terme : 'an allowance' ?",
+      "choices": [
+        "un montant, une allocation",
+        "un projet, une application",
+        "un retard, une annulation",
+        "un accord, une approbation",
+        "un budget, une intégration"
+      ],
+      "correctIndex": 0,
+      "explanation": "La source traduit 'an allowance' par 'un montant, une allocation'."
+    },
+    {
+      "id": "q3",
+      "prompt": "Traduisez l'expression : 'in hand' ?",
+      "choices": [
+        "en jeu",
+        "en vue",
+        "en main",
+        "en bas",
+        "en fin"
+      ],
+      "correctIndex": 2,
+      "explanation": "D'après le vocabulaire, 'in hand' signifie 'en main'."
+    },
+    {
+      "id": "q4",
+      "prompt": "Que désigne le mot : 'a device' ?",
+      "choices": [
+        "(ici) un appareil",
+        "(ici) un matériel",
+        "(ici) un obstacle",
+        "(ici) un automate",
+        "(ici) un registre"
+      ],
+      "correctIndex": 0,
+      "explanation": "La source précise qu'ici, 'a device' désigne 'un appareil'."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle est la traduction de : 'to do research in X' ?",
+      "choices": [
+        "faire de la recherche en X",
+        "faire de la publicité en X",
+        "faire de la logistique en X",
+        "faire de la statistique en X",
+        "faire de la médiatique en X"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le tableau indique que 'to do research in X' se traduit par 'faire de la recherche en X'."
+    },
+    {
+      "id": "q6",
+      "prompt": "Que signifie le verbe : 'to wonder' ?",
+      "choices": [
+        "se demander",
+        "se déplacer",
+        "se préparer",
+        "se comporter",
+        "se satisfaire"
+      ],
+      "correctIndex": 0,
+      "explanation": "La traduction exacte fournie est 'se demander'."
+    },
+    {
+      "id": "q7",
+      "prompt": "Traduisez l'expression : 'to set out to + inf' ?",
+      "choices": [
+        "commencer à faire qqch",
+        "entreprendre de faire qqch",
+        "continuer de faire qqch",
+        "refuser de faire qqch",
+        "oublier de faire qqch"
+      ],
+      "correctIndex": 1,
+      "explanation": "Selon la source, 'to set out to' signifie 'entreprendre de faire qqch'."
+    },
+    {
+      "id": "q8",
+      "prompt": "Que signifie : 'by some measures' ?",
+      "choices": [
+        "selon certaines estimations",
+        "selon certains indicateurs",
+        "selon certains règlements",
+        "selon certains paramètres",
+        "selon certains utilisateurs"
+      ],
+      "correctIndex": 0,
+      "explanation": "La source traduit cette expression par 'selon certaines estimations'."
+    },
+    {
+      "id": "q9",
+      "prompt": "Comment traduit-on : 'on average' ?",
+      "choices": [
+        "en moyenne",
+        "en pratique",
+        "en théorie",
+        "en attente",
+        "en général"
+      ],
+      "correctIndex": 0,
+      "explanation": "'On average' correspond à 'en moyenne' dans le document."
+    },
+    {
+      "id": "q10",
+      "prompt": "Traduisez l'action : 'to switch tasks' ?",
+      "choices": [
+        "changer de tâche",
+        "finir une tâche",
+        "créer une tâche",
+        "noter une tâche",
+        "aider une tâche"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon la liste de vocabulaire, 'to switch tasks' signifie 'changer de tâche'."
+    },
+    {
+      "id": "q11",
+      "prompt": "Que signifie : 'every X minutes' ?",
+      "choices": [
+        "toutes les X minutes",
+        "durant les X minutes",
+        "avant les X minutes",
+        "après les X minutes",
+        "selon les X minutes"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'expression 'every X minutes' se traduit par 'toutes les X minutes'."
+    },
+    {
+      "id": "q12",
+      "prompt": "Que désigne l'expression métaphorique : 'a tug-of-war' ?",
+      "choices": [
+        "une lutte acharnée",
+        "une crise profonde",
+        "une perte immense",
+        "une force majeure",
+        "une tâche ardue"
+      ],
+      "correctIndex": 0,
+      "explanation": "'A tug-of-war' est traduit ici par 'une lutte acharnée'."
+    },
+    {
+      "id": "q13",
+      "prompt": "Que signifie le verbe : 'to tug at' ?",
+      "choices": [
+        "penser à",
+        "tirer sur",
+        "jouer à",
+        "venir à",
+        "agir sur"
+      ],
+      "correctIndex": 1,
+      "explanation": "La source indique que 'to tug at' signifie 'tirer sur'."
+    },
+    {
+      "id": "q14",
+      "prompt": "Traduisez : 'to be involved in' ?",
+      "choices": [
+        "être impliqué dans",
+        "être informé dans",
+        "être instruit dans",
+        "être installé dans",
+        "être intéressé dans"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon la source, 'to be involved in' se traduit par 'être impliqué dans'."
+    },
+    {
+      "id": "q15",
+      "prompt": "Quel est le sens de l'adjectif : 'demanding' ?",
+      "choices": [
+        "exigeant",
+        "étonnant",
+        "amusant",
+        "élégant",
+        "pressant"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Demanding' est traduit par 'exigeant' dans la liste."
+    },
+    {
+      "id": "q16",
+      "prompt": "Comment traduit-on : 'to maintain focus' ?",
+      "choices": [
+        "rester concentré, maintenir le cap",
+        "rester attentif, maintenir le but",
+        "rester efficace, maintenir le lien",
+        "rester présent, maintenir le soin",
+        "rester calme, maintenir le plan"
+      ],
+      "correctIndex": 0,
+      "explanation": "La traduction exacte est 'rester concentré, maintenir le cap'."
+    },
+    {
+      "id": "q17",
+      "prompt": "Traduisez : 'to get through to' ?",
+      "choices": [
+        "arriver jusqu’à",
+        "passer devant à",
+        "revenir vers à",
+        "partir depuis à",
+        "rester proche à"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To get through to' signifie 'arriver jusqu’à'."
+    },
+    {
+      "id": "q18",
+      "prompt": "Que signifie : 'to keep sth in check' ?",
+      "choices": [
+        "contrôler, tenir en bride",
+        "observer, tenir en compte",
+        "préparer, tenir en ordre",
+        "analyser, tenir en étude",
+        "modifier, tenir en cours"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon la source, 'to keep sth in check' signifie 'contrôler, tenir en bride'."
+    },
+    {
+      "id": "q19",
+      "prompt": "Comment traduit-on : 'to stay focused' ?",
+      "choices": [
+        "rester efficace",
+        "rester organisé",
+        "rester concentré",
+        "rester disponible",
+        "rester déterminé"
+      ],
+      "correctIndex": 2,
+      "explanation": "D'après le vocabulaire, 'to stay focused' est 'rester concentré'."
+    },
+    {
+      "id": "q20",
+      "prompt": "Que signifie l'expression : 'to take effort' ?",
+      "choices": [
+        "exiger/demander un effort",
+        "éviter/refuser un effort",
+        "perdre/gâcher un effort",
+        "noter/suivre un effort",
+        "aider/faire un effort"
+      ],
+      "correctIndex": 0,
+      "explanation": "La source traduit 'to take effort' par 'exiger/demander un effort'."
+    },
+    {
+      "id": "q21",
+      "prompt": "Traduisez l'adverbe : 'actually' (False friend!) ?",
+      "choices": [
+        "actuellement",
+        "en fait, en réalité",
+        "en plus, en vérité",
+        "vraiment, en résumé",
+        "clairement, au fond"
+      ],
+      "correctIndex": 1,
+      "explanation": "Attention au faux ami : 'actually' signifie 'en fait, en réalité'."
+    },
+    {
+      "id": "q22",
+      "prompt": "Quel est le sens de : 'to require' ?",
+      "choices": [
+        "nécessiter",
+        "organiser",
+        "supporter",
+        "contacter",
+        "présenter"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon la source, 'to require' se traduit par 'nécessiter'."
+    },
+    {
+      "id": "q23",
+      "prompt": "Traduisez : 'to end up with' ?",
+      "choices": [
+        "se retrouver, terminer avec",
+        "se préparer, commencer avec",
+        "se concentrer, avancer avec",
+        "se contenter, échanger avec",
+        "se renseigner, repartir avec"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To end up with' se traduit par 'se retrouver, terminer avec'."
+    },
+    {
+      "id": "q24",
+      "prompt": "Que signifie : 'to make a decision' ?",
+      "choices": [
+        "prendre une décision",
+        "suivre une décision",
+        "noter une décision",
+        "perdre une décision",
+        "aimer une décision"
+      ],
+      "correctIndex": 0,
+      "explanation": "La traduction correcte est 'prendre une décision'."
+    },
+    {
+      "id": "q25",
+      "prompt": "Traduisez l'adjectif : 'depleted' ?",
+      "choices": [
+        "épuisé",
+        "chargé",
+        "isolé",
+        "bloqué",
+        "activé"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon la source, 'depleted' signifie 'épuisé'."
+    },
+    {
+      "id": "q26",
+      "prompt": "Que signifie : 'throughout the day' ?",
+      "choices": [
+        "pendant toute la journée",
+        "pendant toute la soirée",
+        "pendant toute la matinée",
+        "pendant toute la période",
+        "pendant toute la semaine"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Throughout the day' est traduit par 'pendant toute la journée'."
+    },
+    {
+      "id": "q27",
+      "prompt": "Traduisez l'adjectif : 'overwhelmed' ?",
+      "choices": [
+        "débordé",
+        "impliqué",
+        "expliqué",
+        "distrait",
+        "consulté"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dans ce contexte, 'overwhelmed' signifie 'débordé'."
+    },
+    {
+      "id": "q28",
+      "prompt": "Que signifie l'expression : 'in batches' ?",
+      "choices": [
+        "par lots, plusieurs à la fois",
+        "par cas, plusieurs à la fois",
+        "par but, plusieurs à la fois",
+        "par fin, plusieurs à la fois",
+        "par loi, plusieurs à la fois"
+      ],
+      "correctIndex": 0,
+      "explanation": "La source traduit 'in batches' par 'par lots, plusieurs à la fois'."
+    },
+    {
+      "id": "q29",
+      "prompt": "Traduisez le verbe : 'to batch' ?",
+      "choices": [
+        "traiter en lots",
+        "traiter en bloc",
+        "traiter en gros",
+        "traiter en part",
+        "traiter en mode"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon le document, 'to batch' signifie 'traiter en lots'."
+    },
+    {
+      "id": "q30",
+      "prompt": "Que signifie l'adjectif : 'menial' ?",
+      "choices": [
+        "(ici) sans intérêt",
+        "(ici) sans difficulté",
+        "(ici) sans importance",
+        "(ici) sans fondement",
+        "(ici) sans précédent"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ici, 'menial' est traduit par 'sans intérêt'."
+    },
+    {
+      "id": "q31",
+      "prompt": "Quelle est la traduction de : 'anxiety-inducing' ?",
+      "choices": [
+        "anxiogène",
+        "dangereux",
+        "fatiguant",
+        "difficile",
+        "complexe"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Anxiety-inducing' se traduit par 'anxiogène'."
+    },
+    {
+      "id": "q32",
+      "prompt": "Traduisez le verbe : 'to induce' ?",
+      "choices": [
+        "provoquer, causer",
+        "prévoir, éviter",
+        "proposer, aider",
+        "préparer, faire",
+        "produire, noter"
+      ],
+      "correctIndex": 0,
+      "explanation": "La source traduit 'to induce' par 'provoquer, causer'."
+    },
+    {
+      "id": "q33",
+      "prompt": "Que désigne l'expression : 'a reflecting pool' ?",
+      "choices": [
+        "un miroir d’eau, un bassin réfléchissant",
+        "un espace d'eau, un support interactif",
+        "un niveau d'eau, un schéma électronique",
+        "un cercle d'eau, un jardin thérapeutique",
+        "un réseau d'eau, un projet technologique"
+      ],
+      "correctIndex": 0,
+      "explanation": "C'est la traduction littérale et contextuelle fournie par le document."
+    },
+    {
+      "id": "q34",
+      "prompt": "Que signifie le terme : 'a drop' ?",
+      "choices": [
+        "(ici) une goutte d’eau",
+        "(ici) une flaque d'eau",
+        "(ici) une source d'eau",
+        "(ici) une nappe d'eau",
+        "(ici) une perte d'eau"
+      ],
+      "correctIndex": 0,
+      "explanation": "La source précise qu'ici, 'a drop' signifie 'une goutte d'eau'."
+    },
+    {
+      "id": "q35",
+      "prompt": "Comment traduit-on : 'the reflectiveness' ?",
+      "choices": [
+        "la réflectivité",
+        "la réactivité",
+        "la réflexivité",
+        "la régularité",
+        "la rentabilité"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le terme exact utilisé dans la source est 'la réflectivité'."
+    },
+    {
+      "id": "q36",
+      "prompt": "Que signifie l'adjectif : 'frazzled' ?",
+      "choices": [
+        "épuisé, crevé",
+        "étonné, surpris",
+        "énervé, agacé",
+        "égaré, perdu",
+        "évité, fuyant"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon la source, 'frazzled' se traduit par 'épuisé, crevé'."
+    },
+    {
+      "id": "q37",
+      "prompt": "Que désigne le mot : 'a storm' ?",
+      "choices": [
+        "une tempête",
+        "une chaleur",
+        "une menace",
+        "une fissure",
+        "une urgence"
+      ],
+      "correctIndex": 0,
+      "explanation": "'A storm' est traduit par 'une tempête'."
+    },
+    {
+      "id": "q38",
+      "prompt": "Traduisez l'expression : 'the cognitive load' ?",
+      "choices": [
+        "la charge mentale",
+        "la phase mentale",
+        "la perte mentale",
+        "la force mentale",
+        "la note mentale"
+      ],
+      "correctIndex": 0,
+      "explanation": "'The cognitive load' correspond à 'la charge mentale'."
+    },
+    {
+      "id": "q39",
+      "prompt": "Que signifie le verbe : 'to load' ?",
+      "choices": [
+        "charger",
+        "lancer",
+        "libérer",
+        "limiter",
+        "loger"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon la source, 'to load' se traduit par 'charger'."
+    },
+    {
+      "id": "q40",
+      "prompt": "Traduisez : 'susceptible to sth' (False friend!) ?",
+      "choices": [
+        "sensible à qqch",
+        "susceptible à qqch",
+        "favorable à qqch",
+        "incapable de qqch",
+        "adaptable à qqch"
+      ],
+      "correctIndex": 0,
+      "explanation": "Faux ami : 'susceptible to' signifie 'sensible à' ou prédisposé à."
+    },
+    {
+      "id": "q41",
+      "prompt": "Que signifie : 'to draw away from' ?",
+      "choices": [
+        "éloigner de",
+        "partir de",
+        "arriver de",
+        "parler de",
+        "revenir de"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le verbe 'to draw away from' se traduit par 'éloigner de'."
+    },
+    {
+      "id": "q42",
+      "prompt": "Que signifie l'expression : 'at hand' ?",
+      "choices": [
+        "en jeu",
+        "en vue",
+        "en main",
+        "en bas",
+        "en fin"
+      ],
+      "correctIndex": 0,
+      "explanation": "D'après la source, 'at hand' signifie 'en jeu'."
+    },
+    {
+      "id": "q43",
+      "prompt": "Traduisez : 'to complete' (False friend!) ?",
+      "choices": [
+        "achever, terminer",
+        "compléter, ajouter",
+        "comprendre, noter",
+        "contacter, aider",
+        "contenir, garder"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ici, 'to complete' est traduit par 'achever, terminer'."
+    },
+    {
+      "id": "q44",
+      "prompt": "Que signifie le verbe : 'to mitigate' ?",
+      "choices": [
+        "atténuer",
+        "améliorer",
+        "accélérer",
+        "assimiler",
+        "annoncer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon le vocabulaire de la page 44, 'to mitigate' signifie 'atténuer'."
+    },
+    {
+      "id": "q45",
+      "prompt": "Traduisez le verbe : 'to schedule' ?",
+      "choices": [
+        "programmer",
+        "proposer",
+        "préparer",
+        "prévenir",
+        "produire"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To schedule' se traduit par 'programmer'."
+    },
+    {
+      "id": "q46",
+      "prompt": "Que signifie : 'to keep one’s phone on silent' ?",
+      "choices": [
+        "mettre son téléphone en mode silencieux",
+        "laisser son téléphone en mode vibration",
+        "garder son téléphone en mode avion",
+        "poser son téléphone en mode secours",
+        "couper son téléphone en mode public"
+      ],
+      "correctIndex": 0,
+      "explanation": "La traduction exacte est 'mettre son téléphone en mode silencieux'."
+    },
+    {
+      "id": "q47",
+      "prompt": "Que signifie : 'addicted to' ?",
+      "choices": [
+        "dépendant de, accro à",
+        "attiré par, lié à",
+        "habitué à, prêt à",
+        "formé à, apte à",
+        "sensible à, dû à"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Addicted to' se traduit par 'dépendant de, accro à'."
+    },
+    {
+      "id": "q48",
+      "prompt": "Traduisez : 'to remind sb of sth' ?",
+      "choices": [
+        "rappeler qqch à qqun",
+        "proposer qqch à qqun",
+        "rapporter qqch à qqun",
+        "prévenir qqun de qqch",
+        "expliquer qqch à qqun"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon la source, 'to remind sb of sth' signifie 'rappeler qqch à qqun'."
+    },
+    {
+      "id": "q49",
+      "prompt": "Quel est le sens de : 'to tame' ?",
+      "choices": [
+        "dompter",
+        "limiter",
+        "cacher",
+        "suivre",
+        "aider"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To tame' est traduit par 'dompter' dans la liste."
+    },
+    {
+      "id": "q50",
+      "prompt": "Traduisez le verbe : 'to rely on' ?",
+      "choices": [
+        "compter sur",
+        "compter par",
+        "compter vers",
+        "compter sous",
+        "compter pour"
+      ],
+      "correctIndex": 0,
+      "explanation": "La traduction correcte est 'compter sur'."
+    },
+    {
+      "id": "q51",
+      "prompt": "Que signifie : 'to do a study' ?",
+      "choices": [
+        "faire une étude",
+        "faire une pause",
+        "faire une étape",
+        "faire une ligne",
+        "faire une trace"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To do a study' se traduit simplement par 'faire une étude'."
+    },
+    {
+      "id": "q52",
+      "prompt": "Traduisez l'expression : 'on campus' ?",
+      "choices": [
+        "sur le campus",
+        "hors du campus",
+        "loin du campus",
+        "vers le campus",
+        "près du campus"
+      ],
+      "correctIndex": 0,
+      "explanation": "'On campus' signifie 'sur le campus'."
+    },
+    {
+      "id": "q53",
+      "prompt": "Que signifie : 'either... or ...' ?",
+      "choices": [
+        "soit… soit…",
+        "plus… plus…",
+        "non… mais…",
+        "bien… que…",
+        "tant… que…"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cette conjonction se traduit par 'soit... soit...'."
+    },
+    {
+      "id": "q54",
+      "prompt": "Traduisez le verbe : 'to do away with sth' ?",
+      "choices": [
+        "supprimer qqch",
+        "organiser qqch",
+        "préparer qqch",
+        "analyser qqch",
+        "déplacer qqch"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon la source, 'to do away with sth' signifie 'supprimer qqch'."
+    },
+    {
+      "id": "q55",
+      "prompt": "Que signifie l'adjectif : 'convenient' ?",
+      "choices": [
+        "pratique, commode",
+        "stable, solide",
+        "utile, urgent",
+        "rapide, direct",
+        "simple, ouvert"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Convenient' est traduit par 'pratique, commode'."
+    },
+    {
+      "id": "q56",
+      "prompt": "Comment traduit-on : 'the social bonds' ?",
+      "choices": [
+        "les liens sociaux",
+        "les lois sociales",
+        "les fins sociales",
+        "les vies sociales",
+        "les voix sociales"
+      ],
+      "correctIndex": 0,
+      "explanation": "'The social bonds' désigne 'les liens sociaux'."
+    },
+    {
+      "id": "q57",
+      "prompt": "Traduisez : 'to hold (society) together' ?",
+      "choices": [
+        "maintenir (la société) ensemble",
+        "réunir (la société) ensemble",
+        "porter (la société) ensemble",
+        "suivre (la société) ensemble",
+        "garder (la société) ensemble"
+      ],
+      "correctIndex": 0,
+      "explanation": "La source traduit cette expression par 'maintenir (la société) ensemble'."
+    },
+    {
+      "id": "q58",
+      "prompt": "Que signifie l'expression : 'to chip away' ?",
+      "choices": [
+        "(ici) enlever, retirer",
+        "(ici) entrer, repartir",
+        "(ici) envoyer, relayer",
+        "(ici) effacer, rejeter",
+        "(ici) éviter, réduire"
+      ],
+      "correctIndex": 0,
+      "explanation": "D'après la source, 'to chip away' signifie ici 'enlever, retirer'."
+    },
+    {
+      "id": "q59",
+      "prompt": "Que signifie : 'to crush it' ?",
+      "choices": [
+        "cartonner, y arriver",
+        "préparer, s'adapter",
+        "observer, y songer",
+        "proposer, s'aligner",
+        "entendre, y résister"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'expression familière 'to crush it' est traduite par 'cartonner, y arriver'."
+    },
+    {
+      "id": "q60",
+      "prompt": "Traduisez l'adjectif : 'casual' ?",
+      "choices": [
+        "(ici) informel",
+        "(ici) anormal",
+        "(ici) artisanal",
+        "(ici) amical",
+        "(ici) officiel"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ici, 'casual' se traduit par 'informel'."
+    }
+  ]
+}
