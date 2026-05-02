@@ -1,0 +1,794 @@
+{
+  "quizId": "police-violence-voc",
+  "title": "Police Violence Vocabulary Quiz",
+  "section": {
+    "id": "police-violence-voc",
+    "title": "Police Violence Vocabulary",
+    "startPage": 51,
+    "endPage": 52,
+    "summary": "Lexicon concerning human rights, law enforcement, and legal proceedings, including 'unarmed', 'de-escalation', and 'racial profiling'.",
+    "estimatedQuestionCount": 60
+  },
+  "questions": [
+    {
+      "id": "pv_q1",
+      "prompt": "What is the French translation for the term 'unlawful'?",
+      "choices": [
+        "illégal",
+        "immoral",
+        "inégal",
+        "déloyal",
+        "amoral"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to the source, 'unlawful' translates to 'illégal'."
+    },
+    {
+      "id": "pv_q2",
+      "prompt": "How is 'an injury' translated in the context of police violence?",
+      "choices": [
+        "une blessure",
+        "une cassure",
+        "une morsure",
+        "une brûlure",
+        "une coupure"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source identifies 'an injury' as 'une blessure'."
+    },
+    {
+      "id": "pv_q3",
+      "prompt": "What is the meaning of 'elsewhere'?",
+      "choices": [
+        "ailleurs",
+        "toujours",
+        "plusieurs",
+        "d’ailleurs",
+        "alentours"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'elsewhere' translates to 'ailleurs'."
+    },
+    {
+      "id": "pv_q4",
+      "prompt": "What is the translation for 'seriously'?",
+      "choices": [
+        "gravement",
+        "purement",
+        "rarement",
+        "durement",
+        "clairement"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source defines 'seriously' as 'gravement'."
+    },
+    {
+      "id": "pv_q5",
+      "prompt": "How do you translate the verb 'to injure'?",
+      "choices": [
+        "blesser",
+        "braquer",
+        "bloquer",
+        "baisser",
+        "brûler"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To injure' translates directly to 'blesser'."
+    },
+    {
+      "id": "pv_q6",
+      "prompt": "What does 'an arrest' translate to in French?",
+      "choices": [
+        "une arrestation",
+        "une agression",
+        "une accusation",
+        "une allocation",
+        "une abnégation"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source identifies 'an arrest' as 'une arrestation'."
+    },
+    {
+      "id": "pv_q7",
+      "prompt": "Translate the phrase 'to be fuelled by'.",
+      "choices": [
+        "être alimenté par",
+        "être emporté par",
+        "être intimidé par",
+        "être accablé par",
+        "être informé par"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To be fuelled by' translates to 'être alimenté par'."
+    },
+    {
+      "id": "pv_q8",
+      "prompt": "What is the translation for 'a demonstration'?",
+      "choices": [
+        "une manifestation",
+        "une contestation",
+        "une revendication",
+        "une provocation",
+        "une organisation"
+      ],
+      "correctIndex": 0,
+      "explanation": "'A demonstration' is translated as 'une manifestation'."
+    },
+    {
+      "id": "pv_q9",
+      "prompt": "How is 'throughout' translated in the vocabulary list?",
+      "choices": [
+        "durant",
+        "devant",
+        "dedans",
+        "depuis",
+        "demain"
+      ],
+      "correctIndex": 0,
+      "explanation": "The word 'throughout' translates to 'durant'."
+    },
+    {
+      "id": "pv_q10",
+      "prompt": "Translate 'repeatedly' into French.",
+      "choices": [
+        "à plusieurs reprises",
+        "à certains égards",
+        "à quelques instants",
+        "à divers moments",
+        "à maintes excuses"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source translates 'repeatedly' as 'à plusieurs reprises'."
+    },
+    {
+      "id": "pv_q11",
+      "prompt": "What is the translation for 'a weapon'?",
+      "choices": [
+        "une arme",
+        "une âme",
+        "une haie",
+        "une aide",
+        "une urne"
+      ],
+      "correctIndex": 0,
+      "explanation": "'A weapon' is 'une arme' in the provided list."
+    },
+    {
+      "id": "pv_q12",
+      "prompt": "How is 'tear gas' translated?",
+      "choices": [
+        "le gaz lacrymogène",
+        "le gaz domestique",
+        "le gaz de combat",
+        "le gaz asphyxiant",
+        "le gaz inflammable"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'tear gas' corresponds to 'le gaz lacrymogène'."
+    },
+    {
+      "id": "pv_q13",
+      "prompt": "What is the French for 'a rubber bullet'?",
+      "choices": [
+        "une balle en caoutchouc",
+        "une balle en plastique",
+        "une balle en métal",
+        "une balle en résine",
+        "une balle en plomb"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to the source, 'a rubber bullet' is 'une balle en caoutchouc'."
+    },
+    {
+      "id": "pv_q14",
+      "prompt": "What is the translation for 'a protester'?",
+      "choices": [
+        "un·e manifestant·e",
+        "un·e délinquant·e",
+        "un·e surveillant·e",
+        "un·e intervenant·e",
+        "un·e représentant·e"
+      ],
+      "correctIndex": 0,
+      "explanation": "'A protester' translates to 'un·e manifestant·e'."
+    },
+    {
+      "id": "pv_q15",
+      "prompt": "How is the verb 'to deal with' translated?",
+      "choices": [
+        "traiter",
+        "tenter",
+        "trahir",
+        "tarder",
+        "tracer"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To deal with' is translated as 'traiter' in the source."
+    },
+    {
+      "id": "pv_q16",
+      "prompt": "Translate 'a last resort' into French.",
+      "choices": [
+        "un dernier recours",
+        "un ultime secours",
+        "un premier secours",
+        "un second secours",
+        "un nouveau recours"
+      ],
+      "correctIndex": 0,
+      "explanation": "'A last resort' translates to 'un dernier recours'."
+    },
+    {
+      "id": "pv_q17",
+      "prompt": "What is the translation for 'a threat'?",
+      "choices": [
+        "une menace",
+        "une rumeur",
+        "une erreur",
+        "une terreur",
+        "une frayeur"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source defines 'a threat' as 'une menace'."
+    },
+    {
+      "id": "pv_q18",
+      "prompt": "How is 'de-escalation' translated?",
+      "choices": [
+        "la désescalade",
+        "la dégradation",
+        "la dépréciation",
+        "la désignation",
+        "la dévastation"
+      ],
+      "correctIndex": 0,
+      "explanation": "'De-escalation' is translated as 'la désescalade'."
+    },
+    {
+      "id": "pv_q19",
+      "prompt": "What is the French for 'a killing'?",
+      "choices": [
+        "une mise à mort",
+        "une mise en scène",
+        "une mise au point",
+        "une mise à prix",
+        "une mise à jour"
+      ],
+      "correctIndex": 0,
+      "explanation": "'A killing' translates to 'une mise à mort'."
+    },
+    {
+      "id": "pv_q20",
+      "prompt": "What does the term 'unarmed' mean?",
+      "choices": [
+        "désarmé",
+        "dépassé",
+        "déplacé",
+        "déchaîné",
+        "décrété"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Unarmed' translates to 'désarmé'."
+    },
+    {
+      "id": "pv_q21",
+      "prompt": "Translate the verb 'to shoot'.",
+      "choices": [
+        "tirer",
+        "trier",
+        "tâter",
+        "tenir",
+        "taper"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To shoot' is translated as 'tirer'."
+    },
+    {
+      "id": "pv_q22",
+      "prompt": "How is 'a witness' translated?",
+      "choices": [
+        "un témoin",
+        "un citoyen",
+        "un soutien",
+        "un gardien",
+        "un vaurien"
+      ],
+      "correctIndex": 0,
+      "explanation": "'A witness' is 'un témoin' in French."
+    },
+    {
+      "id": "pv_q23",
+      "prompt": "What is the translation for 'to beg for mercy'?",
+      "choices": [
+        "implorer la pitié",
+        "ignorer la vérité",
+        "indiquer la sortie",
+        "invoquer la parité",
+        "imposer la clarté"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To beg for mercy' translates as 'implorer la pitié'."
+    },
+    {
+      "id": "pv_q24",
+      "prompt": "How do you translate 'a duty'?",
+      "choices": [
+        "un devoir",
+        "un savoir",
+        "un couloir",
+        "un pouvoir",
+        "un espoir"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to the source, 'a duty' is 'un devoir'."
+    },
+    {
+      "id": "pv_q25",
+      "prompt": "What is the meaning of 'to fail'?",
+      "choices": [
+        "échouer",
+        "écouter",
+        "évaluer",
+        "évoluer",
+        "éclairer"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To fail' translates to 'échouer'."
+    },
+    {
+      "id": "pv_q26",
+      "prompt": "Translate the verb 'to require'.",
+      "choices": [
+        "exiger",
+        "exposer",
+        "estimer",
+        "évoquer",
+        "exclure"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'to require' is 'exiger' in the vocabulary list."
+    },
+    {
+      "id": "pv_q27",
+      "prompt": "How is 'to resolve' translated?",
+      "choices": [
+        "résoudre",
+        "répondre",
+        "rejoindre",
+        "répandre",
+        "reprendre"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To resolve' translates as 'résoudre'."
+    },
+    {
+      "id": "pv_q28",
+      "prompt": "What is the French for 'a law enforcement officer'?",
+      "choices": [
+        "un·e responsable de l'application des lois",
+        "un·e membre de la commission des droits",
+        "un·e agent de la protection des civils",
+        "un·e expert de la surveillance des lieux",
+        "un·e juriste de la direction des faits"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source identifies this as 'un·e responsable de l'application des lois'."
+    },
+    {
+      "id": "pv_q29",
+      "prompt": "Translate the phrase 'to rely on'.",
+      "choices": [
+        "compter sur",
+        "cliquer sur",
+        "cogner sur",
+        "centrer sur",
+        "chanter sur"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To rely on' is translated as 'compter sur'."
+    },
+    {
+      "id": "pv_q30",
+      "prompt": "What is the translation for 'to seek'?",
+      "choices": [
+        "chercher",
+        "chanter",
+        "choisir",
+        "changer",
+        "chasser"
+      ],
+      "correctIndex": 0,
+      "explanation": "The verb 'to seek' translates as 'chercher'."
+    },
+    {
+      "id": "pv_q31",
+      "prompt": "How is 'truth' translated?",
+      "choices": [
+        "la vérité",
+        "la parité",
+        "la clarté",
+        "la dureté",
+        "la liberté"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Truth' translates to 'la vérité'."
+    },
+    {
+      "id": "pv_q32",
+      "prompt": "What does 'a rate' mean in this context?",
+      "choices": [
+        "un taux",
+        "un faux",
+        "un saut",
+        "un maux",
+        "un vaux"
+      ],
+      "correctIndex": 0,
+      "explanation": "'A rate' is translated as 'un taux'."
+    },
+    {
+      "id": "pv_q33",
+      "prompt": "What is the translation for 'entrenched'?",
+      "choices": [
+        "enraciné",
+        "enchaîné",
+        "entrainé",
+        "encombré",
+        "ensoleillé"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source defines 'entrenched' as 'enraciné'."
+    },
+    {
+      "id": "pv_q34",
+      "prompt": "How do you translate 'routinely'?",
+      "choices": [
+        "systématiquement",
+        "immédiatement",
+        "favorablement",
+        "naturellement",
+        "partiellement"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Routinely' translates to 'systématiquement'."
+    },
+    {
+      "id": "pv_q35",
+      "prompt": "What does 'to trample on' mean?",
+      "choices": [
+        "bafouer",
+        "blâmer",
+        "briller",
+        "baisser",
+        "borner"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To trample on' translates to 'bafouer'."
+    },
+    {
+      "id": "pv_q36",
+      "prompt": "Translate 'freedom of expression' into French.",
+      "choices": [
+        "la liberté d’expression",
+        "la liberté d’insurrection",
+        "la liberté d’intégration",
+        "la liberté d’implication",
+        "la liberté d’information"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source defines this as 'la liberté d’expression'."
+    },
+    {
+      "id": "pv_q37",
+      "prompt": "What is the translation for 'a peaceful assembly'?",
+      "choices": [
+        "un rassemblement pacifique",
+        "un rassemblement politique",
+        "un rassemblement civique",
+        "un rassemblement juridique",
+        "un rassemblement atypique"
+      ],
+      "correctIndex": 0,
+      "explanation": "It translates to 'un rassemblement pacifique'."
+    },
+    {
+      "id": "pv_q38",
+      "prompt": "How is 'heavy-handed' translated?",
+      "choices": [
+        "autoritaire",
+        "arbitraire",
+        "auxiliaire",
+        "adversaire",
+        "allégataire"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Heavy-handed' is translated as 'autoritaire'."
+    },
+    {
+      "id": "pv_q39",
+      "prompt": "What does 'reliable' mean?",
+      "choices": [
+        "fiable",
+        "faible",
+        "stable",
+        "vivable",
+        "habile"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Reliable' translates to 'fiable'."
+    },
+    {
+      "id": "pv_q40",
+      "prompt": "Translate 'a survey' into French.",
+      "choices": [
+        "une enquête",
+        "une requête",
+        "une conquête",
+        "une défaite",
+        "une retraite"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source translates 'a survey' as 'une enquête'."
+    },
+    {
+      "id": "pv_q41",
+      "prompt": "What is the translation for 'an encounter'?",
+      "choices": [
+        "une confrontation",
+        "une administration",
+        "une simplification",
+        "une manifestation",
+        "une identification"
+      ],
+      "correctIndex": 0,
+      "explanation": "'An encounter' translates to 'une confrontation'."
+    },
+    {
+      "id": "pv_q42",
+      "prompt": "How is 'alleged' translated?",
+      "choices": [
+        "allégué",
+        "allongé",
+        "alloué",
+        "allumé",
+        "allié"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Alleged' translates to 'allégué'."
+    },
+    {
+      "id": "pv_q43",
+      "prompt": "What is the translation for 'broad'?",
+      "choices": [
+        "large",
+        "berge",
+        "gorge",
+        "orge",
+        "siège"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'broad' is translated as 'large'."
+    },
+    {
+      "id": "pv_q44",
+      "prompt": "What does 'though' translate to?",
+      "choices": [
+        "quoique",
+        "presque",
+        "lorsque",
+        "puisque",
+        "chaque"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Though' translates as 'quoique'."
+    },
+    {
+      "id": "pv_q45",
+      "prompt": "How is the verb 'to suffer' translated?",
+      "choices": [
+        "souffrir",
+        "soutenir",
+        "soulever",
+        "souligner",
+        "soumettre"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To suffer' translates to 'souffrir'."
+    },
+    {
+      "id": "pv_q46",
+      "prompt": "How is 'enforcement' translated?",
+      "choices": [
+        "l’application",
+        "l’allégation",
+        "l’aspiration",
+        "l’accusation",
+        "l’aliénation"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Enforcement' translates to 'l’application'."
+    },
+    {
+      "id": "pv_q47",
+      "prompt": "What is the French for 'a belief'?",
+      "choices": [
+        "une croyance",
+        "une confiance",
+        "une instance",
+        "une tendance",
+        "une vaillance"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'a belief' translates as 'une croyance'."
+    },
+    {
+      "id": "pv_q48",
+      "prompt": "What does 'a disability' translate to?",
+      "choices": [
+        "un handicap",
+        "un paysage",
+        "un naufrage",
+        "un passage",
+        "un barrage"
+      ],
+      "correctIndex": 0,
+      "explanation": "'A disability' is translated as 'un handicap'."
+    },
+    {
+      "id": "pv_q49",
+      "prompt": "How is 'to be built into' translated?",
+      "choices": [
+        "être intégré",
+        "être informé",
+        "être incliné",
+        "être invité",
+        "être indiqué"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To be built into' translates to 'être intégré'."
+    },
+    {
+      "id": "pv_q50",
+      "prompt": "What is the translation for 'racial profiling'?",
+      "choices": [
+        "le profilage racial",
+        "le profilage social",
+        "le profilage amical",
+        "le profilage verbal",
+        "le profilage banal"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source identifies this as 'le profilage racial'."
+    },
+    {
+      "id": "pv_q51",
+      "prompt": "How is 'according to' translated?",
+      "choices": [
+        "selon",
+        "sinon",
+        "salon",
+        "seron",
+        "souvent"
+      ],
+      "correctIndex": 0,
+      "explanation": "'According to' translates as 'selon'."
+    },
+    {
+      "id": "pv_q52",
+      "prompt": "What is an 'ombudsman'?",
+      "choices": [
+        "un médiateur",
+        "un éducateur",
+        "un animateur",
+        "un indicateur",
+        "un traducteur"
+      ],
+      "correctIndex": 0,
+      "explanation": "An 'ombudsman' is translated as 'un médiateur'."
+    },
+    {
+      "id": "pv_q53",
+      "prompt": "How is the verb 'to perceive' translated?",
+      "choices": [
+        "percevoir",
+        "parcourir",
+        "prévenir",
+        "produire",
+        "partager"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To perceive' is translated as 'percevoir'."
+    },
+    {
+      "id": "pv_q54",
+      "prompt": "What is the translation for 'likely'?",
+      "choices": [
+        "probable",
+        "possible",
+        "agréable",
+        "véritable",
+        "notable"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Likely' translates to 'probable'."
+    },
+    {
+      "id": "pv_q55",
+      "prompt": "What is the translation for 'horrific'?",
+      "choices": [
+        "horrible",
+        "terrible",
+        "visible",
+        "sensible",
+        "possible"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Horrific' translates as 'horrible' in the source."
+    },
+    {
+      "id": "pv_q56",
+      "prompt": "Translate the verb 'to spark'.",
+      "choices": [
+        "susciter",
+        "supputer",
+        "sculpter",
+        "siffler",
+        "stopper"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To spark' is translated as 'susciter'."
+    },
+    {
+      "id": "pv_q57",
+      "prompt": "What is the meaning of 'widespread'?",
+      "choices": [
+        "répandu",
+        "répondu",
+        "retenu",
+        "revenu",
+        "résolu"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Widespread' translates as 'répandu'."
+    },
+    {
+      "id": "pv_q58",
+      "prompt": "How is 'beyond' translated?",
+      "choices": [
+        "au-delà",
+        "au-deçà",
+        "au-dehors",
+        "au-dedans",
+        "au-devant"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Beyond' corresponds to 'au-delà'."
+    },
+    {
+      "id": "pv_q59",
+      "prompt": "Translate 'to be held accountable'.",
+      "choices": [
+        "être tenu responsable",
+        "être tenu informé",
+        "être tenu écarté",
+        "être tenu éloigné",
+        "être tenu accablé"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To be held accountable' means 'être tenu responsable'."
+    },
+    {
+      "id": "pv_q60",
+      "prompt": "What does the phrase 'in the wake of' mean?",
+      "choices": [
+        "suite à",
+        "face à",
+        "grâce à",
+        "quant à",
+        "liée à"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to the source, 'in the wake of' is 'suite à'."
+    }
+  ]
+}
