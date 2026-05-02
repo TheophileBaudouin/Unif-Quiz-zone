@@ -1,0 +1,729 @@
+{
+  "quizId": "smartphones-sabotage-voc",
+  "title": "How Smartphones Sabotage Your Brain's Ability to Focus Vocabulary",
+  "section": {
+    "id": "smartphones-sabotage-voc",
+    "title": "How Smartphones Sabotage Your Brain's Ability to Focus Vocabulary",
+    "startPage": 6,
+    "endPage": 7,
+    "summary": "Vocabulary related to cognitive focus, technology interference, and psychology, featuring terms like 'cognitive load' and 'anxiety-inducing'.",
+    "estimatedQuestionCount": 55
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "What is the French translation for 'to sabotage'?",
+      "choices": [
+        "saboter",
+        "limiter",
+        "bloquer",
+        "ignorer",
+        "évaluer"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to page 43, 'to sabotage' translates exactly to 'saboter'."
+    },
+    {
+      "id": "q2",
+      "prompt": "How is 'an allowance' translated in the vocabulary list?",
+      "choices": [
+        "un montant, une allocation",
+        "un résultat, une orientation",
+        "un transfert, une application",
+        "un obstacle, une observation",
+        "un programme, une évaluation"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source defines 'an allowance' as 'un montant, une allocation'."
+    },
+    {
+      "id": "q3",
+      "prompt": "Translate 'in hand' into French based on the text.",
+      "choices": [
+        "en main",
+        "en jeu",
+        "en bas",
+        "en soi",
+        "en vue"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 43 lists 'in hand' as 'en main'."
+    },
+    {
+      "id": "q4",
+      "prompt": "What is the French equivalent for 'a device'?",
+      "choices": [
+        "un appareil",
+        "un objectif",
+        "un contrôle",
+        "un équilibre",
+        "un obstacle"
+      ],
+      "correctIndex": 0,
+      "explanation": "The word 'device' is translated as 'un appareil' in the source."
+    },
+    {
+      "id": "q5",
+      "prompt": "Translate 'to do research in X' as used in the source.",
+      "choices": [
+        "faire de la recherche en X",
+        "faire de la publicité en X",
+        "faire de la médiation en X",
+        "faire de la résistance en X",
+        "faire de la statistique en X"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text provides 'faire de la recherche en X' for 'to do research in X'."
+    },
+    {
+      "id": "q6",
+      "prompt": "What is the French translation for 'to wonder'?",
+      "choices": [
+        "se demander",
+        "se rappeler",
+        "se préparer",
+        "se comporter",
+        "se présenter"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 43 indicates that 'to wonder' means 'se demander'."
+    },
+    {
+      "id": "q7",
+      "prompt": "Translate 'to set out to' into French.",
+      "choices": [
+        "entreprendre de faire qqch",
+        "interrompre de faire qqch",
+        "indépendre de faire qqch",
+        "interpréter de faire qqch",
+        "intervenir de faire qqch"
+      ],
+      "correctIndex": 0,
+      "explanation": "The list defines 'to set out to' as 'entreprendre de faire qqch'."
+    },
+    {
+      "id": "q8",
+      "prompt": "What is the French for 'by some measures'?",
+      "choices": [
+        "selon certaines estimations",
+        "selon certaines observations",
+        "selon certaines informations",
+        "selon certaines applications",
+        "selon certaines explications"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source specifies 'selon certaines estimations' for 'by some measures'."
+    },
+    {
+      "id": "q9",
+      "prompt": "Translate 'on average' into French.",
+      "choices": [
+        "en moyenne",
+        "en avance",
+        "en attente",
+        "en accord",
+        "en action"
+      ],
+      "correctIndex": 0,
+      "explanation": "The standard translation provided is 'en moyenne'."
+    },
+    {
+      "id": "q10",
+      "prompt": "How do you translate 'to switch tasks'?",
+      "choices": [
+        "changer de tâche",
+        "changer de règle",
+        "changer de point",
+        "changer de route",
+        "changer de cadre"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 43 lists 'to switch tasks' as 'changer de tâche'."
+    },
+    {
+      "id": "q11",
+      "prompt": "Translate 'every X minutes' into French.",
+      "choices": [
+        "toutes les X minutes",
+        "toutes les X mesures",
+        "toutes les X secondes",
+        "toutes les X périodes",
+        "toutes les X journées"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term is translated as 'toutes les X minutes'."
+    },
+    {
+      "id": "q12",
+      "prompt": "How is 'a tug-of-war' defined in the source?",
+      "choices": [
+        "une lutte acharnée",
+        "une étape cruciale",
+        "une étude sérieuse",
+        "une force nouvelle",
+        "une tâche complexe"
+      ],
+      "correctIndex": 0,
+      "explanation": "The list translates 'a tug-of-war' as 'une lutte acharnée'."
+    },
+    {
+      "id": "q13",
+      "prompt": "Translate 'to be involved in' based on the text.",
+      "choices": [
+        "être impliqué dans",
+        "être identifié avec",
+        "être informé de",
+        "être influencé par",
+        "être inquiété par"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source translates 'to be involved in' as 'être impliqué dans'."
+    },
+    {
+      "id": "q14",
+      "prompt": "What is the French equivalent of 'demanding'?",
+      "choices": [
+        "exigeant",
+        "excellent",
+        "étendu",
+        "évident",
+        "efficace"
+      ],
+      "correctIndex": 0,
+      "explanation": "The word 'demanding' is listed as 'exigeant'."
+    },
+    {
+      "id": "q15",
+      "prompt": "Translate 'to maintain focus' into French.",
+      "choices": [
+        "rester concentré, maintenir le cap",
+        "rester déterminé, maintenir le jeu",
+        "rester disponible, maintenir le son",
+        "rester organisé, maintenir le lien",
+        "rester attentif, maintenir le but"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 43 defines 'to maintain focus' as 'rester concentré, maintenir le cap'."
+    },
+    {
+      "id": "q16",
+      "prompt": "What is the French for 'to get through to'?",
+      "choices": [
+        "arriver jusqu’à",
+        "avancer vers le",
+        "accéder avec le",
+        "arrêter contre le",
+        "adapter dans le"
+      ],
+      "correctIndex": 0,
+      "explanation": "The list defines 'to get through to' as 'arriver jusqu’à'."
+    },
+    {
+      "id": "q17",
+      "prompt": "Translate 'to keep sth in check' into French.",
+      "choices": [
+        "contrôler, tenir en bride",
+        "comparer, tenir en ordre",
+        "conduire, tenir en place",
+        "compter, tenir en temps",
+        "clôturer, tenir en ligne"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source provides 'contrôler, tenir en bride' for 'to keep sth in check'."
+    },
+    {
+      "id": "q18",
+      "prompt": "How do you translate 'to stay focused'?",
+      "choices": [
+        "rester concentré",
+        "rester connecté",
+        "rester conscient",
+        "rester complet",
+        "rester calme"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text lists 'to stay focused' as 'rester concentré'."
+    },
+    {
+      "id": "q19",
+      "prompt": "Translate 'to take effort' into French.",
+      "choices": [
+        "exiger/demander un effort",
+        "éviter/demander un report",
+        "exposer/demander un accord",
+        "évaluer/demander un projet",
+        "exécuter/demander un secret"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 43 translates 'to take effort' as 'exiger/demander un effort'."
+    },
+    {
+      "id": "q20",
+      "prompt": "What is the French for 'actually' (noting it is a false friend)?",
+      "choices": [
+        "en fait, en réalité",
+        "en bref, en totalité",
+        "en gros, en priorité",
+        "en bas, en quantité",
+        "en plus, en sécurité"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source translates 'actually' as 'en fait, en réalité'."
+    },
+    {
+      "id": "q21",
+      "prompt": "Translate 'to require' into French.",
+      "choices": [
+        "nécessiter",
+        "neutraliser",
+        "normaliser",
+        "négocier",
+        "notifier"
+      ],
+      "correctIndex": 0,
+      "explanation": "The list specifies 'nécessiter' for 'to require'."
+    },
+    {
+      "id": "q22",
+      "prompt": "What is the French for 'to end up with'?",
+      "choices": [
+        "se retrouver, terminer avec",
+        "se préparer, terminer avec",
+        "se présenter, terminer avec",
+        "se prononcer, terminer avec",
+        "se plaindre, terminer avec"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 43 defines 'to end up with' as 'se retrouver, terminer avec'."
+    },
+    {
+      "id": "q23",
+      "prompt": "Translate 'to make a decision' into French.",
+      "choices": [
+        "prendre une décision",
+        "prendre une dimension",
+        "prendre une déposition",
+        "prendre une discussion",
+        "prendre une direction"
+      ],
+      "correctIndex": 0,
+      "explanation": "The provided translation is 'prendre une décision'."
+    },
+    {
+      "id": "q24",
+      "prompt": "What does 'depleted' mean in French?",
+      "choices": [
+        "épuisé",
+        "établi",
+        "élargi",
+        "éclairé",
+        "évalué"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to page 43, 'depleted' translates to 'épuisé'."
+    },
+    {
+      "id": "q25",
+      "prompt": "Translate 'throughout the day' into French.",
+      "choices": [
+        "pendant toute la journée",
+        "pendant toute la soirée",
+        "pendant toute la période",
+        "pendant toute la session",
+        "pendant toute la réunion"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text lists 'throughout the day' as 'pendant toute la journée'."
+    },
+    {
+      "id": "q26",
+      "prompt": "What is the French equivalent for 'overwhelmed'?",
+      "choices": [
+        "débordé",
+        "déplacé",
+        "détendu",
+        "dépassé",
+        "découragé"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 43 translates 'overwhelmed' as 'débordé'."
+    },
+    {
+      "id": "q27",
+      "prompt": "How do you translate 'in batches'?",
+      "choices": [
+        "par lots, plusieurs à la fois",
+        "par cas, plusieurs à la fois",
+        "par fois, plusieurs à la fois",
+        "par bits, plusieurs à la fois",
+        "par sons, plusieurs à la fois"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source defines 'in batches' as 'par lots, plusieurs à la fois'."
+    },
+    {
+      "id": "q28",
+      "prompt": "Translate 'to batch' into French.",
+      "choices": [
+        "traiter en lots",
+        "traiter en tons",
+        "traiter en sons",
+        "traiter en mois",
+        "traiter en mots"
+      ],
+      "correctIndex": 0,
+      "explanation": "The verb 'to batch' is translated as 'traiter en lots'."
+    },
+    {
+      "id": "q29",
+      "prompt": "What is the French translation for 'menial'?",
+      "choices": [
+        "sans intérêt",
+        "sans accord",
+        "sans limite",
+        "sans retard",
+        "sans succès"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text translates 'menial' as '(ici) sans intérêt'."
+    },
+    {
+      "id": "q30",
+      "prompt": "Translate 'anxiety-inducing' into French.",
+      "choices": [
+        "anxiogène",
+        "accessible",
+        "analytique",
+        "artificiel",
+        "allergique"
+      ],
+      "correctIndex": 0,
+      "explanation": "The word 'anxiety-inducing' is listed as 'anxiogène'."
+    },
+    {
+      "id": "q31",
+      "prompt": "What is the French for 'to induce'?",
+      "choices": [
+        "provoquer, causer",
+        "programmer, créer",
+        "promouvoir, cerner",
+        "prolonger, casser",
+        "protéger, cacher"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 43 defines 'to induce' as 'provoquer, causer'."
+    },
+    {
+      "id": "q32",
+      "prompt": "How is 'a reflecting pool' translated?",
+      "choices": [
+        "un miroir d’eau, un bassin réfléchissant",
+        "un courant d’eau, un bassin rafraîchissant",
+        "un réseau d’eau, un bassin ralentissant",
+        "un niveau d’eau, un bassin représentant",
+        "un circuit d’eau, un bassin ressortissant"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source translates 'a reflecting pool' as 'un miroir d’eau, un bassin réfléchissant'."
+    },
+    {
+      "id": "q33",
+      "prompt": "Translate 'a drop' in this context.",
+      "choices": [
+        "une goutte d’eau",
+        "une partie d’eau",
+        "une source d’eau",
+        "une masse d’eau",
+        "une forme d’eau"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 43 specifies 'a drop' as '(ici) une goutte d’eau'."
+    },
+    {
+      "id": "q34",
+      "prompt": "What is the French for 'the reflectiveness'?",
+      "choices": [
+        "la réflectivité",
+        "la réceptivité",
+        "la relativité",
+        "la rentabilité",
+        "la réactivité"
+      ],
+      "correctIndex": 0,
+      "explanation": "The word is translated as 'la réflectivité' in the source."
+    },
+    {
+      "id": "q35",
+      "prompt": "Translate 'frazzled' into French.",
+      "choices": [
+        "épuisé, crevé",
+        "énervé, pressé",
+        "étonné, bloqué",
+        "étendu, calmé",
+        "écouté, fermé"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text lists 'frazzled' as 'épuisé, crevé'."
+    },
+    {
+      "id": "q36",
+      "prompt": "What is the French for 'a storm'?",
+      "choices": [
+        "une tempête",
+        "une menace",
+        "une période",
+        "une étape",
+        "une limite"
+      ],
+      "correctIndex": 0,
+      "explanation": "The list translates 'a storm' as 'une tempête'."
+    },
+    {
+      "id": "q37",
+      "prompt": "Translate 'the cognitive load' into French.",
+      "choices": [
+        "la charge mentale",
+        "la force mentale",
+        "la phase mentale",
+        "la source mentale",
+        "la limite mentale"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 43 defines 'the cognitive load' as 'la charge mentale'."
+    },
+    {
+      "id": "q38",
+      "prompt": "What is the French for 'to load'?",
+      "choices": [
+        "charger",
+        "changer",
+        "chasser",
+        "choisir",
+        "clouer"
+      ],
+      "correctIndex": 0,
+      "explanation": "The verb 'to load' is translated as 'charger'."
+    },
+    {
+      "id": "q39",
+      "prompt": "Translate 'susceptible to sth' (noting it is a false friend).",
+      "choices": [
+        "sensible à qqch",
+        "semblable à qqch",
+        "soluble à qqch",
+        "soumis à qqch",
+        "sceptique à qqch"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source defines 'susceptible to sth' as 'sensible à qqch'."
+    },
+    {
+      "id": "q40",
+      "prompt": "How do you translate 'to draw away from'?",
+      "choices": [
+        "éloigner de",
+        "éliminer de",
+        "étendre de",
+        "éluder de",
+        "estimer de"
+      ],
+      "correctIndex": 0,
+      "explanation": "The translation provided is 'éloigner de'."
+    },
+    {
+      "id": "q41",
+      "prompt": "What is the French translation for 'at hand'?",
+      "choices": [
+        "en jeu",
+        "en vue",
+        "en fin",
+        "en soi",
+        "en bas"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text lists 'at hand' as 'en jeu'."
+    },
+    {
+      "id": "q42",
+      "prompt": "Translate 'to complete' (noting it is a false friend).",
+      "choices": [
+        "achever, terminer",
+        "attendre, trouver",
+        "affecter, traduire",
+        "appuyer, traiter",
+        "assurer, tourner"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 43 defines 'to complete' as 'achever, terminer'."
+    },
+    {
+      "id": "q43",
+      "prompt": "What is the French for 'to mitigate'?",
+      "choices": [
+        "atténuer",
+        "affecter",
+        "approuver",
+        "analyser",
+        "accélérer"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to page 44, 'to mitigate' means 'atténuer'."
+    },
+    {
+      "id": "q44",
+      "prompt": "Translate 'to schedule' into French.",
+      "choices": [
+        "programmer",
+        "proposer",
+        "prolonger",
+        "protéger",
+        "prononcer"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source translates 'to schedule' as 'programmer'."
+    },
+    {
+      "id": "q45",
+      "prompt": "Translate 'to keep one’s phone on silent'.",
+      "choices": [
+        "mettre son téléphone en mode silencieux",
+        "mettre son téléphone en mode assistance",
+        "mettre son téléphone en mode déconnecté",
+        "mettre son téléphone en mode économie",
+        "mettre son téléphone en mode recherche"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source defines this as 'mettre son téléphone en mode silencieux'."
+    },
+    {
+      "id": "q46",
+      "prompt": "What is the French for 'addicted to'?",
+      "choices": [
+        "dépendant de, accro à",
+        "déconnecté de, lié à",
+        "développé de, prêt à",
+        "déterminé de, apte à",
+        "déchargé de, face à"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 44 lists 'addicted to' as 'dépendant de, accro à'."
+    },
+    {
+      "id": "q47",
+      "prompt": "How do you translate 'to remind sb of sth'?",
+      "choices": [
+        "rappeler qqch à qqun",
+        "rapporter qqch à qqun",
+        "raconter qqch à qqun",
+        "rassurer qqch à qqun",
+        "rattraper qqch à qqun"
+      ],
+      "correctIndex": 0,
+      "explanation": "The list specifies 'rappeler qqch à qqun' for 'to remind sb of sth'."
+    },
+    {
+      "id": "q48",
+      "prompt": "Translate 'to tame' into French.",
+      "choices": [
+        "dompter",
+        "diriger",
+        "donner",
+        "décider",
+        "définir"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 44 defines 'to tame' as 'dompter'."
+    },
+    {
+      "id": "q49",
+      "prompt": "What is the French for 'to rely on'?",
+      "choices": [
+        "compter sur",
+        "conduire sur",
+        "conclure sur",
+        "contenir sur",
+        "comparer sur"
+      ],
+      "correctIndex": 0,
+      "explanation": "The translation provided is 'compter sur'."
+    },
+    {
+      "id": "q50",
+      "prompt": "Translate 'on campus' into French.",
+      "choices": [
+        "sur le campus",
+        "sur le terrain",
+        "sur le projet",
+        "sur le réseau",
+        "sur le support"
+      ],
+      "correctIndex": 0,
+      "explanation": "The list defines 'on campus' as 'sur le campus'."
+    },
+    {
+      "id": "q51",
+      "prompt": "What is the French for 'to do away with sth'?",
+      "choices": [
+        "supprimer qqch",
+        "surveiller qqch",
+        "supporter qqch",
+        "simplifier qqch",
+        "structurer qqch"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 44 translates 'to do away with sth' as 'supprimer qqch'."
+    },
+    {
+      "id": "q52",
+      "prompt": "How is 'convenient' translated in the text?",
+      "choices": [
+        "pratique, commode",
+        "prévisible, stable",
+        "particulier, souple",
+        "possible, modeste",
+        "passable, robuste"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source defines 'convenient' as 'pratique, commode'."
+    },
+    {
+      "id": "q53",
+      "prompt": "Translate 'the social bonds' into French.",
+      "choices": [
+        "les liens sociaux",
+        "les faits sociaux",
+        "les rôles sociaux",
+        "les plans sociaux",
+        "les fonds sociaux"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text lists 'the social bonds' as 'les liens sociaux'."
+    },
+    {
+      "id": "q54",
+      "prompt": "What is the French for 'to hold (society) together'?",
+      "choices": [
+        "maintenir (la société) ensemble",
+        "mesurer (la société) ensemble",
+        "marquer (la société) ensemble",
+        "montrer (la société) ensemble",
+        "mener (la société) ensemble"
+      ],
+      "correctIndex": 0,
+      "explanation": "The provided translation is 'maintenir (la société) ensemble'."
+    },
+    {
+      "id": "q55",
+      "prompt": "Translate 'to chip away' in this context.",
+      "choices": [
+        "enlever, retirer",
+        "entrer, revenir",
+        "enfiler, retenir",
+        "entendre, revivre",
+        "entacher, reculer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 44 defines 'to chip away' as '(ici) enlever, retirer'."
+    }
+  ]
+}
