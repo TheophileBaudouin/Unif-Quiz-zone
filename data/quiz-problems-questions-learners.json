@@ -1,0 +1,533 @@
+{
+  "quizId": "quiz-problems-questions-learners",
+  "title": "Problems and Questions Submitted by Learners of English",
+  "section": {
+    "id": "problems-questions-learners",
+    "title": "Problems and Questions Submitted by Learners of English",
+    "startPage": 1,
+    "endPage": 1,
+    "summary": "Vocabulary list covering common words and expressions often queried by English learners, with French translations."
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Que signifie le mot 'for' dans ce contexte de vocabulaire ?",
+      "choices": [
+        "devant",
+        "durant",
+        "pendant",
+        "autant",
+        "avant"
+      ],
+      "correctIndex": 2,
+      "explanation": "Selon la liste de vocabulaire, 'for' se traduit par 'pendant'."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quelle est la traduction française du mot 'topic' ?",
+      "choices": [
+        "titre",
+        "motif",
+        "sujet",
+        "propos",
+        "point"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le terme 'topic' est traduit par 'sujet' dans le document."
+    },
+    {
+      "id": "q3",
+      "prompt": "Comment traduit-on l'adjectif 'shy' ?",
+      "choices": [
+        "souple",
+        "timide",
+        "habile",
+        "rapide",
+        "calme"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'adjectif 'shy' signifie 'timide'."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel est le sens du mot 'view' selon le document ?",
+      "choices": [
+        "regard",
+        "aspect",
+        "vision",
+        "aperçu",
+        "opinion"
+      ],
+      "correctIndex": 4,
+      "explanation": "'View' est traduit par 'opinion' dans cette section."
+    },
+    {
+      "id": "q5",
+      "prompt": "Traduisez le verbe 'to seem' :",
+      "choices": [
+        "sembler",
+        "vouloir",
+        "devoir",
+        "pouvoir",
+        "penser"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le verbe 'to seem' correspond à 'sembler'."
+    },
+    {
+      "id": "q6",
+      "prompt": "Que signifie le verbe 'to attend' ?",
+      "choices": [
+        "attendre à",
+        "répondre à",
+        "parvenir à",
+        "participer à",
+        "souscrire à"
+      ],
+      "correctIndex": 3,
+      "explanation": "'To attend' est traduit par 'participer à'."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quelle expression correspond à 'up to now' ?",
+      "choices": [
+        "jusqu'à demain",
+        "jusqu'à présent",
+        "depuis ce jour",
+        "à partir d'ici",
+        "encore une fois"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'expression 'up to now' signifie 'jusqu’à présent'."
+    },
+    {
+      "id": "q8",
+      "prompt": "Que signifie 'relative' dans cette liste ?",
+      "choices": [
+        "parent",
+        "proche",
+        "ami",
+        "voisin",
+        "frère"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dans ce contexte, 'relative' se traduit par 'parent'."
+    },
+    {
+      "id": "q9",
+      "prompt": "Comment dit-on 'là-bas' en anglais selon la source ?",
+      "choices": [
+        "over here",
+        "right now",
+        "near that",
+        "over there",
+        "down here"
+      ],
+      "correctIndex": 3,
+      "explanation": "La traduction de 'là-bas' est 'over there'."
+    },
+    {
+      "id": "q10",
+      "prompt": "Quelle est la traduction de 'awful' ?",
+      "choices": [
+        "terrible, atroce",
+        "pénible, injuste",
+        "étrange, sévère",
+        "obscur, féroce",
+        "infâme, labile"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Awful' signifie 'terrible, atroce'."
+    },
+    {
+      "id": "q11",
+      "prompt": "Que signifie l'adverbe 'either' ?",
+      "choices": [
+        "au plus",
+        "de plus",
+        "en plus",
+        "non plus",
+        "si plus"
+      ],
+      "correctIndex": 3,
+      "explanation": "L'adverbe 'either' est traduit par 'non plus'."
+    },
+    {
+      "id": "q12",
+      "prompt": "Traduisez l'expression 'to go wrong' :",
+      "choices": [
+        "dysfonctionner",
+        "s'interrompre",
+        "se tromper",
+        "mal finir",
+        "échouer"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To go wrong' est traduit par 'dysfonctionner'."
+    },
+    {
+      "id": "q13",
+      "prompt": "Que signifie le mot 'matter' ?",
+      "choices": [
+        "problème, sujet",
+        "affaire, question",
+        "conflit, dossier",
+        "nature, concept",
+        "volume, contenu"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Matter' est traduit par 'affaire, question'."
+    },
+    {
+      "id": "q14",
+      "prompt": "Quel est le sens du verbe 'to annoy' ?",
+      "choices": [
+        "agacer, ennuyer",
+        "fâcher, irriter",
+        "blesser, heurter",
+        "pousser, forcer",
+        "calmer, apaiser"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To annoy' signifie 'agacer, ennuyer'."
+    },
+    {
+      "id": "q15",
+      "prompt": "Comment traduit-on 'to improve' ?",
+      "choices": [
+        "augmenter",
+        "progresser",
+        "améliorer",
+        "renforcer",
+        "atteindre"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le verbe 'to improve' signifie 'améliorer'."
+    },
+    {
+      "id": "q16",
+      "prompt": "Quelle est la traduction de 'otherwise' ?",
+      "choices": [
+        "cependant",
+        "néanmoins",
+        "d'ailleurs",
+        "autrement",
+        "également"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Otherwise' se traduit par 'autrement'."
+    },
+    {
+      "id": "q17",
+      "prompt": "Que signifie le mot 'rule' ?",
+      "choices": [
+        "ordre",
+        "norme",
+        "loi",
+        "droit",
+        "règle"
+      ],
+      "correctIndex": 4,
+      "explanation": "Le mot 'rule' signifie 'règle'."
+    },
+    {
+      "id": "q18",
+      "prompt": "Traduisez 'to be anything short of' :",
+      "choices": [
+        "ne pas être tout simplement",
+        "ne pas être fort différent",
+        "ne pas être trop important",
+        "ne pas être bien conscient",
+        "ne pas être plus compétent"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To be anything short of' est traduit par 'ne pas être tout simplement'."
+    },
+    {
+      "id": "q19",
+      "prompt": "Que signifie le verbe 'to look after' ?",
+      "choices": [
+        "s'intéresser à",
+        "se souvenir de",
+        "s'occuper de",
+        "se méfier de",
+        "se moquer de"
+      ],
+      "correctIndex": 2,
+      "explanation": "'To look after' signifie 's’occuper de'."
+    },
+    {
+      "id": "q20",
+      "prompt": "Quelle est la traduction de 'puzzling' ?",
+      "choices": [
+        "déconcertant",
+        "surprenant",
+        "fatigant",
+        "amusant",
+        "troublant"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'adjectif 'puzzling' signifie 'déconcertant'."
+    },
+    {
+      "id": "q21",
+      "prompt": "Que signifie le mot 'whereas' ?",
+      "choices": [
+        "bien que",
+        "tandis que",
+        "parce que",
+        "pour que",
+        "dès que"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Whereas' est traduit par 'tandis que'."
+    },
+    {
+      "id": "q22",
+      "prompt": "Comment traduit-on 'instead of' ?",
+      "choices": [
+        "en face de",
+        "à cause de",
+        "au lieu de",
+        "en dépit de",
+        "au sein de"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Instead of' signifie 'au lieu de'."
+    },
+    {
+      "id": "q23",
+      "prompt": "Quel est le sens du mot 'quite' ?",
+      "choices": [
+        "assez",
+        "plutôt",
+        "moins",
+        "parfois",
+        "encore"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dans ce contexte, 'quite' est traduit par 'assez'."
+    },
+    {
+      "id": "q24",
+      "prompt": "Traduisez l'expression 'good at' :",
+      "choices": [
+        "bon en",
+        "fort à",
+        "apte à",
+        "doué à",
+        "prêt à"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Good at' se traduit par 'bon en'."
+    },
+    {
+      "id": "q25",
+      "prompt": "Que signifie 'on my own' ?",
+      "choices": [
+        "à ma guise",
+        "pour ma part",
+        "tout seul",
+        "chez moi",
+        "de moi-même"
+      ],
+      "correctIndex": 2,
+      "explanation": "'On my own' signifie 'tout seul'."
+    },
+    {
+      "id": "q26",
+      "prompt": "Quelle est la traduction de 'actually' ?",
+      "choices": [
+        "actuellement",
+        "en fait",
+        "vraiment",
+        "pourtant",
+        "enfin"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Actually' est un faux-ami signifiant 'en fait'."
+    },
+    {
+      "id": "q27",
+      "prompt": "Que signifie le mot 'advice' ?",
+      "choices": [
+        "avis",
+        "choix",
+        "ordre",
+        "conseil",
+        "leçon"
+      ],
+      "correctIndex": 3,
+      "explanation": "Le mot 'advice' se traduit par 'conseil'."
+    },
+    {
+      "id": "q28",
+      "prompt": "Traduisez l'adverbe 'currently' :",
+      "choices": [
+        "couramment",
+        "actuellement",
+        "récemment",
+        "uniquement",
+        "totalement"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Currently' signifie 'actuellement'."
+    },
+    {
+      "id": "q29",
+      "prompt": "Quel est le sens du mot 'although' ?",
+      "choices": [
+        "bien que",
+        "pourtant",
+        "néanmoins",
+        "d'ailleurs",
+        "puisque"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Although' est traduit par 'bien que'."
+    },
+    {
+      "id": "q30",
+      "prompt": "Traduisez l'adverbe 'eventually' :",
+      "choices": [
+        "évidemment, en tout état",
+        "finalement, en fin de compte",
+        "probablement, en tout hasard",
+        "totalement, en fin de parcours",
+        "certainement, en fin de séance"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Eventually' signifie 'finalement, en fin de compte'."
+    },
+    {
+      "id": "q31",
+      "prompt": "Quel mot anglais correspond à 'sujet' ?",
+      "choices": [
+        "topic",
+        "title",
+        "issue",
+        "point",
+        "matter"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon la liste, 'sujet' se traduit par 'topic'."
+    },
+    {
+      "id": "q32",
+      "prompt": "Quel mot anglais correspond à 'parent' ?",
+      "choices": [
+        "parent",
+        "related",
+        "relative",
+        "familiar",
+        "neighbor"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dans la liste, 'parent' est l'équivalent de 'relative'."
+    },
+    {
+      "id": "q33",
+      "prompt": "Comment dit-on 'conseil' en anglais ?",
+      "choices": [
+        "advise",
+        "advice",
+        "notion",
+        "review",
+        "survey"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Conseil' se traduit par 'advice' (nom)."
+    },
+    {
+      "id": "q34",
+      "prompt": "Traduisez 'tout seul' en anglais :",
+      "choices": [
+        "on my own",
+        "by my way",
+        "in my side",
+        "at my self",
+        "on my way"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Tout seul' correspond à 'on my own'."
+    },
+    {
+      "id": "q35",
+      "prompt": "Quelle est la traduction anglaise de 'règle' ?",
+      "choices": [
+        "law",
+        "code",
+        "base",
+        "rule",
+        "norm"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Règle' est traduit par 'rule'."
+    },
+    {
+      "id": "q36",
+      "prompt": "Traduisez 'sembler' en anglais :",
+      "choices": [
+        "to look",
+        "to show",
+        "to seem",
+        "to feel",
+        "to mean"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Sembler' se dit 'to seem'."
+    },
+    {
+      "id": "q37",
+      "prompt": "Quel terme anglais signifie 'jusqu’à présent' ?",
+      "choices": [
+        "since now",
+        "by now",
+        "from now",
+        "until now",
+        "up to now"
+      ],
+      "correctIndex": 4,
+      "explanation": "L'expression exacte est 'up to now'."
+    },
+    {
+      "id": "q38",
+      "prompt": "Comment traduit-on 'participer à' ?",
+      "choices": [
+        "to attend",
+        "to assist",
+        "to intent",
+        "to attain",
+        "to affect"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Participer à' est l'équivalent de 'to attend'."
+    },
+    {
+      "id": "q39",
+      "prompt": "Quel est l'équivalent anglais de 'terrible, atroce' ?",
+      "choices": [
+        "badly",
+        "angry",
+        "awful",
+        "harsh",
+        "tough"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Terrible, atroce' se traduit par 'awful'."
+    },
+    {
+      "id": "q40",
+      "prompt": "Traduisez 'tandis que' en anglais :",
+      "choices": [
+        "because",
+        "whereas",
+        "although",
+        "whenever",
+        "wherever"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Tandis que' est traduit par 'whereas'."
+    }
+  ]
+}
