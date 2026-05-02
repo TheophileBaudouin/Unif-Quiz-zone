@@ -1,0 +1,542 @@
+{
+  "quizId": "walking-dead-voc",
+  "title": "The Walking Dead Vocabulary",
+  "section": {
+    "id": "walking-dead-voc",
+    "title": "The Walking Dead Vocabulary",
+    "startPage": 2,
+    "endPage": 2,
+    "summary": "Terms related to media, entertainment, and social change, including concepts like 'dumbing down', 'spin-off', and 'edutainment'.",
+    "estimatedQuestionCount": 42
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "What is the translation of 'to uphold'?",
+      "choices": [
+        "maintenir",
+        "démolir",
+        "ignorer",
+        "écarter",
+        "oublier"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "What does the term 'dumbing down' mean?",
+      "choices": [
+        "montée en compétence",
+        "nivellement par le bas",
+        "amélioration du niveau",
+        "renforcement technique",
+        "recherche d'excellence"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q3",
+      "prompt": "How do you translate 'TV show' into French?",
+      "choices": [
+        "journal télévisé",
+        "chaîne de radio",
+        "série télévisée",
+        "écran de cinéma",
+        "publicité courte"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q4",
+      "prompt": "What is the meaning of 'to launch'?",
+      "choices": [
+        "freiner",
+        "arrêter",
+        "cacher",
+        "lancer",
+        "garder"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q5",
+      "prompt": "What is a 'spin-off'?",
+      "choices": [
+        "original",
+        "prélude",
+        "synthèse",
+        "ébauche",
+        "dérivé"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "id": "q6",
+      "prompt": "What is the translation of 'to spawn'?",
+      "choices": [
+        "engendrer, faire naître",
+        "occulter, faire oublier",
+        "effacer, faire disparaître",
+        "étouffer, faire taire",
+        "détruire, faire périr"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q7",
+      "prompt": "What does the word 'range' refer to?",
+      "choices": [
+        "une ligne",
+        "une gamme",
+        "un point",
+        "une fin",
+        "un but"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q8",
+      "prompt": "How do you translate 'to find out'?",
+      "choices": [
+        "ignorer totalement",
+        "masquer l'objet",
+        "découvrir, trouver",
+        "perdre le contact",
+        "cacher le secret"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q9",
+      "prompt": "What is the meaning of the conjunction 'whether'?",
+      "choices": [
+        "parce que (puisque)",
+        "bien que (quoique)",
+        "ainsi que (alors)",
+        "si (oui ou non)",
+        "tel que (comme)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q10",
+      "prompt": "What does 'drop-out' mean in an educational context?",
+      "choices": [
+        "diplôme",
+        "réussite",
+        "rentrée",
+        "succès",
+        "abandon"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "id": "q11",
+      "prompt": "How is the word 'rate' translated?",
+      "choices": [
+        "taux",
+        "prix",
+        "gain",
+        "part",
+        "coût"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q12",
+      "prompt": "What is the translation of 'assessment'?",
+      "choices": [
+        "conclusion",
+        "évaluation",
+        "prédiction",
+        "démission",
+        "promotion"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q13",
+      "prompt": "What does 'to deliver' mean in this context?",
+      "choices": [
+        "conserver",
+        "interdire",
+        "transmettre",
+        "fabriquer",
+        "critiquer"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q14",
+      "prompt": "What is the translation of 'until'?",
+      "choices": [
+        "depuis",
+        "contre",
+        "envers",
+        "jusque",
+        "durant"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q15",
+      "prompt": "What does 'decay' refer to?",
+      "choices": [
+        "amélioration",
+        "construction",
+        "stabilisation",
+        "purification",
+        "désintégration"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "id": "q16",
+      "prompt": "How do you translate 'to design'?",
+      "choices": [
+        "concevoir",
+        "détruire",
+        "terminer",
+        "regarder",
+        "ignorer"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q17",
+      "prompt": "What is the French word for 'mind'?",
+      "choices": [
+        "corps",
+        "esprit",
+        "geste",
+        "sang",
+        "habit"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q18",
+      "prompt": "What is the translation of 'while'?",
+      "choices": [
+        "parce que",
+        "bien que",
+        "tandis que, alors que",
+        "jusque là",
+        "depuis que"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q19",
+      "prompt": "What does 'incidental' mean?",
+      "choices": [
+        "essentiel, primordial",
+        "obligatoire, forcé",
+        "nécessaire, vital",
+        "accessoire, secondaire",
+        "permanent, fixe"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q20",
+      "prompt": "How is 'boundary' translated?",
+      "choices": [
+        "milieu, centre",
+        "espace, vide",
+        "passage, pont",
+        "entrée, porte",
+        "frontière, limite"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "id": "q21",
+      "prompt": "What is the translation of 'entertainment'?",
+      "choices": [
+        "divertissement",
+        "enseignement",
+        "entraînement",
+        "obligation",
+        "dévotion"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q22",
+      "prompt": "What does 'to blur' mean?",
+      "choices": [
+        "éclaircir",
+        "brouiller",
+        "préciser",
+        "dessiner",
+        "souligner"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q23",
+      "prompt": "How do you translate 'to merge'?",
+      "choices": [
+        "séparer",
+        "diviser",
+        "fusionner",
+        "couper",
+        "isoler"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q24",
+      "prompt": "What is 'edutainment'?",
+      "choices": [
+        "travail ardu",
+        "sport intensif",
+        "loisir passif",
+        "amusement éducatif",
+        "sérieux scolaire"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q25",
+      "prompt": "What is the translation of 'to team up'?",
+      "choices": [
+        "s'isoler seul",
+        "se quitter vite",
+        "se battre contre",
+        "fuir ensemble",
+        "s’associer, faire équipe"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "id": "q26",
+      "prompt": "What is the meaning of 'to feature'?",
+      "choices": [
+        "représenter",
+        "dissimuler",
+        "supprimer",
+        "remplacer",
+        "oublier"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q27",
+      "prompt": "What does 'ridden with' mean?",
+      "choices": [
+        "vide de",
+        "plein de",
+        "loin de",
+        "hors de",
+        "privé de"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q28",
+      "prompt": "How is 'to expect' translated?",
+      "choices": [
+        "s'opposer à",
+        "renoncer à",
+        "s’attendre à",
+        "se tromper à",
+        "oublier de"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q29",
+      "prompt": "What is the translation of 'to tackle'?",
+      "choices": [
+        "s'éloigner de",
+        "s'excuser de",
+        "s'amuser de",
+        "s’attaquer à",
+        "s'inquiéter de"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q30",
+      "prompt": "What is an 'issue' in the context of a problem?",
+      "choices": [
+        "une solution",
+        "un résultat",
+        "un progrès",
+        "une réponse",
+        "un problème"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "id": "q31",
+      "prompt": "What is the French translation for 'field' (area of expertise)?",
+      "choices": [
+        "domaine",
+        "limite",
+        "chemin",
+        "secret",
+        "écart"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q32",
+      "prompt": "How do you translate 'health'?",
+      "choices": [
+        "force",
+        "santé",
+        "peine",
+        "maladie",
+        "fatigue"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q33",
+      "prompt": "What does 'completion' mean?",
+      "choices": [
+        "erreur",
+        "retard",
+        "achèvement",
+        "échec",
+        "début"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q34",
+      "prompt": "What is the translation of 'to teach'?",
+      "choices": [
+        "apprendre",
+        "regarder",
+        "écouter",
+        "enseigner",
+        "dessiner"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q35",
+      "prompt": "What are 'grounds' (in a university context)?",
+      "choices": [
+        "bureaux",
+        "foyer",
+        "stade",
+        "amphi",
+        "campus"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "id": "q36",
+      "prompt": "What is a 'lecturer'?",
+      "choices": [
+        "conférencier, enseignant du supérieur",
+        "administratif, employé de bureau",
+        "bibliothécaire, gardien de livres",
+        "étudiant, bénéficiaire de bourses",
+        "surveillant, responsable de cours"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q37",
+      "prompt": "What is the meaning of 'relevant'?",
+      "choices": [
+        "inutile",
+        "pertinent",
+        "incertain",
+        "obsolète",
+        "confus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q38",
+      "prompt": "How is 'merely' translated?",
+      "choices": [
+        "grandement",
+        "fortement",
+        "simplement",
+        "rarement",
+        "souvent"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q39",
+      "prompt": "What is the translation of 'step'?",
+      "choices": [
+        "fin",
+        "but",
+        "saut",
+        "pas, étape",
+        "arrêt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q40",
+      "prompt": "What does 'further' mean?",
+      "choices": [
+        "plus près",
+        "moins loin",
+        "déjà fait",
+        "avant tout",
+        "plus loin, ultérieur"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "id": "q41",
+      "prompt": "How do you translate 'curriculum'?",
+      "choices": [
+        "programme",
+        "bulletin",
+        "diplôme",
+        "examen",
+        "rentrée"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q42",
+      "prompt": "What is the translation of 'to fail to'?",
+      "choices": [
+        "réussir à",
+        "ne pas parvenir à",
+        "décider de",
+        "essayer de",
+        "commencer à"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q43",
+      "prompt": "How do you translate 'to complete'?",
+      "choices": [
+        "débuter",
+        "retarder",
+        "achever, terminer",
+        "annuler",
+        "commencer"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q44",
+      "prompt": "What is the meaning of 'to outweigh'?",
+      "choices": [
+        "céder face à",
+        "perdre contre",
+        "rester égal à",
+        "l’emporter sur, dépasser",
+        "s'éclipser devant"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}
