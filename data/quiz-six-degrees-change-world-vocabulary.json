@@ -1,663 +1,1769 @@
 {
   "quizId": "six-degrees-change-world-vocabulary",
-  "title": "Six Degrees Could Change the World",
+  "title": "Six Degrees Could Change the World Vocabulary",
   "section": {
     "id": "six-degrees-change-world-vocabulary",
-    "title": "Six Degrees Could Change the World",
+    "title": "Six Degrees Could Change the World Vocabulary",
     "startPage": 12,
     "endPage": 14,
-    "summary": "Environmental vocabulary dealing with climate change, geography, ecological impacts, and global warming consequences."
+    "summary": "Extensive list of environmental, scientific, and disaster-related vocabulary concerning climate change.",
+    "estimatedQuestionCount": 135
   },
   "questions": [
     {
       "id": "q1",
-      "prompt": "What is the translation of the expression '(to be at) a crossroads'?",
+      "prompt": "What is the French translation for the expression '(to be at) a crossroads'?",
       "choices": [
         "(être à) la croisée des chemins",
-        "(être à) la recherche de moyens",
-        "(être à) la limite des capacités",
-        "(être à) la merci des éléments",
-        "(être à) la portée de solutions"
+        "(être à) la source des épreuves",
+        "(être à) la portée des horizons",
+        "(être à) la sortie des tournants",
+        "(être à) la pointe des parcours"
       ],
       "correctIndex": 0,
-      "explanation": "According to the source, '(to be at) a crossroads' translates as '(être à) la croisée des chemins'."
+      "explanation": "According to the vocabulary list, '(to be at) a crossroads' translates to '(être à) la croisée des chemins'."
     },
     {
       "id": "q2",
-      "prompt": "Which term corresponds to 'out of control'?",
+      "prompt": "How is the phrase 'out of control' translated in the context of climate change?",
       "choices": [
-        "Inexorable, sans limites",
-        "Étonnant, imprévisible",
         "Galopant, incontrôlable",
-        "Inévitable, irréversible",
-        "Croissant, insaisissable"
+        "Menaçant, insupportable",
+        "Incapable, imprévisible",
+        "Dérivant, irrécupérable",
+        "Évoluant, insaisissable"
       ],
-      "correctIndex": 2,
-      "explanation": "The vocabulary list defines 'out of control' as 'Galopant, incontrôlable'."
+      "correctIndex": 0,
+      "explanation": "The source document translates 'out of control' as 'Galopant, incontrôlable'."
     },
     {
       "id": "q3",
-      "prompt": "What does the term 'warning' mean in this context?",
+      "prompt": "What does the English word 'soon' mean in French?",
       "choices": [
-        "Un signe de changement",
-        "Un signal de détresse",
-        "Un avertissement",
-        "Un comportement",
-        "Un empêchement"
+        "vite, bientôt",
+        "fort, soudain",
+        "lent, parfois",
+        "loin, souvent",
+        "plus, environ"
       ],
-      "correctIndex": 2,
-      "explanation": "In the provided text, 'warning' is translated as 'avertissement'."
+      "correctIndex": 0,
+      "explanation": "The vocabulary list provides 'vite, bientôt' as the translation for 'soon'."
     },
     {
       "id": "q4",
-      "prompt": "How is 'threshold' translated in the document?",
+      "prompt": "What is the French equivalent of the noun 'warning'?",
       "choices": [
-        "Niveau, plafond",
-        "Seuil, limite",
-        "Point, repère",
-        "Accès, entrée",
-        "Phase, étape"
+        "avertissement",
+        "développement",
+        "accroissement",
+        "investissement",
+        "enchantement"
       ],
-      "correctIndex": 1,
-      "explanation": "The source document translates 'threshold' as 'seuil, limite'."
+      "correctIndex": 0,
+      "explanation": "'Warning' translates to 'avertissement' in the source text."
     },
     {
       "id": "q5",
-      "prompt": "What is the correct translation for 'scorching'?",
+      "prompt": "How is the word 'challenge' translated in the source vocabulary?",
       "choices": [
-        "Dévastateur",
-        "Caniculaire",
-        "Flamboyant",
-        "Etouffant",
-        "Persistant"
+        "défi",
+        "abri",
+        "paroi",
+        "appui",
+        "outil"
       ],
-      "correctIndex": 1,
-      "explanation": "The term 'scorching' is translated as 'caniculaire' in the vocabulary list."
+      "correctIndex": 0,
+      "explanation": "In the context of the course, 'challenge' means 'défi'."
     },
     {
       "id": "q6",
-      "prompt": "How is 'buffer' translated in French?",
+      "prompt": "What is the translation for the adjective 'global'?",
       "choices": [
-        "Barrière",
-        "Soutien",
-        "Réserve",
-        "Tampon",
-        "Limite"
+        "mondial, planétaire",
+        "spatial, stellaire",
+        "initial, sommaire",
+        "local, parcellaire",
+        "central, prioritaire"
       ],
-      "correctIndex": 3,
-      "explanation": "According to the text, 'buffer' translates as 'tampon'."
+      "correctIndex": 0,
+      "explanation": "The source defines 'global' as 'mondial, planétaire'."
     },
     {
       "id": "q7",
-      "prompt": "What does 'greenhouse' refer to in the context of the environment?",
+      "prompt": "What is the French term for 'warming'?",
       "choices": [
-        "Un impact écologique",
-        "À effet de serre",
-        "Un climat tempéré",
-        "Une zone protégée",
-        "Un cycle naturel"
+        "réchauffement",
+        "développement",
+        "vieillissement",
+        "rétablissement",
+        "déclenchement"
       ],
-      "correctIndex": 1,
-      "explanation": "The term 'greenhouse' is linked to 'à effet de serre' in the vocabulary source."
+      "correctIndex": 0,
+      "explanation": "'Warming' is translated as 'réchauffement' in the vocabulary list."
     },
     {
       "id": "q8",
-      "prompt": "What is the meaning of 'to trap' in the source?",
+      "prompt": "What is the French equivalent of the irregular verb 'to rise – rose - risen'?",
       "choices": [
-        "Isoler",
-        "Capter",
-        "Piéger",
-        "Bloquer",
-        "Garder"
+        "augmenter",
+        "accentuer",
+        "accélérer",
+        "alimenter",
+        "apprécier"
       ],
-      "correctIndex": 2,
-      "explanation": "'To trap' is translated as 'piéger' in the vocabulary list."
+      "correctIndex": 0,
+      "explanation": "The verb 'to rise – rose - risen' translates to 'augmenter'."
     },
     {
       "id": "q9",
-      "prompt": "How is the verb 'to soar' translated?",
+      "prompt": "What does the expression 'or so' mean in French?",
       "choices": [
-        "Augmenter légèrement",
-        "Gratter le sommet",
-        "Monter en flèche",
-        "Rester en place",
-        "Chuter brutalement"
+        "environ",
+        "pourtant",
+        "presque",
+        "parfois",
+        "souvent"
       ],
-      "correctIndex": 2,
-      "explanation": "The document defines 'to soar' as 'monter en flèche, grandir démesurément'."
+      "correctIndex": 0,
+      "explanation": "The term 'or so' translates to 'environ' in the provided list."
     },
     {
       "id": "q10",
-      "prompt": "What is the translation for 'drought'?",
+      "prompt": "How is the phrasal verb 'to bump up' translated?",
       "choices": [
-        "Sécheresse",
-        "Inondation",
-        "Pollution",
-        "Chaleur",
-        "Pénurie"
+        "faire grimper",
+        "faire chuter",
+        "faire glisser",
+        "faire bouger",
+        "faire varier"
       ],
       "correctIndex": 0,
-      "explanation": "In the provided list, 'drought' means 'sécheresse'."
+      "explanation": "The source document translates 'to bump up' as 'faire grimper'."
     },
     {
       "id": "q11",
-      "prompt": "Which French word corresponds to 'shortage'?",
+      "prompt": "What is the French translation for 'threshold'?",
       "choices": [
-        "Pauvreté",
-        "Carence",
-        "Pénurie",
-        "Besoin",
-        "Défaut"
+        "seuil, limite",
+        "bord, lisière",
+        "fond, socle",
+        "point, étape",
+        "plan, niveau"
       ],
-      "correctIndex": 2,
-      "explanation": "'Shortage' is translated as 'pénurie' in the document."
+      "correctIndex": 0,
+      "explanation": "'Threshold' is translated as 'seuil, limite' in the vocabulary list."
     },
     {
       "id": "q12",
-      "prompt": "What is the translation of 'grain'?",
+      "prompt": "What is the French meaning of the verb 'to hit'?",
       "choices": [
-        "Les semences",
-        "Les récoltes",
-        "Les céréales",
-        "Les labours",
-        "Les farines"
+        "frapper",
+        "couper",
+        "mener",
+        "trier",
+        "gérer"
       ],
-      "correctIndex": 2,
-      "explanation": "The vocabulary source translates 'grain' as 'les céréales'."
+      "correctIndex": 0,
+      "explanation": "In this vocabulary context, 'to hit' translates to 'frapper'."
     },
     {
       "id": "q13",
-      "prompt": "How is 'beyond' defined in the vocabulary list?",
+      "prompt": "What does the adjective 'scorching' mean in French?",
       "choices": [
-        "Plus loin que",
-        "Au-delà de",
-        "En dehors de",
-        "À côté de",
-        "En amont de"
+        "caniculaire",
+        "temporaire",
+        "passagère",
+        "hivernale",
+        "littorale"
       ],
-      "correctIndex": 1,
-      "explanation": "According to the source, 'beyond' translates as 'au-delà de'."
+      "correctIndex": 0,
+      "explanation": "The source identifies 'scorching' as 'caniculaire'."
     },
     {
       "id": "q14",
-      "prompt": "What does 'to threaten' mean?",
+      "prompt": "How is the noun 'heat' translated in French?",
       "choices": [
-        "Menacer",
-        "Nuire à",
-        "Pousser",
-        "Cibler",
-        "Risquer"
+        "chaleur",
+        "douceur",
+        "vigueur",
+        "lenteur",
+        "hauteur"
       ],
       "correctIndex": 0,
-      "explanation": "'To threaten' is translated as 'menacer' in the provided text."
+      "explanation": "'Heat' is translated as 'chaleur' in the list."
     },
     {
       "id": "q15",
-      "prompt": "What is the translation of 'peak'?",
+      "prompt": "What is the French translation for 'wave'?",
       "choices": [
-        "Crête",
-        "Sommet",
-        "Point",
-        "Haut",
-        "Pic"
+        "vague",
+        "masse",
+        "force",
+        "digue",
+        "trace"
       ],
-      "correctIndex": 1,
-      "explanation": "The term 'peak' is translated as 'sommet' in the source."
+      "correctIndex": 0,
+      "explanation": "The term 'wave' (as in heatwave) translates to 'vague'."
     },
     {
       "id": "q16",
-      "prompt": "Which term corresponds to the French 'ours'?",
+      "prompt": "How is the verb 'to agree' translated in the document?",
       "choices": [
-        "Deer",
-        "Wolf",
-        "Bear",
-        "Boar",
-        "Lion"
+        "admettre, être d’accord",
+        "proposer, être enclin",
+        "réfuter, être critique",
+        "soutenir, être capable",
+        "adapter, être flexible"
       ],
-      "correctIndex": 2,
-      "explanation": "The list provides 'bear' for 'ours'."
+      "correctIndex": 0,
+      "explanation": "The source translates 'to agree' as 'admettre, être d’accord'."
     },
     {
       "id": "q17",
-      "prompt": "How is 'to struggle' translated?",
+      "prompt": "What is the French equivalent for the preposition 'by' in the source context?",
       "choices": [
-        "S'efforcer de faire",
-        "Lutter, se battre",
-        "Tenter d'agir",
-        "Vouloir gagner",
-        "Refuser de perdre"
+        "de",
+        "sur",
+        "vers",
+        "dans",
+        "sous"
       ],
-      "correctIndex": 1,
-      "explanation": "The source translates 'to struggle' as 'lutter, se battre'."
+      "correctIndex": 0,
+      "explanation": "In this specific vocabulary list, 'by' is translated as 'de'."
     },
     {
       "id": "q18",
-      "prompt": "What is 'pine' in French?",
+      "prompt": "How is the adverb 'almost' translated?",
       "choices": [
-        "Sapin",
-        "Chêne",
-        "Pin",
-        "Bouleau",
-        "Hêtre"
+        "presque",
+        "surtout",
+        "parfois",
+        "encore",
+        "jamais"
       ],
-      "correctIndex": 2,
-      "explanation": "According to the vocabulary list, 'pine' translates as 'pin'."
+      "correctIndex": 0,
+      "explanation": "'Almost' translates to 'presque'."
     },
     {
       "id": "q19",
-      "prompt": "What is a 'beetle'?",
+      "prompt": "What does the word 'above' mean in French?",
       "choices": [
-        "Mouche",
-        "Fourmi",
-        "Scarabée",
-        "Abeille",
-        "Sauterelle"
+        "au-dessus de",
+        "au-travers de",
+        "au-devant de",
+        "au-dehors de",
+        "au-milieu de"
       ],
-      "correctIndex": 2,
-      "explanation": "'Beetle' is translated as 'scarabée' in the document."
+      "correctIndex": 0,
+      "explanation": "'Above' is translated as 'au-dessus de' in the source list."
     },
     {
       "id": "q20",
-      "prompt": "What does 'to kill off' mean?",
+      "prompt": "What is the French translation for 'buffer'?",
       "choices": [
-        "Arrêter",
-        "Écarter",
-        "Éliminer",
-        "Détruire",
-        "Réduire"
+        "tampon",
+        "cloche",
+        "poteau",
+        "verrou",
+        "levier"
       ],
-      "correctIndex": 2,
-      "explanation": "The source defines 'to kill off' as 'éliminer'."
+      "correctIndex": 0,
+      "explanation": "The word 'buffer' is translated as 'tampon' in the document."
     },
     {
       "id": "q21",
-      "prompt": "What is 'white bark'?",
+      "prompt": "What is the French equivalent for 'outer'?",
       "choices": [
-        "Écorce blanche",
-        "Forêt de pins",
-        "Pin à écorce blanche",
-        "Feuille de pin",
-        "Arbre à sève"
+        "extérieur",
+        "inférieur",
+        "antérieur",
+        "intérieur",
+        "ultérieur"
       ],
-      "correctIndex": 2,
-      "explanation": "The vocabulary list translates 'white bark' as 'pin à écorce blanche'."
+      "correctIndex": 0,
+      "explanation": "'Outer' means 'extérieur' in French according to the list."
     },
     {
       "id": "q22",
-      "prompt": "How is 'bark' translated alone?",
+      "prompt": "How is 'outer space' translated in the vocabulary list?",
       "choices": [
-        "Branche",
-        "Écorce",
-        "Tronc",
-        "Sève",
-        "Bois"
+        "cosmos",
+        "orbite",
+        "vide",
+        "astral",
+        "ciel"
       ],
-      "correctIndex": 1,
-      "explanation": "The term 'bark' is translated as 'écorce' in the document."
+      "correctIndex": 0,
+      "explanation": "'Outer space' is translated simply as 'cosmos'."
     },
     {
       "id": "q23",
-      "prompt": "What is the translation for 'tundra'?",
+      "prompt": "What does 'greenhouse' (in the context of 'greenhouse effect') translate to?",
       "choices": [
-        "Forêt boréale",
-        "Toundra",
-        "Banquise",
-        "Steppe",
-        "Prairie"
+        "à effet de serre",
+        "à effet de zone",
+        "à effet de terre",
+        "à effet de ville",
+        "à effet de cycle"
       ],
-      "correctIndex": 1,
-      "explanation": "The source translates 'tundra' as 'toundra'."
+      "correctIndex": 0,
+      "explanation": "The source identifies 'greenhouse' as 'à effet de serre'."
     },
     {
       "id": "q24",
-      "prompt": "What does 'beneath' mean?",
+      "prompt": "What is the French term for 'nitrous'?",
       "choices": [
-        "À côté de",
-        "Derrière",
-        "En dessous de",
-        "Devant",
-        "Au travers de"
+        "d’azote",
+        "d’acide",
+        "d’argon",
+        "d’atome",
+        "d’ammon"
       ],
-      "correctIndex": 2,
-      "explanation": "'Beneath' is translated as 'en dessous de' in the list."
+      "correctIndex": 0,
+      "explanation": "'Nitrous' is translated as 'd’azote' in the document."
     },
     {
       "id": "q25",
-      "prompt": "What is 'tide' in French?",
+      "prompt": "How is the verb 'to increase' translated in the list?",
       "choices": [
-        "Vague",
-        "Marée",
-        "Courant",
-        "Océan",
-        "Flux"
+        "augmenter",
+        "accélérer",
+        "accentuer",
+        "alimenter",
+        "apprécier"
       ],
-      "correctIndex": 1,
-      "explanation": "The document defines 'tide' as 'marée'."
+      "correctIndex": 0,
+      "explanation": "'To increase' means 'augmenter' in French."
     },
     {
       "id": "q26",
-      "prompt": "How is 'tipping point' translated?",
+      "prompt": "What is the French equivalent for the verb 'to trap'?",
       "choices": [
-        "Moment de bascule",
-        "Point critique",
-        "Seuil de tolérance",
-        "Limite extrême",
-        "Stade ultime"
+        "piéger",
+        "cogner",
+        "trier",
+        "mener",
+        "gérer"
       ],
-      "correctIndex": 2,
-      "explanation": "'Tipping point' is translated as 'seuil de tolérance' in the vocabulary list."
+      "correctIndex": 0,
+      "explanation": "According to the source, 'to trap' translates to 'piéger'."
     },
     {
       "id": "q27",
-      "prompt": "What does 'slippery slope' mean?",
+      "prompt": "What is the French translation for 'for' in this environmental context?",
       "choices": [
-        "Passage risqué",
-        "Pente glissante",
-        "Pente fatale",
-        "Chemin difficile",
-        "Trajet incertain"
+        "au cours de",
+        "au milieu de",
+        "au travers de",
+        "au profit de",
+        "au titre de"
       ],
-      "correctIndex": 2,
-      "explanation": "In this context, 'slippery slope' is translated as 'pente fatale'."
+      "correctIndex": 0,
+      "explanation": "In this vocabulary set, 'for' is translated as 'au cours de'."
     },
     {
       "id": "q28",
-      "prompt": "What is 'runaway' in the context of the text?",
+      "prompt": "How is the verb 'to soar' translated in French?",
       "choices": [
-        "Perdu, oublié",
-        "Fou, emballé",
-        "Libre, délié",
-        "Rapide, vif",
-        "Haut, élevé"
+        "monter en flèche, grandir démesurément",
+        "baisser en masse, réduire drastiquement",
+        "évoluer en cycle, varier cycliquement",
+        "stagner en l'état, rester invariablement",
+        "glisser en pente, chuter irrémédiablement"
       ],
-      "correctIndex": 1,
-      "explanation": "The list translates 'runaway' as 'fou, emballé'."
+      "correctIndex": 0,
+      "explanation": "'To soar' is translated as 'monter en flèche, grandir démesurément'."
     },
     {
       "id": "q29",
-      "prompt": "What does 'loss' mean?",
+      "prompt": "What is the French translation for 'to respond'?",
       "choices": [
-        "Ruine",
-        "Perte",
-        "Déficit",
-        "Baisse",
-        "Manque"
+        "réagir",
+        "ouvrir",
+        "sentir",
+        "finir",
+        "réunir"
       ],
-      "correctIndex": 1,
-      "explanation": "'Loss' is translated as 'perte' in the source."
+      "correctIndex": 0,
+      "explanation": "'To respond' translates to 'réagir' in the vocabulary list."
     },
     {
       "id": "q30",
-      "prompt": "How is 'to dry out' translated?",
+      "prompt": "What does the adjective 'willing' mean in French?",
       "choices": [
-        "Se vider",
-        "Se faner",
-        "S'assécher",
-        "Se briser",
-        "Se flétrir"
+        "prêt",
+        "juste",
+        "grave",
+        "seul",
+        "froid"
       ],
-      "correctIndex": 2,
-      "explanation": "'To dry out' means 's’assécher' according to the text."
+      "correctIndex": 0,
+      "explanation": "The adjective 'willing' is translated as 'prêt'."
     },
     {
       "id": "q31",
-      "prompt": "What is the meaning of 'all but'?",
+      "prompt": "How is 'ship' translated in the vocabulary list?",
       "choices": [
-        "À peine",
-        "Tout sauf",
-        "Presque, quasiment",
-        "Tout au plus",
-        "Rien de moins"
+        "bateau",
+        "poteau",
+        "réseau",
+        "niveau",
+        "coteau"
       ],
-      "correctIndex": 2,
-      "explanation": "The source translates 'all but' as 'presque, quasiment, pratiquement'."
+      "correctIndex": 0,
+      "explanation": "The word 'ship' is translated as 'bateau'."
     },
     {
       "id": "q32",
-      "prompt": "What does 'to wither' mean?",
+      "prompt": "What is the French equivalent for the verb 'to flood'?",
       "choices": [
-        "Tomber doucement",
-        "Cesser d'exister",
-        "Disparaître petit à petit",
-        "Devenir plus sombre",
-        "Perdre sa force"
+        "inonder",
+        "éroder",
+        "brûler",
+        "glacer",
+        "sécher"
       ],
-      "correctIndex": 2,
-      "explanation": "'To wither' is translated as 'disparaître petit à petit' in the vocabulary list."
+      "correctIndex": 0,
+      "explanation": "'To flood' translates to 'inonder' in French."
     },
     {
       "id": "q33",
-      "prompt": "What is the translation for 'searing'?",
+      "prompt": "What is the French term for 'drought'?",
       "choices": [
-        "Étouffant, lourd",
-        "Éblouissant, vif",
-        "Torride, brûlant",
-        "Puissant, fort",
-        "Pénible, dur"
+        "sécheresse",
+        "délicatesse",
+        "défaillance",
+        "pénitence",
+        "ressemblance"
       ],
-      "correctIndex": 2,
-      "explanation": "'Searing' is translated as 'torride, brûlant' in the source."
+      "correctIndex": 0,
+      "explanation": "'Drought' translates as 'sécheresse' in the source text."
     },
     {
       "id": "q34",
-      "prompt": "How is 'life-support' translated in the text?",
+      "prompt": "How is 'shortage' translated in the document?",
       "choices": [
-        "Soutien",
-        "Essentiel",
-        "Vital",
-        "Central",
-        "Source"
+        "pénurie",
+        "panique",
+        "période",
+        "prairie",
+        "parcelle"
       ],
-      "correctIndex": 2,
-      "explanation": "The document defines 'life-support' as 'vital'."
+      "correctIndex": 0,
+      "explanation": "'Shortage' is translated as 'pénurie' in the vocabulary list."
     },
     {
       "id": "q35",
-      "prompt": "What does 'to break down' translate to in this list?",
+      "prompt": "What is the French translation for 'grain'?",
       "choices": [
-        "Se rompre",
-        "S'arrêter",
-        "Se détériorer",
-        "Se diviser",
-        "Se briser"
+        "les céréales",
+        "les récoltes",
+        "les semences",
+        "les gisements",
+        "les parcelles"
       ],
-      "correctIndex": 2,
-      "explanation": "According to the source, 'to break down' means 'se détériorer'."
+      "correctIndex": 0,
+      "explanation": "In this context, 'grain' translates to 'les céréales'."
     },
     {
       "id": "q36",
-      "prompt": "What is the meaning of 'frightening'?",
+      "prompt": "How is 'meat' translated in French?",
       "choices": [
-        "Étonnant",
-        "Inquiétant",
-        "Effrayant",
-        "Terrifiant",
-        "Saisissant"
+        "viande",
+        "plante",
+        "source",
+        "paille",
+        "graine"
       ],
-      "correctIndex": 2,
-      "explanation": "'Frightening' is translated as 'effrayant' in the document."
+      "correctIndex": 0,
+      "explanation": "The word 'meat' is translated as 'viande'."
     },
     {
       "id": "q37",
-      "prompt": "How is 'to overtake' translated?",
+      "prompt": "What is the French translation for 'beyond'?",
       "choices": [
-        "Surpasser",
-        "Dominer",
-        "Engloutir",
-        "Vaincre",
-        "Couvrir"
+        "au-delà de",
+        "au-devant de",
+        "au-travers de",
+        "au-milieu de",
+        "au-dehors de"
       ],
-      "correctIndex": 2,
-      "explanation": "The vocabulary source defines 'to overtake' as 'engloutir'."
+      "correctIndex": 0,
+      "explanation": "The term 'beyond' translates to 'au-delà de'."
     },
     {
       "id": "q38",
-      "prompt": "What does 'to wash away' mean?",
+      "prompt": "How is the verb 'to threaten' translated?",
       "choices": [
-        "Nettoyer l'eau",
-        "Diluer le sable",
-        "Balayer, effacer",
-        "Vider les lieux",
-        "Couvrir de boue"
+        "menacer",
+        "évaluer",
+        "engager",
+        "ignorer",
+        "libérer"
       ],
-      "correctIndex": 2,
-      "explanation": "'To wash away' is translated as 'balayer, effacer, emporter' in the document."
+      "correctIndex": 0,
+      "explanation": "'To threaten' means 'menacer' in the source text."
     },
     {
       "id": "q39",
-      "prompt": "What is 'fresh water'?",
+      "prompt": "What is the French word for 'balance'?",
       "choices": [
-        "Eau claire",
-        "Eau vive",
-        "Eau douce",
-        "Eau pure",
-        "Eau potable"
+        "équilibre",
+        "périmètre",
+        "intervalle",
+        "hémisphère",
+        "atmosphère"
       ],
-      "correctIndex": 2,
-      "explanation": "The source translates 'fresh water' as 'eau douce'."
+      "correctIndex": 0,
+      "explanation": "'Balance' is translated as 'équilibre' in the vocabulary list."
     },
     {
       "id": "q40",
-      "prompt": "How is 'bountiful' translated?",
+      "prompt": "What does the word 'bottom' mean in French?",
       "choices": [
-        "Généreux, riche",
-        "Énorme, vaste",
-        "Prospère, abondant",
-        "Utile, pratique",
-        "Vivant, actif"
+        "fond",
+        "bord",
+        "pont",
+        "mont",
+        "vent"
       ],
-      "correctIndex": 2,
-      "explanation": "'Bountiful' is translated as 'prospère, abondant' in the text."
+      "correctIndex": 0,
+      "explanation": "The word 'bottom' translates to 'fond'."
     },
     {
       "id": "q41",
-      "prompt": "What is an 'ice sheet'?",
+      "prompt": "How is 'peak' translated in the vocabulary document?",
       "choices": [
-        "Bloc de glace",
-        "Plaque de glace",
-        "Couche de glace",
-        "Mur de glace",
-        "Mer de glace"
+        "sommet",
+        "trajet",
+        "secret",
+        "aspect",
+        "projet"
       ],
-      "correctIndex": 2,
-      "explanation": "The document defines 'ice sheet' as 'couche de glace'."
+      "correctIndex": 0,
+      "explanation": "In the context of the course, 'peak' means 'sommet'."
     },
     {
       "id": "q42",
-      "prompt": "What does 'to collapse' mean?",
+      "prompt": "What is the French translation for the verb 'to melt'?",
       "choices": [
-        "Se diviser",
-        "Se rompre",
-        "S'effondrer",
-        "Se glacer",
-        "Se perdre"
+        "fondre",
+        "rompre",
+        "joindre",
+        "étendre",
+        "atteindre"
       ],
-      "correctIndex": 2,
-      "explanation": "'To collapse' is translated as 's’effondrer, s’écrouler' in the vocabulary list."
+      "correctIndex": 0,
+      "explanation": "'To melt' is translated as 'fondre' in the document."
     },
     {
       "id": "q43",
-      "prompt": "What is 'snowpack'?",
+      "prompt": "How is 'bear' (the animal) translated in the list?",
       "choices": [
-        "Couche de neige",
-        "Chute de neige",
-        "Accumulation de neige",
-        "Tempête de neige",
-        "Plaque de neige"
+        "ours",
+        "loup",
+        "daim",
+        "cerf",
+        "veau"
       ],
-      "correctIndex": 2,
-      "explanation": "The source defines 'snowpack' as 'accumulation de neige'."
+      "correctIndex": 0,
+      "explanation": "The word 'bear' is translated as 'ours'."
     },
     {
       "id": "q44",
-      "prompt": "What is an 'aquifer'?",
+      "prompt": "What is the French equivalent for 'to struggle'?",
       "choices": [
-        "Un fleuve souterrain",
-        "Une nappe phréatique",
-        "Aquifère (roche poreuse)",
-        "Un canal d'irrigation",
-        "Un réservoir artificiel"
+        "lutter, se battre",
+        "tenter, se former",
+        "mener, se porter",
+        "gérer, se lancer",
+        "trier, se fermer"
       ],
-      "correctIndex": 2,
-      "explanation": "'Aquifer' is translated as 'aquifère (roche poreuse perméable à l’eau)'."
+      "correctIndex": 0,
+      "explanation": "'To struggle' is translated as 'lutter, se battre' in the list."
     },
     {
       "id": "q45",
-      "prompt": "How is 'to withstand' translated?",
+      "prompt": "What is the French translation for 'pine'?",
       "choices": [
-        "Supporter",
-        "Maintenir",
-        "Résister à",
-        "Accepter",
-        "Défendre"
+        "pin",
+        "if",
+        "houx",
+        "orme",
+        "buis"
       ],
-      "correctIndex": 2,
-      "explanation": "The text translates 'to withstand' as 'résister à'."
+      "correctIndex": 0,
+      "explanation": "The source identifies 'pine' as 'pin' in the vocabulary list."
     },
     {
       "id": "q46",
-      "prompt": "What is the meaning of 'wasteland'?",
+      "prompt": "Comment traduit-on l'expression '(to be at) a crossroads' ?",
       "choices": [
-        "Forêt brûlée",
-        "Sol stérile",
-        "Terrain vague",
-        "Zone désertique",
-        "Espace pollué"
+        "(être à) la croisée des chemins",
+        "(être à) la lisière des forêts",
+        "(être à) la source des problèmes",
+        "(être à) la recherche des solutions",
+        "(être à) la portée des changements"
       ],
-      "correctIndex": 2,
-      "explanation": "'Wasteland' is translated as 'terrain vague, terres à l’abandon' in the source."
+      "correctIndex": 0,
+      "explanation": "D'après la page 76, '(to be at) a crossroads' signifie '(être à) la croisée des chemins'."
     },
     {
       "id": "q47",
-      "prompt": "What is 'doomsday'?",
+      "prompt": "Quelle est la traduction de 'out of control' ?",
       "choices": [
-        "Fin du monde",
-        "Jour de deuil",
-        "Jour du Jugement dernier",
-        "Heure du destin",
-        "Temps de crise"
+        "Galopant, incontrôlable",
+        "Ascendant, irrémédiable",
+        "Pénétrant, indispensable",
+        "Frissonnant, imprévisible",
+        "Inquiétant, insupportable"
       ],
-      "correctIndex": 2,
-      "explanation": "The source translates 'doomsday' as 'jour du Jugement dernier'."
+      "correctIndex": 0,
+      "explanation": "Selon la source à la page 76, 'out of control' se traduit par 'Galopant, incontrôlable'."
     },
     {
       "id": "q48",
-      "prompt": "What is the translation for 'doom and gloom'?",
+      "prompt": "Que signifie le terme 'warning' ?",
       "choices": [
-        "Mort et tristesse",
-        "Nuit et brouillard",
-        "Catastrophisme",
-        "Ruine et ténèbres",
-        "Désespoir total"
+        "un avertissement",
+        "un accomplissement",
+        "un enregistrement",
+        "un enrichissement",
+        "un aboutissement"
       ],
-      "correctIndex": 2,
-      "explanation": "The expression 'doom and gloom' is translated as 'catastrophisme' in the list."
+      "correctIndex": 0,
+      "explanation": "Le terme 'warning' est traduit par 'avertissement' à la page 76."
     },
     {
       "id": "q49",
-      "prompt": "How is 'genuine' defined?",
+      "prompt": "Comment traduit-on l'adjectif 'global' dans ce contexte ?",
       "choices": [
-        "Réel, concret",
-        "Pur, intègre",
-        "Authentique, véritable",
-        "Noble, honnête",
-        "Juste, sincère"
+        "mondial, planétaire",
+        "linéaire, sédimentaire",
+        "actuel, communautaire",
+        "total, rudimentaire",
+        "local, fragmentaire"
       ],
-      "correctIndex": 2,
-      "explanation": "'Genuine' is translated as 'authentique, véritable' in the source."
+      "correctIndex": 0,
+      "explanation": "La page 76 indique que 'global' signifie 'mondial, planétaire'."
     },
     {
       "id": "q50",
-      "prompt": "What does 'status quo' mean according to the text?",
+      "prompt": "Quelle est la traduction de 'warming' ?",
       "choices": [
-        "La règle actuelle",
-        "L'ordre établi",
-        "L'état où (cela était) auparavant",
-        "La situation présente",
-        "Le maintien des faits"
+        "réchauffement",
+        "ruissellement",
+        "rayonnement",
+        "retentissement",
+        "refroidissement"
       ],
-      "correctIndex": 2,
-      "explanation": "The source translates 'status quo' as 'l'état où (cela était) auparavant'."
+      "correctIndex": 0,
+      "explanation": "D'après la page 76, 'warming' signifie 'réchauffement'."
+    },
+    {
+      "id": "q51",
+      "prompt": "Que signifie le verbe 'to rise' ?",
+      "choices": [
+        "augmenter",
+        "constater",
+        "limiter",
+        "projeter",
+        "orienter"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le verbe 'to rise' (rose, risen) signifie 'augmenter' selon la page 76."
+    },
+    {
+      "id": "q52",
+      "prompt": "Comment traduit-on 'threshold' ?",
+      "choices": [
+        "seuil, limite",
+        "force, mesure",
+        "ordre, règle",
+        "point, centre",
+        "place, espace"
+      ],
+      "correctIndex": 0,
+      "explanation": "La source à la page 76 traduit 'threshold' par 'seuil, limite'."
+    },
+    {
+      "id": "q53",
+      "prompt": "Quelle est la signification de 'scorching' ?",
+      "choices": [
+        "caniculaire",
+        "nécessaire",
+        "volontaire",
+        "temporaire",
+        "secondaire"
+      ],
+      "correctIndex": 0,
+      "explanation": "À la page 76, 'scorching' est traduit par 'caniculaire'."
+    },
+    {
+      "id": "q54",
+      "prompt": "Comment traduit-on 'buffer' ?",
+      "choices": [
+        "tampon",
+        "vallon",
+        "fission",
+        "maillon",
+        "rayon"
+      ],
+      "correctIndex": 0,
+      "explanation": "D'après la page 76, 'buffer' signifie 'tampon'."
+    },
+    {
+      "id": "q55",
+      "prompt": "Que signifie 'greenhouse' dans l'expression 'greenhouse effect' ?",
+      "choices": [
+        "à effet de serre",
+        "à effet de terre",
+        "à effet de pierre",
+        "à effet de lierre",
+        "à effet de bière"
+      ],
+      "correctIndex": 0,
+      "explanation": "La page 76 traduit 'greenhouse' par 'à effet de serre'."
+    },
+    {
+      "id": "q56",
+      "prompt": "Comment traduit-on 'nitrous' ?",
+      "choices": [
+        "d'azote",
+        "de fonte",
+        "de soufre",
+        "de chrome",
+        "de bronze"
+      ],
+      "correctIndex": 0,
+      "explanation": "À la page 76, 'nitrous' (nitrous oxide) est associé au terme 'd'azote'."
+    },
+    {
+      "id": "q57",
+      "prompt": "Que signifie le verbe 'to soar' ?",
+      "choices": [
+        "monter en flèche",
+        "rester en place",
+        "tomber en panne",
+        "revenir en force",
+        "partir en quête"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon la page 76, 'to soar' signifie 'monter en flèche, grandir démesurément'."
+    },
+    {
+      "id": "q58",
+      "prompt": "Quelle est la traduction de 'drought' ?",
+      "choices": [
+        "sécheresse",
+        "forteresse",
+        "souplesse",
+        "hardiesse",
+        "tendresse"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le terme 'drought' signifie 'sécheresse' d'après la page 76."
+    },
+    {
+      "id": "q59",
+      "prompt": "Comment traduit-on 'shortage' ?",
+      "choices": [
+        "pénurie",
+        "écurie",
+        "théorie",
+        "galerie",
+        "prairie"
+      ],
+      "correctIndex": 0,
+      "explanation": "D'après la page 76, 'shortage' se traduit par 'pénurie'."
+    },
+    {
+      "id": "q60",
+      "prompt": "Quelle est la traduction de 'balance' ?",
+      "choices": [
+        "équilibre",
+        "périmètre",
+        "caractère",
+        "territoire",
+        "atmosphère"
+      ],
+      "correctIndex": 0,
+      "explanation": "La page 76 traduit 'balance' par 'équilibre'."
+    },
+    {
+      "id": "q61",
+      "prompt": "Comment traduit-on 'beetle' ?",
+      "choices": [
+        "scarabée",
+        "moucheté",
+        "enrhumé",
+        "nuancé",
+        "décalé"
+      ],
+      "correctIndex": 0,
+      "explanation": "D'après la page 77, 'beetle' signifie 'scarabée'."
+    },
+    {
+      "id": "q62",
+      "prompt": "Que signifie le phrasal verb 'to kill off' ?",
+      "choices": [
+        "éliminer",
+        "examiner",
+        "entraîner",
+        "expliquer",
+        "équiper"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon la page 77, 'to kill off' signifie 'éliminer'."
+    },
+    {
+      "id": "q63",
+      "prompt": "Comment traduit-on 'bark' ?",
+      "choices": [
+        "écorce",
+        "amorce",
+        "entorse",
+        "féroce",
+        "négoce"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le terme 'bark' signifie 'écorce' à la page 77."
+    },
+    {
+      "id": "q64",
+      "prompt": "Quelle est la traduction de 'tundra' ?",
+      "choices": [
+        "toundra",
+        "savane",
+        "prairie",
+        "mangrove",
+        "clairière"
+      ],
+      "correctIndex": 0,
+      "explanation": "À la page 77, 'tundra' est traduit par 'toundra'."
+    },
+    {
+      "id": "q65",
+      "prompt": "Que signifie la préposition 'beneath' ?",
+      "choices": [
+        "en dessous de",
+        "au travers de",
+        "au milieu de",
+        "en face de",
+        "à côté de"
+      ],
+      "correctIndex": 0,
+      "explanation": "D'après la page 77, 'beneath' signifie 'en dessous de'."
+    },
+    {
+      "id": "q66",
+      "prompt": "Comment traduit-on 'tide' ?",
+      "choices": [
+        "marée",
+        "gelée",
+        "allée",
+        "fumée",
+        "buée"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le terme 'tide' signifie 'marée' selon la page 77."
+    },
+    {
+      "id": "q67",
+      "prompt": "Quelle est la traduction de 'tipping point' ?",
+      "choices": [
+        "seuil de tolérance",
+        "point de référence",
+        "niveau de compétence",
+        "cadre de cohérence",
+        "champ de différence"
+      ],
+      "correctIndex": 0,
+      "explanation": "La page 77 indique que 'tipping point' se traduit par 'seuil de tolérance'."
+    },
+    {
+      "id": "q68",
+      "prompt": "Comment traduit-on 'slippery slope' ?",
+      "choices": [
+        "pente fatale",
+        "route royale",
+        "zone rurale",
+        "vague locale",
+        "force vitale"
+      ],
+      "correctIndex": 0,
+      "explanation": "D'après la page 77, 'slippery slope' signifie 'pente fatale'."
+    },
+    {
+      "id": "q69",
+      "prompt": "Que signifie l'adjectif 'runaway' ?",
+      "choices": [
+        "fou, emballé",
+        "lent, appliqué",
+        "pur, simplifié",
+        "dur, consolidé",
+        "net, identifié"
+      ],
+      "correctIndex": 0,
+      "explanation": "La page 77 traduit 'runaway' par 'fou, emballé'."
+    },
+    {
+      "id": "q70",
+      "prompt": "Comment traduit-on le verbe 'to dry out' ?",
+      "choices": [
+        "s’assécher",
+        "s’attacher",
+        "s’arracher",
+        "s’approcher",
+        "s’afficher"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le verbe 'to dry out' signifie 's’assécher' d'après la page 77."
+    },
+    {
+      "id": "q71",
+      "prompt": "Quelle est la définition de 'status quo' donnée dans le cours ?",
+      "choices": [
+        "l'état où (cela était) auparavant",
+        "l'ordre qui (était établi) ici",
+        "le projet qui (devait être) fait",
+        "le risque qui (devait être) pris",
+        "le changement qui (devait être) évité"
+      ],
+      "correctIndex": 0,
+      "explanation": "À la page 77, 'status quo' est défini comme 'l'état où (cela était) auparavant'."
+    },
+    {
+      "id": "q72",
+      "prompt": "Que signifie le verbe 'to wither' ?",
+      "choices": [
+        "disparaître petit à petit",
+        "grandir de plus en plus",
+        "revenir en fin de compte",
+        "avancer pas à pas",
+        "changer peu à peu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon la page 77, 'to wither' signifie 'disparaître petit à petit'."
+    },
+    {
+      "id": "q73",
+      "prompt": "Comment traduit-on 'searing' ?",
+      "choices": [
+        "torride, brûlant",
+        "humide, étouffant",
+        "glacial, mordant",
+        "sombre, effrayant",
+        "frais, apaisant"
+      ],
+      "correctIndex": 0,
+      "explanation": "La page 77 traduit 'searing' par 'torride, brûlant'."
+    },
+    {
+      "id": "q74",
+      "prompt": "Que signifie 'life-support' dans ce contexte ?",
+      "choices": [
+        "vital",
+        "global",
+        "total",
+        "brutal",
+        "banal"
+      ],
+      "correctIndex": 0,
+      "explanation": "À la page 77, 'life-support' est traduit par 'vital'."
+    },
+    {
+      "id": "q75",
+      "prompt": "Comment traduit-on 'to wash away' ?",
+      "choices": [
+        "balayer, effacer",
+        "provoquer, engendrer",
+        "contenir, stabiliser",
+        "observer, analyser",
+        "ignorer, délaisser"
+      ],
+      "correctIndex": 0,
+      "explanation": "D'après la page 77, 'to wash away' se traduit par 'balayer, effacer, emporter'."
+    },
+    {
+      "id": "q76",
+      "prompt": "Quelle est la traduction de 'snowpack' ?",
+      "choices": [
+        "accumulation de neige",
+        "dissolution de glace",
+        "formation de nuage",
+        "infiltration de sable",
+        "circulation de pluie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon la page 78, 'snowpack' signifie 'accumulation de neige'."
+    },
+    {
+      "id": "q77",
+      "prompt": "Comment traduit-on 'aquifer' ?",
+      "choices": [
+        "aquifère",
+        "atmosphère",
+        "stratosphère",
+        "hémisphère",
+        "biosphère"
+      ],
+      "correctIndex": 0,
+      "explanation": "À la page 78, 'aquifer' est traduit par 'aquifère'."
+    },
+    {
+      "id": "q78",
+      "prompt": "Que signifie le verbe 'to withstand' ?",
+      "choices": [
+        "résister à",
+        "conduire à",
+        "aboutir à",
+        "parvenir à",
+        "se fier à"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le verbe 'to withstand' signifie 'résister à' d'après la page 78."
+    },
+    {
+      "id": "q79",
+      "prompt": "Comment traduit-on l'expression 'twilight zone' ?",
+      "choices": [
+        "zone floue",
+        "zone calme",
+        "zone vaste",
+        "zone libre",
+        "zone sûre"
+      ],
+      "correctIndex": 0,
+      "explanation": "D'après la page 78, 'twilight zone' se traduit par 'zone floue'."
+    },
+    {
+      "id": "q80",
+      "prompt": "Quelle est la traduction de 'wasteland' ?",
+      "choices": [
+        "terrain vague",
+        "sommet élevé",
+        "océan calme",
+        "centre urbain",
+        "champ ouvert"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon la page 78, 'wasteland' signifie 'terrain vague, terres à l’abandon'."
+    },
+    {
+      "id": "q81",
+      "prompt": "Que signifie 'to march across' ?",
+      "choices": [
+        "défiler d’un côté à l’autre",
+        "avancer vers un point donné",
+        "reculer devant un grand obstacle",
+        "tourner autour d'une zone fixe",
+        "rester entre deux limites claires"
+      ],
+      "correctIndex": 0,
+      "explanation": "La page 78 traduit 'to march across' par 'défiler d’un côté à l’autre de'."
+    },
+    {
+      "id": "q82",
+      "prompt": "Comment traduit-on 'wipe-out' ?",
+      "choices": [
+        "anéantissement",
+        "accomplissement",
+        "investissement",
+        "développement",
+        "comportement"
+      ],
+      "correctIndex": 0,
+      "explanation": "À la page 78, 'wipe-out' est traduit par 'anéantissement'."
+    },
+    {
+      "id": "q83",
+      "prompt": "Quelle est la traduction de 'doomsday' ?",
+      "choices": [
+        "jour du Jugement dernier",
+        "moment du Changement majeur",
+        "point de Rupture totale",
+        "temps du Pardon universel",
+        "cycle de Progrès constant"
+      ],
+      "correctIndex": 0,
+      "explanation": "La page 78 traduit 'doomsday' par 'jour du Jugement dernier'."
+    },
+    {
+      "id": "q84",
+      "prompt": "Que signifie le terme 'doom' ?",
+      "choices": [
+        "ruine",
+        "force",
+        "cycle",
+        "signe",
+        "cadre"
+      ],
+      "correctIndex": 0,
+      "explanation": "D'après la page 78, 'doom' se traduit par 'ruine'."
+    },
+    {
+      "id": "q85",
+      "prompt": "Comment traduit-on 'gloom' ?",
+      "choices": [
+        "obscurité, ténèbres",
+        "intensité, lumières",
+        "proximité, frontières",
+        "difficulté, barrières",
+        "hostilité, manières"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le terme 'gloom' signifie 'obscurité, ténèbres' selon la page 78."
+    },
+    {
+      "id": "q86",
+      "prompt": "Quelle est la traduction de 'doom and gloom' ?",
+      "choices": [
+        "catastrophisme",
+        "transformation",
+        "synchronisation",
+        "standardisation",
+        "sensibilisation"
+      ],
+      "correctIndex": 0,
+      "explanation": "La page 78 traduit 'doom and gloom' par 'catastrophisme'."
+    },
+    {
+      "id": "q87",
+      "prompt": "Comment traduit-on l'adverbe 'yet' ?",
+      "choices": [
+        "cependant",
+        "rarement",
+        "vivement",
+        "vraiement",
+        "tellement"
+      ],
+      "correctIndex": 0,
+      "explanation": "D'après la page 78, 'yet' se traduit par 'cependant'."
+    },
+    {
+      "id": "q88",
+      "prompt": "Que signifie le verbe 'to awaken' ?",
+      "choices": [
+        "s’éveiller, se réveiller",
+        "s'effrayer, se méfier",
+        "s'incliner, se replier",
+        "s'exprimer, se déclarer",
+        "s'attendre, se préparer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le verbe 'to awaken' signifie 's’éveiller, se réveiller' selon la page 78."
+    },
+    {
+      "id": "q89",
+      "prompt": "Comment traduit-on 'to mean' ?",
+      "choices": [
+        "signifier",
+        "contenir",
+        "soutenir",
+        "maintenir",
+        "prévenir"
+      ],
+      "correctIndex": 0,
+      "explanation": "À la page 78, 'to mean' est traduit par 'signifier'."
+    },
+    {
+      "id": "q90",
+      "prompt": "Quelle est la traduction de 'to find out' ?",
+      "choices": [
+        "découvrir",
+        "réfléchir",
+        "conquérir",
+        "retenir",
+        "parcourir"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le phrasal verb 'to find out' signifie 'découvrir' d'après la page 78."
+    },
+    {
+      "id": "q91",
+      "prompt": "How is the word 'beetle' translated in the context of this vocabulary list?",
+      "choices": [
+        "un moustique",
+        "un scarabée",
+        "un papillon",
+        "un scorpion",
+        "un puceron"
+      ],
+      "correctIndex": 1,
+      "explanation": "According to page 13, 'beetle' is translated as 'scarabée'."
+    },
+    {
+      "id": "q92",
+      "prompt": "What is the French translation for the phrasal verb 'to kill off'?",
+      "choices": [
+        "protéger",
+        "éliminer",
+        "nourrir",
+        "observer",
+        "étudier"
+      ],
+      "correctIndex": 1,
+      "explanation": "The document defines 'to kill off' as 'éliminer'."
+    },
+    {
+      "id": "q93",
+      "prompt": "Translate 'white bark' as it appears in the environmental vocabulary.",
+      "choices": [
+        "sapin à aiguille rouge",
+        "pin à écorce blanche",
+        "bois à sève épaisse",
+        "haie à pousse rapide",
+        "mur à pierre calcaire"
+      ],
+      "correctIndex": 1,
+      "explanation": "Page 13 indicates that 'white bark' translates to 'pin à écorce blanche'."
+    },
+    {
+      "id": "q94",
+      "prompt": "What does the term 'bark' refer to in this context?",
+      "choices": [
+        "racine",
+        "écorce",
+        "feuille",
+        "graine",
+        "branche"
+      ],
+      "correctIndex": 1,
+      "explanation": "In this vocabulary list, 'bark' is translated as 'écorce'."
+    },
+    {
+      "id": "q95",
+      "prompt": "In the phrase 'key factor', how is the word 'key' translated?",
+      "choices": [
+        "secondaire",
+        "principal",
+        "optionnel",
+        "nouveau",
+        "complexe"
+      ],
+      "correctIndex": 1,
+      "explanation": "The source lists 'key' as 'principal'."
+    },
+    {
+      "id": "q96",
+      "prompt": "What is the French equivalent for the season 'fall' listed in the text?",
+      "choices": [
+        "printemps",
+        "automne",
+        "été",
+        "hiver",
+        "saison"
+      ],
+      "correctIndex": 1,
+      "explanation": "The vocabulary identifies 'fall' as 'automne'."
+    },
+    {
+      "id": "q97",
+      "prompt": "What is the translation for 'root' in the provided list?",
+      "choices": [
+        "tronc",
+        "racine",
+        "pousse",
+        "noyau",
+        "fibre"
+      ],
+      "correctIndex": 1,
+      "explanation": "The term 'root' is translated as 'racine'."
+    },
+    {
+      "id": "q98",
+      "prompt": "How is 'tundra' defined in French in the document?",
+      "choices": [
+        "savane (formation herbeuse)",
+        "toundra (formation végétale)",
+        "steppe (formation aride)",
+        "jungle (formation dense)",
+        "taïga (formation boréale)"
+      ],
+      "correctIndex": 1,
+      "explanation": "The document defines 'tundra' as 'toundra (formation végétale autour des pôles)'."
+    },
+    {
+      "id": "q99",
+      "prompt": "Translate the preposition 'beneath' based on the vocabulary list.",
+      "choices": [
+        "au-dessus de",
+        "en dessous de",
+        "à côté de",
+        "loin de",
+        "près de"
+      ],
+      "correctIndex": 1,
+      "explanation": "According to the source, 'beneath' means 'en dessous de'."
+    },
+    {
+      "id": "q100",
+      "prompt": "What is the French word for 'tide'?",
+      "choices": [
+        "rivière",
+        "marée",
+        "vague",
+        "courant",
+        "tempête"
+      ],
+      "correctIndex": 1,
+      "explanation": "Page 13 translates 'tide' as 'marée'."
+    },
+    {
+      "id": "q101",
+      "prompt": "What is the meaning of the expression 'to focus on'?",
+      "choices": [
+        "se détourner de",
+        "se concentrer sur",
+        "se souvenir de",
+        "se plaindre de",
+        "se méfier de"
+      ],
+      "correctIndex": 1,
+      "explanation": "The source defines 'to focus on' as 'se concentrer sur'."
+    },
+    {
+      "id": "q102",
+      "prompt": "How is the word 'tip' translated in this vocabulary list?",
+      "choices": [
+        "bord",
+        "bout",
+        "centre",
+        "fond",
+        "haut"
+      ],
+      "correctIndex": 1,
+      "explanation": "The word 'tip' is translated as 'bout'."
+    },
+    {
+      "id": "q103",
+      "prompt": "Translate the concept 'tipping point' as used in climate science.",
+      "choices": [
+        "point de départ",
+        "seuil de tolérance",
+        "limite de vitesse",
+        "indice de mesure",
+        "facteur de risque"
+      ],
+      "correctIndex": 1,
+      "explanation": "The vocabulary identifies 'tipping point' as 'seuil de tolérance'."
+    },
+    {
+      "id": "q104",
+      "prompt": "What is the French equivalent of 'close' (adjective)?",
+      "choices": [
+        "lointain",
+        "proche",
+        "ouvert",
+        "étroit",
+        "caché"
+      ],
+      "correctIndex": 1,
+      "explanation": "The word 'close' is translated as 'proche'."
+    },
+    {
+      "id": "q105",
+      "prompt": "What is the translation for the adjective 'slippery'?",
+      "choices": [
+        "rugueux",
+        "glissant",
+        "brulant",
+        "collant",
+        "mouillé"
+      ],
+      "correctIndex": 1,
+      "explanation": "The source lists 'slippery' as 'glissant'."
+    },
+    {
+      "id": "q106",
+      "prompt": "How is 'slope' translated in the context of geography?",
+      "choices": [
+        "plaine",
+        "pente",
+        "vallée",
+        "sommet",
+        "falaise"
+      ],
+      "correctIndex": 1,
+      "explanation": "The word 'slope' is translated as 'pente'."
+    },
+    {
+      "id": "q107",
+      "prompt": "What does the expression 'slippery slope' mean in French?",
+      "choices": [
+        "montée lente",
+        "pente fatale",
+        "route ardue",
+        "chute libre",
+        "piste noire"
+      ],
+      "correctIndex": 1,
+      "explanation": "The list translates 'slippery slope' as 'pente fatale'."
+    },
+    {
+      "id": "q108",
+      "prompt": "Translate the adjective 'runaway' in its scientific context.",
+      "choices": [
+        "calme, mesuré",
+        "fou, emballé",
+        "lent, durable",
+        "fixe, stable",
+        "vrai, concret"
+      ],
+      "correctIndex": 1,
+      "explanation": "According to the source, 'runaway' means 'fou, emballé'."
+    },
+    {
+      "id": "q109",
+      "prompt": "What is the French word for 'loss'?",
+      "choices": [
+        "gain",
+        "perte",
+        "frais",
+        "prix",
+        "vent"
+      ],
+      "correctIndex": 1,
+      "explanation": "The word 'loss' is translated as 'perte'."
+    },
+    {
+      "id": "q110",
+      "prompt": "In environmental science, how is 'sheet' translated?",
+      "choices": [
+        "nappe",
+        "couche",
+        "bulle",
+        "vague",
+        "glace"
+      ],
+      "correctIndex": 1,
+      "explanation": "The source defines 'sheet' as 'couche'."
+    },
+    {
+      "id": "q111",
+      "prompt": "What is the translation of 'rise' provided in the document?",
+      "choices": [
+        "diminution",
+        "augmentation",
+        "stagnation",
+        "variation",
+        "annulation"
+      ],
+      "correctIndex": 1,
+      "explanation": "The word 'rise' is translated as 'augmentation'."
+    },
+    {
+      "id": "q112",
+      "prompt": "Translate the verb 'to dry out'.",
+      "choices": [
+        "s’humidifier",
+        "s’assécher",
+        "s’écouler",
+        "s’évaporer",
+        "s’enfoncer"
+      ],
+      "correctIndex": 1,
+      "explanation": "According to page 13, 'to dry out' is 's’assécher'."
+    },
+    {
+      "id": "q113",
+      "prompt": "What is the meaning of 'cap' in terms like 'ice cap'?",
+      "choices": [
+        "sommet, altitude",
+        "couronne, couverture",
+        "limite, périmètre",
+        "cœur, profondeur",
+        "bord, extrémité"
+      ],
+      "correctIndex": 1,
+      "explanation": "The source defines 'cap' as 'couronne, couverture'."
+    },
+    {
+      "id": "q114",
+      "prompt": "How is the phrase 'all but' translated in this vocabulary?",
+      "choices": [
+        "rarement, jamais",
+        "presque, quasiment",
+        "toujours, souvent",
+        "parfois, parfois",
+        "jamais, nullement"
+      ],
+      "correctIndex": 1,
+      "explanation": "The term 'all but' is translated as 'presque, quasiment'."
+    },
+    {
+      "id": "q115",
+      "prompt": "What is the French word for 'pattern'?",
+      "choices": [
+        "résultat",
+        "modèle",
+        "progrès",
+        "défaut",
+        "succès"
+      ],
+      "correctIndex": 1,
+      "explanation": "The word 'pattern' is translated as 'modèle'."
+    },
+    {
+      "id": "q116",
+      "prompt": "How does the source translate the phrase 'status quo'?",
+      "choices": [
+        "l'état futur prévu",
+        "l'état où cela était",
+        "l'état de changement",
+        "l'état de stabilité",
+        "l'état de dégradation"
+      ],
+      "correctIndex": 1,
+      "explanation": "Page 13 translates 'status quo' as 'l'état où (cela était) auparavant'."
+    },
+    {
+      "id": "q117",
+      "prompt": "What does the verb 'to wither' mean?",
+      "choices": [
+        "croître rapidement",
+        "disparaître petit à petit",
+        "rester inchangé",
+        "devenir plus fort",
+        "changer de couleur"
+      ],
+      "correctIndex": 1,
+      "explanation": "The document defines 'to wither' as 'disparaître petit à petit'."
+    },
+    {
+      "id": "q118",
+      "prompt": "Translate the adjective 'searing'.",
+      "choices": [
+        "glacial, froid",
+        "torride, brûlant",
+        "humide, moite",
+        "nuageux, sombre",
+        "pluvieux, doux"
+      ],
+      "correctIndex": 1,
+      "explanation": "The source lists 'searing' as 'torride, brûlant'."
+    },
+    {
+      "id": "q119",
+      "prompt": "What is the French equivalent for 'event'?",
+      "choices": [
+        "action",
+        "évènement",
+        "moment",
+        "projet",
+        "hazard"
+      ],
+      "correctIndex": 1,
+      "explanation": "The word 'event' is translated as 'évènement'."
+    },
+    {
+      "id": "q120",
+      "prompt": "What is the meaning of 'to reach' in the list?",
+      "choices": [
+        "quitter",
+        "atteindre",
+        "éviter",
+        "suivre",
+        "perdre"
+      ],
+      "correctIndex": 1,
+      "explanation": "The verb 'to reach' is translated as 'atteindre'."
+    },
+    {
+      "id": "q121",
+      "prompt": "In the term 'life-support', how is the word 'life-support' translated?",
+      "choices": [
+        "nécessaire",
+        "vital",
+        "naturel",
+        "urgent",
+        "fragile"
+      ],
+      "correctIndex": 1,
+      "explanation": "The word 'life-support' is translated as 'vital'."
+    },
+    {
+      "id": "q122",
+      "prompt": "What is the French translation for 'to break down'?",
+      "choices": [
+        "se stabiliser",
+        "se détériorer",
+        "se construire",
+        "se multiplier",
+        "se transformer"
+      ],
+      "correctIndex": 1,
+      "explanation": "The phrasal verb 'to break down' is translated as 'se détériorer'."
+    },
+    {
+      "id": "q123",
+      "prompt": "How is the word 'beyond' translated?",
+      "choices": [
+        "en deçà de",
+        "au-delà de",
+        "autour de",
+        "à travers",
+        "devant"
+      ],
+      "correctIndex": 1,
+      "explanation": "The source translates 'beyond' as 'au-delà de'."
+    },
+    {
+      "id": "q124",
+      "prompt": "What is the translation for the adjective 'frightening'?",
+      "choices": [
+        "rassurant",
+        "effrayant",
+        "ennuyeux",
+        "amusant",
+        "étonnant"
+      ],
+      "correctIndex": 1,
+      "explanation": "The word 'frightening' is translated as 'effrayant'."
+    },
+    {
+      "id": "q125",
+      "prompt": "Translate the verb 'to overtake' as it appears in the text.",
+      "choices": [
+        "rejeter",
+        "engloutir",
+        "sauver",
+        "lâcher",
+        "aider"
+      ],
+      "correctIndex": 1,
+      "explanation": "Page 13 translates 'to overtake' as 'engloutir'."
+    },
+    {
+      "id": "q126",
+      "prompt": "What is the meaning of the adverb 'heavily'?",
+      "choices": [
+        "légèrement",
+        "fortement",
+        "vitement",
+        "doucement",
+        "rarement"
+      ],
+      "correctIndex": 1,
+      "explanation": "The source identifies 'heavily' as 'fortement'."
+    },
+    {
+      "id": "q127",
+      "prompt": "What is the French equivalent for 'billion'?",
+      "choices": [
+        "million",
+        "milliard",
+        "millier",
+        "centaine",
+        "dizaine"
+      ],
+      "correctIndex": 1,
+      "explanation": "The word 'billion' is translated as 'milliard'."
+    },
+    {
+      "id": "q128",
+      "prompt": "Translate the phrasal verb 'to wash away'.",
+      "choices": [
+        "salir, tacher",
+        "balayer, effacer",
+        "peindre, vernir",
+        "plier, ranger",
+        "cuire, bouillir"
+      ],
+      "correctIndex": 1,
+      "explanation": "According to the source, 'to wash away' is 'balayer, effacer'."
+    },
+    {
+      "id": "q129",
+      "prompt": "What is the translation for 'to shut off'?",
+      "choices": [
+        "allumer",
+        "couper, fermer",
+        "ouvrir",
+        "réparer",
+        "monter"
+      ],
+      "correctIndex": 1,
+      "explanation": "The document translates 'to shut off' as 'couper, fermer'."
+    },
+    {
+      "id": "q130",
+      "prompt": "How is 'flow' translated in the vocabulary list?",
+      "choices": [
+        "stagnation",
+        "circulation",
+        "pression",
+        "résistance",
+        "quantité"
+      ],
+      "correctIndex": 1,
+      "explanation": "The word 'flow' is translated as 'circulation'."
+    },
+    {
+      "id": "q131",
+      "prompt": "What is the French term for 'fresh water'?",
+      "choices": [
+        "eau salée",
+        "eau douce",
+        "eau pure",
+        "eau froide",
+        "eau vive"
+      ],
+      "correctIndex": 1,
+      "explanation": "The vocabulary identifies 'fresh water' as 'eau douce'."
+    },
+    {
+      "id": "q132",
+      "prompt": "Translate the adjective 'bountiful'.",
+      "choices": [
+        "pauvre, rare",
+        "prospère, abondant",
+        "stérile, vide",
+        "petit, étroit",
+        "vieux, usé"
+      ],
+      "correctIndex": 1,
+      "explanation": "According to the list, 'bountiful' means 'prospère, abondant'."
+    },
+    {
+      "id": "q133",
+      "prompt": "What is the translation for 'while' in this list?",
+      "choices": [
+        "durant ce temps",
+        "tandis que, alors que",
+        "parce que, car",
+        "bien que, quoique",
+        "si bien que"
+      ],
+      "correctIndex": 1,
+      "explanation": "The word 'while' is translated as 'tandis que, alors que'."
+    },
+    {
+      "id": "q134",
+      "prompt": "Translate 'ice sheet' based on the environmental vocabulary.",
+      "choices": [
+        "bloc de cristal",
+        "couche de glace",
+        "plaque de givre",
+        "masse de neige",
+        "mur de banquise"
+      ],
+      "correctIndex": 1,
+      "explanation": "The source translates 'ice sheet' as 'couche de glace'."
+    },
+    {
+      "id": "q135",
+      "prompt": "What is the meaning of the verb 'to collapse'?",
+      "choices": [
+        "se stabiliser",
+        "s’effondrer",
+        "se renforcer",
+        "s’agrandir",
+        "se déplacer"
+      ],
+      "correctIndex": 1,
+      "explanation": "The document defines 'to collapse' as 's’effondrer'."
     }
   ]
 }
