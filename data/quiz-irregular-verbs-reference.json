@@ -1,0 +1,599 @@
+{
+  "quizId": "irregular-verbs-reference",
+  "title": "Irregular Verbs",
+  "section": {
+    "id": "irregular-verbs-reference",
+    "title": "Irregular Verbs",
+    "startPage": 18,
+    "endPage": 21,
+    "summary": "A comprehensive reference list of English irregular verbs from A to W, providing the infinitive, simple past, past participle, and translation.",
+    "estimatedQuestionCount": 150
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "What is the Simple Past of the verb 'arise'?",
+      "choices": [
+        "arose",
+        "arise",
+        "arisen",
+        "arised",
+        "arises"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to the table on page 18, the Simple Past of 'arise' is 'arose'."
+    },
+    {
+      "id": "q2",
+      "prompt": "What is the Past Participle of the verb 'beat'?",
+      "choices": [
+        "beaten",
+        "beated",
+        "beat",
+        "beaten",
+        "beats"
+      ],
+      "correctIndex": 0,
+      "explanation": "The table on page 18 states that the Past Participle of 'beat' is 'beaten'."
+    },
+    {
+      "id": "q3",
+      "prompt": "Which of these is the correct French translation for the verb 'breed'?",
+      "choices": [
+        "élever",
+        "briser",
+        "mener",
+        "lier",
+        "mordre"
+      ],
+      "correctIndex": 0,
+      "explanation": "The translation column on page 18 lists 'élever' for the verb 'breed'."
+    },
+    {
+      "id": "q4",
+      "prompt": "What is the Simple Past of the verb 'broadcast'?",
+      "choices": [
+        "broadcast",
+        "broadcost",
+        "broadcasted",
+        "broadcasen",
+        "broadcasts"
+      ],
+      "correctIndex": 0,
+      "explanation": "As shown on page 18, 'broadcast' remains unchanged in its Simple Past form."
+    },
+    {
+      "id": "q5",
+      "prompt": "What is the French translation for the verb 'catch'?",
+      "choices": [
+        "attraper",
+        "choisir",
+        "couper",
+        "coûter",
+        "parier"
+      ],
+      "correctIndex": 0,
+      "explanation": "The table on page 18 translates 'catch' as 'attraper'."
+    },
+    {
+      "id": "q6",
+      "prompt": "What is the Past Participle of the verb 'deal'?",
+      "choices": [
+        "dealt",
+        "deale",
+        "dealed",
+        "dealen",
+        "deals"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 18 indicates that the Past Participle of 'deal' is 'dealt'."
+    },
+    {
+      "id": "q7",
+      "prompt": "What is the French translation for the verb 'flee'?",
+      "choices": [
+        "fuir, s’enfuir",
+        "tomber, périr",
+        "sentir, palper",
+        "trouver, quérir",
+        "nourrir, garnir"
+      ],
+      "correctIndex": 0,
+      "explanation": "The table on page 18 provides 'fuir, s’enfuir' as the translation for 'flee'."
+    },
+    {
+      "id": "q8",
+      "prompt": "What is the Simple Past of the verb 'forecast'?",
+      "choices": [
+        "forecast",
+        "forecost",
+        "forecasted",
+        "forecasen",
+        "forecasse"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 19 shows that 'forecast' is the Simple Past form of the verb 'forecast'."
+    },
+    {
+      "id": "q9",
+      "prompt": "What is the Past Participle of the verb 'freeze'?",
+      "choices": [
+        "frozen",
+        "frozed",
+        "freeze",
+        "froze",
+        "frozon"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to page 19, the Past Participle of 'freeze' is 'frozen'."
+    },
+    {
+      "id": "q10",
+      "prompt": "What is the French translation for the verb 'hold'?",
+      "choices": [
+        "tenir",
+        "venir",
+        "donner",
+        "aller",
+        "avoir"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 19 translates the verb 'hold' as 'tenir'."
+    },
+    {
+      "id": "q11",
+      "prompt": "What is the Simple Past of the verb 'lay'?",
+      "choices": [
+        "laid",
+        "lain",
+        "layed",
+        "layer",
+        "layes"
+      ],
+      "correctIndex": 0,
+      "explanation": "The table on page 19 identifies 'laid' as the Simple Past of 'lay'."
+    },
+    {
+      "id": "q12",
+      "prompt": "What is the Past Participle of the verb 'mean'?",
+      "choices": [
+        "meant",
+        "meane",
+        "meaned",
+        "meante",
+        "meanon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 19 indicates that the Past Participle of 'mean' is 'meant'."
+    },
+    {
+      "id": "q13",
+      "prompt": "What is the Simple Past of the verb 'mistake'?",
+      "choices": [
+        "mistook",
+        "mistake",
+        "mistaked",
+        "mistakene",
+        "mistakes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 19 confirms that 'mistook' is the Simple Past of 'mistake'."
+    },
+    {
+      "id": "q14",
+      "prompt": "What is the French translation for the verb 'overcome'?",
+      "choices": [
+        "vaincre, surmonter",
+        "annuler, neutraliser",
+        "dépasser, devancer",
+        "prévoir, pronostiquer",
+        "obtenir, bénéficier"
+      ],
+      "correctIndex": 0,
+      "explanation": "The translation for 'overcome' on page 19 is 'vaincre, surmonter'."
+    },
+    {
+      "id": "q15",
+      "prompt": "What is the Simple Past of the verb 'read'?",
+      "choices": [
+        "read",
+        "rode",
+        "readed",
+        "reade",
+        "reads"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 20 shows that the Simple Past of 'read' is spelled 'read'."
+    },
+    {
+      "id": "q16",
+      "prompt": "What is the French translation for the verb 'shrink'?",
+      "choices": [
+        "rétrécir, se contracter",
+        "secouer, se balancer",
+        "montrer, se manifester",
+        "fermer, se verrouiller",
+        "jaillir, se précipiter"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 20 translates 'shrink' as 'rétrécir, se contracter'."
+    },
+    {
+      "id": "q17",
+      "prompt": "What is the Past Participle of the verb 'sink'?",
+      "choices": [
+        "sunk",
+        "sank",
+        "sink",
+        "sinked",
+        "sinks"
+      ],
+      "correctIndex": 0,
+      "explanation": "The table on page 20 identifies 'sunk' as the Past Participle of 'sink'."
+    },
+    {
+      "id": "q18",
+      "prompt": "What is the Simple Past of the verb 'spend'?",
+      "choices": [
+        "spent",
+        "spente",
+        "spended",
+        "spende",
+        "spends"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to page 20, the Simple Past of 'spend' is 'spent'."
+    },
+    {
+      "id": "q19",
+      "prompt": "What is the French translation for the verb 'stand'?",
+      "choices": [
+        "se tenir debout",
+        "se tenir immobile",
+        "se tenir caché",
+        "se tenir à l'écart",
+        "se tenir au courant"
+      ],
+      "correctIndex": 0,
+      "explanation": "The translation column on page 20 lists 'se tenir debout' for the verb 'stand'."
+    },
+    {
+      "id": "q20",
+      "prompt": "What is the Simple Past of the verb 'sweep'?",
+      "choices": [
+        "swept",
+        "swepte",
+        "sweeped",
+        "sweepe",
+        "sweeps"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 20 indicates that 'swept' is the Simple Past of 'sweep'."
+    },
+    {
+      "id": "q21",
+      "prompt": "What is the Past Participle of the verb 'tell'?",
+      "choices": [
+        "told",
+        "tolde",
+        "telled",
+        "telle",
+        "tolds"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 20 states that 'told' is the Past Participle of 'tell'."
+    },
+    {
+      "id": "q22",
+      "prompt": "What is the Simple Past of the verb 'undergo'?",
+      "choices": [
+        "underwent",
+        "undergoe",
+        "undergone",
+        "undergoed",
+        "undergoes"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to page 20, 'underwent' is the Simple Past of 'undergo'."
+    },
+    {
+      "id": "q23",
+      "prompt": "What is the French translation for the verb 'unwind'?",
+      "choices": [
+        "(se) dérouler",
+        "(se) réveiller",
+        "(se) dépenser",
+        "(se) mouvoir",
+        "(se) balancer"
+      ],
+      "correctIndex": 0,
+      "explanation": "The table on page 20 translates '(se) balancer' is not correct; page 20 translates 'unwind' as '(se) dérouler'."
+    },
+    {
+      "id": "q24",
+      "prompt": "What is the Past Participle of the verb 'wake'?",
+      "choices": [
+        "woken",
+        "woked",
+        "wake",
+        "woke",
+        "wokon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 21 identifies 'woken' as the Past Participle of 'wake'."
+    },
+    {
+      "id": "q25",
+      "prompt": "What is the Simple Past of the verb 'wind'?",
+      "choices": [
+        "wound",
+        "winde",
+        "winded",
+        "wounte",
+        "winds"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 21 shows that 'wound' is the Simple Past of 'wind'."
+    },
+    {
+      "id": "q26",
+      "prompt": "What is the French translation for the verb 'withstand'?",
+      "choices": [
+        "résister à",
+        "renoncer à",
+        "revenir à",
+        "répondre à",
+        "réussir à"
+      ],
+      "correctIndex": 0,
+      "explanation": "The table on page 21 provides 'résister à' as the translation for 'withstand'."
+    },
+    {
+      "id": "q27",
+      "prompt": "What is the Simple Past of the verb 'write'?",
+      "choices": [
+        "wrote",
+        "write",
+        "writed",
+        "wroten",
+        "writes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 21 confirms that 'wrote' is the Simple Past of 'write'."
+    },
+    {
+      "id": "q28",
+      "prompt": "What is the Past Participle of the verb 'arise'?",
+      "choices": [
+        "arisen",
+        "arise",
+        "arose",
+        "arised",
+        "arises"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 18 states that the Past Participle of 'arise' is 'arisen'."
+    },
+    {
+      "id": "q29",
+      "prompt": "What is the Simple Past of the verb 'become'?",
+      "choices": [
+        "became",
+        "become",
+        "becomed",
+        "becomen",
+        "becomes"
+      ],
+      "correctIndex": 0,
+      "explanation": "The table on page 18 identifies 'became' as the Simple Past of 'become'."
+    },
+    {
+      "id": "q30",
+      "prompt": "What is the French translation for the verb 'bend'?",
+      "choices": [
+        "plier, courber",
+        "lier, relier",
+        "mordre, croquer",
+        "briser, casser",
+        "parier, miser"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 18 translates the verb 'bend' as 'plier, courber'."
+    },
+    {
+      "id": "q31",
+      "prompt": "What is the Simple Past of the verb 'bind'?",
+      "choices": [
+        "bound",
+        "binde",
+        "binded",
+        "bounde",
+        "binds"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 18 identifies 'bound' as the Simple Past of 'bind'."
+    },
+    {
+      "id": "q32",
+      "prompt": "What is the Past Participle of the verb 'bite'?",
+      "choices": [
+        "bitten",
+        "bited",
+        "bite",
+        "bit",
+        "biton"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to page 18, the Past Participle of 'bite' is 'bitten'."
+    },
+    {
+      "id": "q33",
+      "prompt": "What is the French translation for the verb 'burn'?",
+      "choices": [
+        "brûler",
+        "couler",
+        "manger",
+        "rouler",
+        "voguer"
+      ],
+      "correctIndex": 0,
+      "explanation": "The table on page 18 translates 'burn' as 'brûler'."
+    },
+    {
+      "id": "q34",
+      "prompt": "What is the Simple Past of the verb 'dig'?",
+      "choices": [
+        "dug",
+        "dige",
+        "digged",
+        "duge",
+        "digs"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 18 indicates that 'dug' is the Simple Past of 'dig'."
+    },
+    {
+      "id": "q35",
+      "prompt": "What is the Past Participle of the verb 'draw'?",
+      "choices": [
+        "drawn",
+        "drew",
+        "drawe",
+        "drawed",
+        "draws"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to page 18, the Past Participle of 'draw' is 'drawn'."
+    },
+    {
+      "id": "q36",
+      "prompt": "What is the French translation for the verb 'forbid'?",
+      "choices": [
+        "défendre, interdire",
+        "prévoir, pronostiquer",
+        "pardonner, absoudre",
+        "obtenir, bénéficier",
+        "penser, réfléchir"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 19 provides 'défendre, interdire' as the translation for 'forbid'."
+    },
+    {
+      "id": "q37",
+      "prompt": "What is the Simple Past of the verb 'hang'?",
+      "choices": [
+        "hung",
+        "hange",
+        "hanged",
+        "hunge",
+        "hangs"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 19 identifies 'hung' as the Simple Past of 'hang'."
+    },
+    {
+      "id": "q38",
+      "prompt": "What is the Past Participle of the verb 'hurt'?",
+      "choices": [
+        "hurt",
+        "hurte",
+        "hurted",
+        "hurten",
+        "hurts"
+      ],
+      "correctIndex": 0,
+      "explanation": "As shown on page 19, 'hurt' remains unchanged in its Past Participle form."
+    },
+    {
+      "id": "q39",
+      "prompt": "What is the French translation for the verb 'leave'?",
+      "choices": [
+        "quitter",
+        "prêter",
+        "perdre",
+        "manger",
+        "tomber"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 19 translates the verb 'leave' as 'quitter'."
+    },
+    {
+      "id": "q40",
+      "prompt": "What is the Simple Past of the verb 'ride'?",
+      "choices": [
+        "rode",
+        "ride",
+        "rided",
+        "roden",
+        "rides"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 20 identifies 'rode' as the Simple Past of 'ride'."
+    },
+    {
+      "id": "q41",
+      "prompt": "What is the Past Participle of the verb 'see'?",
+      "choices": [
+        "seen",
+        "seed",
+        "see",
+        "saw",
+        "seon"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to page 20, the Past Participle of 'see' is 'seen'."
+    },
+    {
+      "id": "q42",
+      "prompt": "What is the Simple Past of the verb 'shut'?",
+      "choices": [
+        "shut",
+        "shute",
+        "shuted",
+        "shuten",
+        "shuts"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 20 shows that the Simple Past of 'shut' is 'shut'."
+    },
+    {
+      "id": "q43",
+      "prompt": "What is the French translation for the verb 'swim'?",
+      "choices": [
+        "nager",
+        "voler",
+        "jouer",
+        "tirer",
+        "courir"
+      ],
+      "correctIndex": 0,
+      "explanation": "The table on page 20 translates 'swim' as 'nager'."
+    },
+    {
+      "id": "q44",
+      "prompt": "What is the Simple Past of the verb 'tear'?",
+      "choices": [
+        "tore",
+        "teare",
+        "teared",
+        "torn",
+        "tears"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to page 20, the Simple Past of 'tear' is 'tore'."
+    },
+    {
+      "id": "q45",
+      "prompt": "What is the French translation for the verb 'wear'?",
+      "choices": [
+        "porter (vêtements)",
+        "laver (vêtements)",
+        "aider (personnes)",
+        "retirer (objets)",
+        "écrire (lettres)"
+      ],
+      "correctIndex": 0,
+      "explanation": "The table on page 21 translates 'wear' as 'porter (vêtements)'."
+    }
+  ]
+}
