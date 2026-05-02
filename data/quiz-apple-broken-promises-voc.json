@@ -1,0 +1,599 @@
+{
+  "quizId": "apple-broken-promises-voc",
+  "title": "Apple's Broken Promises Vocabulary",
+  "section": {
+    "id": "apple-broken-promises-voc",
+    "title": "Apple's Broken Promises Vocabulary",
+    "startPage": 10,
+    "endPage": 11,
+    "summary": "Business-centric vocabulary regarding supply chains, corporate ethics, labor, and branding.",
+    "estimatedQuestionCount": 80
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "What is the translation of the word 'truth'?",
+      "choices": [
+        "vérité",
+        "réalité",
+        "loyauté",
+        "pureté",
+        "clarté"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to the vocabulary list, 'truth' translates to 'vérité'."
+    },
+    {
+      "id": "q2",
+      "prompt": "What does 'valuable' mean in a business context?",
+      "choices": [
+        "de grande valeur",
+        "de haute qualité",
+        "de vaste ampleur",
+        "de bonne posture",
+        "de forte densité"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Valuable' is listed as 'de grande valeur'."
+    },
+    {
+      "id": "q3",
+      "prompt": "How is the verb 'to operate' translated in the text?",
+      "choices": [
+        "exploiter",
+        "exporter",
+        "exécuter",
+        "examiner",
+        "expédier"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text translates 'to operate' as 'exploiter'."
+    },
+    {
+      "id": "q4",
+      "prompt": "What is the English term for 'cruel'?",
+      "choices": [
+        "heartless",
+        "faithless",
+        "boundless",
+        "pointless",
+        "countless"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Heartless' is the English translation provided for 'cruel'."
+    },
+    {
+      "id": "q5",
+      "prompt": "What does 'overnight' refer to?",
+      "choices": [
+        "pendant la nuit",
+        "pendant le jour",
+        "pendant le soir",
+        "pendant le mois",
+        "pendant le midi"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source defines 'overnight' as 'pendant la nuit'."
+    },
+    {
+      "id": "q6",
+      "prompt": "Which French verb corresponds to 'to launch'?",
+      "choices": [
+        "lancer",
+        "placer",
+        "tracer",
+        "glacer",
+        "forcer"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To launch' is translated as 'lancer'."
+    },
+    {
+      "id": "q7",
+      "prompt": "What is the translation for 'faithful'?",
+      "choices": [
+        "fidèle",
+        "habile",
+        "docile",
+        "fragile",
+        "stérile"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source lists 'faithful' as 'fidèle'."
+    },
+    {
+      "id": "q8",
+      "prompt": "What does the verb 'to gather' mean?",
+      "choices": [
+        "se rassembler",
+        "se transformer",
+        "se familiariser",
+        "se désolidariser",
+        "se multiplier"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To gather' means 'se rassembler'."
+    },
+    {
+      "id": "q9",
+      "prompt": "How is 'iconic' translated?",
+      "choices": [
+        "emblématique",
+        "systématique",
+        "automatique",
+        "dramatique",
+        "académique"
+      ],
+      "correctIndex": 0,
+      "explanation": "The translation provided for 'iconic' is 'emblématique'."
+    },
+    {
+      "id": "q10",
+      "prompt": "What is the translation for 'commitment'?",
+      "choices": [
+        "engagement",
+        "classement",
+        "alignement",
+        "avancement",
+        "chargement"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'commitment' is translated as 'engagement'."
+    },
+    {
+      "id": "q11",
+      "prompt": "What does 'gorgeous' mean?",
+      "choices": [
+        "splendide",
+        "distingué",
+        "favorable",
+        "impatient",
+        "vigoureux"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source defines 'gorgeous' as 'splendide, superbe'."
+    },
+    {
+      "id": "q12",
+      "prompt": "What is the meaning of 'brand'?",
+      "choices": [
+        "marque",
+        "banque",
+        "plaque",
+        "barque",
+        "chaque"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Brand' translates to 'marque'."
+    },
+    {
+      "id": "q13",
+      "prompt": "What does 'to care' mean in this context?",
+      "choices": [
+        "se soucier de",
+        "se charger de",
+        "se séparer de",
+        "se méfier de",
+        "se libérer de"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To care' is translated as 'faire attention, se soucier de'."
+    },
+    {
+      "id": "q14",
+      "prompt": "What is the translation for 'supply'?",
+      "choices": [
+        "approvisionnement",
+        "investissement",
+        "développement",
+        "renouvellement",
+        "agrandissement"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Supply' translates to 'approvisionnement'."
+    },
+    {
+      "id": "q15",
+      "prompt": "What is a 'supply chain'?",
+      "choices": [
+        "chaîne logistique",
+        "chaîne technique",
+        "chaîne théorique",
+        "chaîne publique",
+        "chaîne juridique"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Supply chain' is defined as 'chaîne logistique'."
+    },
+    {
+      "id": "q16",
+      "prompt": "How is 'therefore' translated?",
+      "choices": [
+        "par conséquent",
+        "par opposition",
+        "par définition",
+        "par obligation",
+        "par précaution"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Therefore' translates as 'par conséquent'."
+    },
+    {
+      "id": "q17",
+      "prompt": "What is the English term for 'accomplir'?",
+      "choices": [
+        "to fulfil",
+        "to follow",
+        "to forget",
+        "to finish",
+        "to foster"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text lists 'to fulfil' as 'accomplir, réaliser'."
+    },
+    {
+      "id": "q18",
+      "prompt": "What does 'purpose' translate to?",
+      "choices": [
+        "objectif",
+        "décisif",
+        "exclusif",
+        "abusif",
+        "motif"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Purpose' is translated as 'objectif'."
+    },
+    {
+      "id": "q19",
+      "prompt": "How is 'whole package' translated?",
+      "choices": [
+        "la totale",
+        "la finale",
+        "la royale",
+        "la locale",
+        "la morale"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Whole package' translates to 'la totale'."
+    },
+    {
+      "id": "q20",
+      "prompt": "What is the translation for 'to investigate'?",
+      "choices": [
+        "enquêter",
+        "exploiter",
+        "exécuter",
+        "exporter",
+        "endetter"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To investigate' means 'enquêter'."
+    },
+    {
+      "id": "q21",
+      "prompt": "What is the translation for 'workforce'?",
+      "choices": [
+        "population active",
+        "production locale",
+        "profession stable",
+        "promotion active",
+        "protection civile"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source defines 'workforce' as 'population active, main-d’œuvre'."
+    },
+    {
+      "id": "q22",
+      "prompt": "What does 'raw materials' mean?",
+      "choices": [
+        "matières premières",
+        "matières secondaires",
+        "matières chimiques",
+        "matières plastiques",
+        "matières polluantes"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Raw materials' translates to 'matières premières'."
+    },
+    {
+      "id": "q23",
+      "prompt": "How is 'to manufacture' translated?",
+      "choices": [
+        "fabriquer",
+        "indiquer",
+        "expliquer",
+        "répliquer",
+        "critiquer"
+      ],
+      "correctIndex": 0,
+      "explanation": "The verb 'to manufacture' means 'fabriquer'."
+    },
+    {
+      "id": "q24",
+      "prompt": "What is the translation for 'cheaply'?",
+      "choices": [
+        "à moindre prix",
+        "à plein temps",
+        "à juste titre",
+        "à long terme",
+        "à toute force"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Cheaply' is translated as 'à moindre prix, à peu de frais'."
+    },
+    {
+      "id": "q25",
+      "prompt": "What does 'to go wrong' mean?",
+      "choices": [
+        "mal tourner",
+        "mal tomber",
+        "mal chanter",
+        "mal parler",
+        "mal garder"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To go wrong' is translated as 'mal tourner'."
+    },
+    {
+      "id": "q26",
+      "prompt": "What is a 'supplier'?",
+      "choices": [
+        "fournisseur",
+        "interrupteur",
+        "distributeur",
+        "consommateur",
+        "organisateur"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Supplier' means 'fournisseur'."
+    },
+    {
+      "id": "q27",
+      "prompt": "What does 'harsh' mean?",
+      "choices": [
+        "dur, rude",
+        "fort, lent",
+        "gros, gras",
+        "frais, pur",
+        "noir, gris"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Harsh' is translated as 'dur, rude'."
+    },
+    {
+      "id": "q28",
+      "prompt": "What is the translation for 'net'?",
+      "choices": [
+        "filet",
+        "billet",
+        "objet",
+        "projet",
+        "aspect"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text translates 'net' as 'filet'."
+    },
+    {
+      "id": "q29",
+      "prompt": "What are 'outskirts'?",
+      "choices": [
+        "périphérie",
+        "hiérarchie",
+        "démocratie",
+        "philosophie",
+        "géographie"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Outskirts' translates as 'périphérie'."
+    },
+    {
+      "id": "q30",
+      "prompt": "What is the translation for 'undercover'?",
+      "choices": [
+        "clandestinement",
+        "immédiatement",
+        "partiellement",
+        "exclusivement",
+        "fréquemment"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Undercover' is translated as 'clandestinement'."
+    },
+    {
+      "id": "q31",
+      "prompt": "What is the English term for 'remettre'?",
+      "choices": [
+        "to hand over",
+        "to turn down",
+        "to look over",
+        "to take over",
+        "to pass over"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text lists 'to hand over' as 'remettre'."
+    },
+    {
+      "id": "q32",
+      "prompt": "What is the translation of 'to breach'?",
+      "choices": [
+        "enfreindre",
+        "atteindre",
+        "rejoindre",
+        "éteindre",
+        "craindre"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To breach' means 'enfreindre'."
+    },
+    {
+      "id": "q33",
+      "prompt": "How is 'dormitory' translated?",
+      "choices": [
+        "dortoir",
+        "couloir",
+        "comptoir",
+        "trottoir",
+        "manoir"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Dormitory' is translated as 'dortoir'."
+    },
+    {
+      "id": "q34",
+      "prompt": "What does 'accommodation' mean?",
+      "choices": [
+        "logement",
+        "mouvement",
+        "vêtement",
+        "règlement",
+        "fondement"
+      ],
+      "correctIndex": 0,
+      "explanation": "The word 'accommodation' translates to 'logement'."
+    },
+    {
+      "id": "q35",
+      "prompt": "What is the translation for 'cramped'?",
+      "choices": [
+        "exigu",
+        "étroit",
+        "réduit",
+        "sombre",
+        "fermé"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Cramped' is translated as 'exigu'."
+    },
+    {
+      "id": "q36",
+      "prompt": "What does 'paperwork' mean in a business context?",
+      "choices": [
+        "documents administratifs",
+        "environnements collectifs",
+        "investissements financiers",
+        "développements industriels",
+        "mouvements économiques"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Paperwork' translates to 'les documents administratifs'."
+    },
+    {
+      "id": "q37",
+      "prompt": "How is 'shop floor' translated?",
+      "choices": [
+        "atelier",
+        "escalier",
+        "quartier",
+        "courrier",
+        "chantier"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'shop floor' translates as 'atelier'."
+    },
+    {
+      "id": "q38",
+      "prompt": "What is the translation for 'heart-stopping'?",
+      "choices": [
+        "angoissant",
+        "percutant",
+        "indifférent",
+        "divertissant",
+        "enrichissant"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Heart-stopping' is defined as 'angoissant, effrayant'."
+    },
+    {
+      "id": "q39",
+      "prompt": "How is 'headquarters' translated?",
+      "choices": [
+        "siège",
+        "salle",
+        "usine",
+        "poste",
+        "cadre"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text lists 'headquarters' as 'siège'."
+    },
+    {
+      "id": "q40",
+      "prompt": "What does the verb 'to state' mean?",
+      "choices": [
+        "déclarer",
+        "préparer",
+        "séparer",
+        "comparer",
+        "réparer"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To state' translates to 'déclarer, affirmer'."
+    },
+    {
+      "id": "q41",
+      "prompt": "What is the meaning of 'by law'?",
+      "choices": [
+        "légalement",
+        "totalement",
+        "uniquement",
+        "rapidement",
+        "réellement"
+      ],
+      "correctIndex": 0,
+      "explanation": "'By law' is translated as 'légalement'."
+    },
+    {
+      "id": "q42",
+      "prompt": "What does 'to stand out' mean?",
+      "choices": [
+        "ressortir",
+        "repartir",
+        "ressentir",
+        "retenir",
+        "revenir"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'to stand out' is translated as 'ressortir, sauter aux yeux'."
+    },
+    {
+      "id": "q43",
+      "prompt": "What is the English term for 'éveillé'?",
+      "choices": [
+        "awake",
+        "aside",
+        "along",
+        "above",
+        "among"
+      ],
+      "correctIndex": 0,
+      "explanation": "The text lists 'awake' as 'éveillé'."
+    },
+    {
+      "id": "q44",
+      "prompt": "How is 'overtime' translated?",
+      "choices": [
+        "heures supplémentaires",
+        "heures obligatoires",
+        "heures hebdomadaires",
+        "heures industrielles",
+        "heures professionnelles"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Overtime' translates as 'heures supplémentaires'."
+    },
+    {
+      "id": "q45",
+      "prompt": "What is the translation for 'to expect'?",
+      "choices": [
+        "attendre",
+        "entendre",
+        "rejoindre",
+        "perdre",
+        "vendre"
+      ],
+      "correctIndex": 0,
+      "explanation": "The source defines 'to expect' as 'attendre'."
+    }
+  ]
+}
