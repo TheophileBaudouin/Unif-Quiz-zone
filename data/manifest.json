@@ -1,6 +1,6 @@
 {
   "documentTitle": "English Vocabulary and Irregular Verbs",
-  "generatedAt": "2026-05-02T17:12:29.551Z",
+  "generatedAt": "2026-05-04T16:47:29.097Z",
   "sourcePdf": "anglais_voc.pdf",
   "quizzes": [
     {
@@ -76,6 +76,14 @@
       "pageEnd": 97
     },
     {
+      "id": "intro-philosophy-foundations",
+      "title": "Avant-propos : Fondements et Naissance de la Philosophie",
+      "file": "quiz-intro-philosophy-foundations.json",
+      "questionCount": 40,
+      "pageStart": 1,
+      "pageEnd": 5
+    },
+    {
       "id": "introduction-temps-modernes",
       "title": "Quiz - Les temps modernes : Introduction",
       "file": "quiz-introduction-temps-modernes.json",
@@ -90,6 +98,14 @@
       "questionCount": 159,
       "pageStart": 18,
       "pageEnd": 21
+    },
+    {
+      "id": "legitimacy-general-intro-001",
+      "title": "Introduction Générale : Les Dimensions de la Légitimité",
+      "file": "quiz-legitimacy-general-introduction.json",
+      "questionCount": 40,
+      "pageStart": 5,
+      "pageEnd": 7
     },
     {
       "id": "lumieres-et-revolutions",
@@ -122,6 +138,46 @@
       "questionCount": 40,
       "pageStart": 66,
       "pageEnd": 77
+    },
+    {
+      "id": "part-1-chapter-2-scientific-knowledge",
+      "title": "Chapitre 2 : Développement des Connaissances Scientifiques",
+      "file": "quiz-part-1-chapter-2-scientific-knowledge.json",
+      "questionCount": 55,
+      "pageStart": 14,
+      "pageEnd": 21
+    },
+    {
+      "id": "part-1-chapter-3-power-exclusion-situated-knowledge",
+      "title": "Chapitre 3 : Légitimation, Exclusion et Savoirs Situés",
+      "file": "quiz-part-1-chapter-3-power-exclusion-situated-knowledge.json",
+      "questionCount": 66,
+      "pageStart": 22,
+      "pageEnd": 32
+    },
+    {
+      "id": "part-2-chapter-4-democratic-sovereignty",
+      "title": "Chapitre 4 : Fondements de la Souveraineté Démocratique",
+      "file": "quiz-part-2-chapter-4-democratic-sovereignty.json",
+      "questionCount": 42,
+      "pageStart": 32,
+      "pageEnd": 36
+    },
+    {
+      "id": "part-2-chapter-5-weber-rationalization-ethics",
+      "title": "Chapitre 5 : Légitimité Démocratique, Rationalisation et Éthique",
+      "file": "quiz-part-2-chapter-5-weber-rationalization-ethics.json",
+      "questionCount": 52,
+      "pageStart": 36,
+      "pageEnd": 42
+    },
+    {
+      "id": "philosophy-truth-criteria-p7-14",
+      "title": "Chapitre 1 : Nature, Critères et Autorité de la Vérité",
+      "file": "quiz-part-1-chapter-1-truth-criteria.json",
+      "questionCount": 48,
+      "pageStart": 7,
+      "pageEnd": 14
     },
     {
       "id": "police-violence-vocabulary",
