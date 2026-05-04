@@ -1,0 +1,495 @@
+{
+  "quizId": "socialisation-par-les-pairs",
+  "title": "L'Espace Scolaire et la Socialisation par les Pairs",
+  "section": {
+    "id": "socialisation-par-les-pairs",
+    "title": "L'Espace Scolaire et la Socialisation par les Pairs",
+    "startPage": 7,
+    "endPage": 8,
+    "summary": "Analyse de la division genrée de l'espace (cour de récréation, sport) et de la socialisation horizontale par les pairs. Étude des mécanismes de pression normative, de conformité et de construction identitaire à l'adolescence.",
+    "estimatedQuestionCount": 15
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon le schéma des choix d'orientation, quel facteur précède directement les représentations genrées des disciplines ?",
+      "choices": [
+        "L'anticipation de l'avenir souhaité ou perçu comme probable",
+        "La structure de l'offre scolaire disponible",
+        "L'organisation de la famille et des rôles sexués",
+        "Le monde du travail genré dans sa globalité",
+        "Les interactions quotidiennes avec les professeurs"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Dans le processus d'orientation, qu'englobe la catégorie 'Anticipation de l'avenir' selon le diagramme ?",
+      "choices": [
+        "Le monde du travail genré et l'organisation de la famille",
+        "Les notes obtenues et les conseils de classe",
+        "Les loisirs extrascolaires et les amitiés",
+        "La structure de l'offre scolaire et les diplômes",
+        "Les socialisations antérieures uniquement"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel élément constitue la base initiale influençant les choix d'orientation des élèves ?",
+      "choices": [
+        "Socialisations antérieures (famille, école, pairs, etc.)",
+        "Représentations genrées des disciplines académiques",
+        "Structure de l'offre scolaire locale",
+        "Anticipation du monde du travail futur",
+        "Décisions finales des conseils d'orientation"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q4",
+      "prompt": "Quelle est l'étape finale du processus décrit dans le schéma de la page 37 ?",
+      "choices": [
+        "Choix d'orientation des élèves",
+        "Entrée sur le marché du travail",
+        "Formation du sentiment d'appartenance",
+        "Construction des rapports au corps",
+        "Organisation de la vie familiale"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q5",
+      "prompt": "Concernant la cour d'école, que construisent les filles et les garçons à travers leurs compétences physiques ?",
+      "choices": [
+        "Des rapports au corps différenciés",
+        "Une égalité de traitement systématique",
+        "Des amitiés purement platoniques",
+        "Une indifférence totale à l'espace",
+        "Des compétences purement cognitives"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelles activités sont spécifiquement citées comme relevant de la ségrégation spontanée des garçons ?",
+      "choices": [
+        "Football, poursuites et jeux physiques",
+        "Discussions, élastique et course",
+        "Jeux de ballon et corde à sauter",
+        "Activités statiques et jeux de force",
+        "Coopération et jeux de discussion"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q7",
+      "prompt": "Quelles activités sont associées aux filles dans la cour de récréation selon le texte ?",
+      "choices": [
+        "Discussions, élastique, corde à sauter",
+        "Course, football et jeux de groupe",
+        "Jeux physiques et occupation centrale",
+        "Poursuites et mobilité spatiale",
+        "Compétition sportive et jeux de ballon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q8",
+      "prompt": "Comment le texte décrit-il l'occupation de l'espace par les garçons dans la cour ?",
+      "choices": [
+        "Ils occupent l'ensemble de la cour via la mobilité et les ballons",
+        "Ils se cantonnent aux bordures de la cour pour discuter",
+        "Ils partagent équitablement l'espace central avec les filles",
+        "Ils sont majoritairement statiques durant les pauses",
+        "Ils occupent des espaces restreints mais très physiques"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q9",
+      "prompt": "Quelle est la contrainte spatiale exercée sur les filles dans la cour de récréation ?",
+      "choices": [
+        "Elles doivent composer avec l'emprise spatiale des garçons",
+        "Elles sont forcées d'occuper le centre du terrain de jeu",
+        "Elles interdisent l'accès aux coins calmes aux garçons",
+        "Elles dominent l'espace par leur mobilité constante",
+        "Elles utilisent l'ensemble de la cour pour courir"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q10",
+      "prompt": "Quelles sont les variables qui modifient la diversité de l'occupation de l'espace scolaire ?",
+      "choices": [
+        "Les contextes et l'âge des enfants",
+        "Les notes et le comportement en classe",
+        "Le budget de l'école et le matériel",
+        "La météo et le calendrier scolaire",
+        "La taille des classes et le nombre de surveillants"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q11",
+      "prompt": "Pourquoi le sport est-il qualifié d'espace socialement différenciateur ?",
+      "choices": [
+        "Il contribue au façonnage de corps et de dispositions rentables",
+        "Il permet une mixité totale sans distinction de genre",
+        "Il est le seul lieu d'apprentissage de la lecture",
+        "Il annule les effets de la socialisation familiale",
+        "Il empêche l'appropriation des normes sociales"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q12",
+      "prompt": "Où s'incarnent les différenciations de genre et sociales dans le sport ?",
+      "choices": [
+        "Dans des modalités d'appropriation spécifiques",
+        "Uniquement dans les scores obtenus lors des matchs",
+        "Dans l'achat d'équipements sportifs haut de gamme",
+        "Dans le refus catégorique de toute activité physique",
+        "Exclusivement dans les règlements officiels des clubs"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q13",
+      "prompt": "Depuis la scolarisation de masse, quel rôle a été attribué à l'école vis-à-vis des jeunes ?",
+      "choices": [
+        "Principal lieu pour étudier la socialisation des enfants",
+        "Seul et unique lieu de transmission des savoirs",
+        "Espace de remplacement total de la cellule familiale",
+        "Lieu secondaire de construction des identités de genre",
+        "Centre de contrôle des activités de loisirs uniquement"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q14",
+      "prompt": "Comment est défini le groupe des pairs dans le contexte de la socialisation scolaire ?",
+      "choices": [
+        "Un groupe d'égaux partageant âge et cadres de référence",
+        "Un ensemble d'adultes encadrant les activités ludiques",
+        "Une hiérarchie basée sur les résultats académiques",
+        "Un groupe d'élèves de classes sociales opposées",
+        "Une structure dirigée par les prescriptions familiales"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q15",
+      "prompt": "Quelle tonalité propre caractérise les relations entre pairs selon la page 38 ?",
+      "choices": [
+        "Complicité, imitation, rivalités et reconnaissance mutuelle",
+        "Indifférence, autonomie, isolement et calme absolu",
+        "Soumission, autorité, obéissance et verticalité",
+        "Concurrence académique, mépris et hostilité constante",
+        "Neutralité affective et distance professionnelle"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q16",
+      "prompt": "Pourquoi qualifie-t-on la socialisation par les pairs de 'socialisation horizontale' ?",
+      "choices": [
+        "Par opposition à la socialisation verticale adultes-enfants",
+        "Parce qu'elle se déroule toujours dans une cour plane",
+        "En raison de l'égalité absolue des compétences physiques",
+        "Car elle n'implique aucune forme de hiérarchie interne",
+        "Parce qu'elle concerne uniquement les activités de repos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q17",
+      "prompt": "Parmi les effets de la socialisation par les pairs, quelles compétences sociales sont développées ?",
+      "choices": [
+        "Coopération, négociation et entraide",
+        "Lecture, calcul et mémorisation",
+        "Autorité, commandement et discipline",
+        "Résignation, silence et retrait",
+        "Compétition acharnée et individualisme"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q18",
+      "prompt": "Que permet l'exploration identitaire entre égaux dans le cadre expérimental des pairs ?",
+      "choices": [
+        "L'exploration du genre et de la sexualité",
+        "L'apprentissage des règles de grammaire",
+        "Le choix définitif d'une carrière professionnelle",
+        "La rupture totale avec les valeurs familiales",
+        "La maîtrise des outils technologiques"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q19",
+      "prompt": "Quel aspect négatif peut résulter de la socialisation par les pairs concernant les stéréotypes ?",
+      "choices": [
+        "Le renforcement de stéréotypes de genre ou de normes rigides",
+        "La suppression totale des différences de comportement",
+        "La valorisation systématique de la diversité sexuelle",
+        "L'absence totale de jugement sur l'apparence physique",
+        "La déconstruction active des rôles sociaux traditionnels"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q20",
+      "prompt": "Que comprend la 'pression normative' exercée par les pairs ?",
+      "choices": [
+        "Conformisme, exclusion, ridicule et contrôle des conduites",
+        "Liberté d'expression, tolérance et accueil de la déviance",
+        "Encouragement à la singularité et à l'originalité",
+        "Soutien inconditionnel aux élèves en difficulté",
+        "Promotion de l'égalité stricte entre les sexes"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q21",
+      "prompt": "Dans le groupe de pairs, à quoi sert spécifiquement la 'mise en scène de la virilité' ?",
+      "choices": [
+        "C'est un outil de pression normative et de contrôle",
+        "C'est une activité artistique encouragée par l'école",
+        "C'est une forme de médiation pour résoudre les conflits",
+        "C'est un moyen d'intégrer les filles dans les jeux physiques",
+        "C'est une compétence académique évaluée en sport"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q22",
+      "prompt": "Quelle conséquence subit un individu perçu comme 'déviant' par ses pairs ?",
+      "choices": [
+        "Harcèlement et mise à l'écart",
+        "Promotion au rang de leader du groupe",
+        "Accompagnement pédagogique spécifique",
+        "Récompense pour son originalité identitaire",
+        "Indifférence totale de la part du groupe"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q23",
+      "prompt": "Pourquoi les pairs sont-ils considérés comme un 'moteur précoce' de socialisation ?",
+      "choices": [
+        "Car les enfants s'y intéressent très tôt et développent des relations",
+        "Parce qu'ils remplacent la famille dès la naissance",
+        "Car ils imposent des règles avant même l'entrée à l'école",
+        "Parce qu'ils influencent les choix de carrière dès la maternelle",
+        "En raison de leur rôle dans l'apprentissage précoce du langage"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q24",
+      "prompt": "Quelle règle régit l'intensité de la socialisation mutuelle entre pairs ?",
+      "choices": [
+        "Plus ils interagissent, plus ils se socialisent mutuellement",
+        "Moins ils se voient, plus l'influence est forte",
+        "La socialisation dépend uniquement de l'accord des parents",
+        "Le niveau scolaire détermine le degré de socialisation",
+        "L'influence des pairs s'arrête dès que l'enseignant intervient"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q25",
+      "prompt": "Quel rôle les pairs acquièrent-ils progressivement vis-à-vis des autres instances ?",
+      "choices": [
+        "Un rôle de prescripteur articulé aux dispositions familiales",
+        "Un rôle de subordonné aux ordres des enseignants",
+        "Un rôle de spectateur passif de la vie scolaire",
+        "Un rôle de censeur des programmes éducatifs",
+        "Un rôle de médiateur entre les parents et l'administration"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q26",
+      "prompt": "Sur quoi portent les fortes 'prescriptions normatives' du groupe de pairs ?",
+      "choices": [
+        "Les normes et les injonctions du genre",
+        "Les méthodes de révision pour les examens",
+        "Le choix des menus à la cantine scolaire",
+        "Le respect strict des horaires de cours",
+        "La propreté des locaux de l'établissement"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q27",
+      "prompt": "Comment le genre influence-t-il la perception sociale à l'école ?",
+      "choices": [
+        "Il structure l'identité et la perception des autres",
+        "Il est devenu une variable négligeable dans les relations",
+        "Il n'influence que les relations avec les adultes",
+        "Il définit uniquement les performances en mathématiques",
+        "Il s'efface devant le sentiment d'appartenance à la classe"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q28",
+      "prompt": "Quelle asymétrie est observée dans la transgression des normes de genre ?",
+      "choices": [
+        "Le non-conformisme est plus toléré chez les filles",
+        "Le non-conformisme est plus toléré chez les garçons",
+        "La transgression est interdite aux deux sexes de façon égale",
+        "Seuls les garçons ont le droit d'adopter des traits féminins",
+        "Les filles sont plus sévèrement punies pour leurs vêtements"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q29",
+      "prompt": "Pourquoi l'adoption d'attitudes 'féminines' est-elle stigmatisée chez les garçons ?",
+      "choices": [
+        "En raison de la hiérarchisation des catégories de sexe",
+        "Parce que ces attitudes nuisent aux performances sportives",
+        "Car cela est perçu comme un signe de supériorité intellectuelle",
+        "En raison d'un manque de coordination physique supposé",
+        "Parce que les filles refusent de les intégrer dans leurs jeux"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q30",
+      "prompt": "Quel groupe exerce la plus forte pression à la conformité selon l'étude ?",
+      "choices": [
+        "Le groupe des garçons",
+        "Le groupe des filles",
+        "L'équipe pédagogique",
+        "Le conseil d'administration",
+        "Les associations de parents"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q31",
+      "prompt": "Quelle est la première composante de la double contrainte à l'adolescence ?",
+      "choices": [
+        "Le besoin de se singulariser pour construire son identité",
+        "Le besoin d'obéir aveuglément à l'autorité parentale",
+        "L'obligation d'exceller dans toutes les matières",
+        "Le désir de quitter le système scolaire précocement",
+        "La nécessité de rejeter toute forme de culture jeune"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q32",
+      "prompt": "Quelle est la seconde composante de la double contrainte à l'adolescence ?",
+      "choices": [
+        "Le besoin de se conformer au groupe pour éviter l'isolement",
+        "Le rejet systématique de tous les camarades de classe",
+        "L'acceptation passive de toutes les punitions scolaires",
+        "La volonté de s'isoler pour réfléchir à son avenir",
+        "Le désir de ressembler le plus possible aux enseignants"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q33",
+      "prompt": "Que signifie la 'socialisation par les pairs' comme espace central de construction ?",
+      "choices": [
+        "Elle façonne l'identité de fille/garçon durant tout le parcours",
+        "Elle sert uniquement à apprendre les règles de politesse",
+        "Elle est le lieu où l'on choisit ses options artistiques",
+        "Elle remplace totalement les cours d'éducation civique",
+        "Elle n'intervient qu'au moment de la récréation matinale"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q34",
+      "prompt": "Quelle émotion est citée comme moteur de la conformité au groupe à l'adolescence ?",
+      "choices": [
+        "La peur de l'isolement",
+        "La joie de la compétition",
+        "La colère envers les adultes",
+        "La tristesse liée aux notes",
+        "L'ennui lors des récréations"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q35",
+      "prompt": "Dans la cour, comment est qualifiée l'attitude des filles par rapport aux garçons ?",
+      "choices": [
+        "Plus statiques",
+        "Plus agressives",
+        "Plus mobiles",
+        "Plus bruyantes",
+        "Plus dominantes"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q36",
+      "prompt": "Quel terme désigne l'influence réciproque des enfants entre eux ?",
+      "choices": [
+        "Socialisation mutuelle",
+        "Éducation descendante",
+        "Prescription unilatérale",
+        "Conditionnement externe",
+        "Socialisation verticale"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q37",
+      "prompt": "Quelle activité fille est opposée aux 'jeux physiques' des garçons dans le texte ?",
+      "choices": [
+        "Discussions",
+        "Poursuites",
+        "Football",
+        "Lutte",
+        "Grimpe"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q38",
+      "prompt": "Selon le texte, le sport façonne des dispositions qui sont considérées comme :",
+      "choices": [
+        "Rentables dans le monde social",
+        "Inutiles pour la vie professionnelle",
+        "Purement récréatives et sans enjeu",
+        "Nuisibles à la cohésion sociale",
+        "Identiques pour toutes les classes sociales"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q39",
+      "prompt": "Quel rôle joue l'imitation dans les relations entre pairs ?",
+      "choices": [
+        "Elle participe à la tonalité propre des relations",
+        "Elle est strictement interdite par la pression normative",
+        "Elle ne concerne que les résultats académiques",
+        "Elle est le signe d'un manque total d'identité",
+        "Elle est réservée uniquement aux relations filles-filles"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q40",
+      "prompt": "Quelle est l'issue du paradoxe de l'adolescent entre singularité et conformité ?",
+      "choices": [
+        "Une double contrainte identitaire",
+        "Une libération totale des normes de genre",
+        "Un retour systématique vers les valeurs parentales",
+        "Une indifférence envers le regard des pairs",
+        "Une disparition du besoin d'appartenance"
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "course": "Sociologie du Genre"
+}
