@@ -1,0 +1,495 @@
+{
+  "quizId": "adolescence-sexualite-normes",
+  "title": "Adolescence, Sexualité et Normes de Genre",
+  "section": {
+    "id": "adolescence-sexualite-normes",
+    "title": "Adolescence, Sexualité et Normes de Genre",
+    "startPage": 9,
+    "endPage": 10,
+    "summary": "L'entrée dans la sexualité comme rite de passage social. Étude du rapport entre genre et sexualité, de l'autonomie croissante des jeunes face à la famille, et de la persistance des doubles standards et stigmates sexués.",
+    "estimatedQuestionCount": 15
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Pourquoi l'adolescence est-elle considérée comme une période privilégiée pour l'observation sociologique ?",
+      "choices": [
+        "Elle permet d'observer l'apprentissage des normes lors de la transition sociale vers l'adulte.",
+        "Elle constitue la seule phase de la vie où les transformations physiologiques sont visibles.",
+        "Elle marque l'arrêt définitif des pratiques de loisirs non genrées pour tous les individus.",
+        "Elle est le moment exclusif où l'ordre de genre est imposé par les institutions scolaires.",
+        "Elle représente la fin de toute influence familiale sur les comportements individuels."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Quel changement majeur s'opère dans les pratiques quotidiennes à l'adolescence selon la source ?",
+      "choices": [
+        "Les pratiques quotidiennes deviennent de plus en plus genrées dans divers domaines.",
+        "Les loisirs et les sports perdent leur connotation sexuée au profit de la mixité totale.",
+        "Les apparences physiques deviennent secondaires par rapport aux performances scolaires.",
+        "Les pratiques culturelles s'unifient pour effacer les distinctions entre filles et garçons.",
+        "Les activités sportives cessent d'être un vecteur de socialisation pour les jeunes adultes."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q3",
+      "prompt": "Selon le document, que signifie l'entrée dans le « métier d'adulte » pour les jeunes filles ?",
+      "choices": [
+        "L'affirmation de la féminité par le soin de soi, l'apparence et les comportements attendus.",
+        "La quête systématique d'une indépendance financière totale vis-à-vis du foyer familial.",
+        "Le rejet des normes esthétiques traditionnelles au profit de compétences techniques.",
+        "L'adoption de comportements compétitifs calqués sur les modèles de virilité masculine.",
+        "La priorisation exclusive des relations intimes sur les pratiques culturelles et sportives."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q4",
+      "prompt": "Quelles caractéristiques définissent l'affirmation de la virilité lors de la transition vers l'âge adulte ?",
+      "choices": [
+        "La force, la mise à l'épreuve et l'acceptation de la dimension compétitive.",
+        "Le retrait des activités physiques au profit d'une introspection psychologique.",
+        "La focalisation sur les soins cosmétiques et le raffinement de l'apparence physique.",
+        "Le refus de participer aux enjeux symboliques portés par le groupe des pairs.",
+        "L'abandon des comportements de prise de risque pour privilégier la sécurité domestique."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q5",
+      "prompt": "Quel est l'enjeu central de l'affirmation identitaire liée au genre à l'adolescence ?",
+      "choices": [
+        "Être reconnu symboliquement par les pairs au sein de l'ordre social.",
+        "S'opposer systématiquement aux transformations physiologiques de la puberté.",
+        "Réduire l'influence du genre dans le choix des carrières professionnelles futures.",
+        "Éviter toute forme de socialisation par les relations intimes et amoureuses.",
+        "Se conformer uniquement aux attentes morales des générations précédentes."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q6",
+      "prompt": "À quelle condition historique a-t-on pu interroger les rapports entre genre et sexualité ?",
+      "choices": [
+        "Lorsque ces deux notions ont été clairement définies comme étant distinctes.",
+        "Dès que les sciences sociales ont abandonné le concept de binarité des sexes.",
+        "Quand la sexualité juvénile a commencé à être perçue de manière moralisatrice.",
+        "Au moment où les écarts de liberté entre filles et garçons ont été totalement supprimés.",
+        "Lorsque l'autonomie sexuelle a été interdite par les régulations institutionnelles."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q7",
+      "prompt": "Malgré la distinction conceptuelle entre genre et sexualité, que constate-t-on dans la pratique ?",
+      "choices": [
+        "Les normes sociales continuent de les imbriquer fortement dans l'éducation.",
+        "La sexualité est devenue totalement indépendante des représentations de genre.",
+        "L'éducation sexuelle moderne a réussi à supprimer l'influence des normes binaires.",
+        "Le genre n'a plus aucune influence sur le choix de l'orientation sexuelle des jeunes.",
+        "Les pratiques quotidiennes des adolescents ne sont plus régies par des attentes sociales."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q8",
+      "prompt": "Quels binarismes structurent encore de nombreux travaux en sciences sociales sur les jeunes ?",
+      "choices": [
+        "Le genre (homme/femme) et l'orientation sexuelle (hétérosexualité/homosexualité).",
+        "L'origine sociale (bourgeoisie/prolétariat) et le niveau d'études (diplômé/non diplômé).",
+        "Le milieu de vie (urbain/rural) et la structure familiale (nucléaire/recomposée).",
+        "L'âge (enfant/adulte) et le statut économique (actif/inactif au sens professionnel).",
+        "La pratique religieuse (croyant/athée) et l'engagement politique (militant/abstentionniste)."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q9",
+      "prompt": "Comment ont évolué les rapports entre jeunesse et sexualité depuis la seconde moitié du 20e siècle ?",
+      "choices": [
+        "On est passé d'une vision moralisatrice et négative à une vision normale et attendue.",
+        "La sexualité est devenue un sujet tabou nécessitant un contrôle parental accru.",
+        "L'autonomie sexuelle des jeunes a diminué au profit d'une régulation étatique forte.",
+        "La période de jeunesse s'est raccourcie pour accélérer l'entrée dans la conjugalité.",
+        "Les représentations sociales ont dissocié totalement l'amour de l'acte sexuel."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q10",
+      "prompt": "Quel paradoxe entoure la plus grande autonomie privée des jeunes ?",
+      "choices": [
+        "Elle s'accompagne d'une augmentation des inquiétudes et peurs des adultes.",
+        "Elle entraîne une diminution flagrante de l'usage des moyens de contraception.",
+        "Elle réduit paradoxalement les opportunités de socialisation avec le groupe des pairs.",
+        "Elle provoque un retour vers des modèles de séduction traditionnels et rigides.",
+        "Elle supprime toute forme de régulation des comportements par les institutions."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q11",
+      "prompt": "Quelles sont les principales peurs des adultes face à la sexualité des jeunes ?",
+      "choices": [
+        "Les risques liés aux IST et les grossesses précoces non désirées.",
+        "La perte de compétitivité scolaire au profit des loisirs amoureux.",
+        "L'influence excessive des pratiques sportives sur le choix du partenaire.",
+        "Le désintérêt total des jeunes pour la constitution d'un couple stable.",
+        "L'absence de distinction entre les sphères publique et privée chez les mineurs."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q12",
+      "prompt": "Quelle évolution observe-t-on concernant la liberté de mouvement des adolescents vis-à-vis de la famille ?",
+      "choices": [
+        "Les adolescents disposent aujourd'hui d'une plus grande liberté de mouvement.",
+        "Les familles imposent des restrictions de plus en plus sévères sur les sorties.",
+        "La surveillance numérique a remplacé toute forme d'autonomie physique réelle.",
+        "Les garçons voient leur liberté de mouvement se restreindre pour égaler celle des filles.",
+        "La liberté de mouvement ne dépend plus du tout du contexte géographique ou social."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q13",
+      "prompt": "Comment évoluent les écarts de libertés accordées entre filles et garçons ?",
+      "choices": [
+        "Les écarts entre les libertés accordées aux filles et aux garçons se réduisent.",
+        "Les filles bénéficient désormais de plus de libertés que les garçons dans tous les domaines.",
+        "Les restrictions parentales se sont durcies exclusivement pour les garçons adolescents.",
+        "L'égalité de traitement est devenue une règle absolue sans aucune exception observée.",
+        "Les écarts augmentent en raison du retour de normes de protection très sexuées."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q14",
+      "prompt": "Quelle est la caractéristique des normes et contrôles s'exerçant sur la sexualité des jeunes ?",
+      "choices": [
+        "Ils restent présents mais sont de plus en plus intériorisés par les individus.",
+        "Ils ont totalement disparu au profit d'une liberté individuelle sans aucune règle.",
+        "Ils sont imposés uniquement de l'extérieur par des autorités religieuses ou morales.",
+        "Ils ne concernent plus que les aspects biologiques et médicaux de la reproduction.",
+        "Ils s'appliquent de manière identique quel que soit le groupe social d'appartenance."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q15",
+      "prompt": "Quel rôle joue le groupe des pairs dans la sexualité des adolescents ?",
+      "choices": [
+        "Le groupe des pairs joue un rôle croissant dans la régulation des comportements.",
+        "Il encourage systématiquement la transgression de toutes les normes sociales.",
+        "Il perd de son influence face à la montée de l'individualisme et de l'autonomie.",
+        "Il agit uniquement comme un espace de compétition physique sans dimension normative.",
+        "Il remplace totalement la famille dans l'apport des ressources financières et matérielles."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q16",
+      "prompt": "Comment est défini le « premier rapport » sexuel dans le document ?",
+      "choices": [
+        "Comme un moment social et l'aboutissement d'un processus d'apprentissage.",
+        "Comme un événement purement biologique dénué de toute signification culturelle.",
+        "Comme une rupture brutale et imprévue avec l'environnement social habituel.",
+        "Comme une obligation légale marquant le passage officiel à la majorité civile.",
+        "Comme un acte dont la portée symbolique a disparu avec la modernisation."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q17",
+      "prompt": "Le premier rapport sexuel constitue un rite de passage vers quels éléments ?",
+      "choices": [
+        "Vers la jeunesse et l'autonomie individuelle.",
+        "Vers l'entrée immédiate dans la vie active et professionnelle.",
+        "Vers la fin définitive de toute forme de socialisation amicale.",
+        "Vers une conformité absolue aux désirs des parents et des aînés.",
+        "Vers le rejet des protections médicales et des mesures de prévention."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q18",
+      "prompt": "Quelle tendance observe-t-on concernant l'âge au premier rapport sexuel ?",
+      "choices": [
+        "Les âges au premier rapport se sont fortement rapprochés entre filles et garçons.",
+        "L'âge moyen a reculé de manière significative pour atteindre 25 ans pour tous.",
+        "Les garçons commencent de plus en plus tôt tandis que les filles commencent plus tard.",
+        "L'écart d'âge entre les sexes s'accentue en raison de nouvelles pressions sociales.",
+        "L'âge au premier rapport est devenu totalement aléatoire et ne suit plus de tendance."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q19",
+      "prompt": "Qu'advient-il de la dissymétrie historique (filles plus tard, garçons plus tôt) ?",
+      "choices": [
+        "Elle tend à s'estomper au fil des générations actuelles.",
+        "Elle reste la norme dominante et immuable dans toutes les classes sociales.",
+        "Elle s'est inversée, les filles commençant désormais systématiquement avant les garçons.",
+        "Elle a été renforcée par les nouvelles politiques d'éducation à la sexualité.",
+        "Elle a disparu uniquement dans les milieux ruraux mais persiste en ville."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q20",
+      "prompt": "Quelle est la « norme centrale » qui régit désormais l'entrée dans la sexualité ?",
+      "choices": [
+        "La protection, incluant l'usage du préservatif et la prévention des IST.",
+        "La fidélité absolue dès la première expérience amoureuse rencontrée.",
+        "Le secret total vis-à-vis du groupe des pairs pour éviter les jugements.",
+        "La procréation rapide pour valider le statut d'adulte au sein de la société.",
+        "L'abstention jusqu'au mariage civil ou religieux selon les traditions."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q21",
+      "prompt": "Quel élément est devenu une clé des normes contemporaines de sexualité juvénile ?",
+      "choices": [
+        "La responsabilité individuelle face à l'anticipation des risques.",
+        "La soumission aveugle aux conseils prodigués par les professionnels de santé.",
+        "Le refus de toute forme de planification ou de précaution lors des rapports.",
+        "La délégation de la gestion des risques aux seuls parents des adolescents.",
+        "L'uniformisation des désirs sexuels au détriment des préférences personnelles."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q22",
+      "prompt": "Malgré le rapprochement des âges, que peut-on dire des expériences féminines et masculines ?",
+      "choices": [
+        "Elles continuent de se distinguer fortement selon un double standard des sexes.",
+        "Elles sont devenues strictement identiques dans leurs ressentis et leurs enjeux.",
+        "Les garçons ont adopté les codes émotionnels traditionnellement féminins.",
+        "Les filles privilégient désormais la force et la compétition comme les garçons.",
+        "La distinction entre les sexes a été remplacée par une distinction de classe."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q23",
+      "prompt": "À quel stigmate spécifique les filles sont-elles particulièrement exposées ?",
+      "choices": [
+        "Au stigmate de « pute », lié à une perception dégradante de leur activité sexuelle.",
+        "Au stigmate de « pédé », marquant une défaillance dans la norme hétérosexuée.",
+        "Au stigmate de « l'intello », rejetant les compétences scolaires féminines.",
+        "Au stigmate de « la fragile », critiquant leur manque de force physique.",
+        "Au stigmate de « l'enfant », niant leur capacité à devenir des adultes."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q24",
+      "prompt": "Quel stigmate pèse principalement sur les garçons dans le cadre des injonctions hétérosexuées ?",
+      "choices": [
+        "Le stigmate de « pédé », utilisé pour sanctionner un écart aux normes de virilité.",
+        "Le stigmate de « pute », visant à réguler leur nombre de partenaires sexuels.",
+        "Le stigmate de « l'incompétent », lié à leur manque de soin de l'apparence.",
+        "Le stigmate de « l'égoïste », critiquant leur manque d'investissement affectif.",
+        "Le stigmate de « l'imprudent », concernant le non-usage de la protection."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q25",
+      "prompt": "Comment le document définit-il la transition vécue à l'adolescence ?",
+      "choices": [
+        "On quitte le statut d'enfant pour s'orienter vers celui d'adulte.",
+        "On abandonne les loisirs sportifs pour se consacrer uniquement aux études.",
+        "On passe d'une autonomie totale à une dépendance accrue envers les pairs.",
+        "On rejette les normes de genre pour adopter une identité neutre.",
+        "On s'éloigne des transformations physiologiques pour privilégier le social."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q26",
+      "prompt": "Qu'est-ce qui caractérise l'ordre de genre à l'adolescence ?",
+      "choices": [
+        "C'est une période où l'on apprend à occuper une place spécifique dans cet ordre.",
+        "C'est un système qui s'effondre face à la montée de l'autonomie sexuelle.",
+        "C'est un cadre rigide qui interdit toute transformation des rapports sociaux.",
+        "C'est un ensemble de règles qui ne s'appliquent qu'au domaine professionnel.",
+        "C'est une structure qui disparaît dès que le premier rapport sexuel a lieu."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q27",
+      "prompt": "Quelles sont les trois composantes du binarisme souvent utilisées en sciences sociales ?",
+      "choices": [
+        "Genre (homme/femme), orientation sexuelle (hétéro/homo) et normes de genre.",
+        "Âge (jeune/vieux), classe (riche/pauvre) et éducation (instruit/ignorant).",
+        "Espace (ville/campagne), origine (national/étranger) et religion (pratiquant/non).",
+        "Famille (marié/célibataire), travail (salarié/indépendant) et loisir (actif/passif).",
+        "Corps (valide/handicapé), esprit (sain/malade) et culture (haute/populaire)."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q28",
+      "prompt": "Quel changement historique concerne la vision de la sexualité juvénile ?",
+      "choices": [
+        "Le passage d'une vision négative à une représentation où elle est vue comme normale.",
+        "Le retour à des valeurs morales strictes interdisant toute relation avant 18 ans.",
+        "La médicalisation excessive de chaque acte sexuel entre adolescents.",
+        "La disparition de toute forme de discours adulte sur les pratiques des jeunes.",
+        "Le remplacement des normes de protection par des normes de performance pure."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q29",
+      "prompt": "Sur quoi portent les inquiétudes des adultes concernant les rapports entre générations ?",
+      "choices": [
+        "Sur les transformations rapides des rapports entre les générations.",
+        "Sur le refus des jeunes de quitter le domicile familial après 20 ans.",
+        "Sur l'incapacité des jeunes à comprendre les outils technologiques modernes.",
+        "Sur la baisse du niveau scolaire liée à une hyper-sexualisation précoce.",
+        "Sur le manque de respect des traditions religieuses lors des mariages."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q30",
+      "prompt": "En quoi consiste l'apprentissage inscrit dans la socialisation sexuelle ?",
+      "choices": [
+        "En l'aboutissement d'un processus dont le premier rapport est le marqueur.",
+        "En l'imitation servile des comportements observés dans les médias uniquement.",
+        "En la mémorisation de règles biologiques sur le cycle de la reproduction.",
+        "En le rejet systématique de tout conseil provenant du groupe des pairs.",
+        "En l'adoption de comportements visant à rester enfant le plus longtemps possible."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q31",
+      "prompt": "Quelle est la conséquence de la non-correspondance aux normes dominantes de genre ?",
+      "choices": [
+        "Elle pose la question de ce qui arrive quand on s'écarte des modèles de virilité ou féminité.",
+        "Elle garantit une reconnaissance immédiate par les pairs les plus influents.",
+        "Elle n'a aucun impact car l'adolescence est une période de tolérance absolue.",
+        "Elle entraîne systématiquement un retrait définitif de la vie sociale.",
+        "Elle favorise l'accès à des postes de responsabilité au sein des groupes de jeunes."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q32",
+      "prompt": "Quel domaine n'est PAS cité comme devenant plus genré à l'adolescence ?",
+      "choices": [
+        "L'alimentation et les régimes diététiques familiaux.",
+        "Les sports et les activités physiques.",
+        "Les loisirs et les sorties entre amis.",
+        "Les pratiques culturelles et artistiques.",
+        "Les apparences et les choix vestimentaires."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q33",
+      "prompt": "La dissociation entre genre, sexualité et conjugalité signifie que :",
+      "choices": [
+        "Ces trois éléments ne sont plus systématiquement liés de manière automatique.",
+        "Le genre n'existe plus dès lors qu'une relation sexuelle commence.",
+        "La conjugalité est devenue interdite pour les adolescents sexuellement actifs.",
+        "La sexualité ne peut s'exprimer que dans le cadre d'un mariage formel.",
+        "L'orientation sexuelle détermine désormais entièrement le statut social."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q34",
+      "prompt": "Que signifie le prolongement de la jeunesse mentionné dans le texte ?",
+      "choices": [
+        "L'allongement de la période de transition entre l'enfance et l'âge adulte.",
+        "L'interdiction légale d'avoir des rapports sexuels avant l'âge de 21 ans.",
+        "La réduction du temps passé dans le système éducatif pour travailler plus tôt.",
+        "Le maintien d'un statut d'enfant au-delà des transformations physiologiques.",
+        "L'obligation de vivre chez ses parents jusqu'à la fin des études supérieures."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q35",
+      "prompt": "L'anticipation des risques dans la sexualité juvénile inclut :",
+      "choices": [
+        "L'usage du préservatif et la prévention des infections sexuellement transmissibles.",
+        "L'évitement de toute relation amoureuse avant d'avoir une situation stable.",
+        "La signature de contrats de consentement devant des témoins adultes.",
+        "Le recours systématique à la chirurgie esthétique pour plaire aux pairs.",
+        "L'arrêt des pratiques sportives pour éviter les blessures physiques."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q36",
+      "prompt": "L'affirmation de la féminité inclut selon le document :",
+      "choices": [
+        "Le soin de soi, l'apparence et les comportements attendus socialement.",
+        "La compétition physique intense et la recherche de la force pure.",
+        "Le mépris des conventions esthétiques au profit de la performance.",
+        "L'absence totale d'intérêt pour le regard des pairs masculins.",
+        "La volonté de s'orienter exclusivement vers des carrières techniques."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q37",
+      "prompt": "La régulation des comportements sexuels est de plus en plus :",
+      "choices": [
+        "Assurée par le groupe des pairs au détriment des institutions classiques.",
+        "Inexistante du fait de la libéralisation totale des mœurs depuis 1968.",
+        "Basée sur des sanctions juridiques de plus en plus lourdes pour les mineurs.",
+        "Le fait d'une autorité parentale qui regagne du terrain sur la vie privée.",
+        "Uniformisée au niveau mondial par l'usage massif des réseaux sociaux."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q38",
+      "prompt": "Quelles sont les deux types d'injonctions mentionnées à la fin du document ?",
+      "choices": [
+        "Les stigmates sexués et les injonctions hétérosexuées.",
+        "Les injonctions morales et les obligations religieuses de chasteté.",
+        "Les normes de performance et les pressions à la réussite scolaire.",
+        "Les injonctions parentales et les interdictions liées à l'âge civil.",
+        "Les normes de consommation et les injonctions à l'esthétisme pur."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q39",
+      "prompt": "L'autonomie sexuelle croissante des jeunes s'oppose à :",
+      "choices": [
+        "L'ancienne vision moralisatrice et aux contrôles familiaux directs.",
+        "L'usage systématique de la protection et des préservatifs.",
+        "L'augmentation des libertés de mouvement accordées par les parents.",
+        "La tendance au rapprochement des âges entre filles et garçons.",
+        "La possibilité de s'affirmer en tant qu'adulte auprès de ses pairs."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q40",
+      "prompt": "Le « double standard des sexes » désigne dans ce contexte :",
+      "choices": [
+        "Le fait que les expériences d'entrée dans la sexualité restent différenciées.",
+        "L'obligation pour les garçons de payer pour les loisirs lors des rendez-vous.",
+        "La différence de salaire qui commence dès les premiers jobs d'été des jeunes.",
+        "Le droit de vote qui serait accordé plus tôt aux garçons qu'aux filles.",
+        "Le fait d'avoir deux systèmes éducatifs séparés pour les deux sexes."
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "course": "Sociologie du Genre"
+}
