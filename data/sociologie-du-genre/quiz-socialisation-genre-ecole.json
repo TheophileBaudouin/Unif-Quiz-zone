@@ -1,0 +1,495 @@
+{
+  "quizId": "socialisation-genre-ecole",
+  "title": "La Socialisation de Genre en Milieu Scolaire",
+  "section": {
+    "id": "socialisation-genre-ecole",
+    "title": "La Socialisation de Genre en Milieu Scolaire",
+    "startPage": 4,
+    "endPage": 6,
+    "summary": "Histoire de l'éducation des filles, paradoxe de la réussite scolaire féminine versus choix d'orientation, et concept du curriculum caché. Analyse de la tension entre conformité institutionnelle et virilité hétéronormative chez les garçons.",
+    "estimatedQuestionCount": 20
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "À quelle période l'enseignement secondaire féminin a-t-il commencé à se structurer pour la bourgeoisie ?",
+      "choices": [
+        "Fin du 19ème siècle et début du 20ème siècle",
+        "Milieu du 18ème siècle et début du 19ème siècle",
+        "Début du 20ème siècle après la Première Guerre",
+        "Période de l'entre-deux-guerres uniquement (1918)",
+        "Fin du 18ème siècle lors de la Révolution française"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Quel était l'objectif principal de la scolarisation des filles au début du 20ème siècle ?",
+      "choices": [
+        "Préparer exclusivement au rôle d'épouse et de mère",
+        "Favoriser l'accès aux carrières scientifiques de pointe",
+        "Permettre l'émancipation par le travail rémunéré égal",
+        "Développer des compétences en gestion administrative",
+        "Encourager la participation active à la vie politique"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q3",
+      "prompt": "Quelles disciplines étaient spécifiquement enseignées aux filles au début du 20ème siècle ?",
+      "choices": [
+        "Cours de couture et techniques de cuisine familiale",
+        "Cours de philosophie et de rhétorique classique",
+        "Cours d'arithmétique appliquée et de géométrie",
+        "Cours de langues anciennes et de littérature latine",
+        "Cours de sciences physiques et de biologie moderne"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel événement est considéré comme le tournant majeur pour la mixité scolaire après 1945 ?",
+      "choices": [
+        "L'adoption progressive de la mixité comme norme",
+        "La suppression totale des écoles confessionnelles",
+        "L'unification des programmes de sport masculins",
+        "La création obligatoire de lycées techniques mixtes",
+        "L'interdiction des cours de morale non laïques"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q5",
+      "prompt": "Pourquoi la Belgique a-t-elle connu un retard dans la mise en œuvre de la mixité scolaire ?",
+      "choices": [
+        "En raison du poids important de l'enseignement catholique",
+        "À cause d'un manque de financement des infrastructures",
+        "Suite à une résistance des mouvements féministes radicaux",
+        "Par manque de personnel enseignant qualifié et formé",
+        "À cause d'une législation royale stricte contre la mixité"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q6",
+      "prompt": "Que se passe-t-il durant les années 1960-1970 concernant la réussite scolaire des filles ?",
+      "choices": [
+        "Le rattrapage puis le dépassement scolaire des garçons",
+        "La stagnation des résultats suite à la fin de la guerre",
+        "L'exclusion des filles des filières littéraires classiques",
+        "La chute brutale des inscriptions féminines en secondaire",
+        "Le maintien d'un écart stable en faveur de la gent masculine"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q7",
+      "prompt": "Quel ouvrage de 1990 marque le début des recherches sur la réussite des filles ?",
+      "choices": [
+        "L'école des filles écrit par Marie Duru-Bellat",
+        "Allez les filles ! écrit par Baudelot et Establet",
+        "La domination masculine écrit par Pierre Bourdieu",
+        "Le genre de l'école écrit par Nicole Mosconi",
+        "L'éducation des femmes écrit par Simone de Beauvoir"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q8",
+      "prompt": "Selon Baudelot et Establet (1992), quel est le titre de leur ouvrage de référence ?",
+      "choices": [
+        "Allez les filles ! (Baudelot & Establet, 1992)",
+        "Réussir au féminin (Baudelot & Establet, 1992)",
+        "L'école de la mixité (Baudelot & Establet, 1992)",
+        "Les filles et le savoir (Baudelot & Establet, 1992)",
+        "L'égalité introuvable (Baudelot & Establet, 1992)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q9",
+      "prompt": "Par quelle double inégalité l'école est-elle marquée dans de nombreux pays ?",
+      "choices": [
+        "Inégalité entre classes sociales et entre sexes",
+        "Inégalité entre zones urbaines et zones rurales",
+        "Inégalité entre public et privé et entre religions",
+        "Inégalité entre langues maternelles et étrangères",
+        "Inégalité entre disciplines de base et disciplines d'art"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q10",
+      "prompt": "Comment les parcours scolaires sont-ils hiérarchisés selon la source ?",
+      "choices": [
+        "Scolairement et socialement selon la valeur des filières",
+        "Uniquement par le niveau de difficulté des examens",
+        "Selon le prestige historique des bâtiments scolaires",
+        "Par le nombre d'heures de cours par semaine suivies",
+        "Suivant la proximité géographique des établissements"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q11",
+      "prompt": "Quel est l'impact des orientations scolaires sur l'insertion professionnelle ?",
+      "choices": [
+        "Des revenus et un statut social inégaux à terme",
+        "Une uniformisation des salaires dans le secteur public",
+        "Une réduction systématique du chômage des jeunes",
+        "Une meilleure répartition des tâches domestiques privées",
+        "Une disparition totale des plafonds de verre existants"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q12",
+      "prompt": "Quelle observation est faite sur les filles issues de milieux sociaux défavorisés ?",
+      "choices": [
+        "Les inégalités selon le milieu d'origine persistent",
+        "Elles réussissent mieux que les garçons de la bourgeoisie",
+        "Leur milieu social n'a plus d'influence sur leurs notes",
+        "Elles s'orientent massivement vers les écoles d'ingénieurs",
+        "Leur réussite efface totalement les barrières de classe"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q13",
+      "prompt": "Qu'induit l'apprentissage de l'identité masculine chez les garçons à l'école ?",
+      "choices": [
+        "L'incorporation de traits en contradiction avec l'école",
+        "Une soumission totale aux règles de l'établissement",
+        "Le développement précoce de compétences rédactionnelles",
+        "Une préférence marquée pour le silence en classe",
+        "Une meilleure capacité d'organisation des devoirs"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q14",
+      "prompt": "Quelles sont les caractéristiques de la 'conformité institutionnelle' ?",
+      "choices": [
+        "Discrétion, respect, travail et obéissance aux règles",
+        "Bruit, rébellion, créativité et remise en question",
+        "Leadership, force, compétition et prise de risque",
+        "Indépendance, solitude, réflexion et innovation technique",
+        "Passivité, ennui, désintérêt et absence de motivation"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q15",
+      "prompt": "Par qui l'attente de 'virilité hétéronormative' est-elle principalement relayée ?",
+      "choices": [
+        "Par le groupe de pairs (les autres élèves)",
+        "Par les règlements intérieurs de l'établissement",
+        "Par le corps professoral lors des enseignements",
+        "Par les inspecteurs académiques en mission",
+        "Par les manuels scolaires de sciences humaines"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q16",
+      "prompt": "Comment se manifeste la virilité hétéronormative chez les garçons ?",
+      "choices": [
+        "Par la monopolisation de l'attention et la force physique",
+        "Par une écoute attentive et une empathie développée",
+        "Par la discrétion sonore lors des travaux de groupe",
+        "Par le respect scrupuleux des consignes de sécurité",
+        "Par le refus systématique de participer aux jeux physiques"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q17",
+      "prompt": "Dans la gestion de la tension, comment la peur et le plaisir sont-ils liés ?",
+      "choices": [
+        "Par l'adrénaline générée lors de la transgression",
+        "Par le stress lié à l'approche des examens finaux",
+        "Par la fierté d'obtenir de très bons résultats scolaires",
+        "Par l'angoisse de la séparation avec le milieu familial",
+        "Par le sentiment de culpabilité après une punition"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q18",
+      "prompt": "Quel est l'objectif de la quête de limites pour les garçons ?",
+      "choices": [
+        "Montrer son appartenance au groupe et sa virilité",
+        "Vérifier la solidité des structures architecturales",
+        "Améliorer ses performances en saut en hauteur",
+        "Explorer les frontières de la connaissance théorique",
+        "Tester la patience des parents à la sortie d'école"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q19",
+      "prompt": "Comment Erving Goffman qualifie-t-il la transgression des règles à l'école ?",
+      "choices": [
+        "Comme un rite différenciateur de sexe (1977)",
+        "Comme un comportement déviant pathologique (1977)",
+        "Comme une résistance politique structurée (1977)",
+        "Comme une phase de transition adolescente (1977)",
+        "Comme un échec de la socialisation primaire (1977)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q20",
+      "prompt": "Quel rôle est attribué aux filles lors des scènes d'indiscipline ?",
+      "choices": [
+        "Elles sont spectatrices et profitent du spectacle",
+        "Elles sont les instigatrices cachées des chahuts",
+        "Elles sont chargées de dénoncer les perturbateurs",
+        "Elles sont indifférentes et s'isolent pour lire",
+        "Elles tentent activement de rétablir l'ordre"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q21",
+      "prompt": "Quel rôle est attribué aux garçons en situation d'indiscipline ?",
+      "choices": [
+        "Ils sont les acteurs et doivent faire rire les autres",
+        "Ils sont les médiateurs entre pairs et professeurs",
+        "Ils sont les victimes passives de l'agitation ambiante",
+        "Ils sont les planificateurs rigoureux du silence",
+        "Ils sont les protecteurs des filles contre le bruit"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q22",
+      "prompt": "Qu'est-ce que le 'curriculum caché' selon le document ?",
+      "choices": [
+        "Valorisation différenciée de formes de masculinités/féminités",
+        "La liste des diplômes et de l'expérience d'un individu",
+        "Les cours de soutien non déclarés par les professeurs",
+        "Les matières optionnelles qui ne figurent pas au bulletin",
+        "Le règlement intérieur non affiché dans les couloirs"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q23",
+      "prompt": "Quel est le constat paradoxal concernant l'orientation des filles ?",
+      "choices": [
+        "Réussite scolaire supérieure mais choix moins ambitieux",
+        "Réussite scolaire médiocre mais postes de haut statut",
+        "Orientation scientifique massive mais échecs aux examens",
+        "Échecs scolaires répétés mais insertion sociale rapide",
+        "Goût pour la littérature mais choix de filières techniques"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q24",
+      "prompt": "Pourquoi les choix d'orientation des filles sont-ils qualifiés de moins 'rentables' ?",
+      "choices": [
+        "Parce qu'ils mènent à des secteurs moins rémunérateurs",
+        "Parce qu'ils coûtent plus cher en frais de scolarité",
+        "Parce qu'ils demandent plus d'années d'études gratuites",
+        "Parce qu'ils ne permettent pas de travailler à l'étranger",
+        "Parce qu'ils sont saturés par un public trop nombreux"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q25",
+      "prompt": "Comment la socialisation féminine favorise-t-elle la réussite scolaire ?",
+      "choices": [
+        "En développant des dispositions de conformité et d'organisation",
+        "En encourageant la compétition agressive entre camarades",
+        "En privilégiant le sport de haut niveau dès le primaire",
+        "En autorisant une plus grande liberté de mouvement",
+        "En supprimant tout besoin de validation par les notes"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q26",
+      "prompt": "Quelles qualités sont valorisées dans les filières les plus prestigieuses ?",
+      "choices": [
+        "L'assurance, la compétition et la confiance en soi",
+        "La discrétion, l'obéissance et la modestie constante",
+        "La patience, l'écoute et le soin du matériel fourni",
+        "Le travail en groupe et le partage des ressources",
+        "L'empathie, la sensibilité et le soutien émotionnel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q27",
+      "prompt": "Quel sentiment la socialisation féminine peut-elle induire chez les filles ?",
+      "choices": [
+        "La tendance à sous-estimer leurs propres compétences",
+        "Une arrogance excessive face aux résultats des garçons",
+        "Un sentiment de supériorité naturelle en mathématiques",
+        "Une indifférence totale face aux jugements extérieurs",
+        "Une volonté de dominer physiquement l'espace scolaire"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q28",
+      "prompt": "Qu'appelle-t-on la 'menace du stéréotype' dans le document ?",
+      "choices": [
+        "Une baisse de performance due à la peur d'un cliché",
+        "La peur physique d'être agressé par des pairs masculins",
+        "L'interdiction de porter certains vêtements à l'école",
+        "Le risque d'être exclu pour non-respect de l'uniforme",
+        "La critique des manuels scolaires par les associations"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q29",
+      "prompt": "Vers quoi la socialisation masculine oriente-t-elle souvent les garçons ?",
+      "choices": [
+        "Vers la compétition, le risque et l'affirmation de soi",
+        "Vers la poésie, la réflexion et l'introspection calme",
+        "Vers la prudence, la collaboration et l'effacement personnel",
+        "Vers le respect strict et immédiat de toute autorité",
+        "Vers l'esthétique, le soin du détail et la calligraphie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q30",
+      "prompt": "Quel est le risque de la 'culture virile' dans les milieux populaires ?",
+      "choices": [
+        "Mise à distance de l'école ou auto-exclusion des parcours longs",
+        "Sur-investissement scolaire pour échapper à la pauvreté",
+        "Création de coopératives ouvrières au sein du lycée",
+        "Développement d'un langage soutenu pour se distinguer",
+        "Participation accrue aux instances de délégués d'élèves"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q31",
+      "prompt": "Comment Marie Duru-Bellat définit-elle les choix d'orientation des filles ?",
+      "choices": [
+        "Comme des stratégies actives sous contrainte",
+        "Comme une simple intériorisation passive de normes",
+        "Comme un rejet total des valeurs de la famille",
+        "Comme une preuve de supériorité intellectuelle innée",
+        "Comme un hasard lié aux amitiés scolaires du moment"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q32",
+      "prompt": "L'école est-elle un simple relais passif des normes de genre ?",
+      "choices": [
+        "Non, elle participe activement à leur (re)production",
+        "Oui, elle ne fait que copier le modèle de la famille",
+        "Non, elle est le seul lieu où le genre disparaît totalement",
+        "Oui, car les professeurs n'ont aucun pouvoir d'influence",
+        "Non, elle ne traite que des savoirs académiques purs"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q33",
+      "prompt": "Quel effet la mixité scolaire peut-elle avoir sur les normes de genre ?",
+      "choices": [
+        "Elle peut devenir un espace où les normes se renforcent",
+        "Elle annule instantanément les préjugés sexistes",
+        "Elle garantit une égalité parfaite de temps de parole",
+        "Elle empêche toute forme d'interaction entre les sexes",
+        "Elle dissout totalement les identités masculines et féminines"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q34",
+      "prompt": "Quels espaces scolaires l'ordre de genre continue-t-il de structurer ?",
+      "choices": [
+        "La cour, la classe et les choix d'orientation",
+        "Uniquement les vestiaires de sport et les sanitaires",
+        "Seulement les manuels d'histoire et de géographie",
+        "Exclusivement les conseils de classe et de discipline",
+        "Uniquement les interactions lors des sorties scolaires"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q35",
+      "prompt": "Avec quels autres facteurs les normes de genre s'entrecroisent-elles ?",
+      "choices": [
+        "Classe sociale, racialisation, langue et religion",
+        "Taille de l'élève, poids et performances athlétiques",
+        "Marque des vêtements, téléphone utilisé et loisirs numériques",
+        "Lieu de vacances, type d'habitation et possession d'animaux",
+        "Signe astrologique, groupe sanguin et régime alimentaire"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q36",
+      "prompt": "Dans quelle discipline les filles sous-estiment-elles souvent leurs compétences ?",
+      "choices": [
+        "En mathématiques",
+        "En langues étrangères",
+        "En littérature française",
+        "En éducation physique",
+        "En histoire des arts"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q37",
+      "prompt": "Quelle expression désigne le fait que l'école ne se limite pas à l'apprentissage officiel ?",
+      "choices": [
+        "Le curriculum caché",
+        "Le programme occulte",
+        "L'enseignement invisible",
+        "La pédagogie de l'ombre",
+        "L'éducation informelle"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q38",
+      "prompt": "Selon le document, comment les filles se comportent-elles face aux règles ?",
+      "choices": [
+        "Elles restent passives face à la règle",
+        "Elles sont les premières à les contester ouvertement",
+        "Elles ignorent totalement l'existence du règlement",
+        "Elles inventent de nouvelles règles pour le groupe",
+        "Elles collaborent avec les garçons pour les briser"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q39",
+      "prompt": "Quel est le 'double standard des sexes' mentionné dans le texte ?",
+      "choices": [
+        "Le rôle joué par l'école dans la production des inégalités",
+        "La double notation des travaux pour filles et garçons",
+        "Le fait d'avoir deux professeurs différents par classe",
+        "L'existence d'échelles de sanctions différentes par sexe",
+        "L'obligation de choisir deux langues vivantes distinctes"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q40",
+      "prompt": "Quelle est la définition donnée du curriculum dans la note de bas de page 4 ?",
+      "choices": [
+        "État civil, diplômes et expérience professionnelle",
+        "Ensemble des livres obligatoires pour une année",
+        "Parcours de vie d'un enseignant avant sa titularisation",
+        "Liste des activités périscolaires proposées par la ville",
+        "Description technique des infrastructures d'une école"
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "course": "Sociologie du Genre"
+}
