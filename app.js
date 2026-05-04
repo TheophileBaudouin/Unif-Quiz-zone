@@ -45,16 +45,50 @@ function renderList() {
     return;
   }
 
+  // Group quizzes by course
+  const groups = new Map();
   for (const item of manifest.quizzes) {
-    const li = document.createElement('li');
-    const btn = document.createElement('button');
-    btn.type = 'button';
-    btn.className = 'quiz-btn' + (item.file === currentFile ? ' active' : '');
-    btn.setAttribute('aria-label', 'Ouvrir le quiz ' + item.title);
-    btn.innerHTML = '<strong>' + item.title + '</strong><span class="state-note">' + item.questionCount + ' questions</span>';
-    btn.addEventListener('click', () => loadQuiz(item.file));
-    li.appendChild(btn);
-    listEl.appendChild(li);
+    const course = item.course || 'Général';
+    if (!groups.has(course)) groups.set(course, []);
+    groups.get(course).push(item);
+  }
+
+  // Sort course names, putting 'Général' first if it exists
+  const sortedCourses = Array.from(groups.keys()).sort((a, b) => {
+    if (a === 'Général') return -1;
+    if (b === 'Général') return 1;
+    return a.localeCompare(b);
+  });
+
+  for (const course of sortedCourses) {
+    const items = groups.get(course);
+    
+    const details = document.createElement('details');
+    details.className = 'course-group';
+    details.open = true; // Open by default
+    
+    const summary = document.createElement('summary');
+    summary.className = 'course-header';
+    summary.textContent = course;
+    details.appendChild(summary);
+
+    const ul = document.createElement('ul');
+    ul.className = 'quiz-list';
+
+    for (const item of items) {
+      const li = document.createElement('li');
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'quiz-btn' + (item.file === currentFile ? ' active' : '');
+      btn.setAttribute('aria-label', 'Ouvrir le quiz ' + item.title);
+      btn.innerHTML = '<strong>' + item.title + '</strong><span class="state-note">' + item.questionCount + ' questions</span>';
+      btn.addEventListener('click', () => loadQuiz(item.file));
+      li.appendChild(btn);
+      ul.appendChild(li);
+    }
+    
+    details.appendChild(ul);
+    listEl.appendChild(details);
   }
 }
 
