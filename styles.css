@@ -136,11 +136,57 @@ h1 {
 }
 
 .quiz-list { 
-  list-style: none; 
-  margin: 0; 
-  padding: 0; 
   display: grid; 
   gap: 1.2rem; 
+}
+
+.course-header {
+  margin: 0;
+  font-size: 1.4rem;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: var(--black);
+  background: var(--yellow);
+  padding: 0.5rem 1.2rem;
+  border: var(--border);
+  box-shadow: 2px 2px 0px 0px #000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  user-select: none;
+  transition: var(--transition);
+}
+
+.course-header:hover {
+  background: var(--green);
+  transform: translate(-1px, -1px);
+  box-shadow: 3px 3px 0px 0px #000;
+}
+
+.course-group {
+  margin-bottom: 2rem;
+  border: none;
+  background: none;
+}
+
+.course-group[open] .course-header {
+  background: var(--green);
+  margin-bottom: 1.2rem;
+}
+
+.course-header::-webkit-details-marker {
+  display: none;
+}
+
+.course-header::after {
+  content: '▼';
+  font-size: 1rem;
+  transition: transform 0.2s ease;
+}
+
+.course-group[open] .course-header::after {
+  transform: rotate(180deg);
 }
 
 .quiz-btn {
