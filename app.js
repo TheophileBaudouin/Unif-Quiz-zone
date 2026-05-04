@@ -49,11 +49,12 @@ function renderList() {
   const groups = new Map();
   for (const item of manifest.quizzes) {
     const course = item.course || 'Général';
-    if (!groups.has(course)) groups.set(course, []);
-    groups.get(course).push(item);
+    const normalized = course.charAt(0).toUpperCase() + course.slice(1).toLowerCase();
+    if (!groups.has(normalized)) groups.set(normalized, []);
+    groups.get(normalized).push(item);
   }
 
-  // Sort course names, putting 'Général' first if it exists
+  // Sort course names, putting 'Général' first
   const sortedCourses = Array.from(groups.keys()).sort((a, b) => {
     if (a === 'Général') return -1;
     if (b === 'Général') return 1;
@@ -65,22 +66,21 @@ function renderList() {
     
     const details = document.createElement('details');
     details.className = 'course-group';
-    details.open = true; // Open by default
+    details.open = true;
     
     const summary = document.createElement('summary');
     summary.className = 'course-header';
-    summary.textContent = course;
+    summary.innerHTML = '<span>' + course + '</span>';
     details.appendChild(summary);
 
     const ul = document.createElement('ul');
-    ul.className = 'quiz-list';
+    ul.className = 'course-items';
 
     for (const item of items) {
       const li = document.createElement('li');
       const btn = document.createElement('button');
       btn.type = 'button';
       btn.className = 'quiz-btn' + (item.file === currentFile ? ' active' : '');
-      btn.setAttribute('aria-label', 'Ouvrir le quiz ' + item.title);
       btn.innerHTML = '<strong>' + item.title + '</strong><span class="state-note">' + item.questionCount + ' questions</span>';
       btn.addEventListener('click', () => loadQuiz(item.file));
       li.appendChild(btn);
