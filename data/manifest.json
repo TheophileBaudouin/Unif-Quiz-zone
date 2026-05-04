@@ -1,6 +1,286 @@
 {
   "documentTitle": "Quiz Zone",
-  "generatedAt": "2026-05-04T18:16:46.126Z",
-  "sourcePdf": "",
-  "quizzes": []
+  "generatedAt": "2026-05-04T18:17:13.572Z",
+  "sourcePdf": "multiple",
+  "quizzes": [
+    {
+      "id": "affirmation-absolutisme",
+      "title": "Quiz - L'absolutisme",
+      "file": "histoire/quiz-affirmation-absolutisme.json",
+      "questionCount": 40,
+      "pageStart": 45,
+      "pageEnd": 55,
+      "course": "histoire"
+    },
+    {
+      "id": "apple-broken-promises-vocabulary",
+      "title": "Apple's Broken Promises Vocabulary",
+      "file": "anglais/quiz-apple-broken-promises-vocabulary.json",
+      "questionCount": 94,
+      "pageStart": 10,
+      "pageEnd": 11,
+      "course": "anglais"
+    },
+    {
+      "id": "capitalisme-globalise-anthropocene",
+      "title": "Quiz - Le capitalisme globalisé et les défis mondiaux",
+      "file": "histoire/quiz-capitalisme-globalise-anthropocene.json",
+      "questionCount": 50,
+      "pageStart": 118,
+      "pageEnd": 126,
+      "course": "histoire"
+    },
+    {
+      "id": "childhood-obesity-vocabulary-quiz",
+      "title": "Childhood Obesity Vocabulary Quiz",
+      "file": "anglais/quiz-childhood-obesity-vocabulary.json",
+      "questionCount": 47,
+      "pageStart": 3,
+      "pageEnd": 3,
+      "course": "anglais"
+    },
+    {
+      "id": "coca-cola-marketing-strategy-vocabulary",
+      "title": "The Secret Behind The Coca-Cola Marketing Strategy",
+      "file": "anglais/quiz-coca-cola-marketing-strategy-vocabulary.json",
+      "questionCount": 114,
+      "pageStart": 15,
+      "pageEnd": 17,
+      "course": "anglais"
+    },
+    {
+      "id": "empires-mondialisation-modernes",
+      "title": "Quiz - Empires et mondialisation aux temps modernes",
+      "file": "histoire/quiz-empires-mondialisation-modernes.json",
+      "questionCount": 50,
+      "pageStart": 2,
+      "pageEnd": 20,
+      "course": "histoire"
+    },
+    {
+      "id": "guerres-et-societes-quiz",
+      "title": "Quiz - Guerres et sociétés aux temps modernes",
+      "file": "histoire/quiz-guerres-et-societes.json",
+      "questionCount": 41,
+      "pageStart": 56,
+      "pageEnd": 64,
+      "course": "histoire"
+    },
+    {
+      "id": "humanisme-et-reformes",
+      "title": "Quiz - Humanisme et Réformes",
+      "file": "histoire/quiz-humanisme-et-reformes.json",
+      "questionCount": 40,
+      "pageStart": 21,
+      "pageEnd": 29,
+      "course": "histoire"
+    },
+    {
+      "id": "ideologies-politiques-masses",
+      "title": "Quiz - Régimes et idéologies politiques à l'ère des masses",
+      "file": "histoire/quiz-ideologies-politiques-masses.json",
+      "questionCount": 40,
+      "pageStart": 88,
+      "pageEnd": 97,
+      "course": "histoire"
+    },
+    {
+      "id": "intro-philosophy-foundations",
+      "title": "Avant-propos : Fondements et Naissance de la Philosophie",
+      "file": "philosophie/quiz-intro-philosophy-foundations.json",
+      "questionCount": 40,
+      "pageStart": 1,
+      "pageEnd": 5,
+      "course": "philosophie"
+    },
+    {
+      "id": "introduction-temps-modernes",
+      "title": "Quiz - Les temps modernes : Introduction",
+      "file": "histoire/quiz-introduction-temps-modernes.json",
+      "questionCount": 40,
+      "pageStart": 1,
+      "pageEnd": 2,
+      "course": "histoire"
+    },
+    {
+      "id": "irregular-verbs-reference",
+      "title": "Irregular Verbs",
+      "file": "anglais/quiz-irregular-verbs-reference.json",
+      "questionCount": 159,
+      "pageStart": 18,
+      "pageEnd": 21,
+      "course": "anglais"
+    },
+    {
+      "id": "legitimacy-general-intro-001",
+      "title": "Introduction Générale : Les Dimensions de la Légitimité",
+      "file": "philosophie/quiz-legitimacy-general-introduction.json",
+      "questionCount": 40,
+      "pageStart": 5,
+      "pageEnd": 7,
+      "course": "philosophie"
+    },
+    {
+      "id": "lumieres-et-revolutions",
+      "title": "Quiz - Révolutions et Lumières au XVIIIe siècle",
+      "file": "histoire/quiz-lumieres-et-revolutions.json",
+      "questionCount": 40,
+      "pageStart": 30,
+      "pageEnd": 36,
+      "course": "histoire"
+    },
+    {
+      "id": "metropolis-london-vocabulary",
+      "title": "Metropolis: London Vocabulary",
+      "file": "anglais/quiz-metropolis-london-vocabulary.json",
+      "questionCount": 81,
+      "pageStart": 4,
+      "pageEnd": 5,
+      "course": "anglais"
+    },
+    {
+      "id": "modern-contemporary-history-exam-examples",
+      "title": "Exemples de questions d'examen - Histoire Moderne et Contemporaine",
+      "file": "histoire/quiz-exemples-questions-examen.json",
+      "questionCount": 45,
+      "pageStart": 127,
+      "pageEnd": 151,
+      "course": "histoire"
+    },
+    {
+      "id": "mondialisation-industrielle",
+      "title": "Quiz - Mondialisation industrielle, bourgeoise et capitaliste",
+      "file": "histoire/quiz-mondialisation-industrielle.json",
+      "questionCount": 40,
+      "pageStart": 66,
+      "pageEnd": 77,
+      "course": "histoire"
+    },
+    {
+      "id": "part-1-chapter-2-scientific-knowledge",
+      "title": "Chapitre 2 : Développement des Connaissances Scientifiques",
+      "file": "philosophie/quiz-part-1-chapter-2-scientific-knowledge.json",
+      "questionCount": 55,
+      "pageStart": 14,
+      "pageEnd": 21,
+      "course": "philosophie"
+    },
+    {
+      "id": "part-1-chapter-3-power-exclusion-situated-knowledge",
+      "title": "Chapitre 3 : Légitimation, Exclusion et Savoirs Situés",
+      "file": "philosophie/quiz-part-1-chapter-3-power-exclusion-situated-knowledge.json",
+      "questionCount": 66,
+      "pageStart": 22,
+      "pageEnd": 32,
+      "course": "philosophie"
+    },
+    {
+      "id": "part-2-chapter-4-democratic-sovereignty",
+      "title": "Chapitre 4 : Fondements de la Souveraineté Démocratique",
+      "file": "philosophie/quiz-part-2-chapter-4-democratic-sovereignty.json",
+      "questionCount": 42,
+      "pageStart": 32,
+      "pageEnd": 36,
+      "course": "philosophie"
+    },
+    {
+      "id": "part-2-chapter-5-weber-rationalization-ethics",
+      "title": "Chapitre 5 : Légitimité Démocratique, Rationalisation et Éthique",
+      "file": "philosophie/quiz-part-2-chapter-5-weber-rationalization-ethics.json",
+      "questionCount": 52,
+      "pageStart": 36,
+      "pageEnd": 42,
+      "course": "philosophie"
+    },
+    {
+      "id": "philosophy-truth-criteria-p7-14",
+      "title": "Chapitre 1 : Nature, Critères et Autorité de la Vérité",
+      "file": "philosophie/quiz-part-1-chapter-1-truth-criteria.json",
+      "questionCount": 48,
+      "pageStart": 7,
+      "pageEnd": 14,
+      "course": "philosophie"
+    },
+    {
+      "id": "police-violence-vocabulary",
+      "title": "Police Violence Vocabulary",
+      "file": "anglais/quiz-police-violence-vocabulary.json",
+      "questionCount": 68,
+      "pageStart": 8,
+      "pageEnd": 9,
+      "course": "anglais"
+    },
+    {
+      "id": "problems-and-questions-vocabulary",
+      "title": "Problems and Questions Submitted by Learners of English",
+      "file": "anglais/quiz-problems-and-questions-vocabulary.json",
+      "questionCount": 40,
+      "pageStart": 1,
+      "pageEnd": 10,
+      "course": "anglais"
+    },
+    {
+      "id": "quiz-conflits-mondiaux",
+      "title": "Quiz - Les Guerres Mondiales et le Droit International",
+      "file": "histoire/quiz-conflits-mondiaux.json",
+      "questionCount": 45,
+      "pageStart": 98,
+      "pageEnd": 107,
+      "course": "histoire"
+    },
+    {
+      "id": "quiz-guerre-froide",
+      "title": "Quiz sur la Guerre froide",
+      "file": "histoire/quiz-guerre-froide.json",
+      "questionCount": 40,
+      "pageStart": 108,
+      "pageEnd": 117,
+      "course": "histoire"
+    },
+    {
+      "id": "renaissance-culture-art",
+      "title": "Quiz - La Renaissance",
+      "file": "histoire/quiz-renaissance-artistique-humanisme.json",
+      "questionCount": 40,
+      "pageStart": 37,
+      "pageEnd": 44,
+      "course": "histoire"
+    },
+    {
+      "id": "restauration-nationalisme-liberalisme",
+      "title": "Quiz - Restauration, nationalisme et libéralisme",
+      "file": "histoire/quiz-restauration-nationalisme-liberalisme.json",
+      "questionCount": 42,
+      "pageStart": 78,
+      "pageEnd": 87,
+      "course": "histoire"
+    },
+    {
+      "id": "six-degrees-change-world-vocabulary",
+      "title": "Six Degrees Could Change the World Vocabulary",
+      "file": "anglais/quiz-six-degrees-change-world-vocabulary.json",
+      "questionCount": 135,
+      "pageStart": 12,
+      "pageEnd": 14,
+      "course": "anglais"
+    },
+    {
+      "id": "smartphone-brain-focus-vocabulary",
+      "title": "How Smartphones Sabotage Your Brain's Ability to Focus",
+      "file": "anglais/quiz-smartphone-brain-focus-vocabulary.json",
+      "questionCount": 60,
+      "pageStart": 6,
+      "pageEnd": 7,
+      "course": "anglais"
+    },
+    {
+      "id": "the-walking-dead-vocabulary",
+      "title": "The Walking Dead Vocabulary",
+      "file": "anglais/quiz-the-walking-dead-vocabulary.json",
+      "questionCount": 48,
+      "pageStart": 17,
+      "pageEnd": 17,
+      "course": "anglais"
+    }
+  ]
 }
