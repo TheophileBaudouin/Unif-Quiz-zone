@@ -1,0 +1,615 @@
+{
+  "quizId": "resistances-et-inegalites-d-orientation",
+  "title": "Résistances et inégalités d'orientation",
+  "section": {
+    "id": "resistances-et-inegalites-d-orientation",
+    "title": "Résistances et inégalités d'orientation",
+    "startPage": 53,
+    "endPage": 65,
+    "summary": "Ethnographie des résistances des femmes à Alger (concept de desserrement) et analyse de la surreprésentation des garçons dans l'enseignement spécialisé comme effet de l'ordre scolaire genré.",
+    "estimatedQuestionCount": 50
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Les réseaux sociaux participent à la négociation identitaire de genre en offrant quel type d'espace, selon le texte ?",
+      "choices": [
+        "Un espace pour se raconter et extérioriser des éléments intimes.",
+        "Un lieu de confrontation avec des identités de genre traditionnelles.",
+        "Un moyen de renforcer les stéréotypes de genre existants en ligne.",
+        "Une plateforme pour la diffusion rapide de nouvelles tendances culturelles.",
+        "Un forum pour des discussions purement académiques sur le genre."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Selon Gardon (2008), les plateformes de réseaux sociaux ont pour effet principal de :",
+      "choices": [
+        "Brouiller la frontière entre l'espace privé et l'espace public en impliquant une forte visibilité.",
+        "Renforcer la séparation des sphères privées et publiques en ligne.",
+        "Offrir un anonymat total garantissant la protection de l'identité des utilisateurs.",
+        "Limiter l'exposition des informations personnelles à un cercle restreint d'amis.",
+        "Encourager la conformité aux normes sociales établies par la majorité des utilisateurs."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q3",
+      "prompt": "La reconnaissance sociale en ligne se manifeste principalement par quel besoin accru ?",
+      "choices": [
+        "Le besoin accru de confirmation de soi à travers les likes, commentaires et interactions.",
+        "Le désir de créer une identité fictive détachée de la réalité quotidienne.",
+        "L'exigence d'une validation professionnelle pour avancer dans sa carrière.",
+        "La nécessité de suivre les tendances populaires pour maintenir son statut social.",
+        "L'impératif de se conformer aux attentes d'un public virtuel pour éviter la critique."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q4",
+      "prompt": "Que doivent faire les jeunes non-binaires selon Medico (2021) pour se construire ?",
+      "choices": [
+        "Se construire hors des discours dominants, avec de fortes conséquences identitaires, sociales et politiques.",
+        "Intégrer les normes établies pour minimiser les conflits sociaux et identitaires.",
+        "Rechercher un soutien exclusif auprès de communautés en ligne spécialisées.",
+        "Adopter des stratégies d'invisibilité pour éviter les confrontations directes.",
+        "Se conformer aux attentes sociétales pour faciliter leur acceptation professionnelle."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q5",
+      "prompt": "L'ethnographie du 'desserrement' qui analyse les résistances invisibles des femmes à Alger a été menée par :",
+      "choices": [
+        "Dr Ghalija Nadjat Djelloul.",
+        "Cardon, 2008.",
+        "Medico, 2021.",
+        "Mervé Özden.",
+        "Kaufmann."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q6",
+      "prompt": "Selon Kaufmann, le concept de 'Motilité' représente :",
+      "choices": [
+        "Le potentiel de mobilité avant qu'il arrive qu'on puisse ou pas s'approprier.",
+        "La capacité physique de se déplacer d'un lieu à un autre sans entrave.",
+        "Le mouvement réel et l'appropriation effective de l'espace public.",
+        "La liberté de choisir ses itinéraires sans contraintes extérieures.",
+        "L'aptitude à s'adapter rapidement à de nouveaux environnements urbains."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q7",
+      "prompt": "L'idée de thèse de l'auteure de l'ethnographie sur les résistances à Alger est fortement liée à :",
+      "choices": [
+        "Sa position sociale qui lui a permis d'avoir cette idée.",
+        "Les observations d'autres chercheurs sur le même sujet.",
+        "Une demande institutionnelle de l'université algéroise.",
+        "Des réflexions purement théoriques, déconnectées du vécu.",
+        "L'analyse de données statistiques nationales sur la mobilité."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q8",
+      "prompt": "Dans le contexte de la 'fille de bonne famille' à Alger, la famille impose des conditions à ses sorties en les considérant comme des :",
+      "choices": [
+        "Boucliers destinés à la protéger.",
+        "Règles strictes de subordination hiérarchique.",
+        "Manifestations de contrôle patriarcal absolu.",
+        "Mesures de sécurité excessivement contraignantes.",
+        "Preuves d'amour et de dévouement parental."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q9",
+      "prompt": "Comment la mère de l'auteure réagit-elle face à une éventuelle 'rébellion' ou action déshonorante de sa fille ?",
+      "choices": [
+        "Elle la renierait car ce serait une honte et une rébellion, mal vu pour elle.",
+        "Elle chercherait à comprendre les raisons de son comportement en privé.",
+        "Elle imposerait des sanctions financières et des restrictions sévères.",
+        "Elle organiserait un conseil de famille pour discuter des enjeux.",
+        "Elle exigerait des excuses publiques pour restaurer l'honneur familial."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q10",
+      "prompt": "Quelle est la stratégie adoptée par l'auteure pour naviguer l'espace extérieur au domicile familial ?",
+      "choices": [
+        "Observer d'abord les femmes qui essaient de quitter l'espace domestique et comment elles négocient le dehors.",
+        "Rejeter complètement les conditions familiales pour affirmer son indépendance.",
+        "Demander systématiquement l'autorisation de son père pour chaque sortie.",
+        "Élaborer un plan détaillé pour éviter toute confrontation avec la famille.",
+        "Se conformer aux attentes sociales pour éviter toute forme de réprobation."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q11",
+      "prompt": "Le concept de 'midsider' (sociologie, 2020) se réfère à la pratique de :",
+      "choices": [
+        "Habiter la frontière comme on habite l'absence et pratiquer la recherche comme un art de méditation.",
+        "S'intégrer pleinement dans la société sans remettre en question les normes établies.",
+        "Exprimer ouvertement son identité sans tenir compte des contraintes familiales.",
+        "Adopter une double vie, une en public et une en privé, pour éviter les jugements.",
+        "Négocier constamment son identité entre différentes sphères sociales et culturelles."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q12",
+      "prompt": "Dans l'enquête 'Des ancrages aux mouvements', quels sont les éléments qui symbolisent la protection familiale ?",
+      "choices": [
+        "La question 'Où est ton père ?' et 'La couverture morale de ma mère'.",
+        "La présence constante d'un membre masculin de la famille lors des sorties.",
+        "Les règles strictes concernant l'habillement et les heures de retour.",
+        "Les avertissements fréquents sur les dangers de l'espace public.",
+        "La réputation de la famille dans la communauté et ses attentes."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q13",
+      "prompt": "La 'Soutra' est décrite comme un dispositif d'enserrement qui fonde la mise sous tutelle des femmes de quelle manière ?",
+      "choices": [
+        "Par délégation, de jure et de facto.",
+        "Exclusivement par des contraintes légales explicites.",
+        "Principalement par des pressions sociales informelles.",
+        "Par l'intermédiaire de sanctions financières et économiques.",
+        "Uniquement par des interdictions explicites de sortie."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q14",
+      "prompt": "Quels sont les trois types de réserve qui régissent le corps des femmes selon le dispositif de la Soutra ?",
+      "choices": [
+        "Géographique, relationnelle et vestimentaire.",
+        "Sociale, économique et culturelle.",
+        "Affective, psychologique et spirituelle.",
+        "Privée, publique et professionnelle.",
+        "Morale, éthique et religieuse."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q15",
+      "prompt": "Quels sont les trois cercles de contrôle sociaux qui encadrent les femmes à Alger selon le texte ?",
+      "choices": [
+        "La famille, le cousinage-communauté, et le dehors (via les anonymes).",
+        "L'État, la religion et les traditions ancestrales.",
+        "Les institutions éducatives, les autorités locales et les leaders d'opinion.",
+        "Les amis proches, les collègues de travail et les associations.",
+        "Les médias, les réseaux sociaux et les organisations internationales."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q16",
+      "prompt": "Franchir le barrage domestique pour une femme à Alger implique de négocier :",
+      "choices": [
+        "Un permis de séjour dehors.",
+        "Une autonomie financière complète.",
+        "Un changement de statut familial.",
+        "Une reconnaissance professionnelle.",
+        "Une rupture avec les traditions."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q17",
+      "prompt": "Le contrôle coercitif d'intensité variable s'exerce par quels premiers seuils, selon le texte ?",
+      "choices": [
+        "Eddar, Darna et El houma.",
+        "La loi, la coutume et la réputation.",
+        "Le père, la mère et les frères.",
+        "Le mariage, la maternité et la vieillesse.",
+        "L'école, le travail et la mosquée."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q18",
+      "prompt": "Dans le cadre du contrôle coercitif, quel rôle est attribué au 'Voisinage' ?",
+      "choices": [
+        "Étiqueter.",
+        "Permettre/interdire.",
+        "Dissuader.",
+        "Protéger.",
+        "Juger."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q19",
+      "prompt": "Quelles sont les tactiques d'adaptation utilisées par les femmes pour résister à l'enserrement, selon le texte ?",
+      "choices": [
+        "Se dissocier, ériger des cloisons, faire bloc.",
+        "Négocier, influencer, confronter.",
+        "Cacher, ignorer, simuler.",
+        "Obéir, se conformer, se soumettre.",
+        "Rechercher, explorer, innover."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q20",
+      "prompt": "Quel est le rôle des 'Hommes de dehors' selon Barrani dans le contexte des masculinités et de la violence ?",
+      "choices": [
+        "Restaurer l'ordre de genre.",
+        "Protéger les femmes vulnérables.",
+        "Contester les normes patriarcales.",
+        "Promouvoir l'égalité des sexes.",
+        "Faciliter l'émancipation féminine."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q21",
+      "prompt": "Le 'desserrement urbain par le dédoublement de Soi' implique principalement :",
+      "choices": [
+        "Un relâchement normatif et le déploiement d'un Soi secret.",
+        "La confrontation directe avec les règles sociales existantes.",
+        "L'adoption d'une identité publique et privée strictement séparée.",
+        "Une rébellion ouverte contre les contraintes familiales.",
+        "L'intégration complète dans l'espace public traditionnel."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q22",
+      "prompt": "La 'vie secrète' des femmes à Alger nécessite des complicités à quels niveaux ?",
+      "choices": [
+        "Intra et intergénérationnelles.",
+        "Uniquement entre amies proches.",
+        "Exclusivement avec des partenaires masculins.",
+        "Avec des figures d'autorité bienveillantes.",
+        "À l'intérieur du foyer familial uniquement."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q23",
+      "prompt": "Quels sont les lieux cités comme espaces de contournement et de détournement de la Soutra ?",
+      "choices": [
+        "Le lycée, l'université, la plage, la forêt, le salon de thé, le centre commercial et la mosquée.",
+        "Les parcs publics, les bibliothèques et les centres sportifs uniquement.",
+        "Les commerces de proximité et les marchés locaux en journée.",
+        "Les domiciles d'amies et de membres de la famille élargie.",
+        "Les lieux de travail et les événements professionnels reconnus."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q24",
+      "prompt": "L'intersectionnalité dans le contexte du 'desserrement' souligne l'importance de quels facteurs ?",
+      "choices": [
+        "Les ancrages résidentiels et les ressources économiques.",
+        "Le niveau d'éducation et la profession des femmes.",
+        "L'âge, la situation matrimoniale et la présence d'enfants.",
+        "Les opinions politiques et l'engagement associatif.",
+        "Les compétences linguistiques et les aptitudes culturelles."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q25",
+      "prompt": "Quel est l'intitulé de la recherche de Mervé Özden concernant l'école ?",
+      "choices": [
+        "“L'école comme régime d'inégalité : la surreprésentation des garçons dans l'enseignement spécialisé”.",
+        "“Les parcours d'orientation des filles et des garçons dans le système scolaire contemporain”.",
+        "“L'impact des stéréotypes de genre sur les choix d'études des adolescents”.",
+        "“Analyse comparative des performances scolaires selon le genre en FWB”.",
+        "“La construction des identités de genre à travers l'éducation formelle”."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q26",
+      "prompt": "Quelle décision du Conseil des ministres en 1982 a introduit la mixité à l'école ?",
+      "choices": [
+        "La co-éducation des sexes.",
+        "La réforme de l'enseignement secondaire.",
+        "L'intégration des élèves étrangers.",
+        "L'égalité des chances en éducation.",
+        "La diversification des filières d'études."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q27",
+      "prompt": "L'orientation scolaire est identifiée comme un nœud de clivages et de discrimination de genre car :",
+      "choices": [
+        "Les inégalités de genre persistent au cœur des choix d'orientation.",
+        "Les performances académiques des filles sont inférieures à celles des garçons.",
+        "Les politiques éducatives favorisent explicitement certains genres.",
+        "Les enseignants sont incapables d'adapter leur pédagogie aux deux sexes.",
+        "Les parents refusent de soutenir les choix d'orientation non traditionnels."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q28",
+      "prompt": "Les études PISA 2018 pour la FWB ont montré des performances relativement semblables entre filles et garçons dans quelles matières ?",
+      "choices": [
+        "Lecture, mathématiques et sciences.",
+        "Français, histoire et géographie.",
+        "Éducation artistique et éducation physique.",
+        "Langues anciennes et sciences sociales.",
+        "Technologie et informatique."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q29",
+      "prompt": "Dans l'enseignement général en FWB, quelles disciplines sont majoritairement choisies par les filles ?",
+      "choices": [
+        "L'éducation artistique, les sciences sociales, le latin, le grec et l'histoire.",
+        "Les mathématiques, la physique, la chimie et la biologie.",
+        "L'éducation technique, la technologie et l'informatique.",
+        "La géographie, l'économie et le droit.",
+        "Les sciences de l'ingénieur et l'architecture."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q30",
+      "prompt": "Dans l'enseignement professionnel en FWB, quelles disciplines sont majoritairement choisies par les garçons ?",
+      "choices": [
+        "L'industrie, la construction, l'agronomie, l'hôtellerie et l'alimentation.",
+        "L'habillement, les services aux personnes et les arts appliqués.",
+        "Le secrétariat, la comptabilité et le commerce de détail.",
+        "Le tourisme, la restauration et les métiers de la beauté.",
+        "La santé, l'aide à la personne et l'enseignement maternel."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q31",
+      "prompt": "L'enseignement spécialisé est défini comme une forme d'éducation adaptée aux élèves présentant quels types de besoins ?",
+      "choices": [
+        "Des besoins spécifiques, des handicaps physiques, mentaux, sensoriels ou des troubles d'apprentissage importants.",
+        "Des aptitudes intellectuelles supérieures à la moyenne nécessitant un enrichissement pédagogique.",
+        "Des problèmes de discipline et de comportement perturbateurs en classe ordinaire.",
+        "Des difficultés d'intégration sociale dues à un manque de compétences en communication.",
+        "Des retards académiques légers pouvant être résolus par un soutien scolaire supplémentaire."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q32",
+      "prompt": "Quel est l'objectif principal de l'encadrement renforcé proposé par l'enseignement spécialisé ?",
+      "choices": [
+        "Favoriser l'épanouissement, l'autonomie et l'insertion sociale ou professionnelle des élèves.",
+        "Standardiser les résultats scolaires pour tous les élèves, quelle que soit leur condition.",
+        "Préparer les élèves à une intégration rapide dans l'enseignement supérieur général.",
+        "Réduire le nombre d'élèves nécessitant un soutien éducatif individualisé.",
+        "Isoler les élèves présentant des difficultés pour ne pas perturber les classes ordinaires."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q33",
+      "prompt": "La population des garçons surreprésentée dans l'enseignement spécialisé est principalement issue de quels milieux ?",
+      "choices": [
+        "Des milieux populaires (faible revenu et parent sans études) et de l'immigration.",
+        "Des familles monoparentales vivant en milieu rural isolé.",
+        "Des groupes sociaux ayant un fort capital culturel et économique.",
+        "Des foyers où les deux parents ont un niveau d'éducation élevé.",
+        "Des environnements urbains favorisés avec un accès facile aux ressources."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q34",
+      "prompt": "Quelle est la conséquence majeure de la stigmatisation pour les enfants dans les écoles spécialisées ?",
+      "choices": [
+        "Pas d'accès à l'enseignement supérieur après.",
+        "Une meilleure adaptation aux exigences du marché du travail.",
+        "Un développement accru de l'autonomie et de la confiance en soi.",
+        "Une intégration plus facile dans les réseaux sociaux professionnels.",
+        "Une reconnaissance sociale et académique précoce de leurs aptitudes."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q35",
+      "prompt": "Quel est le pourcentage de garçons dans l'enseignement spécialisé par rapport à leur représentation dans l'ensemble des élèves scolarisé.e.s ?",
+      "choices": [
+        "65% de garçons alors qu'ils représentent 51% de l'ensemble des élèves scolarisés.",
+        "50% de garçons, ce qui correspond à leur proportion dans la population générale.",
+        "35% de garçons, signifiant une sous-représentation par rapport aux filles.",
+        "70% de garçons, indiquant une surreprésentation minime.",
+        "40% de garçons, soulignant une inégalité significative en leur défaveur."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q36",
+      "prompt": "Que sont les 'orientations abusives' rapportées à la sortie du DASPA, selon la recherche ?",
+      "choices": [
+        "Des orientations vers l'enseignement spécialisé.",
+        "Des orientations vers des filières professionnelles sans débouchés.",
+        "Des choix d'études trop ambitieux ne correspondant pas au niveau des élèves.",
+        "Des pressions familiales pour que les élèves choisissent certaines filières.",
+        "Des erreurs administratives dans l'attribution des établissements scolaires."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q37",
+      "prompt": "Que signifie l'acronyme DASPA ?",
+      "choices": [
+        "Dispositif d'Accueil et de Scolarisation des élèves Primo-Arrivants et Assimilés.",
+        "Département d'Appui Scolaire et Pédagogique Avancé.",
+        "Dossier d'Admission Spéciale pour l'Apprentissage Autonome.",
+        "Direction des Affaires Sociales et de la Pédagogie Adaptée.",
+        "Service d'Accompagnement et de Soutien Pédagogique Avancé."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q38",
+      "prompt": "Selon le phénomène sociologique, pourquoi les garçons sont-ils surreprésentés dans les catégories de troubles dits 'légers' ?",
+      "choices": [
+        "Les attentes scolaires correspondent mieux aux comportements socialement attendus des filles.",
+        "Les garçons ont des prédispositions génétiques aux troubles d'apprentissage.",
+        "Les filles réussissent mieux à masquer leurs difficultés scolaires innées.",
+        "Le système éducatif est conçu pour favoriser les performances féminines.",
+        "Les parents de garçons sont moins impliqués dans leur suivi scolaire."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q39",
+      "prompt": "Comment les difficultés scolaires des garçons sont-elles souvent interprétées par l'école, selon le texte ?",
+      "choices": [
+        "Comme des 'troubles' plutôt que comme des effets sociaux.",
+        "Comme des signes de manque de motivation ou de discipline.",
+        "Comme des conséquences d'un environnement familial défavorable.",
+        "Comme des manifestations d'un talent inexploité ou incompris.",
+        "Comme des indicateurs d'un besoin de soutien pédagogique général."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q40",
+      "prompt": "Le 'Gender Paradox' désigne le constat contre-intuitif selon lequel :",
+      "choices": [
+        "Les pays les plus égalitaires et développés présentent de plus grandes disparités de genre dans les choix d'études STEM.",
+        "Les pays moins développés offrent plus d'opportunités aux femmes dans les carrières scientifiques.",
+        "Les inégalités de genre s'accentuent dans les pays en voie de développement économique.",
+        "Les femmes sont systématiquement sous-représentées dans tous les domaines d'études scientifiques.",
+        "Les efforts d'égalisation des chances n'ont aucun impact sur les choix d'orientation des jeunes."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q41",
+      "prompt": "Dans les pays moins 'développés', pourquoi les filles choisissent-elles plus souvent les STEM ?",
+      "choices": [
+        "C'est un moyen d'obtenir une stabilité économique et les choix sont utilitaires, donc moins genrés.",
+        "Elles sont moins soumises aux stéréotypes de genre que dans les pays développés.",
+        "Les systèmes éducatifs y encouragent davantage les filles vers ces filières.",
+        "Le manque d'alternatives les pousse vers des études plus exigeantes.",
+        "Les familles y voient un moyen de s'émanciper des traditions patriarcales."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q42",
+      "prompt": "Selon le texte, quel facteur a un pouvoir explicatif plus important que les différences de résultats concernant l'orientation scolaire ?",
+      "choices": [
+        "Les attitudes socialement construites.",
+        "Le niveau d'intelligence individuelle.",
+        "La qualité de l'enseignement dispensé.",
+        "Les capacités cognitives innées.",
+        "Le milieu socio-économique familial."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q43",
+      "prompt": "La dimension sexuée des orientations et des disciplines scolaires est un point où se cristallisent :",
+      "choices": [
+        "Les divisions de genre et la division sexuée du marché du travail.",
+        "Les préférences individuelles et les talents naturels des élèves.",
+        "Les exigences des programmes scolaires et les réformes éducatives.",
+        "Les inégalités de réussite entre les écoles publiques et privées.",
+        "Les politiques gouvernementales en matière d'égalité professionnelle."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q44",
+      "prompt": "Les travaux sur la socialisation familiale montrent que les filles ont tendance à s'auto-sélectionner de quelle manière ?",
+      "choices": [
+        "Hors des voies et options les plus dominantes.",
+        "Vers les filières les plus prestigieuses et exigeantes.",
+        "Vers des études qui garantissent une carrière stable et bien rémunérée.",
+        "Selon les conseils de leurs enseignants et conseillers d'orientation.",
+        "En fonction de leurs résultats académiques et de leurs aptitudes reconnues."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q45",
+      "prompt": "Le texte affirme que, contrairement à Bourdieu, l'école est aussi un espace de :",
+      "choices": [
+        "Changement social intense car il y a une mixité.",
+        "Reproduction des inégalités de classe et de genre.",
+        "Déterminisme absolu des trajectoires individuelles.",
+        "Sélection des élites en fonction de leur origine sociale.",
+        "Neutralité éducative où chacun a les mêmes chances."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q46",
+      "prompt": "Pourquoi les choix scolaires des filles sont-ils qualifiés de 'choix de compromis' ?",
+      "choices": [
+        "Ils résultent de l'anticipation de leur destin probable et des difficultés de conciliation famille-travail.",
+        "Ils sont dictés par les parents afin d'assurer une stabilité financière future.",
+        "Ils sont principalement influencés par les médias et les réseaux sociaux.",
+        "Ils reflètent un manque d'ambition et de confiance en leurs capacités réelles.",
+        "Ils sont toujours le résultat d'un calcul rationnel des coûts et bénéfices à court terme."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q47",
+      "prompt": "Quel concept explique la tendance des femmes à ressentir un poids qui modère leurs aspirations professionnelles et scolaires ?",
+      "choices": [
+        "Le spectre de la maternité.",
+        "La pression sociale des pairs.",
+        "Le plafond de verre invisible.",
+        "Le dilemme carrière-famille.",
+        "La discrimination systémique."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q48",
+      "prompt": "Selon Bourdieu, l'individu est principalement un :",
+      "choices": [
+        "Produit des structures.",
+        "Acteur rationnel.",
+        "Agent libre de ses choix.",
+        "Sujet autonome.",
+        "Innovateur social."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q49",
+      "prompt": "Selon Boudon, l'explication des choix repose sur :",
+      "choices": [
+        "Le calcul coûts/bénéfices.",
+        "L'habitus et la socialisation.",
+        "La reproduction sociale.",
+        "Le capital culturel.",
+        "Le sentiment de légitimité."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q50",
+      "prompt": "Quel est l'effet principal des stéréotypes familiaux ('les garçons sont plus forts en sciences et en maths') sur les filles ?",
+      "choices": [
+        "Cela entraîne des sentiments de confiance en soi au détriment des filles.",
+        "Cela les pousse à prouver leur valeur par des résultats supérieurs.",
+        "Cela renforce leur détermination à poursuivre des études scientifiques.",
+        "Cela les motive à contester les normes de genre établies.",
+        "Cela n'a aucun impact significatif sur leurs choix d'orientation."
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "course": "Sociologie du Genre"
+}
