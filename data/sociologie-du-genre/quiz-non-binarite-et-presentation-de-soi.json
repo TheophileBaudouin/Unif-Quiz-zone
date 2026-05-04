@@ -1,0 +1,535 @@
+{
+  "quizId": "non-binarite-et-presentation-de-soi",
+  "title": "Quiz sur la Non-binarité et la Présentation de Soi",
+  "section": {
+    "id": "non-binarite-et-presentation-de-soi",
+    "title": "Non-binarité et présentation de soi",
+    "startPage": 47,
+    "endPage": 52,
+    "summary": "Définition de l'identité non-binaire, théories queer, enjeux du langage et mécanismes goffmaniens de présentation de soi et de gestion du stigmate.",
+    "estimatedQuestionCount": 30
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon la perspective introduite sur le genre, quelle est sa nature fondamentale ?",
+      "choices": [
+        "Le genre est une catégorisation strictement binaire.",
+        "Le genre est un phénomène social sans variation.",
+        "Le genre est un continuum et non pas binaire.",
+        "Le genre est uniquement défini par l'anatomie sexuelle.",
+        "Le genre est une construction temporaire sans signification."
+      ],
+      "correctIndex": 2,
+      "explanation": "Le document indique clairement que 'Le Genre n'est pas binaire. Ce n'est pas 'soit/ou'. La plupart du temps c'est 'les deux/et'. C'est un continuum, un spectre...' (p.47)."
+    },
+    {
+      "id": "q2",
+      "prompt": "Dans la 'Licorne du Genre', que représente la dimension 'Genre' ?",
+      "choices": [
+        "L'attirance romantique envers autrui.",
+        "Le sexe assigné à la naissance par le personnel médical.",
+        "La manière visible d'exprimer son identité de genre.",
+        "La façon dont une personne définit son propre genre.",
+        "Les normes de comportement attendues socialement."
+      ],
+      "correctIndex": 3,
+      "explanation": "La 'Licorne du Genre' définit le 'Genre' comme 'La façon dont vous définissez votre genre, selon le degré d'alignement (ou de non-alignement) avec les options données' (p.47)."
+    },
+    {
+      "id": "q3",
+      "prompt": "Que décrit précisément la catégorie 'Expression de Genre' dans la Licorne du Genre ?",
+      "choices": [
+        "Le sexe biologique tel qu'assigné à la naissance.",
+        "Le sentiment interne et subjectif de son propre genre.",
+        "La façon dont une personne présente son genre par le comportement, le style, etc.",
+        "L'orientation sexuelle et romantique d'un individu.",
+        "Les catégories de genre reconnues légalement dans une société."
+      ],
+      "correctIndex": 2,
+      "explanation": "L''Expression de Genre' est définie comme 'Comment vous présentez votre genre, par le comportement, style, etc, et comment cela est interprêté selon les normes de genre' (p.47)."
+    },
+    {
+      "id": "q4",
+      "prompt": "Sur quel critère principal se base le 'Sexe assigné à la naissance' selon la 'Licorne du Genre' ?",
+      "choices": [
+        "Le genre auto-identifié par la personne elle-même.",
+        "L'apparence subjective des organes génitaux externes du nourrisson.",
+        "Les préférences hormonales ou génétiques innées.",
+        "Les prévisions médicales de l'identité de genre future.",
+        "Les choix des parents concernant l'éducation de genre."
+      ],
+      "correctIndex": 1,
+      "explanation": "Le 'Sexe assigné à la naissance' est basé sur 'l'apparence subjective des organes génitaux externes' (p.47)."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle est la distinction fondamentale entre une personne cisgenre et une personne transgenre d'après la source ?",
+      "choices": [
+        "Le cisgenre est hétérosexuel, le transgenre est homosexuel.",
+        "Le cisgenre est uniquement féminin ou masculin, le transgenre est non-binaire.",
+        "Le cisgenre est assigné homme, le transgenre est assigné femme.",
+        "Le cisgenre est en accord avec son assignation de genre, le transgenre non.",
+        "Le cisgenre ne change jamais d'expression de genre, le transgenre oui."
+      ],
+      "correctIndex": 3,
+      "explanation": "La 'Différence entre Cisgenre et Transgenre' est expliquée par 'Ok avec cette assignation' (Cisgenre) versus 'Pas ok avec cette assignation' (Transgenre) (p.47)."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelles sont les caractéristiques principales des 'Rôles de sexe' dans les dimensions de la socialisation de genre ?",
+      "choices": [
+        "Le sentiment interne de son propre genre et son expression libre.",
+        "Les normes de comportement inculquées et la perspective hétérosexuelle comme unique horizon.",
+        "Le sexe biologique assigné à la naissance et son acceptation.",
+        "La capacité d'exprimer ses émotions sans aucune contrainte.",
+        "L'ensemble des attirances sexuelles et romantiques d'un individu."
+      ],
+      "correctIndex": 1,
+      "explanation": "Les 'Rôles de sexe' comprennent 'Normes de comportement différentes inculquées aux individus' et 'Modelés par la perspective de l'hétérosexualité comme seul horizon possible' (p.47)."
+    },
+    {
+      "id": "q7",
+      "prompt": "Comment est définie l''Identité de genre' selon les dimensions de la socialisation de genre ?",
+      "choices": [
+        "Comme la manière dont chaque individu exprime son genre visiblement.",
+        "Comme les normes de comportement assignées par la société.",
+        "Comme le sentiment interne qu'a une personne de son genre.",
+        "Comme le sexe biologique déterminé à la naissance.",
+        "Comme l'attirance sexuelle et romantique envers d'autres personnes."
+      ],
+      "correctIndex": 2,
+      "explanation": "L''Identité de genre' est définie comme le 'Sentiment interne qu'a une personne de son genre, pouvant être ou non en concordance avec son sexe assigné à la naissance' (p.47)."
+    },
+    {
+      "id": "q8",
+      "prompt": "Que désigne l''Expression de genre' dans le contexte des dimensions de la socialisation ?",
+      "choices": [
+        "La définition médicale du sexe biologique d'un individu.",
+        "La concordance entre le sexe assigné et l'identité interne.",
+        "La façon dont chaque individu exprime son identité de genre.",
+        "Les obligations sociales liées au genre dans la communauté.",
+        "Les préférences romantiques et sexuelles d'une personne."
+      ],
+      "correctIndex": 2,
+      "explanation": "L''Expression de genre' est définie comme la 'Façon dont chaque individu exprime son identité de genre (ex: par les vêtements, manière de s'exprimer, comportement, etc.)' (p.47)."
+    },
+    {
+      "id": "q9",
+      "prompt": "Quelle est la première description d'une personne non-binaire selon la définition (a) ?",
+      "choices": [
+        "Une personne dont l'identité est exclusivement masculine.",
+        "Une personne dont l'identité est exclusivement féminine.",
+        "Une personne dont l'identité se situe entre ou en dehors des genres masculin et féminin.",
+        "Une personne qui refuse d'avoir une identité de genre.",
+        "Une personne qui se sent homme ou femme à des moments différents."
+      ],
+      "correctIndex": 2,
+      "explanation": "La définition (a) de l'identité de genre non-binaire décrit 'Une personne dont l'identité de genre se situe entre les identités masculine et féminine ou en dehors de celles-ci' (p.47)."
+    },
+    {
+      "id": "q10",
+      "prompt": "Selon la définition (b) de l'identité de genre non-binaire, quelle caractéristique est mise en avant ?",
+      "choices": [
+        "L'identité de genre est stable et ne varie jamais au cours de la vie.",
+        "La personne se sent homme ou femme à différents moments.",
+        "L'individu n'a pas d'identité de genre du tout.",
+        "La personne rejette complètement l'idée d'avoir une identité de genre.",
+        "L'identité de genre est toujours en concordance avec le sexe assigné."
+      ],
+      "correctIndex": 1,
+      "explanation": "La définition (b) décrit 'Une personne qui peut se sentir homme ou femme à différents moments' (p.48)."
+    },
+    {
+      "id": "q11",
+      "prompt": "Quelle est la spécificité d'une personne non-binaire selon la définition (c) ?",
+      "choices": [
+        "Elle se définit toujours comme bigenre ou transgenre.",
+        "Elle a une identité de genre masculine ou féminine fixe.",
+        "Elle n'a pas d'identité de genre ou rejette l'idée d'en avoir une.",
+        "Son identité est uniquement influencée par des facteurs biologiques.",
+        "Elle recherche activement la conformité aux normes sociales."
+      ],
+      "correctIndex": 2,
+      "explanation": "La définition (c) décrit 'Une personne qui n'a pas d'identité de genre ou qui rejette l'idée d'avoir une identité de genre' (p.48)."
+    },
+    {
+      "id": "q12",
+      "prompt": "Quelles sont les diverses identités qu'une personne non-binaire peut adopter en fonction de ses enjeux ?",
+      "choices": [
+        "Uniquement 'cisgenre' ou 'hétérosexuel'.",
+        "Exclusivement 'homme' ou 'femme'.",
+        "Bigense, transgenre, genrderfluid ou autres identités.",
+        "Seulement des identités reconnues par la médecine.",
+        "Des identités sans aucune expression de genre."
+      ],
+      "correctIndex": 2,
+      "explanation": "Le document précise qu''il est possible que pour une personne non-binaire, les enjeux identitaires individuels varient et que cette personne puisse se définir comme bigenre, transgenre, genrderfluid, ou toute autre identité en fonction de ces enjeux' (p.48)."
+    },
+    {
+      "id": "q13",
+      "prompt": "Comment Alessandrin (2023) définit-il la non-binarité ?",
+      "choices": [
+        "Comme une identité de genre fixe et universelle pour tous.",
+        "Comme un 'terme parapluie' renvoyant à une diversité d'expériences et revendications fluides.",
+        "Comme une pathologie associée à une confusion identitaire.",
+        "Comme un phénomène récent exclusivement occidental.",
+        "Comme une simple préférence individuelle sans impact social."
+      ],
+      "correctIndex": 1,
+      "explanation": "Alessandrin (2023) définit la non-binarité comme 'un terme parapluie renvoyant à une diversité d'expériences, d'identités ou de revendications qui, par leur fluidité, défont les traditions genrées' (p.48)."
+    },
+    {
+      "id": "q14",
+      "prompt": "À partir de quelle période le terme 'non-binarité' est-il mentionné dans la référence ?",
+      "choices": [
+        "Dès les années 1970.",
+        "Dès les années 1980.",
+        "Dès les années 1990.",
+        "Dès les années 2000.",
+        "Dès les années 2010."
+      ],
+      "correctIndex": 3,
+      "explanation": "Le document mentionne que 'non-binarité' : référence dès les années 2000 (p.48)."
+    },
+    {
+      "id": "q15",
+      "prompt": "À quelle décennie l'usage du terme 'genderqueer' est-il associé ?",
+      "choices": [
+        "Aux années 1970.",
+        "Aux années 1980.",
+        "Aux années 1990.",
+        "Aux années 2000.",
+        "Aux années 2010."
+      ],
+      "correctIndex": 2,
+      "explanation": "Le document indique que 'genderqueer' : usage déjà présent dans les années 1990 (p.48)."
+    },
+    {
+      "id": "q16",
+      "prompt": "Quels exemples de personnes non-binaires sont cités pour leurs existences anciennes et globales ?",
+      "choices": [
+        "Les Amazones et les Valkyries.",
+        "Les Hijras (Asie du Sud) et les Bissus (Indonésie).",
+        "Les guerriers samouraïs et les prêtresses égyptiennes.",
+        "Les chamanes sibériens et les druides celtes.",
+        "Les moines bouddhistes et les nonnes taoïstes."
+      ],
+      "correctIndex": 1,
+      "explanation": "Les exemples cités pour les existences anciennes et globales sont 'Hijras (Asie du Sud), Bissus (Indonésie)' (p.48)."
+    },
+    {
+      "id": "q17",
+      "prompt": "Qu'est-ce qui caractérise l'émergence contemporaine de la non-binarité selon le document ?",
+      "choices": [
+        "Uniquement des avancées médicales et scientifiques.",
+        "Une réduction progressive de la stigmatisation sociale.",
+        "Des cultures, discours et outils pour exprimer le genre et revendiquer une visibilité.",
+        "Une simple tendance éphémère sans impact profond.",
+        "Une uniformisation des identités de genre à l'échelle mondiale."
+      ],
+      "correctIndex": 2,
+      "explanation": "L'émergence contemporaine renvoie surtout à 'Des cultures, des discours et l'usage d'outils culturels, sociaux et linguistiques pour exprimer son genre et revendiquer une visibilité occultée' (p.48)."
+    },
+    {
+      "id": "q18",
+      "prompt": "Quel problème persistant les personnes non-binaires rencontrent-elles selon la source ?",
+      "choices": [
+        "Une incapacité à former des relations durables.",
+        "Une difficulté constante à s'intégrer dans l'emploi.",
+        "Une stigmatisation persistante de leur identité.",
+        "Un manque d'accès aux services de santé de base.",
+        "Une absence totale de reconnaissance dans les médias."
+      ],
+      "correctIndex": 2,
+      "explanation": "Le document mentionne la 'Stigmatisation persistante' comme un problème pour les personnes non-binaires (p.48)."
+    },
+    {
+      "id": "q19",
+      "prompt": "Quel est le principe général des théories queer concernant les identités ?",
+      "choices": [
+        "Elles valident les identités de genre normatives existantes.",
+        "Elles critiquent les identités normatives et hiérarchiques.",
+        "Elles renforcent la binarité et les rôles de genre traditionnels.",
+        "Elles promeuvent l'acceptation inconditionnelle de toutes les normes.",
+        "Elles désignent de nouvelles catégories fixes de genre."
+      ],
+      "correctIndex": 1,
+      "explanation": "Les théories queer proposent des 'Critiques des identités normatives et hiérarchiques à partir de l'analyse des normes' (p.48)."
+    },
+    {
+      "id": "q20",
+      "prompt": "Que permettent les théories queer de faire concernant les catégories masculines et féminines ?",
+      "choices": [
+        "De les renforcer comme les seules légitimes.",
+        "De les rejeter complètement sans alternative.",
+        "De penser au-delà d'elles comme seules légitimes.",
+        "De les classer de manière hiérarchique.",
+        "De les ignorer dans toute analyse sociale."
+      ],
+      "correctIndex": 2,
+      "explanation": "Les théories queer permettent de 'Penser au-delà des catégories masculines et féminines comme seules légitimes' (p.49)."
+    },
+    {
+      "id": "q21",
+      "prompt": "Selon les théories queer, comment devrait-on comprendre la non-binarité ?",
+      "choices": [
+        "Comme une simple identité individuelle et isolée.",
+        "Comme une déviance par rapport aux normes établies.",
+        "Comme un phénomène social complexe et non une simple identité individuelle.",
+        "Comme une phase transitoire de développement personnel.",
+        "Comme une nouvelle forme de binarité de genre."
+      ],
+      "correctIndex": 2,
+      "explanation": "Les théories queer offrent un cadre pour 'comprendre la non-binarité comme phénomène social, et non comme simple identité individuelle' (p.49)."
+    },
+    {
+      "id": "q22",
+      "prompt": "Comment est caractérisée la 'Présentation de soi' dans le contexte du genre ?",
+      "choices": [
+        "Comme un acte spontané et sans contrainte.",
+        "Comme une tension constante entre différentes attentes.",
+        "Comme un processus figé et immuable dès l'enfance.",
+        "Comme une tâche facile pour la plupart des individus.",
+        "Comme une expression purement individuelle et non sociale."
+      ],
+      "correctIndex": 1,
+      "explanation": "Le document affirme que la 'Présentation de soi = tension constante' (p.49)."
+    },
+    {
+      "id": "q23",
+      "prompt": "Le processus de présentation de soi est décrit comme dynamique entre quels deux aspects ?",
+      "choices": [
+        "Le conscient et l'inconscient.",
+        "L'individuel et le collectif.",
+        "L'attribution (normes assignées) et l'identification (identité pour soi).",
+        "La biologie et la culture.",
+        "Le passé et le futur."
+      ],
+      "correctIndex": 2,
+      "explanation": "La présentation de soi est un processus dynamique entre l'Attribution (normes assignées) et l'Identification (identité pour soi) (p.49)."
+    },
+    {
+      "id": "q24",
+      "prompt": "Quel est un obstacle majeur que rencontrent les personnes non-binaires dans leur présentation de soi ?",
+      "choices": [
+        "Des difficultés financières importantes.",
+        "Un manque d'intérêt pour se nommer soi-même.",
+        "Des obstacles linguistiques à l'expression de leur identité.",
+        "Une absence de modèles dans les médias.",
+        "Une reconnaissance légale universelle de leur identité."
+      ],
+      "correctIndex": 2,
+      "explanation": "Les 'Tensions pour les personnes non-binaires' incluent le fait que 'La non-binarité rencontre des obstacles linguistiques' (p.49)."
+    },
+    {
+      "id": "q25",
+      "prompt": "Quel concept clé définit la capacité d'un individu à agir intentionnellement sur le monde et à contrôler ses propres actes ?",
+      "choices": [
+        "La socialisation.",
+        "La binarité.",
+        "La performativité.",
+        "L'agentivité.",
+        "L'hétéronormativité."
+      ],
+      "correctIndex": 3,
+      "explanation": "La note de bas de page 10 définit l'agentivité comme 'La capacité d'un individu à agir intentionnellement sur le monde, à prendre des décisions et à contrôler ses propres actes' (p.49)."
+    },
+    {
+      "id": "q26",
+      "prompt": "Selon Medico (2019), quelle est une des options possibles face au système de genre ?",
+      "choices": [
+        "Ignorer totalement l'existence du genre.",
+        "Supprimer toutes les catégories de genre existantes.",
+        "Construire un genre unique conforme aux normes sociales.",
+        "Adopter uniquement le genre assigné à la naissance.",
+        "Lutter systématiquement contre toute forme de socialisation."
+      ],
+      "correctIndex": 2,
+      "explanation": "Une des 'Options face au système de genre (Medico, 2019)' est de 'Construire un genre unique conforme/qui corresponde aux normes sociales' (p.49)."
+    },
+    {
+      "id": "q27",
+      "prompt": "Quel rôle l'école joue-t-elle dans le questionnement identitaire selon le document ?",
+      "choices": [
+        "Un lieu d'absence totale de pression sur le genre.",
+        "Un premier lieu de confrontation au regard des autres et de pression de conformité.",
+        "Un espace neutre où les identités de genre sont ignorées.",
+        "Un lieu de célébration de toutes les identités sans restriction.",
+        "Un environnement qui annule la socialisation de genre."
+      ],
+      "correctIndex": 1,
+      "explanation": "Dans le contexte du questionnement identitaire, l'école constitue 'un premier lieu de confrontation au regard des autres: Forte pression de conformité' (p.49)."
+    },
+    {
+      "id": "q28",
+      "prompt": "Qui sont des acteurs majeurs de la socialisation de genre, diffusant et contrôlant les normes, selon Duru-Bellat (2016) ?",
+      "choices": [
+        "Les personnalités médiatiques et les influenceurs.",
+        "Les parents et les membres de la famille nucléaire.",
+        "Les pairs et les enseignant.e.s.",
+        "Les figures politiques et les législateurs.",
+        "Les institutions religieuses et spirituelles."
+      ],
+      "correctIndex": 2,
+      "explanation": "Le document cite 'Rôle socialisant des pairs et des enseignant.e.s' et 'Les pairs de même sexe diffusent et contrôlent les normes de genre (Duru-Bellat, 2016)' (p.50)."
+    },
+    {
+      "id": "q29",
+      "prompt": "Quel est l'enjeu central de l'adolescence en matière de conformité aux attentes de genre ?",
+      "choices": [
+        "L'indifférence totale aux normes de genre.",
+        "La conformité aux attentes qui rend les différences perçues plus saillantes.",
+        "Le rejet systématique de toutes les normes de genre.",
+        "La capacité d'expérimenter toutes les expressions de genre librement.",
+        "La diminution de l'importance de l'identité de genre."
+      ],
+      "correctIndex": 1,
+      "explanation": "La 'Conformité aux attentes de genre = enjeu central de l'adolescence -> rend les différences perçues plus saillantes, déborde de la ligne du normal' (p.50)."
+    },
+    {
+      "id": "q30",
+      "prompt": "Selon Goffman (1975), quelle est la première étape pour l'individu socialisé concernant les stigmates ?",
+      "choices": [
+        "Il crée activement ses propres stigmates uniques.",
+        "Il ignore délibérément l'existence des stigmates sociaux.",
+        "Il intègre le point de vue dominant sur les stigmates.",
+        "Il refuse catégoriquement toute forme de stigmatisation.",
+        "Il remet en question la validité des stigmates."
+      ],
+      "correctIndex": 2,
+      "explanation": "Selon Goffman (1975), l'individu socialisé '1. Intègre le point de vue dominant sur les stigmates' (p.50)."
+    },
+    {
+      "id": "q31",
+      "prompt": "Quelle est la deuxième action de l'individu socialisé décrite par Goffman (1975) ?",
+      "choices": [
+        "Il impose son propre jugement aux autres.",
+        "Il anticipe le regard social des autres sur lui-même.",
+        "Il se met en retrait de toute interaction sociale.",
+        "Il développe une indifférence totale à l'opinion d'autrui.",
+        "Il cherche à valider les stigmates auprès de son entourage."
+      ],
+      "correctIndex": 1,
+      "explanation": "Selon Goffman (1975), l'individu socialisé '2. Anticipe le regard social' (p.50)."
+    },
+    {
+      "id": "q32",
+      "prompt": "Quand le processus d'intégration des jugements sociaux se produit-il, selon Goffman ?",
+      "choices": [
+        "Uniquement après avoir choisi d'appartenir à un groupe stigmatisé.",
+        "Seulement à l'âge adulte, après mûre réflexion personnelle.",
+        "Même avant toute prise de conscience identitaire consciente.",
+        "Lorsqu'un individu est confronté directement à la discrimination.",
+        "Après avoir consulté des experts en identité de genre."
+      ],
+      "correctIndex": 2,
+      "explanation": "Goffman (1975) stipule que ce processus se produit '3. Même avant toute prise de conscience identitaire' (p.50)."
+    },
+    {
+      "id": "q33",
+      "prompt": "Selon Goffman, comment la société nous forme-t-elle à voir certains traits comme problématiques ?",
+      "choices": [
+        "En nous incitant à l'indifférence envers les normes sociales.",
+        "En nous encourageant à l'expression libre de soi sans contraintes.",
+        "En nous apprenant à nous surveiller nous-mêmes en fonction de ce regard.",
+        "En nous offrant des outils pour rejeter les attentes sociales.",
+        "En promouvant l'uniformité des comportements pour tous."
+      ],
+      "correctIndex": 2,
+      "explanation": "Goffman veut dire que 'la société nous forme à voir certains traits comme problématiques, et que nous apprenons à nous surveiller nous-mêmes en fonction de ce regard, parfois bien avant de nous sentir concernés' (p.50)."
+    },
+    {
+      "id": "q34",
+      "prompt": "Quel est le rôle essentiel des mots et concepts dans le processus de se comprendre ?",
+      "choices": [
+        "Ils limitent la pensée et empêchent l'expression personnelle.",
+        "Ils compliquent la communication entre les individus.",
+        "Ils permettent d'exprimer son vécu, de se reconnaître et de ne pas se sentir seul.e.",
+        "Ils renforcent l'isolement en créant des catégories rigides.",
+        "Ils sont secondaires par rapport aux sensations émotionnelles."
+      ],
+      "correctIndex": 2,
+      "explanation": "Le document indique que 'Se comprendre passe par les mots et concepts : ils permettent d'exprimer son vécu, de se reconnaitre, de se comparer, et de savoir que l'on n'est pas seul.e' (p.50)."
+    },
+    {
+      "id": "q35",
+      "prompt": "Quel rôle les rencontres ont-elles joué comme 'déclencheur' pour certains jeunes non-binaires ?",
+      "choices": [
+        "Elles ont renforcé leur désir de conformité aux normes familiales.",
+        "Elles ont mené à l'isolement social et à la confusion identitaire.",
+        "Elles ont permis la découverte de la non-binarité et de nouvelles facettes de soi.",
+        "Elles ont encouragé le rejet de toute forme d'identité de genre.",
+        "Elles ont seulement confirmé les attentes sociales préexistantes."
+      ],
+      "correctIndex": 2,
+      "explanation": "Pour certain.e.s jeunes, des rencontres essentielles ont joué un rôle de déclencheur pour la 'Découverte de l'existence de la non-binarité' et la 'Mise au jour de nouvelles facettes de leur propre identité' (p.51)."
+    },
+    {
+      "id": "q36",
+      "prompt": "Comment est définie l'identité selon le document, en tant que processus social ?",
+      "choices": [
+        "Elle est purement innée et déterminée avant la naissance.",
+        "Elle est un processus strictement individuel, sans influence extérieure.",
+        "Elle est un processus social où les autres définissent l'individu en premier lieu.",
+        "Elle est une construction fixe qui ne change jamais.",
+        "Elle est le résultat exclusif des choix personnels conscients."
+      ],
+      "correctIndex": 2,
+      "explanation": "Le document affirme que 'L'identité est un processus social' où 'Ce sont d'abord les autres qui définissent l'individu (catégories, appartenances, traits perçus)' (p.51)."
+    },
+    {
+      "id": "q37",
+      "prompt": "Selon le texte, comment l'on découvre-t-on qui l'on est ?",
+      "choices": [
+        "Par l'introspection solitaire et la méditation personnelle.",
+        "En lisant des ouvrages de psychologie et d'auto-assistance.",
+        "Dans le regard d'autrui, comme dans un miroir social.",
+        "En rejetant toute influence externe et en se construisant seul.",
+        "Par des tests de personnalité standardisés."
+      ],
+      "correctIndex": 2,
+      "explanation": "On découvre qui l'on est 'dans le regard d'autrui, comme dans un miroir' (p.51)."
+    },
+    {
+      "id": "q38",
+      "prompt": "Que signifie l'affirmation que la non-binarité renvoie à des significations multiples ?",
+      "choices": [
+        "Qu'elle n'a qu'une seule définition universelle et figée.",
+        "Qu'elle est incompréhensible et sans lien avec la réalité.",
+        "Qu'elle recouvre des réalités subjectivités et pratiques diverses.",
+        "Qu'elle est une illusion collective sans fondement individuel.",
+        "Qu'elle est strictement limitée à des classifications binaires."
+      ],
+      "correctIndex": 2,
+      "explanation": "La performativité de genre et présentation de soi indique que 'La non-binarité renvoie à des significations multiples : un même terme recouvre des réalités subjectivités et pratiques diverses' (p.51)."
+    },
+    {
+      "id": "q39",
+      "prompt": "Qu'est-ce que certaines personnes valorisent positivement dans leur non-binarité, selon un extrait d'entretien ?",
+      "choices": [
+        "La conformité aux attentes stéréotypées de la société.",
+        "L'obligation de choisir une identité de genre fixe et binaire.",
+        "L'absence totale de responsabilités et de contraintes sociales.",
+        "La liberté d'être soi-même et l'échappatoire aux attentes stéréotypées.",
+        "La validation constante et unanime de leur identité par autrui."
+      ],
+      "correctIndex": 3,
+      "explanation": "Un extrait d'entretien mentionne: 'Ce qui est positif et valorisant, c'est un peu cette liberté que j'ai trouvée. Je n'ai pas l'impression qu'il y ait des attentes. En sortant de la binarité, j'ai l'impression d'être vraiment épargnée de toutes ces attentes stéréotypées' (p.51)."
+    },
+    {
+      "id": "q40",
+      "prompt": "Que signifie l'idée que la non-binarité de chaque personne n'est pas la même que celle des autres ?",
+      "choices": [
+        "Qu'elle est une construction sociale uniforme pour tous les individus.",
+        "Qu'elle est incompréhensible et sans lien avec d'autres expériences.",
+        "Qu'elle implique que les significations et les vécus ne sont pas identiques d'une personne à l'autre.",
+        "Qu'elle est le résultat d'une simple imitation des autres sans originalité.",
+        "Qu'elle doit être définie par des classifications strictes et universelles."
+      ],
+      "correctIndex": 2,
+      "explanation": "Le document indique que 'lels sont plusieurs à spécifier que leur non-binarité n'est pas la même que celle des autres et donc que les significations et vécus ne sont pas identiques' (p.51)."
+    }
+  ],
+  "course": "Sociologie du Genre"
+}
