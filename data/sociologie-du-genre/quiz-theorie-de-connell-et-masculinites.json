@@ -1,0 +1,535 @@
+{
+  "quizId": "theorie-de-connell-et-masculinites",
+  "title": "Théorie de Raewyn Connell et Masculinités",
+  "section": {
+    "id": "theorie-de-connell-et-masculinites",
+    "title": "Théorie de Raewyn Connell et Masculinités",
+    "startPage": 15,
+    "endPage": 22,
+    "summary": "Analyse des masculinités (hégémonique, complice, marginalisée) et de la féminité accentuée. Présentation du modèle des structures sociales du genre et du rôle de l'État dans le patriarcat.",
+    "estimatedQuestionCount": 35
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon Bereni et al. (2012), comment est défini le concept de 'genre' ?",
+      "choices": [
+        "Un système de bicatégorisation hiérarchisé entre les sexes et les valeurs associées",
+        "Une différenciation biologique immuable dictant les comportements sociaux",
+        "Un processus purement psychologique d'identification à un modèle parental",
+        "Une structure économique visant la répartition équitable des ressources productives",
+        "Une construction linguistique sans impact direct sur les rapports de pouvoir réels"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bereni définit le genre comme un système de bicatégorisation hiérarchisé entre les sexes (hommes/femmes) et les valeurs/représentations (masculin/féminin)."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quelle critique est adressée aux premiers travaux sur le genre mentionnés en page 15 ?",
+      "choices": [
+        "Un focus excessif sur les variations internes au groupe des hommes",
+        "Une absence totale de prise en compte des rapports de classe économique",
+        "Un focus sur les femmes et une absence de travaux sur les masculinités",
+        "Une surreprésentation des études portant sur les populations non-occidentales",
+        "Un rejet systématique des méthodes quantitatives au profit du qualitatif"
+      ],
+      "correctIndex": 2,
+      "explanation": "La critique souligne le focus quasi exclusif sur les femmes et le manque de travaux sur les hommes et les masculinités."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel est l'un des objectifs des 'Masculinity/Men’s studies' lors de leur émergence ?",
+      "choices": [
+        "Remplacer les études féministes par une approche centrée sur le patriarcat",
+        "Démontrer la supériorité biologique de la force physique masculine",
+        "Établir une hiérarchie académique dominant les études de genre traditionnelles",
+        "Ne pas prendre la place des études féministes et éviter de reproduire la domination",
+        "Se concentrer exclusivement sur les pathologies médicales propres aux hommes"
+      ],
+      "correctIndex": 3,
+      "explanation": "Le texte précise qu'elles ont pris un autre nom pour ne pas créer de hiérarchie avec les études féministes et ne pas reproduire de rapports de domination."
+    },
+    {
+      "id": "q4",
+      "prompt": "Selon l'approche intersectionnelle de Kimberlé Crenshaw, quel est le risque de ne pas croiser les catégories ?",
+      "choices": [
+        "Réduire la complexité des genres à une simple binarité biologique",
+        "Ignorer le processus cumulatif des discriminations (ex: femmes noires)",
+        "Surévaluer l'impact de la classe sociale au détriment de l'ethnicité",
+        "Empêcher la théorisation de la masculinité hégémonique universelle",
+        "Favoriser une vision trop historicisée des rapports de production"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'approche intersectionnelle montre que les femmes noires subissent des discriminations cumulatives (genre et race) qu'une approche unique occulte."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle est la position de Harding (1986) concernant la production de généralisations sur le genre ?",
+      "choices": [
+        "Les généralisations sont impossibles car le genre est une fiction totale",
+        "La différence de genre est centrale pour s'identifier et organiser les relations sociales",
+        "Seules les sociétés occidentales utilisent le genre comme mode d'identification",
+        "L'organisation sociale repose exclusivement sur la classe et non sur le genre",
+        "Le genre est un concept obsolète qui doit être remplacé par l'individualisme"
+      ],
+      "correctIndex": 1,
+      "explanation": "Harding affirme que dans presque toutes les cultures, le genre demeure central pour s'identifier et symboliser les processus sociaux."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quel était le domaine de recherche initial de Raewyn Connell avant de s'intéresser au genre ?",
+      "choices": [
+        "La psychologie cognitive et comportementale",
+        "L'anthropologie des sociétés pré-industrielles",
+        "Les études de classe sociale",
+        "La science politique et les relations internationales",
+        "La biologie de la reproduction et la génétique"
+      ],
+      "correctIndex": 2,
+      "explanation": "Connell travaillait initialement sur les études de classe avant de devenir féministe et de s'intéresser aux masculinités."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quel est l'objectif politique de l'étude des masculinités selon le texte ?",
+      "choices": [
+        "Renforcer les privilèges masculins dans les institutions académiques",
+        "Déstabiliser académiquement les constructions dominantes de la masculinité",
+        "Établir un code de conduite universel pour l'homme moderne",
+        "Prouver que la domination masculine est une nécessité biologique",
+        "Exclure les femmes des débats portant sur l'identité virile"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'étude des masculinités est une tentative de déstabilisation académique des constructions dominantes des hommes et de la masculinité."
+    },
+    {
+      "id": "q8",
+      "prompt": "Comment Connell définit-elle la 'masculinité hégémonique' ?",
+      "choices": [
+        "La forme de masculinité la plus répandue statistiquement dans une population",
+        "Un ensemble de traits biologiques partagés par tous les individus mâles",
+        "Une configuration de pratiques garantissant la position dominante des hommes",
+        "La résistance des hommes marginalisés face aux structures de l'État",
+        "Une identité psychologique stable acquise dès la petite enfance"
+      ],
+      "correctIndex": 2,
+      "explanation": "C'est une configuration de pratiques de genre qui garantit la position dominante des hommes et la subordination des femmes."
+    },
+    {
+      "id": "q9",
+      "prompt": "Quel caractère possède la position dominante de la masculinité hégémonique ?",
+      "choices": [
+        "Elle est naturelle et donc immuable à travers les âges",
+        "Elle est historique et donc toujours contestable",
+        "Elle est dictée par la structure génétique des individus",
+        "Elle est exclusivement imposée par la force physique pure",
+        "Elle est indépendante des variations géographiques ou culturelles"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le texte précise que cette position dominante est historique et par conséquent toujours contestable."
+    },
+    {
+      "id": "q10",
+      "prompt": "Parmi les traits suivants, lequel est typique de la masculinité hégémonique en Occident selon Connell ?",
+      "choices": [
+        "L'expression libre des émotions et de la vulnérabilité",
+        "Le refus systématique de toute forme de compétition",
+        "La rationalité et le contrôle des émotions",
+        "La valorisation de la domesticité et du soin aux enfants",
+        "La subordination volontaire aux décisions féminines"
+      ],
+      "correctIndex": 2,
+      "explanation": "La rationalité (raisonnement froid, dénué d'émotions) et le contrôle des émotions sont des traits centraux de la MH."
+    },
+    {
+      "id": "q11",
+      "prompt": "Quelle est la probabilité pour un individu d'atteindre complètement l'idéal de la masculinité hégémonique ?",
+      "choices": [
+        "La majorité des hommes y parviennent grâce à la socialisation",
+        "C'est un état naturel atteint par tous les hommes à l'âge adulte",
+        "C'est presque impossible car elle comprend des traits contradictoires",
+        "Seuls les hommes issus des classes populaires peuvent l'atteindre",
+        "L'atteinte de cet idéal dépend uniquement de la réussite financière"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le texte indique que très peu de gens arrivent à atteindre tous ces traits, car c'est un idéal de performance presque impossible."
+    },
+    {
+      "id": "q12",
+      "prompt": "Quelle orientation sexuelle est intrinsèquement liée à la masculinité hégémonique en Occident ?",
+      "choices": [
+        "La bisexualité",
+        "L'homosexualité",
+        "L'hétérosexualité",
+        "L'asexualité",
+        "La pansexualité"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'hétérosexualité fait partie des traits de la masculinité hégémonique repris par Connell."
+    },
+    {
+      "id": "q13",
+      "prompt": "Comment la masculinité hégémonique influence-t-elle les rapports entre hommes ?",
+      "choices": [
+        "Elle promeut une égalité totale entre tous les individus masculins",
+        "Elle justifie la domination de certains hommes sur les autres",
+        "Elle encourage l'effacement des différences de classe sociale",
+        "Elle interdit toute forme de hiérarchie au sein du groupe masculin",
+        "Elle se focalise exclusivement sur les rapports hommes-femmes"
+      ],
+      "correctIndex": 1,
+      "explanation": "La masculinité hégémonique justifie la domination de certains hommes sur les autres hommes."
+    },
+    {
+      "id": "q14",
+      "prompt": "Selon le documentaire 'Viril', comment les hommes venant d'autres pays gèrent-ils les traits de la MH ?",
+      "choices": [
+        "Ils les rejettent totalement pour créer de nouveaux modèles",
+        "Ils les possèdent naturellement dès leur naissance",
+        "Ils les reprennent pour survivre sans avoir les mêmes capitaux",
+        "Ils sont automatiquement placés au sommet de la hiérarchie",
+        "Ils ne sont jamais confrontés aux codes de la masculinité blanche"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ces hommes reprennent parfois les traits de la MH pour survivre, bien qu'ils n'aient pas les capitaux des hommes blancs."
+    },
+    {
+      "id": "q15",
+      "prompt": "Que définit Connell par les 'masculinités complices' ?",
+      "choices": [
+        "Des hommes qui rejettent activement tous les privilèges patriarcaux",
+        "Des hommes en phase avec la MH sans pouvoir l'incarner totalement",
+        "Des groupes d'hommes luttant pour les droits des minorités sexuelles",
+        "Des individus occupant des positions sociales marginalisées par l'État",
+        "Des hommes s'opposant violemment à la domination masculine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les complices sont en phase avec la masculinité hégémonique (positions moyennes-supérieures) sans l'incarner parfaitement."
+    },
+    {
+      "id": "q16",
+      "prompt": "Quelle est la caractéristique des 'masculinités marginalisées' ?",
+      "choices": [
+        "Elles concernent les hommes appartenant aux groupes sociaux dominants",
+        "Elles se définissent par un rejet total de la force physique",
+        "Elles peuvent réagir par une adoption forte des codes de la MH",
+        "Elles sont systématiquement associées à l'identité féminine",
+        "Elles ne subissent aucun rapport de pouvoir hiérarchique"
+      ],
+      "correctIndex": 2,
+      "explanation": "Les masculinités marginalisées (groupes sociaux dominés) réagissent parfois via l'adoption forte des codes de la masculinité hégémonique."
+    },
+    {
+      "id": "q17",
+      "prompt": "Pourquoi les masculinités 'subordonnées' sont-elles disqualifiées selon le texte ?",
+      "choices": [
+        "Parce qu'elles refusent de participer à l'économie monétaire",
+        "Parce qu'elles sont perçues comme trop proches de la violence",
+        "Parce qu'elles sont associées au féminin (ex: masculinités queer)",
+        "Parce qu'elles ne respectent pas les lois de l'État patriarcal",
+        "Parce qu'elles disposent de trop de capitaux financiers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Les masculinités subordonnées (queer/homosexuelles) sont disqualifiées car elles sont associées au féminin."
+    },
+    {
+      "id": "q18",
+      "prompt": "Qu'est-ce que la 'féminité accentuée' ?",
+      "choices": [
+        "Une forme de féminité qui domine les hommes dans la sphère privée",
+        "Un idéal de féminité construit en lien avec la masculinité hégémonique",
+        "Une identité biologique universelle propre à toutes les femmes",
+        "Une stratégie de résistance visant à renverser le patriarcat",
+        "Un modèle de féminité fondé sur l'indépendance économique totale"
+      ],
+      "correctIndex": 1,
+      "explanation": "C'est un idéal de féminité qui va de pair avec la masculinité hégémonique et qui est construit dans le contexte de la domination masculine."
+    },
+    {
+      "id": "q19",
+      "prompt": "Pourquoi Connell affirme-t-elle qu'il n'existe pas de 'féminité hégémonique' ?",
+      "choices": [
+        "Parce que les femmes sont biologiquement incapables de dominer",
+        "Parce que les formes de féminité sont construites sous la domination masculine",
+        "Parce que toutes les femmes refusent d'exercer un pouvoir sur les autres",
+        "Parce que la féminité est une catégorie instable qui change trop vite",
+        "Parce que l'État interdit légalement toute forme de pouvoir féminin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Il n'y a pas de féminité hégémonique car il n'existe pas de forme de domination des femmes sur les hommes dans ce cadre."
+    },
+    {
+      "id": "q20",
+      "prompt": "Quel est le mécanisme central de la féminité accentuée ?",
+      "choices": [
+        "Encourager les femmes à prendre des postes de direction politique",
+        "Masquer les alternatives à la domination masculine",
+        "Valoriser la force physique et la compétition entre femmes",
+        "Supprimer toute distinction entre les rôles domestiques",
+        "Promouvoir l'homosexualité féminine comme modèle unique"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le mécanisme consiste à masquer les alternatives à la domination masculine en mettant l'accent sur la fragilité ou le soin."
+    },
+    {
+      "id": "q21",
+      "prompt": "Dans l'illustration 'Twilight', que représente le personnage d'Edward ?",
+      "choices": [
+        "La face marginalisée et pauvre de la masculinité",
+        "La masculinité subversive rejetant la protection des femmes",
+        "Le côté rationnel, la réussite, la richesse et la protection",
+        "La féminité accentuée déguisée en traits masculins",
+        "L'absence totale de traits liés à la masculinité hégémonique"
+      ],
+      "correctIndex": 2,
+      "explanation": "Edward incarne le côté rationnel, la réussite, la richesse et la protection de la femme dans le film."
+    },
+    {
+      "id": "q22",
+      "prompt": "Dans 'Twilight', pourquoi Edward est-il considéré comme 'plus avantageux' que Jacob ?",
+      "choices": [
+        "Parce qu'il possède une force physique supérieure à celle de Jacob",
+        "En raison de la hiérarchie entre leurs types de masculinités respectifs",
+        "Parce qu'il refuse de protéger Bella contrairement à Jacob",
+        "Parce que son personnage est plus âgé et donc plus sage",
+        "Parce qu'il représente la classe ouvrière face à l'aristocratie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le texte mentionne une hiérarchie entre les deux types de masculinités où Edward est plus avantageux."
+    },
+    {
+      "id": "q23",
+      "prompt": "Quels sont les trois niveaux imbriqués dans le modèle de Connell ?",
+      "choices": [
+        "Sexe biologique, Identité psychologique, Rôle social",
+        "Production, Distribution, Consommation de genre",
+        "Ordre de genre, Modèles structurels, Régimes de genre",
+        "Individu, Famille, État-nation",
+        "Inconscient, Préconscient, Conscient genré"
+      ],
+      "correctIndex": 2,
+      "explanation": "Connell propose un modèle à trois niveaux : l'ordre de genre, les modèles structurels et les régimes de genre."
+    },
+    {
+      "id": "q24",
+      "prompt": "Comment est défini 'l'ordre de genre' au niveau macro ?",
+      "choices": [
+        "La manière dont une équipe sportive organise ses vestiaires",
+        "L'état actuel et la forme générale des politiques de genre dans la société",
+        "Le règlement intérieur spécifique d'une entreprise privée",
+        "La répartition des tâches ménagères au sein d'un couple précis",
+        "Un schéma biologique universel ne variant jamais selon les époques"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'ordre de genre est l'état actuel, la forme générale que prennent les politiques de genre dans notre société."
+    },
+    {
+      "id": "q25",
+      "prompt": "Que désignent les 'régimes de genre' dans la théorie de Connell ?",
+      "choices": [
+        "Les lois internationales régissant les droits des femmes",
+        "Les régimes alimentaires imposés par les standards de beauté",
+        "L'état des relations de genre dans une institution particulière",
+        "Les périodes historiques où les femmes détenaient le pouvoir",
+        "Les structures génétiques déterminant le sexe des individus"
+      ],
+      "correctIndex": 2,
+      "explanation": "Les régimes de genre désignent le niveau local, soit l'organisation des relations de genre dans une institution (école, famille, etc.)."
+    },
+    {
+      "id": "q26",
+      "prompt": "Quelle est la caractéristique de l'ordre de genre dans les pays capitalistes 'riches' ?",
+      "choices": [
+        "Une fusion totale de la vie domestique et de l'économie monétaire",
+        "Une féminisation croissante des principales institutions politiques",
+        "Une masculinisation écrasante des principales institutions",
+        "La valorisation d'une multiplicité de masculinités au même niveau",
+        "L'institutionnalisation de l'homosexualité comme norme sociale"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'ordre de genre des pays capitalistes riches est marqué par une écrasante masculinisation des principales institutions."
+    },
+    {
+      "id": "q27",
+      "prompt": "Dans la 'structure de production', quelle discrimination est mentionnée ?",
+      "choices": [
+        "La discrimination en matière de promotion et de formation",
+        "Le refus d'embaucher des hommes dans les métiers du soin",
+        "L'obligation pour les hommes de rester au foyer sans salaire",
+        "La sur-rémunération systématique du travail domestique féminin",
+        "L'absence totale de division sexuelle du travail sur le marché"
+      ],
+      "correctIndex": 0,
+      "explanation": "La structure de production inclut la discrimination en matière de promotion et de formation."
+    },
+    {
+      "id": "q28",
+      "prompt": "Selon le texte, à qui profite le fait de ne pas payer les femmes au foyer ?",
+      "choices": [
+        "Aux femmes elles-mêmes pour garantir leur autonomie",
+        "À la société dans son ensemble",
+        "Exclusivement aux enfants qui reçoivent plus de soins",
+        "Uniquement aux institutions religieuses",
+        "À personne, car c'est une perte économique nette"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le texte indique : 'Ça profite à la société de ne pas payer les femmes au foyer'."
+    },
+    {
+      "id": "q29",
+      "prompt": "Quels sont les 3 éléments composant le pouvoir social dans la structure de pouvoir ?",
+      "choices": [
+        "Argent, Influence, Charisme",
+        "Force, Contrôle organisationnel, Idéologies",
+        "Lois, Traditions, Religions",
+        "Éducation, Santé, Travail",
+        "Vote, Manifestation, Lobbying"
+      ],
+      "correctIndex": 1,
+      "explanation": "La structure de pouvoir est composée de la force, du contrôle organisationnel et des idéologies."
+    },
+    {
+      "id": "q30",
+      "prompt": "Quel est l'un des axes centraux de la structure de pouvoir liée au genre ?",
+      "choices": [
+        "La séparation totale entre l'autorité et la masculinité",
+        "La connexion générale entre l'autorité et la masculinité",
+        "Le refus d'utiliser la violence institutionnelle",
+        "L'égalité parfaite entre les différents groupes d'hommes",
+        "L'absence d'idéologie patriarcale dans les entreprises"
+      ],
+      "correctIndex": 1,
+      "explanation": "Un axe central est la connexion générale de l'autorité et de la masculinité."
+    },
+    {
+      "id": "q31",
+      "prompt": "Qu'est-ce que le système de 'cathexis' ou structure émotionnelle ?",
+      "choices": [
+        "Un modèle économique basé sur l'épargne émotionnelle",
+        "Un système valorisant l'attirance des femmes pour la MH",
+        "Une méthode psychothérapeutique pour soigner les hommes violents",
+        "La suppression de tout désir sexuel dans les rapports sociaux",
+        "Une structure visant à abolir l'hétérosexualité obligatoire"
+      ],
+      "correctIndex": 1,
+      "explanation": "La structure de cathexis est un système dans lequel on valorise le fait que les femmes soient attirées par les traits de la MH."
+    },
+    {
+      "id": "q32",
+      "prompt": "Comment le désir est-il défini dans la structure de cathexis ?",
+      "choices": [
+        "Par l'absence totale de rapports de force et de pouvoir",
+        "Par la dichotomie et l'opposition entre masculin et féminin",
+        "Comme une pulsion purement biologique sans influence sociale",
+        "Par la réciprocité parfaite et l'échange égalitaire",
+        "Comme un phénomène indépendant des relations de couple"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le désir est défini par la dichotomie et l'opposition entre masculin et féminin, basé sur un échange inégal."
+    },
+    {
+      "id": "q33",
+      "prompt": "Quel exemple est donné pour illustrer une pratique inversant le pouvoir masculin ?",
+      "choices": [
+        "La monogamie stricte",
+        "La réussite financière",
+        "Le fétichisme",
+        "La division du travail",
+        "La parentalité"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le fétichisme est cité comme exemple de pratique consistant à inverser les rôles et enfreindre les conventions."
+    },
+    {
+      "id": "q34",
+      "prompt": "Quelle influence a la 'structure de production' sur la masculinité selon le texte ?",
+      "choices": [
+        "Elle n'a aucun impact car la masculinité est innée",
+        "Elle influence le type de masculinité selon le milieu professionnel",
+        "Elle oblige tous les hommes à devenir des cadres supérieurs",
+        "Elle favorise uniquement les masculinités subversives",
+        "Elle empêche la création de modèles collectifs de genre"
+      ],
+      "correctIndex": 1,
+      "explanation": "La structure de production influence le type de masculinité correspondant à un milieu professionnel (ex: sidérurgie vs traders)."
+    },
+    {
+      "id": "q35",
+      "prompt": "Quel est le rôle de l'État dans l'ordre de genre selon Connell ?",
+      "choices": [
+        "Une institution neutre qui arbitre les conflits entre sexes",
+        "Un acteur majeur dans le maintien de l'ordre de genre patriarcal",
+        "Une structure dominée par les femmes depuis le 21ème siècle",
+        "Une organisation qui refuse de créer des catégories sociales",
+        "Une instance qui n'a aucune activité idéologique réelle"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'État joue un rôle central dans le maintien de l'ordre de genre patriarcal et est contrôlé par les hommes."
+    },
+    {
+      "id": "q36",
+      "prompt": "Comment l'ordre de genre patriarcal reste-t-il souvent invisible ?",
+      "choices": [
+        "Parce qu'il a été totalement aboli par les lois modernes",
+        "Via un processus idéologique naturalisant la pratique sociale",
+        "Grâce à une transparence totale des relations de pouvoir",
+        "Parce que les hommes et les femmes ont les mêmes intérêts",
+        "En raison de l'absence de catégories sociales de genre"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le processus idéologique masque la structure sociale en la naturalisant (ex: hypersexualisation femme-objet)."
+    },
+    {
+      "id": "q37",
+      "prompt": "Que signifie la 'dichotomisation' du monde mentionnée en page 22 ?",
+      "choices": [
+        "L'union sacrée entre les sphères publique et privée",
+        "La division entre sphères masculines et féminines opposées",
+        "La suppression de toute barrière entre les genres",
+        "La fusion des rôles professionnels et domestiques pour tous",
+        "Une méthode de calcul économique pour les salaires"
+      ],
+      "correctIndex": 1,
+      "explanation": "La dichotomisation est la division du monde entre sphères masculines et féminines que l'on oppose nettement."
+    },
+    {
+      "id": "q38",
+      "prompt": "Quelle 'double mutation' marque le tournant du 21ème siècle selon le texte ?",
+      "choices": [
+        "Le retour au modèle familial traditionnel et l'arrêt du travail féminin",
+        "Le passage du modèle alternatif au modèle du cumul pour les femmes",
+        "La disparition de l'État et la fin des catégories de genre",
+        "L'interdiction de la masculinité hégémonique par les tribunaux",
+        "La fin de l'individualisation de la vie privée des femmes"
+      ],
+      "correctIndex": 1,
+      "explanation": "La mutation implique le passage à un modèle de cumul pour les femmes (conciliation rôles pro/domestiques) et l'individualisation de leur vie privée."
+    },
+    {
+      "id": "q39",
+      "prompt": "Selon Claude Dubar, vers quoi tend la domination masculine aujourd'hui ?",
+      "choices": [
+        "Une disparition totale et définitive de tout rapport de force",
+        "Une transformation en une autre forme de rapports entre les sexes",
+        "Un retour vers une forme archaïque et plus violente",
+        "Une institutionnalisation rigide empêchant toute nouvelle identité",
+        "Une fusion complète avec les intérêts des femmes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dubar affirme que la domination masculine se transforme en une autre forme de rapports, ouvrant la porte à de nouvelles formes identitaires."
+    },
+    {
+      "id": "q40",
+      "prompt": "Quel contexte actuel est évoqué à la fin du chapitre ?",
+      "choices": [
+        "L'âge d'or du patriarcat hégémonique",
+        "La 'crise' de la masculinité",
+        "L'avènement du matriarcat universel",
+        "La stabilité absolue des modèles de genre",
+        "Le rejet des études sociologiques par l'État"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le texte se conclut sur le contexte de 'crise' de la masculinité."
+    }
+  ],
+  "course": "Sociologie du Genre"
+}
