@@ -1,0 +1,638 @@
+{
+  "quizId": "philosophy-truth-criteria-p7-14",
+  "title": "Chapitre 1 : Nature, Critères et Autorité de la Vérité",
+  "section": {
+    "id": "part-1-chapter-1-truth-criteria",
+    "title": "Chapitre 1 : Nature, Critères et Autorité de la Vérité",
+    "startPage": 7,
+    "endPage": 14,
+    "summary": "Analyse de la connaissance face à l'opinion et la croyance. Étude des critères de vérité : l'évidence chez Descartes (clarté et distinction), la vérité comme copie du réel, le pragmatisme (efficacité), et la démonstration logique (syllogismes). Aborde également le scepticisme, le dogmatisme et la distinction entre persuader et convaincre.",
+    "estimatedQuestionCount": 48
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Comment est définie la vérité en première analyse ?",
+      "choices": [
+        "Une idée ou une phrase conforme à la réalité observable",
+        "Une opinion validée par le consentement du plus grand nombre",
+        "Une certitude mathématique fondée sur une preuve absolue",
+        "Une intuition personnelle qui s'impose par sa force morale",
+        "Une représentation mentale dénuée de toute erreur possible"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le document définit la vérité en première analyse comme une idée ou une phrase conforme à la réalité."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quelle distinction fondamentale le texte fait-il entre le réel et la vérité ?",
+      "choices": [
+        "Le réel existe ou n'existe pas, la vérité est une idée ou phrase",
+        "Le réel est une certitude absolue, la vérité est une probabilité",
+        "Le réel est subjectif, la vérité est une construction objective",
+        "Le réel dépend des sens, la vérité dépend uniquement de l'esprit",
+        "Le réel est immuable, la vérité évolue selon le contexte social"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise qu'il ne faut pas confondre réalité et vérité : le réel existe ou n'existe pas, tandis que la vérité est la forme d'une idée."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quelle interrogation naît du lien entre la légitimité épistémique et politique ?",
+      "choices": [
+        "Le savoir scientifique rigoureux doit-il conférer un pouvoir d'expert ?",
+        "La volonté du peuple doit-elle primer sur les faits scientifiques ?",
+        "La science peut-elle exister sans une structure politique stable ?",
+        "Le pouvoir politique doit-il financer la recherche de la vérité ?",
+        "L'expert doit-il se soumettre aux croyances de la majorité civile"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'articulation des dimensions pose la question de savoir si le savoir scientifique (expert) entraîne la légitimité politique."
+    },
+    {
+      "id": "q4",
+      "prompt": "Pourquoi le pouvoir de la majorité est-il considéré comme limité en démocratie ?",
+      "choices": [
+        "Parce que les décisions doivent reposer sur des principes de justice",
+        "Parce que les citoyens ne disposent pas de connaissances expertes",
+        "Parce que le budget de l'État contraint les choix redistributifs",
+        "Parce que les philosophes doivent valider chaque loi votée",
+        "Parce que les institutions internationales contrôlent les votes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que la décision de la majorité doit respecter des principes de justice, ce qui limite son pouvoir."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle est la définition de la connaissance selon le document ?",
+      "choices": [
+        "Un ensemble de savoirs objectifs visant à expliquer la réalité",
+        "Une accumulation de faits observés sans lien logique apparent",
+        "Un sentiment de certitude fondé sur une intuition personnelle",
+        "Une adhésion volontaire à des principes moraux indiscutables",
+        "Une interprétation subjective du fonctionnement de la nature"
+      ],
+      "correctIndex": 0,
+      "explanation": "La connaissance est définie comme un ensemble de phrases/savoirs objectifs visant à expliquer la réalité (causes, fonctionnement, nature)."
+    },
+    {
+      "id": "q6",
+      "prompt": "À quel moment considère-t-on que l'on possède une connaissance ?",
+      "choices": [
+        "Quand on est capable d'expliquer les causes de quelque chose",
+        "Quand on a mémorisé une quantité importante d'informations",
+        "Quand on partage l'avis de la majorité des experts reconnus",
+        "Quand on ne ressent plus aucun doute face à un phénomène",
+        "Quand on a observé un événement de manière répétée et directe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte stipule que 'On a la connaissance quand on sait expliquer qqch'."
+    },
+    {
+      "id": "q7",
+      "prompt": "Que désigne le repère 'objectif' dans le cadre de la connaissance ?",
+      "choices": [
+        "Ce qui correspond à l'objet indépendamment d'un sujet individuel",
+        "Ce qui est approuvé par une autorité politique ou religieuse",
+        "Ce qui est perçu par le plus grand nombre de témoins oculaires",
+        "Ce qui procure un avantage pratique immédiat dans la vie",
+        "Ce qui ne peut être remis en question par aucune expérience"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'objectif correspond à l'objet en lui-même, indépendamment du point de vue d'un sujet individuel."
+    },
+    {
+      "id": "q8",
+      "prompt": "Quelle est la caractéristique principale du savoir subjectif ?",
+      "choices": [
+        "Il correspond au point de vue singulier d'un sujet particulier",
+        "Il est universellement vérifiable par n'importe quel observateur",
+        "Il repose exclusivement sur des preuves matérielles tangibles",
+        "Il vise à décrire les lois immuables de la physique moderne",
+        "Il exclut toute forme de sentiment ou d'impression personnelle"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le subjectif correspond au point de vue d'un sujet, c'est un avis singulier."
+    },
+    {
+      "id": "q9",
+      "prompt": "Pourquoi les sciences sont-elles considérées comme objectives ?",
+      "choices": [
+        "Parce qu'il est possible à tout le monde de vérifier leurs savoirs",
+        "Parce qu'elles sont financées par des organismes indépendants",
+        "Parce qu'elles ne commettent jamais d'erreur d'interprétation",
+        "Parce qu'elles utilisent un langage inaccessible au grand public",
+        "Parce qu'elles se concentrent uniquement sur les sentiments humains"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les sciences sont objectives car leur savoir porte sur des objets et tout le monde peut vérifier ces savoirs."
+    },
+    {
+      "id": "q10",
+      "prompt": "Comment est définie une opinion dans le texte ?",
+      "choices": [
+        "Un jugement sans fondements rigoureux et non vérifiable",
+        "Une vérité absolue dont le fondement est caché au public",
+        "Une théorie scientifique en attente de validation expérimentale",
+        "Une croyance religieuse transmise de génération en génération",
+        "Une observation directe de la réalité sans aucune erreur"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'opinion est un jugement sans fondements rigoureux, ne relevant pas d'une connaissance vérifiable."
+    },
+    {
+      "id": "q11",
+      "prompt": "Qu'est-ce qu'une 'opinion droite' selon le cours ?",
+      "choices": [
+        "Une opinion qui correspond aux faits sans expliquer leurs causes",
+        "Une idée politique qui respecte les lois de la République",
+        "Une certitude mathématique partagée par les citoyens instruits",
+        "Une pensée qui ne peut jamais être remise en doute par l'individu",
+        "Une explication scientifique rigoureuse d'un phénomène complexe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Une opinion est dite 'droite' quand elle correspond aux faits observés mais n'explique pas correctement les causes."
+    },
+    {
+      "id": "q12",
+      "prompt": "Quelle est l'utilité principale des opinions droites dans la vie courante ?",
+      "choices": [
+        "Elles évitent de devoir expliquer scientifiquement chaque phénomène",
+        "Elles permettent de remplacer définitivement les sciences dures",
+        "Elles servent de preuves absolues lors des procès juridiques",
+        "Elles garantissent une harmonie sociale parfaite entre les hommes",
+        "Elles favorisent le développement de nouvelles technologies complexes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les opinions de droite sont utiles car elles évitent de devoir expliquer scientifiquement les causes d'un phénomène au quotidien."
+    },
+    {
+      "id": "q13",
+      "prompt": "Quelle définition le texte donne-t-il de la croyance ?",
+      "choices": [
+        "Une adhésion incertaine d'un individu à une idée donnée",
+        "Une certitude absolue fondée sur une preuve irréfutable",
+        "Une méthode de vérification expérimentale des faits réels",
+        "Un refus catégorique d'accepter toute nouvelle information",
+        "Une connaissance objective partagée par tous les savants"
+      ],
+      "correctIndex": 0,
+      "explanation": "Une croyance est définie comme une adhésion incertaine à une idée."
+    },
+    {
+      "id": "q14",
+      "prompt": "En quoi la foi se distingue-t-elle d'une croyance naïve ?",
+      "choices": [
+        "Elle est consciente d'être une croyance et engage la volonté",
+        "Elle repose sur des preuves matérielles que tout le monde voit",
+        "Elle ne nécessite aucun courage pour être affirmée publiquement",
+        "Elle est imposée par la force plutôt que par le libre choix",
+        "Elle refuse de s'appuyer sur des principes ou des valeurs"
+      ],
+      "correctIndex": 0,
+      "explanation": "La foi est consciente d'être une croyance, repose sur des principes et engage une décision de la volonté (courage)."
+    },
+    {
+      "id": "q15",
+      "prompt": "Qu'est-ce qu'un préjugé selon la définition du cours ?",
+      "choices": [
+        "Une opinion admise sans jugement préalable ni raisonnement",
+        "Une étape nécessaire avant toute démonstration scientifique",
+        "Une vérité établie par une longue expérience professionnelle",
+        "Un doute systématique appliqué à toutes les idées reçues",
+        "Une explication rationnelle des préceptes moraux d'autrui"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le préjugé est une opinion admise sans jugement ni raisonnement."
+    },
+    {
+      "id": "q16",
+      "prompt": "Quel est le risque de l'absence de vérification des idées ?",
+      "choices": [
+        "L'impossibilité de distinguer nos idées de la réalité complexe",
+        "Le développement trop rapide de nouvelles connaissances utiles",
+        "La disparition totale de toute forme de croyance religieuse",
+        "L'obligation de partager systématiquement tous nos jugements",
+        "Le renforcement de la capacité d'explication des sciences"
+      ],
+      "correctIndex": 0,
+      "explanation": "La difficulté est de confronter les idées aux faits réels pour s'assurer qu'elles correspondent à la réalité."
+    },
+    {
+      "id": "q17",
+      "prompt": "Selon le critère de l'évidence, comment les idées révèlent-elles leur vérité ?",
+      "choices": [
+        "Elles s'imposent d'elles-mêmes par leur propre clarté",
+        "Elles nécessitent une validation par un collège d'experts",
+        "Elles dépendent de la répétition constante d'expériences",
+        "Elles sont confirmées par leur utilité dans l'action quotidienne",
+        "Elles sont prouvées par un raisonnement logique complexe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon ce critère, les phrases et idées révèlent d'elles-mêmes leur vérité et s'imposent par leur évidence."
+    },
+    {
+      "id": "q18",
+      "prompt": "Qu'est-ce qu'une connaissance 'claire' selon Descartes ?",
+      "choices": [
+        "Une connaissance présente et manifeste à un esprit attentif",
+        "Une idée qui a été démontrée par un syllogisme parfait",
+        "Une information transmise de manière limpide par un tiers",
+        "Une pensée qui ne contient aucune trace de doute personnel",
+        "Une vérité qui a été confirmée par les cinq sens humains"
+      ],
+      "correctIndex": 0,
+      "explanation": "Descartes définit la clarté comme une connaissance 'présente et manifeste à un esprit attentif'."
+    },
+    {
+      "id": "q19",
+      "prompt": "Quelle est la définition d'une idée 'distincte' chez Descartes ?",
+      "choices": [
+        "Une idée précise qui ne comprend que ce qui lui appartient",
+        "Une idée qui est partagée par une distinction sociale élevée",
+        "Une idée qui se sépare de la réalité pour devenir abstraite",
+        "Une idée qui a été isolée en laboratoire pour être étudiée",
+        "Une idée qui semble différente à chaque nouvel observateur"
+      ],
+      "correctIndex": 0,
+      "explanation": "Une idée est distincte quand elle est tellement précise qu'elle ne comprend en soi que ce qui lui appartient, sans confusion."
+    },
+    {
+      "id": "q20",
+      "prompt": "Quel problème pose l'évidence comme critère absolu de vérité ?",
+      "choices": [
+        "Deux personnes peuvent avoir des évidences non concordantes",
+        "L'évidence demande trop de temps de réflexion pour être utile",
+        "L'évidence est réservée uniquement aux mathématiciens de génie",
+        "L'évidence empêche de ressentir des sentiments ou des émotions",
+        "L'évidence est toujours le résultat d'un long calcul logique"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le document note que deux personnes peuvent avoir des idées claires et distinctes sur un objet sans qu'elles soient concordantes."
+    },
+    {
+      "id": "q21",
+      "prompt": "Quelle distinction le texte fait-il entre évidences logiques et empiriques ?",
+      "choices": [
+        "Les logiques sont à priori, les empiriques exigent l'expérience",
+        "Les logiques sont fausses, les empiriques sont toujours vraies",
+        "Les logiques sont collectives, les empiriques sont individuelles",
+        "Les logiques sont sensibles, les empiriques sont purement mentales",
+        "Les logiques sont incertaines, les empiriques sont définitives"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte distingue les évidences logiques (à priori, rationnelles) des évidences empiriques (faisant l'objet d'expérience)."
+    },
+    {
+      "id": "q22",
+      "prompt": "Pourquoi le sentiment d'évidence est-il jugé insuffisant pour la vérité ?",
+      "choices": [
+        "Parce qu'il est subjectif et peut porter sur des idées fausses",
+        "Parce qu'il est trop difficile à atteindre pour l'homme ordinaire",
+        "Parce qu'il change systématiquement selon l'heure de la journée",
+        "Parce qu'il s'oppose aux principes fondamentaux de la logique",
+        "Parce qu'il nécessite l'utilisation d'outils techniques complexes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte souligne que le sentiment d'évidence est subjectif et que certaines idées semblent évidentes alors qu'elles sont fausses."
+    },
+    {
+      "id": "q23",
+      "prompt": "Quel est l'impact de l'habitude sur notre perception de l'évidence ?",
+      "choices": [
+        "Les idées habituelles nous semblent évidentes, les neuves non",
+        "L'habitude détruit toute possibilité de ressentir de l'évidence",
+        "L'habitude rend les idées novatrices plus claires que les anciennes",
+        "L'habitude permet de vérifier objectivement la vérité d'une idée",
+        "L'habitude transforme toute opinion en une connaissance scientifique"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les idées dont nous avons l'habitude nous semblent évidentes alors que les idées novatrices ne le semblent pas."
+    },
+    {
+      "id": "q24",
+      "prompt": "Pourquoi la thèse de la vérité comme 'copie du réel' est-elle critiquée ?",
+      "choices": [
+        "Nos idées sont construites et reposent sur des abstractions",
+        "La réalité est trop simple pour être copiée par l'esprit humain",
+        "La copie du réel demande une mémoire visuelle parfaite",
+        "Le réel n'existe pas en dehors des idées que nous nous en faisons",
+        "La science refuse d'utiliser des instruments de mesure techniques"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cette thèse est insatisfaisante car nos idées sont construites et reposent souvent sur des instruments et des conventions."
+    },
+    {
+      "id": "q25",
+      "prompt": "En quoi la mesure de la température est-elle une convention ?",
+      "choices": [
+        "Elle repose sur un système défini par la science, non sur le réel brut",
+        "Elle change selon que l'on utilise un thermomètre ou ses mains",
+        "Elle est décidée par un vote majoritaire des citoyens chaque année",
+        "Elle dépend uniquement du sentiment de chaleur de l'observateur",
+        "Elle ne peut pas être vérifiée par d'autres scientifiques étrangers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que la mesure de la température est une convention scientifique, et non une donnée brute de la réalité."
+    },
+    {
+      "id": "q26",
+      "prompt": "Selon le critère pragmatique, quand une idée est-elle dite 'vraie' ?",
+      "choices": [
+        "Quand elle est utile, efficace pour agir ou procure de la joie",
+        "Quand elle est validée par une démonstration logique formelle",
+        "Quand elle correspond exactement à une image mentale du réel",
+        "Quand elle est acceptée par l'ensemble de la communauté savante",
+        "Quand elle ne produit aucun effet visible sur le monde extérieur"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dans cette thèse, la vérité serait l'idée la plus utile, la plus efficace pour agir (réussite, joie, action)."
+    },
+    {
+      "id": "q27",
+      "prompt": "Quel exemple artistique est utilisé pour illustrer l'efficacité d'une idée ?",
+      "choices": [
+        "Le tableau 'Derby d'Epsom' représentant le galop des chevaux",
+        "La sculpture d'un lion par un artiste célèbre du 19ème siècle",
+        "Un poème symphonique imitant les bruits de la nature sauvage",
+        "La construction d'une cathédrale gothique au Moyen-Âge",
+        "Une photographie moderne retouchée par un logiciel numérique"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le peintre du 'Derby d'Epsom' réussit à donner l'impression du galop, rendant sa représentation 'efficace'."
+    },
+    {
+      "id": "q28",
+      "prompt": "Quel est l'un des problèmes majeurs du critère de l'efficacité ?",
+      "choices": [
+        "Une idée efficace n'est pas nécessairement une idée vraie",
+        "L'efficacité est une notion qui n'existe pas dans les sciences",
+        "L'efficacité demande trop de ressources financières pour être jugée",
+        "Une idée efficace est toujours trop complexe pour être comprise",
+        "L'efficacité empêche toute action concrète dans le monde réel"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'un des problèmes cités est que 'les idées efficaces ne sont pas nécessairement vraies'."
+    },
+    {
+      "id": "q29",
+      "prompt": "Quel risque court-on en jugeant la vérité uniquement par l'efficacité ?",
+      "choices": [
+        "Ne plus chercher l'objectivité mais seulement les conséquences",
+        "Devenir trop rigoureux dans l'explication scientifique des faits",
+        "Perdre tout intérêt pour les bénéfices pratiques de nos actions",
+        "Confondre systématiquement la joie avec la douleur physique",
+        "Accorder trop d'importance à la vérification matérielle des idées"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le risque est de ne plus chercher l'objectivité ni l'explication des faits pour se préoccuper seulement des conséquences."
+    },
+    {
+      "id": "q30",
+      "prompt": "Sur quoi repose une démonstration ?",
+      "choices": [
+        "Sur des raisonnements logiques sans besoin de preuve matérielle",
+        "Sur l'accumulation de témoignages humains dignes de confiance",
+        "Sur la force physique de celui qui expose ses propres idées",
+        "Sur l'observation répétée de phénomènes naturels inexpliqués",
+        "Sur une adhésion émotionnelle forte à une cause politique"
+      ],
+      "correctIndex": 0,
+      "explanation": "La démonstration repose sur des raisonnements et vise l'adhésion par la force de sa construction, sans preuve matérielle."
+    },
+    {
+      "id": "q31",
+      "prompt": "Quelle est la structure classique d'un syllogisme ?",
+      "choices": [
+        "Phrase générale - cas particulier - conclusion",
+        "Hypothèse - expérimentation - rejet des faits",
+        "Opinion - doute systématique - certitude absolue",
+        "Observation - mesure technique - loi universelle",
+        "Sentiment - expression orale - partage collectif"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le syllogisme a la forme : Phrase générale - cas particulier - conclusion."
+    },
+    {
+      "id": "q32",
+      "prompt": "Comment est défini un 'sophisme' dans le document ?",
+      "choices": [
+        "Un raisonnement fallacieux qui semble valide en apparence",
+        "Une vérité scientifique complexe accessible aux seuls initiés",
+        "Une méthode de calcul mathématique utilisée dans l'antiquité",
+        "Une erreur de perception due à un mauvais fonctionnement des sens",
+        "Une figure de style visant à embellir un texte littéraire"
+      ],
+      "correctIndex": 0,
+      "explanation": "Un sophisme est un raisonnement qui semble valide mais qui est fallacieux, contenant une erreur logique cachée."
+    },
+    {
+      "id": "q33",
+      "prompt": "En quoi consiste le sophisme de l'argumentation 'ad populum' ?",
+      "choices": [
+        "Croire qu'une idée est vraie parce que beaucoup y croient",
+        "Affirmer qu'une idée est fausse car elle déplaît à la majorité",
+        "Imposer une opinion par la menace d'une sanction populaire",
+        "Réduire un débat complexe à un choix entre deux options",
+        "Utiliser un langage vulgaire pour séduire un public ignorant"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'argumentation ad populum consiste à dire que c'est vrai parce que des millions de personnes le pensent."
+    },
+    {
+      "id": "q34",
+      "prompt": "Qu'est-ce qu'un 'faux dilemme' ?",
+      "choices": [
+        "Réduire un choix à deux options en dissimulant les autres",
+        "Hésiter indéfiniment entre deux vérités également prouvées",
+        "Proposer deux solutions qui sont en réalité identiques",
+        "Demander à quelqu'un de choisir une option qu'il déteste",
+        "Affirmer que deux idées contradictoires sont toutes deux fausses"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le faux dilemme consiste à proposer deux options comme les seules possibles, alors qu'il en existe d'autres."
+    },
+    {
+      "id": "q35",
+      "prompt": "Quelle est la limite principale de la démonstration logique ?",
+      "choices": [
+        "Elle peut être logiquement correcte sans correspondre au réel",
+        "Elle est impossible à comprendre sans diplôme universitaire",
+        "Elle ne permet jamais d'obtenir l'adhésion d'un autre esprit",
+        "Elle repose exclusivement sur des impressions sensorielles floues",
+        "Elle change de validité selon la langue utilisée pour l'exposer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte note qu'une démonstration peut être correcte logiquement mais ne pas correspondre à la réalité."
+    },
+    {
+      "id": "q36",
+      "prompt": "Pourquoi nos sens sont-ils considérés comme des accès limités au réel ?",
+      "choices": [
+        "Ils sont subjectifs et moins précis que ceux de certains animaux",
+        "Ils disparaissent totalement lorsque nous commençons à réfléchir",
+        "Ils ne nous permettent pas de percevoir les couleurs primaires",
+        "Ils sont réservés à l'observation des objets créés par l'homme",
+        "Ils nous donnent des informations trop nombreuses pour être traitées"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que les sens sont subjectifs, peu précis et dépassés par les capacités de certains animaux."
+    },
+    {
+      "id": "q37",
+      "prompt": "Quelle est la différence entre une illusion et une erreur ?",
+      "choices": [
+        "L'illusion persiste même quand on sait qu'elle est fausse",
+        "L'erreur est volontaire alors que l'illusion est subie",
+        "L'illusion est collective alors que l'erreur est individuelle",
+        "L'erreur concerne les chiffres et l'illusion les images",
+        "L'illusion disparaît immédiatement dès qu'on la comprend"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le document précise que 'l'illusion persiste même quand on sait qu'elle est fausse', contrairement à l'erreur."
+    },
+    {
+      "id": "q38",
+      "prompt": "Quelle est la position du scepticisme vis-à-vis de la vérité ?",
+      "choices": [
+        "Il défend le doute car la vérification absolue est impossible",
+        "Il affirme que la vérité est atteinte par une foi religieuse intense",
+        "Il soutient que chaque individu possède sa propre vérité absolue",
+        "Il considère que la science a déjà découvert toutes les vérités",
+        "Il refuse de poser la moindre question sur la nature de la réalité"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le scepticisme défend le doute comme moyen de ne pas accepter d'idées faute de vérifications possibles."
+    },
+    {
+      "id": "q39",
+      "prompt": "Comment est défini le dogmatisme dans le cours ?",
+      "choices": [
+        "Affirmer une idée de façon péremptoire sans remise en question",
+        "Douter de tout systématiquement pour éviter toute erreur",
+        "Utiliser des méthodes scientifiques pour prouver ses opinions",
+        "Rechercher constamment l'accord de la majorité des citoyens",
+        "Changer d'avis fréquemment selon les nouvelles expériences"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le dogmatisme est une attitude qui consiste à affirmer une idée de façon péremptoire sans accepter de remise en question."
+    },
+    {
+      "id": "q40",
+      "prompt": "Pourquoi l'attitude sceptique peut-elle être qualifiée de paralysante ?",
+      "choices": [
+        "Faute de certitude, elle peut rendre toute action impossible",
+        "Elle oblige à rester immobile pendant les phases de doute",
+        "Elle empêche le cerveau de fonctionner de manière biologique",
+        "Elle interdit toute communication avec les autres êtres humains",
+        "Elle provoque une peur irrationnelle face aux découvertes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte mentionne que l'attitude sceptique peut être paralysante car sans connaissance certaine, il serait impossible d'agir."
+    },
+    {
+      "id": "q41",
+      "prompt": "Que soutient Montaigne concernant la vie courante ?",
+      "choices": [
+        "Il faut se contenter des idées vraisemblables pour agir",
+        "Il ne faut jamais agir sans avoir une preuve mathématique",
+        "Il faut suivre uniquement les dogmes de l'Église établie",
+        "Il faut ignorer la réalité pour se concentrer sur ses rêves",
+        "Il faut rejeter toute idée qui n'est pas évidente pour tous"
+      ],
+      "correctIndex": 0,
+      "explanation": "Montaigne soutient que dans la vie courante, il faut se contenter des idées vraisemblables pour pouvoir agir."
+    },
+    {
+      "id": "q42",
+      "prompt": "Sur qui pèse la charge de la preuve selon la conclusion du chapitre ?",
+      "choices": [
+        "Sur la personne qui propose une idée nouvelle",
+        "Sur l'ensemble des citoyens qui écoutent un discours",
+        "Sur les experts chargés de vérifier toutes les opinions",
+        "Sur les institutions politiques qui valident les savoirs",
+        "Sur personne, car la vérité s'impose toujours d'elle-même"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte affirme que 'La charge de la preuve de la vérité d'une idée pèse sur la personne qui propose cette idée'."
+    },
+    {
+      "id": "q43",
+      "prompt": "Quelle est la définition de 'persuader' selon le texte ?",
+      "choices": [
+        "Chercher l'adhésion en jouant sur les passions et sentiments",
+        "Utiliser des arguments rationnels pour convaincre un public",
+        "Démontrer mathématiquement la validité d'une proposition",
+        "Forcer quelqu'un à changer d'avis par la violence physique",
+        "Expliquer les causes scientifiques d'un phénomène naturel"
+      ],
+      "correctIndex": 0,
+      "explanation": "Persuader consiste à chercher l'adhésion par un discours jouant sur les passions et les sentiments."
+    },
+    {
+      "id": "q44",
+      "prompt": "En quoi consiste l'action de 'convaincre' ?",
+      "choices": [
+        "Obtenir l'adhésion par des arguments et une démarche rationnelle",
+        "Séduire l'auditoire par la beauté du langage et de la rhétorique",
+        "Imposer son point de vue sans accepter aucune discussion",
+        "Répéter une idée jusqu'à ce qu'elle soit admise par habitude",
+        "Cacher la vérité pour protéger les sentiments des auditeurs"
+      ],
+      "correctIndex": 0,
+      "explanation": "Convaincre consiste à obtenir l'adhésion à une idée par des arguments et en procédant de façon rationnelle."
+    },
+    {
+      "id": "q45",
+      "prompt": "Quelle est la caractéristique d'un discours de connaissances ?",
+      "choices": [
+        "Il cherche à expliquer la réalité et à prouver ses idées",
+        "Il vise uniquement à plaire au public par de beaux discours",
+        "Il se contente de donner une opinion sans aucune preuve",
+        "Il refuse systématiquement d'utiliser la raison ou la logique",
+        "Il s'appuie exclusivement sur des sentiments personnels flous"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le discours de connaissances cherche à expliquer, donner les causes d'un phénomène et prouver les idées avancées."
+    },
+    {
+      "id": "q46",
+      "prompt": "Que signifie le terme 'Nécessaire' dans le contexte du cours ?",
+      "choices": [
+        "Ce qui ne peut pas ne pas être ou ne pas arriver",
+        "Ce qui est utile pour la survie biologique de l'individu",
+        "Ce qui est souhaitable pour le bien-être de la société",
+        "Ce qui a été voté par la majorité des représentants",
+        "Ce qui est facile à comprendre pour un esprit inattentif"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le nécessaire est défini comme 'Ce qui ne peut pas ne pas être. Il est impossible que cela n'arrive pas'."
+    },
+    {
+      "id": "q47",
+      "prompt": "Quelle est la première étape du modèle hypothético-déductif ?",
+      "choices": [
+        "La rencontre de phénomènes inexpliqués et la construction du problème",
+        "La formulation d'une hypothèse définitive et irréfutable par tous",
+        "L'élaboration d'un protocole expérimental sans idée préalable",
+        "Le rejet systématique de toutes les observations sensorielles",
+        "La conclusion finale basée sur un sentiment de certitude absolue"
+      ],
+      "correctIndex": 0,
+      "explanation": "La première étape (a) est la rencontre de phénomènes inexpliqués et la construction du problème."
+    },
+    {
+      "id": "q48",
+      "prompt": "Que signifie le fait qu'une hypothèse soit 'corroborée' ?",
+      "choices": [
+        "Elle est acceptée car elle n'a pas été infirmée par le test",
+        "Elle est définitivement prouvée comme une vérité éternelle",
+        "Elle est rejetée car elle ne correspond pas du tout à la réalité",
+        "Elle est transformée en une opinion subjective pour le public",
+        "Elle est simplifiée pour être comprise par les enfants"
+      ],
+      "correctIndex": 0,
+      "explanation": "Une hypothèse corroborée signifie qu'on va l'accepter suite à la confrontation avec la réalité."
+    }
+  ]
+}
