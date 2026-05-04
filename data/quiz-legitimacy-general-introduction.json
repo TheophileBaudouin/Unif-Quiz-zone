@@ -1,0 +1,534 @@
+{
+  "quizId": "legitimacy-general-intro-001",
+  "title": "Introduction Générale : Les Dimensions de la Légitimité",
+  "section": {
+    "id": "legitimacy-general-introduction",
+    "title": "Introduction Générale : La légitimité en sciences, en politiques et dans l’intervention économique et sociale",
+    "startPage": 5,
+    "endPage": 7,
+    "summary": "Ce module explore les fondements de la pratique philosophique par le logos, définit les concepts de légitimité, légalité et efficacité, et examine les tensions entre savoir expert, décision démocratique et justice sociale.",
+    "estimatedQuestionCount": 15
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon le texte, quelle est la première étape pour devenir philosophe ?",
+      "choices": [
+        "Percevoir les limites de sa propre intelligence",
+        "Accumuler un maximum de connaissances théoriques",
+        "Défendre fermement ses opinions face aux autres",
+        "Ignorer les questionnements sur le monde actuel",
+        "Mémoriser l'intégralité des discours historiques"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique qu'être philosophe c'est percevoir les limites de son intelligence et continuer à s'interroger."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quelle forme d'attitude définit la démarche du philosophe s'interrogeant sur le monde ?",
+      "choices": [
+        "Une attitude caractérisée par la curiosité",
+        "Une attitude caractérisée par le scepticisme",
+        "Une attitude caractérisée par la neutralité",
+        "Une attitude caractérisée par la certitude",
+        "Une attitude caractérisée par la passivité"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que s'interroger sur le monde est une forme d'attitude liée à la curiosité."
+    },
+    {
+      "id": "q3",
+      "prompt": "Dans le contexte de la philosophie, que représente le concept grec de 'logos' ?",
+      "choices": [
+        "La faculté spécifique utilisée pour philosopher",
+        "La méthode de récitation des textes anciens",
+        "Le rejet systématique des idées abstraites",
+        "L'accumulation passive de faits scientifiques",
+        "La suppression totale de l'intelligence humaine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte présente le logos comme la faculté pour philosopher."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel est le premier sens du terme 'logos' mentionné dans le document ?",
+      "choices": [
+        "La raison, identifiée comme l'intelligence",
+        "Le sentiment, identifié comme l'intuition",
+        "La morale, identifiée comme la conscience",
+        "Le dogme, identifié comme la conviction",
+        "Le corps, identifié comme la sensation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte définit le premier sens du logos comme la raison : l'intelligence."
+    },
+    {
+      "id": "q5",
+      "prompt": "De quoi l'intelligence (la raison) doit-elle se différencier selon la définition du logos ?",
+      "choices": [
+        "Elle se différencie de l'imagination",
+        "Elle se différencie de l'observation",
+        "Elle se différencie de la déduction",
+        "Elle se différencie de l'explication",
+        "Elle se différencie de la validation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le document précise que la raison (l'intelligence) se différencie de l'imagination."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quel est le second sens du terme 'logos' selon le cours ?",
+      "choices": [
+        "Le langage utilisant des concepts abstraits",
+        "Le silence permettant la méditation pure",
+        "Le dessin représentant la réalité physique",
+        "Le calcul mesurant les données chiffrées",
+        "Le cri exprimant une émotion instinctive"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le deuxième sens du logos est le langage qui utilise des concepts."
+    },
+    {
+      "id": "q7",
+      "prompt": "Comment le texte définit-il un 'concept' ?",
+      "choices": [
+        "Une idée abstraite et générale de la pensée",
+        "Une image concrète et précise des objets",
+        "Une règle juridique imposée par la société",
+        "Une émotion passagère ressentie par l'individu",
+        "Une donnée numérique issue d'une expérience"
+      ],
+      "correctIndex": 0,
+      "explanation": "Un concept est défini comme une idée abstraite et générale qui est un outil de la pensée."
+    },
+    {
+      "id": "q8",
+      "prompt": "Quelle est la fonction principale d'un concept dans la démarche intellectuelle ?",
+      "choices": [
+        "Servir d'outil pour comprendre la réalité",
+        "Remplacer l'observation des faits réels",
+        "Simplifier excessivement les débats vagues",
+        "Empêcher le développement des arguments",
+        "Limiter la capacité de réflexion critique"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le concept est décrit comme un outil de la pensée pour comprendre la réalité."
+    },
+    {
+      "id": "q9",
+      "prompt": "Qu'est-ce qui ne constitue PAS l'action de philosopher selon l'auteur ?",
+      "choices": [
+        "Réciter ce que les autres auteurs ont dit",
+        "Développer des arguments pour des problèmes",
+        "Travailler rigoureusement sur des concepts",
+        "Participer à des dialogues constructifs",
+        "Pratiquer un questionnement permanent"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte affirme que philosopher ce n'est pas réciter ce que les autres ont dit."
+    },
+    {
+      "id": "q10",
+      "prompt": "Dans quels types de contextes l'activité philosophique se déploie-t-elle principalement ?",
+      "choices": [
+        "Dans des dialogues et des questionnements",
+        "Dans des laboratoires et des expériences",
+        "Dans des archives et des classifications",
+        "Dans des monologues et des affirmations",
+        "Dans des tribunaux et des jugements clos"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'activité se fait surtout dans des dialogues, des questionnements, etc."
+    },
+    {
+      "id": "q11",
+      "prompt": "Quels sont les trois domaines d'application de la légitimité abordés dans l'introduction ?",
+      "choices": [
+        "Les sciences, la politique et l'économie",
+        "L'art, la religion et la psychologie",
+        "Le droit, l'histoire et la géographie",
+        "La morale, la technique et la littérature",
+        "La biologie, la physique et la chimie"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'introduction traite de la légitimité en sciences, en politiques et dans l'intervention économique et sociale."
+    },
+    {
+      "id": "q12",
+      "prompt": "Que désigne la 'légitimité épistémique' selon les questions de l'introduction ?",
+      "choices": [
+        "La légitimité pour dire le vrai scientifique",
+        "La légitimité pour lever des taxes sociales",
+        "La légitimité pour voter des lois nationales",
+        "La légitimité pour juger les délits civils",
+        "La légitimité pour diriger les forces armées"
+      ],
+      "correctIndex": 0,
+      "explanation": "La légitimité épistémique concerne celui qui a la légitimité pour dire ce qui est scientifiquement vrai."
+    },
+    {
+      "id": "q13",
+      "prompt": "À quoi correspond la question : 'Qui a la légitimité pour décider des politiques ?'",
+      "choices": [
+        "Il s'agit de la légitimité politique",
+        "Il s'agit de la légitimité du savoir",
+        "Il s'agit de la légitimité économique",
+        "Il s'agit de la légitimité scientifique",
+        "Il s'agit de la légitimité individuelle"
+      ],
+      "correctIndex": 0,
+      "explanation": "La question sur la décision des politiques renvoie à la légitimité politique."
+    },
+    {
+      "id": "q14",
+      "prompt": "Au nom de quoi l'intervention sociale dans l'économie est-elle questionnée ?",
+      "choices": [
+        "Au nom de la notion de justice climatique",
+        "Au nom de la rentabilité des entreprises",
+        "Au nom de la préservation des traditions",
+        "Au nom de l'augmentation des profits boursiers",
+        "Au nom de la rapidité des échanges locaux"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'intervention sociale (limiter des activités, taxer) est questionnée au nom de la justice climatique."
+    },
+    {
+      "id": "q15",
+      "prompt": "Quelle est la définition générale de la légitimité fournie dans le document ?",
+      "choices": [
+        "Le caractère de ce qui est juste et justifié",
+        "Le caractère de ce qui est ancien et stable",
+        "Le caractère de ce qui est complexe et secret",
+        "Le caractère de ce qui est imposé par la force",
+        "Le caractère de ce qui est populaire et viral"
+      ],
+      "correctIndex": 0,
+      "explanation": "La légitimité est définie comme le caractère de ce qui est juste et justifié auprès des personnes soumises à la décision."
+    },
+    {
+      "id": "q16",
+      "prompt": "À quelle condition idéale une décision est-elle considérée comme légitime ?",
+      "choices": [
+        "Si les personnes soumises pourraient l'accepter",
+        "Si la décision est appliquée avec une grande force",
+        "Si personne ne comprend les raisons de l'acte",
+        "Si elle ne profite qu'à une minorité d'individus",
+        "Si elle est prise sans aucune explication préalable"
+      ],
+      "correctIndex": 0,
+      "explanation": "Idéalement, une décision est légitime si les personnes soumises à l'acte pourraient l'accepter."
+    },
+    {
+      "id": "q17",
+      "prompt": "Quand peut-on dire concrètement qu'une décision est légitime ?",
+      "choices": [
+        "Quand on explique les raisons et qu'elles sont justes",
+        "Quand le public ignore totalement les motifs du choix",
+        "Quand la décision est prise de manière très aléatoire",
+        "Quand seul le résultat financier est pris en compte",
+        "Quand elle contredit les principes de justice de base"
+      ],
+      "correctIndex": 0,
+      "explanation": "Une décision est légitime quand on en explique les raisons et qu'elles sont justes."
+    },
+    {
+      "id": "q18",
+      "prompt": "En quoi consiste le 'droit' associé à la légitimité selon la page 6 ?",
+      "choices": [
+        "Le droit d'exercer un pouvoir de gouvernement",
+        "Le droit d'ignorer les règles établies par la loi",
+        "Le droit d'imposer des opinions sans justification",
+        "Le droit de censurer toute forme de communication",
+        "Le droit de posséder toutes les ressources vitales"
+      ],
+      "correctIndex": 0,
+      "explanation": "La légitimité est le droit d'exercer un pouvoir qui peut être de gouverner ou de définir les connaissances."
+    },
+    {
+      "id": "q19",
+      "prompt": "Quelle est la définition précise de la 'légalité' ?",
+      "choices": [
+        "Une décision ou un acte conforme à la loi",
+        "Une décision ou un acte qui semble moralement bon",
+        "Une décision ou un acte qui est toujours efficace",
+        "Une décision ou un acte approuvé par les experts",
+        "Une décision ou un acte qui est refusé par le peuple"
+      ],
+      "correctIndex": 0,
+      "explanation": "La légalité est définie comme une décision ou un acte conforme à la loi."
+    },
+    {
+      "id": "q20",
+      "prompt": "Dans l'exemple du feu vert, pourquoi l'acte est-il considéré comme légitime en plus d'être légal ?",
+      "choices": [
+        "Parce qu'il assure la sécurité des passants",
+        "Parce qu'il permet de rouler à grande vitesse",
+        "Parce qu'il est mentionné dans l'histoire ancienne",
+        "Parce qu'il ne nécessite aucune infrastructure technique",
+        "Parce qu'il est totalement ignoré par les piétons"
+      ],
+      "correctIndex": 0,
+      "explanation": "Passer au vert est légal, mais aussi légitime car cela concerne la sécurité des passants."
+    },
+    {
+      "id": "q21",
+      "prompt": "Comment est définie l'efficacité dans le cours ?",
+      "choices": [
+        "L'aptitude à accomplir une tâche avec succès",
+        "Le caractère moral d'une action désintéressée",
+        "Le respect strict des procédures administratives",
+        "La capacité d'une loi à être aimée par le public",
+        "La conformité d'un acte avec les textes religieux"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'efficacité est l'aptitude d'une personne ou décision à accomplir sa tâche avec succès et produire les effets attendus."
+    },
+    {
+      "id": "q22",
+      "prompt": "Pourquoi une loi interdisant les drogues peut-elle être jugée inefficace ?",
+      "choices": [
+        "Parce qu'il existe encore des vendeurs illégaux",
+        "Parce qu'elle est jugée injuste par les citoyens",
+        "Parce qu'elle n'est pas écrite dans la Constitution",
+        "Parce qu'elle est trop compliquée à lire pour tous",
+        "Parce qu'elle ne définit pas le terme de drogue"
+      ],
+      "correctIndex": 0,
+      "explanation": "Une loi peut être inefficace s'il y a encore des dealeurs malgré l'interdiction."
+    },
+    {
+      "id": "q23",
+      "prompt": "Quel exemple illustre une mesure efficace mais non légitime ?",
+      "choices": [
+        "L'interdiction de toute opposition politique",
+        "Le passage au feu rouge par une ambulance",
+        "L'autorisation du commerce des produits bio",
+        "Le vote d'une taxe sur la pollution industrielle",
+        "La création d'un parc naturel protégé par l'État"
+      ],
+      "correctIndex": 0,
+      "explanation": "Interdire l'opposition politique serait efficace pour maintenir le pouvoir mais ne serait pas légitime."
+    },
+    {
+      "id": "q24",
+      "prompt": "Que cherche-t-on à distinguer prioritairement dans la légitimité épistémique ?",
+      "choices": [
+        "La connaissance de la simple opinion",
+        "La science fondamentale de la technologie",
+        "Le prix des livres de la qualité du texte",
+        "Le titre des experts de leur âge réel",
+        "La longueur du discours de son volume sonore"
+      ],
+      "correctIndex": 0,
+      "explanation": "La légitimité épistémique concerne la distinction entre la connaissance et l'opinion, ou la vérité et l'erreur."
+    },
+    {
+      "id": "q25",
+      "prompt": "Quelle question soulève le débat entre un climatologue et un éditorialiste ?",
+      "choices": [
+        "Leurs paroles ont-elles la même nature ?",
+        "Leurs salaires sont-ils équivalents en banque ?",
+        "Leurs vêtements sont-ils adaptés au studio ?",
+        "Leurs familles habitent-elles la même ville ?",
+        "Leurs préférences alimentaires sont-elles connues ?"
+      ],
+      "correctIndex": 0,
+      "explanation": "La question posée est de savoir si la parole d'un climatologue et d'un éditorialiste ont la même nature."
+    },
+    {
+      "id": "q26",
+      "prompt": "Quel constat le texte fait-il à propos des discours scientifiques ?",
+      "choices": [
+        "Ils sont parfois remis en cause et faillibles",
+        "Ils sont toujours parfaits et sans aucune erreur",
+        "Ils sont uniquement destinés aux politiciens",
+        "Ils sont impossibles à comprendre pour les experts",
+        "Ils sont basés sur des opinions purement locales"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte constate que certains discours scientifiques sont remis en cause, questionnant s'ils sont dénués d'erreurs."
+    },
+    {
+      "id": "q27",
+      "prompt": "Que signifie littéralement le terme 'Démos-Cratos' ?",
+      "choices": [
+        "Le pouvoir qui appartient au peuple",
+        "La loi qui appartient aux plus riches",
+        "Le savoir qui appartient aux savants",
+        "La force qui appartient aux militaires",
+        "La justice qui appartient aux magistrats"
+      ],
+      "correctIndex": 0,
+      "explanation": "Démos-Cratos signifie que le pouvoir appartient au peuple."
+    },
+    {
+      "id": "q28",
+      "prompt": "Quelle complication apparaît dans la démocratie des sociétés modernes ?",
+      "choices": [
+        "Les citoyens n'ont pas tous les mêmes avis",
+        "Les citoyens refusent de voter pour les experts",
+        "Les citoyens sont tous des experts scientifiques",
+        "Les citoyens n'ont plus le droit de s'exprimer",
+        "Les citoyens vivent tous dans la même ville"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dans nos sociétés, il y a des milliers de citoyens qui n'ont pas les mêmes avis."
+    },
+    {
+      "id": "q29",
+      "prompt": "Quel dilemme pose le recours aux experts dans une démocratie ?",
+      "choices": [
+        "La question de savoir si on est encore en démocratie",
+        "La question du coût financier des rapports d'experts",
+        "La question de la langue utilisée par les savants",
+        "La question de l'âge minimum pour devenir expert",
+        "La question de la localisation des centres d'expertise"
+      ],
+      "correctIndex": 0,
+      "explanation": "Si on donne le pouvoir aux experts car les citoyens n'ont pas la connaissance poussée, est-ce encore une démocratie ?"
+    },
+    {
+      "id": "q30",
+      "prompt": "Quelle question centrale concerne la légitimité de l'intervention socio-économique ?",
+      "choices": [
+        "Quand est-il légitime de corriger les inégalités ?",
+        "Quand est-il rentable de supprimer les impôts ?",
+        "Quand est-il possible de doubler la production ?",
+        "Quand est-il nécessaire d'arrêter tout commerce ?",
+        "Quand est-il utile de changer de monnaie nationale ?"
+      ],
+      "correctIndex": 0,
+      "explanation": "La question est : Quand est-il légitime d'intervenir pour corriger les inégalités produites dans la société ?"
+    },
+    {
+      "id": "q31",
+      "prompt": "Que questionne-t-on à propos des inégalités d'accès au logement ou aux soins ?",
+      "choices": [
+        "Si elles sont le fruit du hasard ou du mérite",
+        "Si elles sont calculées par des ordinateurs",
+        "Si elles sont évitables par le simple voyage",
+        "Si elles sont décrites par des poètes anciens",
+        "Si elles sont la conséquence du relief naturel"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte demande si ces inégalités sont le fruit du hasard ou le résultat d'un mérite individuel."
+    },
+    {
+      "id": "q32",
+      "prompt": "Quelle vision définit une société où l'on redistribue les richesses ?",
+      "choices": [
+        "Une société cherchant l'égalisation totale",
+        "Une société cherchant la liberté individuelle pure",
+        "Une société cherchant la compétition extrême",
+        "Une société cherchant l'isolement géographique",
+        "Une société cherchant la conservation du passé"
+      ],
+      "correctIndex": 0,
+      "explanation": "C'est une société dans laquelle il faut redistribuer les richesses pour que tout soit égalisé."
+    },
+    {
+      "id": "q33",
+      "prompt": "Quel est l'enjeu du lien entre légitimité épistémique et politique ?",
+      "choices": [
+        "Si le savoir expert doit entraîner le pouvoir",
+        "Si le pouvoir doit décider des lois de la physique",
+        "Si le savoir doit être caché au grand public",
+        "Si les experts doivent être élus au suffrage direct",
+        "Si la politique doit supprimer les universités"
+      ],
+      "correctIndex": 0,
+      "explanation": "La question est de savoir si la légitimité épistémique (savoir expert) entraîne la légitimité politique."
+    },
+    {
+      "id": "q34",
+      "prompt": "Que signifie l'idée que la majorité est toujours limitée dans son pouvoir ?",
+      "choices": [
+        "Qu'elle doit respecter des principes de justice",
+        "Qu'elle ne peut pas voter plus d'une fois par an",
+        "Qu'elle doit avoir l'accord de pays étrangers",
+        "Qu'elle ne peut pas modifier les lois budgétaires",
+        "Qu'elle doit être composée de moins de mille gens"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cela signifie que la décision de la majorité doit reposer sur des principes de justice qu'elle doit respecter."
+    },
+    {
+      "id": "q35",
+      "prompt": "Qui est cité comme pouvant légitimement définir une société juste ?",
+      "choices": [
+        "Les philosophes, économistes et citoyens ordinaires",
+        "Les militaires, les sportifs et les acteurs célèbres",
+        "Les rois, les empereurs et les chefs de tribus",
+        "Les algorithmes, les robots et les serveurs web",
+        "Les ancêtres, les prophètes et les devins antiques"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte mentionne les philosophes, les économistes et les citoyens ordinaires pour cette définition."
+    },
+    {
+      "id": "q36",
+      "prompt": "Comment la vérité est-elle définie en première analyse (Chapitre 1) ?",
+      "choices": [
+        "Une idée ou phrase conforme à la réalité",
+        "Une sensation physique de chaleur ou de froid",
+        "Une opinion partagée par le plus grand nombre",
+        "Une émotion forte ressentie lors d'une action",
+        "Une règle mathématique sans lien avec le réel"
+      ],
+      "correctIndex": 0,
+      "explanation": "La vérité prend la forme d'une idée ou de phrases conformes à la réalité."
+    },
+    {
+      "id": "q37",
+      "prompt": "Quelle distinction le texte impose-t-il de ne pas confondre ?",
+      "choices": [
+        "La réalité et la vérité",
+        "Le langage et la parole",
+        "La loi et le règlement",
+        "Le désir et le besoin",
+        "La science et la technique"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte prévient qu'il ne faut pas confondre la réalité et la vérité."
+    },
+    {
+      "id": "q38",
+      "prompt": "Quelle caractéristique s'applique au 'réel' selon l'introduction du chapitre 1 ?",
+      "choices": [
+        "Le réel existe ou n'existe pas",
+        "Le réel est toujours une forme d'erreur",
+        "Le réel est une phrase bien construite",
+        "Le réel dépend de l'opinion de la majorité",
+        "Le réel est une invention des philosophes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le document précise que le réel existe ou n'existe pas (contrairement à la phrase qui peut être vraie ou fausse)."
+    },
+    {
+      "id": "q39",
+      "prompt": "Que peut être une phrase ou une idée si elle n'est pas la vérité ?",
+      "choices": [
+        "Elle peut être une erreur",
+        "Elle peut être une réalité",
+        "Elle peut être un fait brut",
+        "Elle peut être une preuve physique",
+        "Elle peut être un objet matériel"
+      ],
+      "correctIndex": 0,
+      "explanation": "Une phrase ou une idée peut être la vérité ou elle peut être une erreur."
+    },
+    {
+      "id": "q40",
+      "prompt": "Quel est l'objectif du 'travail des concepts' selon la définition de philosopher ?",
+      "choices": [
+        "Répondre à des problèmes philosophiques",
+        "Ignorer les contradictions de la pensée",
+        "Mémoriser les dates de naissance des auteurs",
+        "Traduire des textes sans en chercher le sens",
+        "Réduire la curiosité naturelle des individus"
+      ],
+      "correctIndex": 0,
+      "explanation": "Philosopher consiste à travailler des concepts pour développer des arguments afin de répondre à des problèmes philosophiques."
+    }
+  ]
+}
