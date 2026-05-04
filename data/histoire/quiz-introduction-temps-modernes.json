@@ -1,0 +1,533 @@
+{
+  "quizId": "introduction-temps-modernes",
+  "title": "Quiz - Les temps modernes : Introduction",
+  "section": {
+    "id": "introduction-temps-modernes",
+    "title": "Les temps modernes : Introduction",
+    "startPage": 1,
+    "endPage": 2,
+    "summary": "Définition de la période moderne, bornes chronologiques et événements fondateurs tels que les grandes découvertes, la fin de l'unité religieuse et le renforcement de l'État."
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon le cours de William Riguelle, quelle période couvre l'époque moderne ?",
+      "choices": [
+        "Du XIIe au XVIe siècle",
+        "Du XVe au XVIIIe siècle",
+        "Du XVIIe au XIXe siècle",
+        "Du Ve au XVe siècle",
+        "Du XVIIIe au XXe siècle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le texte indique explicitement que la période s'étend du XVe au XVIIIe siècle."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quel événement de 1453 est cité comme un repère possible pour le début de la période moderne ?",
+      "choices": [
+        "La découverte de l'Amérique",
+        "L'invention de l'imprimerie",
+        "La prise de Constantinople",
+        "La fin de la guerre de Cent Ans",
+        "Le début de la Réforme"
+      ],
+      "correctIndex": 2,
+      "explanation": "La prise de Constantinople est l'une des bornes chronologiques citées pour le début de la période."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel explorateur est associé à la découverte de l'Amérique en 1492 dans les repères du cours ?",
+      "choices": [
+        "Vasco de Gama",
+        "Magellan",
+        "Amerigo Vespucci",
+        "Christophe Colomb",
+        "Jacques Cartier"
+      ],
+      "correctIndex": 3,
+      "explanation": "Le texte mentionne Christophe Colomb et la découverte de l'Amérique comme un changement majeur induit en 1492."
+    },
+    {
+      "id": "q4",
+      "prompt": "Comment les historiens considèrent-ils généralement les bornes chronologiques des temps modernes ?",
+      "choices": [
+        "Elles sont fixes et indiscutables",
+        "Elles sont déterminées par une seule date mondiale",
+        "Elles sont variables et discutées",
+        "Elles ne sont basées que sur l'économie",
+        "Elles sont imposées par l'ONU"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le cours précise que 'les bornes chronologiques sont variables et discutées, tous les historiens ne sont pas d'accord'."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle est la critique majeure adressée aux balises chronologiques traditionnelles de la période moderne ?",
+      "choices": [
+        "Elles sont trop précises",
+        "Elles ne concernent que l'Asie",
+        "Elles sont trop récentes",
+        "Elles sont valables pour l'Europe mais pas pour le reste du monde",
+        "Elles ne prennent pas en compte la religion"
+      ],
+      "correctIndex": 3,
+      "explanation": "Certaines critiques soulignent que ces balises sont eurocentrées et ne s'appliquent pas forcément au reste du globe."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quel événement marque généralement la fin de la période moderne selon le texte ?",
+      "choices": [
+        "Le début de la Renaissance",
+        "La révolution française",
+        "La fin de la Seconde Guerre mondiale",
+        "La découverte de l'électricité",
+        "Le couronnement de Charlemagne"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le texte indique que la période finit généralement à la fin du 18e siècle à cause de la révolution française."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quel phénomène marque le début de la domination de l'Europe sur le monde aux temps modernes ?",
+      "choices": [
+        "La révolution industrielle",
+        "L'élargissement des horizons européens (grandes découvertes)",
+        "La chute de l'Empire romain",
+        "L'invention de l'écriture",
+        "La fin des monarchies"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les grandes découvertes marquent le début de la conquête et de la domination européenne sur le monde."
+    },
+    {
+      "id": "q8",
+      "prompt": "Quelle division religieuse apparaît en Europe durant cette période ?",
+      "choices": [
+        "Entre bouddhisme et christianisme",
+        "Entre islam et judaïsme",
+        "Entre protestantisme, catholicisme et christianisme orthodoxe",
+        "Entre athéisme et polythéisme",
+        "Entre hindouisme et sikhisme"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le texte mentionne la division entre protestantisme, catholicisme et christianisme orthodoxe suite à des abus."
+    },
+    {
+      "id": "q9",
+      "prompt": "Quelle est la conséquence directe de la fin de l'unité religieuse en Europe ?",
+      "choices": [
+        "La paix universelle",
+        "L'essor de l'athéisme",
+        "Les guerres de religion",
+        "L'unification politique de l'Europe",
+        "La disparition du Vatican"
+      ],
+      "correctIndex": 2,
+      "explanation": "La division religieuse mène aux guerres de religion mentionnées dans le texte."
+    },
+    {
+      "id": "q10",
+      "prompt": "Quelle tendance politique caractérise le renforcement de l'État aux temps modernes ?",
+      "choices": [
+        "La décentralisation du pouvoir",
+        "Le passage à la démocratie directe",
+        "La centralisation et le renforcement d'un pouvoir monarchique central",
+        "L'abolition des impôts",
+        "La disparition des frontières"
+      ],
+      "correctIndex": 2,
+      "explanation": "Les États ont tendance à se centraliser et à renforcer le pouvoir monarchique central."
+    },
+    {
+      "id": "q11",
+      "prompt": "Quel élément n'est PAS cité comme un levier de centralisation de l'État ?",
+      "choices": [
+        "L'impôt",
+        "La justice",
+        "La centralisation à la capitale",
+        "L'éducation obligatoire pour tous",
+        "Le renforcement du pouvoir monarchique"
+      ],
+      "correctIndex": 3,
+      "explanation": "L'impôt, la justice et la centralisation à la capitale sont mentionnés, mais pas l'éducation obligatoire."
+    },
+    {
+      "id": "q12",
+      "prompt": "Quels savants sont associés à la naissance de la science moderne dans le texte ?",
+      "choices": [
+        "Einstein et Newton",
+        "Darwin et Pasteur",
+        "Copernic et Galilée",
+        "Aristote et Platon",
+        "Léonard de Vinci et Michel-Ange"
+      ],
+      "correctIndex": 2,
+      "explanation": "Copernic et Galilée sont cités comme exemples pour illustrer la naissance de la science moderne."
+    },
+    {
+      "id": "q13",
+      "prompt": "Quelle est la caractéristique principale d'un 'Empire' selon la définition du cours ?",
+      "choices": [
+        "Un système démocratique basé sur le vote",
+        "Un régime autoritaire de type monarchique détenu par un empereur",
+        "Une petite cité-état indépendante",
+        "Une fédération de pays égaux sans autorité centrale",
+        "Un groupe de commerçants gérant un territoire"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'empire est défini comme un régime autoritaire de type monarchique détenu par un empereur."
+    },
+    {
+      "id": "q14",
+      "prompt": "Qu'est-ce qui distingue un empire d'un pays moderne au niveau de sa population ?",
+      "choices": [
+        "Il n'y a qu'un seul peuple homogène",
+        "Il détient plusieurs peuples différents sous une autorité centrale",
+        "La citoyenneté est interdite",
+        "Tout le monde doit parler la même langue native",
+        "Il n'y a pas d'ethnies différentes"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'empire se caractérise par la détention en son sein de plusieurs peuples différents (ethnies, cultures, religions)."
+    },
+    {
+      "id": "q15",
+      "prompt": "Quel est l'objectif de la perspective d'histoire globale prônée dans le texte ?",
+      "choices": [
+        "Se concentrer uniquement sur l'histoire de France",
+        "Promouvoir le colonialisme",
+        "Sortir d'un certain eurocentrisme",
+        "Ignorer les relations internationales",
+        "Étudier uniquement les révolutions technologiques"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'histoire globale vise à sortir de l'eurocentrisme pour montrer que l'Europe s'est construite en relation avec les autres."
+    },
+    {
+      "id": "q16",
+      "prompt": "Comment les principautés évoluent-elles au début des temps modernes ?",
+      "choices": [
+        "Elles deviennent totalement indépendantes",
+        "Elles ont tendance à se rassembler sous une autorité centrale",
+        "Elles disparaissent au profit de tribus nomades",
+        "Elles refusent de payer des impôts",
+        "Elles s'allient systématiquement aux empires asiatiques"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le texte indique qu'avant les temps modernes, les principautés existaient mais qu'elles ont tendance à se rassembler durant cette période."
+    },
+    {
+      "id": "q17",
+      "prompt": "La période moderne voit la naissance de deux grands phénomènes :",
+      "choices": [
+        "La féodalité et le servage",
+        "La science moderne et l'industrialisation",
+        "L'informatique et l'internet",
+        "Le communisme et le fascisme",
+        "Le monothéisme et l'écriture"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le texte lie la naissance de la science moderne et de l'industrialisation à cette période."
+    },
+    {
+      "id": "q18",
+      "prompt": "Quelle structure politique dominait l'époque avant l'avènement des pays actuels ?",
+      "choices": [
+        "Les républiques parlementaires",
+        "Les empires",
+        "Les confédérations syndicales",
+        "Les conseils d'entreprise",
+        "Les démocraties directes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le texte précise qu'à cette époque, il n'y avait pas des pays comme maintenant mais des empires."
+    },
+    {
+      "id": "q19",
+      "prompt": "Quel élément est au centre d'un empire selon le texte ?",
+      "choices": [
+        "Une charte constitutionnelle",
+        "Un centre reconnu (capitale)",
+        "Une assemblée de citoyens",
+        "Un marché boursier",
+        "Une église unique sans exception"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le texte mentionne qu'un empire possède un centre reconnu (capitale)."
+    },
+    {
+      "id": "q20",
+      "prompt": "Dans le contexte du renforcement de l'État, où se situe l'autorité centrale ?",
+      "choices": [
+        "Dans chaque village",
+        "À la périphérie du territoire",
+        "À la capitale",
+        "Sur les bateaux d'exploration",
+        "Dans les monastères isolés"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le renforcement de l'État passe par la 'centralisation à la capitale'."
+    },
+    {
+      "id": "q21",
+      "prompt": "Le terme 'Temps modernes' est parfois critiqué car :",
+      "choices": [
+        "Il est trop récent",
+        "Il ne désigne que l'art",
+        "C'est une vision du monde centrée sur l'Europe",
+        "Il exclut la Renaissance",
+        "Il est utilisé par les scientifiques uniquement"
+      ],
+      "correctIndex": 2,
+      "explanation": "La critique mentionnée est que ces balises sont valables pour l'Europe (vision eurocentrée)."
+    },
+    {
+      "id": "q22",
+      "prompt": "La division religieuse du XVIe siècle est expliquée dans le texte par :",
+      "choices": [
+        "L'invasion mongole",
+        "Un certain nombre d'abus au sein de l'Église",
+        "La découverte de nouveaux textes sacrés en Amérique",
+        "Une décision du Roi de France",
+        "L'invention du télescope"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le texte indique que la division survient 'suite à un certain nombre d'abus'."
+    },
+    {
+      "id": "q23",
+      "prompt": "Quelle institution voit son pouvoir se renforcer au détriment des principautés ?",
+      "choices": [
+        "Le pouvoir monarchique central",
+        "Les conseils municipaux",
+        "Les guildes de marchands",
+        "Les universités",
+        "Les tribunaux locaux indépendants"
+      ],
+      "correctIndex": 0,
+      "explanation": "On observe le 'renforcement d'un pouvoir monarchique central' au détriment des structures plus émiettées."
+    },
+    {
+      "id": "q24",
+      "prompt": "L'expansion des horizons européens est synonyme de :",
+      "choices": [
+        "Grandes découvertes",
+        "Repli sur soi",
+        "Fin du commerce maritime",
+        "Destruction de la science",
+        "Abolition des empires"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'élargissement des horizons européens est directement lié aux grandes découvertes."
+    },
+    {
+      "id": "q25",
+      "prompt": "L'histoire globale cherche à montrer que l'Europe s'est construite :",
+      "choices": [
+        "En totale isolation",
+        "En relation avec les autres",
+        "Uniquement par la guerre",
+        "Sans aucune influence extérieure",
+        "En ignorant les autres continents"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'idée est que 'l'europe s'est aussi construit en relation avec les autres'."
+    },
+    {
+      "id": "q26",
+      "prompt": "La période moderne se termine au début de quel siècle ?",
+      "choices": [
+        "XVIIe siècle",
+        "XVIIIe siècle",
+        "XIXe siècle",
+        "XXe siècle",
+        "XVIe siècle"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le texte mentionne la fin de la période à la fin du 18e ou au début du 19e siècle."
+    },
+    {
+      "id": "q27",
+      "prompt": "Qu'est-ce qui caractérise la justice dans l'État moderne naissant ?",
+      "choices": [
+        "Elle devient privée",
+        "Elle est supprimée",
+        "Elle fait partie des outils de centralisation de l'État",
+        "Elle est gérée par les paysans",
+        "Elle n'existe qu'aux colonies"
+      ],
+      "correctIndex": 2,
+      "explanation": "La justice est citée comme un élément de centralisation et de renforcement de l'État."
+    },
+    {
+      "id": "q28",
+      "prompt": "Le passage du XVe au XVIIIe siècle est qualifié par le texte de :",
+      "choices": [
+        "Large période de changements",
+        "Période de stagnation totale",
+        "Âge des ténèbres",
+        "Ère de la démocratie mondiale",
+        "Siècle de l'atome"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le début de la période est décrit comme une 'large période de changements'."
+    },
+    {
+      "id": "q29",
+      "prompt": "Dans un empire, l'autorité centrale détient :",
+      "choices": [
+        "Uniquement le pouvoir religieux",
+        "Plusieurs peuples différents",
+        "Une seule culture autorisée",
+        "Uniquement les routes maritimes",
+        "Le droit de vote des citoyens"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'autorité centrale de l'empire détient 'en son sein plusieurs peuples différents'."
+    },
+    {
+      "id": "q30",
+      "prompt": "L'industrialisation est liée dans le cours à :",
+      "choices": [
+        "La fin des temps modernes",
+        "La naissance de la science moderne",
+        "La chute de Constantinople",
+        "La fin des guerres de religion",
+        "L'unification religieuse"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le texte regroupe 'Naissance de la science moderne et de l'industrialisation'."
+    },
+    {
+      "id": "q31",
+      "prompt": "Qui est l'auteur du cours cité en page 2 ?",
+      "choices": [
+        "Copernic",
+        "Galilée",
+        "William Riguelle",
+        "Christophe Colomb",
+        "Napoléon"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le cours est explicitement attribué à William Riguelle."
+    },
+    {
+      "id": "q32",
+      "prompt": "Quel terme désigne la volonté de sortir d'une vision de l'histoire centrée sur l'Europe ?",
+      "choices": [
+        "Nationalisme",
+        "Sortir de l'eurocentrisme",
+        "Centralisation",
+        "Monarchie",
+        "Orthodoxie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le texte utilise l'expression 'sortir d'un certain eurocentrisme'."
+    },
+    {
+      "id": "q33",
+      "prompt": "Comment est décrit le pouvoir de l'empereur ?",
+      "choices": [
+        "Symbolique sans pouvoir réel",
+        "Démocratique et élu",
+        "Régime autoritaire de type monarchique",
+        "Collectif et partagé avec le peuple",
+        "Religieux uniquement"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'empire est un 'régime autoritaire de type monarchique détenu par un empereur'."
+    },
+    {
+      "id": "q34",
+      "prompt": "La division entre catholiques et protestants a mené à :",
+      "choices": [
+        "L'unité de l'Europe",
+        "L'arrêt des explorations",
+        "Des guerres de religion",
+        "La fin de l'impôt",
+        "L'industrialisation immédiate"
+      ],
+      "correctIndex": 2,
+      "explanation": "La division religieuse mène directement aux guerres de religion."
+    },
+    {
+      "id": "q35",
+      "prompt": "La période moderne est comprise entre quels siècles ?",
+      "choices": [
+        "Xe et XVe",
+        "XVe et XVIIIe",
+        "XIXe et XXe",
+        "Ier et Ve",
+        "Ve et Xe"
+      ],
+      "correctIndex": 1,
+      "explanation": "La période indiquée est XVe - XVIIIe siècle."
+    },
+    {
+      "id": "q36",
+      "prompt": "Quel levier financier l'État utilise-t-il pour se renforcer ?",
+      "choices": [
+        "Le troc",
+        "L'impôt",
+        "Le don",
+        "La charité",
+        "La vente de territoires"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'impôt est cité comme un moyen de renforcement de l'État."
+    },
+    {
+      "id": "q37",
+      "prompt": "Le changement induit par Christophe Colomb est qualifié de :",
+      "choices": [
+        "Mineur",
+        "Majeur",
+        "Inexistant",
+        "Religieux seulement",
+        "Local"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le texte parle d'un 'changement majeur induit par la découverte de l'amérique'."
+    },
+    {
+      "id": "q38",
+      "prompt": "L'autorité centrale d'un empire s'exerce sur :",
+      "choices": [
+        "Un seul groupe ethnique",
+        "Plusieurs peuples avec des cultures et religions différentes",
+        "Uniquement les nobles",
+        "Les pays voisins uniquement",
+        "Le clergé exclusivement"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'autorité centrale s'exerce sur des peuples avec des ethnies, cultures et religions différentes."
+    },
+    {
+      "id": "q39",
+      "prompt": "Quel événement est lié à la fin de la période (XVIIIe siècle) ?",
+      "choices": [
+        "La prise de Constantinople",
+        "La révolution française",
+        "La découverte de l'Amérique",
+        "Le début de la Réforme",
+        "La naissance de Galilée"
+      ],
+      "correctIndex": 1,
+      "explanation": "La révolution française est citée comme cause de la fin de la période."
+    },
+    {
+      "id": "q40",
+      "prompt": "Quel type de système politique n'existait pas encore 'comme maintenant' au XVe siècle ?",
+      "choices": [
+        "Les empires",
+        "Les pays",
+        "Les monarchies",
+        "Les principautés",
+        "Les cités"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le texte dit : 'À cette époque, il n'y avait pas des pays comme maintenant mais des empires'."
+    }
+  ]
+}
