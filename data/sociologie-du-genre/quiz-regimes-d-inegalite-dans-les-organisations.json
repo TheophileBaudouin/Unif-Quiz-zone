@@ -1,0 +1,535 @@
+{
+  "quizId": "regimes-d-inegalite-dans-les-organisations",
+  "title": "Régimes d'inégalité dans les organisations",
+  "section": {
+    "id": "regimes-d-inegalite-dans-les-organisations",
+    "title": "Régimes d'inégalité dans les organisations",
+    "startPage": 66,
+    "endPage": 70,
+    "summary": "Théorie de Joan Acker sur les organisations genrées, les bases de l'inégalité structurelle et les mécanismes de légitimation par la naturalisation et la médicalisation.",
+    "estimatedQuestionCount": 30
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon la source, comment les écoles sont-elles caractérisées en matière de normes de genre ?",
+      "choices": [
+        "Elles sont des environnements où les normes de genre se réalisent de différentes manières, certaines étant plus égalitaires.",
+        "Elles sont intrinsèquement neutres et n'ont aucun impact sur la réalisation des normes de genre.",
+        "Elles reproduisent systématiquement les inégalités de genre sans aucune variation possible.",
+        "Elles ne traitent que des activités formelles, laissant les normes de genre se développer ailleurs.",
+        "Elles sont conçues pour être des environnements complètement égalitaires dès leur fondation."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source indique que les écoles sont des environnements où les normes de genre se réalisent de différentes manières, et que certaines d'entre elles sont plus égalitaires, notamment via des activités extra-scolaires mixtes."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quel est l'impact des activités extra-scolaires mixtes sur les inégalités de genre dans les écoles, selon le document ?",
+      "choices": [
+        "Elles contribuent à réduire les inégalités de genre.",
+        "Elles augmentent la ségrégation des activités par genre.",
+        "Elles n'ont aucun effet notable sur les inégalités de genre.",
+        "Elles renforcent les rôles de genre traditionnels chez les élèves.",
+        "Elles créent de nouvelles formes d'inégalités basées sur la performance sportive."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le document précise que 'des pratiques comme des activités extra-scolaires mixtes contribuent à réduire les inégalités de genre'."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quelle question de recherche est posée concernant l'école en tant qu'institution neutre et égalitaire ?",
+      "choices": [
+        "Comment expliquer que l'école, institution qui se veut neutre et égalitaire, produise des trajectoires aussi différenciées selon le genre, la classe et la race ?",
+        "Comment l'école parvient-elle à maintenir son rôle neutre malgré les pressions sociales et culturelles ?",
+        "Quels sont les mécanismes par lesquels l'école peut devenir totalement égalitaire pour tous les élèves, sans distinction ?",
+        "Dans quelle mesure les activités pédagogiques influencent-elles directement les inégalités de genre et de classe perçues par les élèves ?",
+        "Comment les politiques éducatives actuelles favorisent-elles la neutralité et l'égalité dans les parcours scolaires des jeunes ?"
+      ],
+      "correctIndex": 0,
+      "explanation": "La question de recherche citée est : 'Comment expliquer que l'école, institution qui se veut neutre et égalitaire, produise des trajectoires aussi différenciées selon le genre, la classe et la race ?'"
+    },
+    {
+      "id": "q4",
+      "prompt": "Quelle est l'une des contributions majeures de Joan Acker à la sociologie des organisations ?",
+      "choices": [
+        "Elle a théorisé le fait que les organisations – les entreprises, les institutions – ne sont pas neutres.",
+        "Elle a démontré que les organisations sont intrinsèquement égalitaires malgré les apparences initiales.",
+        "Elle a mis en évidence l'importance des indices visuels dans la reproduction des inégalités de genre.",
+        "Elle a développé des méthodes pour supprimer toutes les inégalités de genre dans les contextes professionnels.",
+        "Elle a principalement étudié l'impact des innovations technologiques sur la structure organisationnelle du travail."
+      ],
+      "correctIndex": 0,
+      "explanation": "Joan Acker est reconnue comme l'une des premières à avoir théorisé le fait que les organisations ne sont pas neutres."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quel est l'objet principal de l'article de Joan Acker de 1990 intitulé 'Gendering organizational theory' ?",
+      "choices": [
+        "Dénoncer l'illusion de la neutralité des organisations et proposer la théorie des organisations genrées.",
+        "Analyser les inégalités d'accès aux droits et la répartition des tâches domestiques au sein des entreprises.",
+        "Mettre en évidence les bénéfices que les organisations tirent d'une structure 'neutre au genre'.",
+        "Décrire comment les organisations sont construites autour d'un 'travailleur neutre' qui est réellement impartial.",
+        "Comparer les théories féministes passées avec les nouvelles approches concernant l'équité professionnelle."
+      ],
+      "correctIndex": 0,
+      "explanation": "L'article 'Gendering organizational theory' est cité pour expliquer qu'Acker a dénoncé l'illusion de la neutralité et proposé la théorie des organisations genrées."
+    },
+    {
+      "id": "q6",
+      "prompt": "Pourquoi, selon Acker, la littérature féministe s'est-elle peu intéressée aux dynamiques internes des organisations pendant longtemps ?",
+      "choices": [
+        "Elle se concentrait davantage sur les inégalités d'accès aux droits, la répartition des tâches domestiques, ou les inégalités professionnelles.",
+        "Les organisations étaient perçues comme des entités insignifiantes par rapport aux structures familiales.",
+        "Il y avait un manque de données empiriques sur le fonctionnement interne des grandes entreprises de l'époque.",
+        "Les théoriciennes féministes privilégiaient l'étude des mouvements sociaux et des politiques publiques.",
+        "La complexité des structures organisationnelles rendait leur analyse difficile et peu productive."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source indique que la littérature féministe 'se concentrait davantage sur les inégalités d'accès aux droits, la répartition des tâches domestiques, ou encore les inégalités professionnelles'."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quel présupposé puissant, selon Acker, les organisations bénéficient-elles pour expliquer le 'silence' de la littérature féministe à leur égard ?",
+      "choices": [
+        "Le présupposé d'être 'neutre au genre'.",
+        "Le présupposé d'être hiérarchiquement justes et efficaces.",
+        "Le présupposé d'être des moteurs d'innovation et de progrès économique.",
+        "Le présupposé de favoriser la diversité et l'inclusion de tous.",
+        "Le présupposé d'être des entités purement rationnelles et objectives."
+      ],
+      "correctIndex": 0,
+      "explanation": "Acker explique ce silence par le fait que 'les organisations bénéficient d'un présupposé très puissant, celui d'être “neutre au genre”'."
+    },
+    {
+      "id": "q8",
+      "prompt": "Comment Joan Acker caractérise-t-elle le 'travailleur neutre' autour duquel l'organisation est construite ?",
+      "choices": [
+        "Il n'est pas si neutre que ça, malgré la perception générale.",
+        "Il représente l'idéal d'égalité et de justice dans le milieu professionnel.",
+        "Il est une construction purement théorique sans lien avec la réalité du travail.",
+        "Il est un modèle de performance que tous les employés aspirent à atteindre.",
+        "Il incarne la suppression complète des inégalités de genre au sein des structures."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source dit : 'Sauf que ce “travailleur neutre” autour duquel l'organisation est construite n'est pas si neutre que ça'."
+    },
+    {
+      "id": "q9",
+      "prompt": "Dire qu'une organisation est genrée signifie, selon Acker, que ses systèmes et pratiques sont structurés sur quelle base ?",
+      "choices": [
+        "La distinction entre ce qui est vu comme masculin et ce qui est vu comme féminin.",
+        "L'efficacité économique et la productivité des employés.",
+        "Les principes de méritocratie et de performance individuelle.",
+        "Les cadres légaux et les réglementations du travail en vigueur.",
+        "L'optimisation des ressources humaines sans considération de genre."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source précise que dire qu'une organisation est genrée, c'est 'Dire que ses systèmes de récompenses et de sanction, d'exploitation et de contrôle, ses pratiques quotidiennes, sont structuré sur la base de la distinction entre ce qui est vu comme masculin et ce qui est vu comme féminin'."
+    },
+    {
+      "id": "q10",
+      "prompt": "Quelle est la nature du genre dans l'organisation, selon la perspective d'Acker ?",
+      "choices": [
+        "Il n'est pas un accident de l'organisation, mais une composante structurelle.",
+        "Il est un phénomène social contingent, sans lien direct avec la structure interne.",
+        "Il est une variable individuelle qui n'influence pas la structure organisationnelle.",
+        "Il peut être éliminé par des modifications superficielles des pratiques managériales.",
+        "Il est un facteur de diversité qui contribue à la richesse culturelle de l'entreprise."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source affirme : 'Le genre n'est pas un accident de l'organisation. Il en est une composante structurelle!'"
+    },
+    {
+      "id": "q11",
+      "prompt": "Quel est le concept introduit par Acker dans son article de 2006, 'Inequality regimes' ?",
+      "choices": [
+        "Les 'régimes d'inégalité', étendant l'analyse au genre, à la race et à la classe sociale.",
+        "Les 'structures d'équité', afin de promouvoir des environnements de travail justes.",
+        "Les 'modèles de neutralité', pour comprendre comment les organisations peuvent éviter les biais.",
+        "Les 'dynamiques intersectorielles', analysant les interactions entre différents secteurs économiques.",
+        "Les 'architectures inclusives', désignant des organisations conçues pour la diversité."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dans son article de 2006, Acker 'propose alors le concept de “régimes d'inégalité”' qui s'intéresse au genre, à la race et à la classe sociale."
+    },
+    {
+      "id": "q12",
+      "prompt": "Combien de dimensions Acker identifie-t-elle comme étant à l'origine de la production des inégalités dans les organisations ?",
+      "choices": [
+        "Trois dimensions, souvent implicites.",
+        "Deux dimensions principales, l'une explicite et l'autre cachée.",
+        "Quatre dimensions, couvrant les aspects culturels et économiques.",
+        "Une seule dimension, liée à la structure hiérarchique du pouvoir.",
+        "Cinq dimensions, incluant les aspects psychologiques et sociaux."
+      ],
+      "correctIndex": 0,
+      "explanation": "Acker montre que les inégalités se produisent 'à partir de 3 dimensions (souvent implicites)'."
+    },
+    {
+      "id": "q13",
+      "prompt": "Quelle est la définition d'un 'régime d'inégalité' selon Acker (2006) ?",
+      "choices": [
+        "« un ensemble de pratiques, processus, actions et significations vaguement interconnectés qui produisent et maintiennent les inégalités de classe, de genre et de race dans une organisation donnée. »",
+        "« un système formel de règles explicites visant à réguler les différences de traitement entre les groupes sociaux au sein d'une organisation. »",
+        "« l'ensemble des mécanismes inconscients qui favorisent l'égalité des chances dans un environnement professionnel structuré. »",
+        "« une série de mesures correctives mises en place pour compenser les déséquilibres historiques et sociaux des groupes minoritaires. »",
+        "« un cadre théorique expliquant comment les organisations parviennent à se montrer neutres et impartiales envers toutes les catégories d'employés. »"
+      ],
+      "correctIndex": 0,
+      "explanation": "La définition est donnée textuellement : « un ensemble de pratiques, processus, actions et significations vaguement interconnectés qui produisent et maintiennent les inégalités de classe, de genre et de race dans une organisation donnée. »."
+    },
+    {
+      "id": "q14",
+      "prompt": "Quelle est la première dimension des régimes d'inégalité identifiée par Acker ?",
+      "choices": [
+        "Les bases de l'inégalité, centrées sur le profil présupposé par l'institution.",
+        "Les procédés organisationnels, définissant les structures de pouvoir visibles.",
+        "Les mécanismes de légitimation, expliquant comment les inégalités sont acceptées.",
+        "Les conséquences individuelles des inégalités sur les employés.",
+        "Les facteurs externes influençant la culture organisationnelle."
+      ],
+      "correctIndex": 0,
+      "explanation": "La première dimension est intitulée 'Dimension 1 : les bases de l'inégalité'."
+    },
+    {
+      "id": "q15",
+      "prompt": "Sur quel modèle le travail est-il structuré selon la présupposition implicite de l'institution, dans le cadre des bases de l'inégalité ?",
+      "choices": [
+        "Le modèle d'un 'homme blanc totalement dévoué à son travail et qui n'a aucune responsabilité envers des enfants ou des obligations familiales autres que gagner sa vie'.",
+        "Le modèle du 'travailleur flexible', capable de s'adapter à toutes les exigences et contraintes personnelles.",
+        "Le modèle du 'citoyen engagé', intégrant les responsabilités professionnelles et civiques de manière équilibrée.",
+        "Le modèle de la 'mère de famille', conciliant habilement carrière et obligations domestiques.",
+        "Le modèle du 'leader charismatique', doté de compétences interpersonnelles et d'une grande autonomie."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source décrit que le travail est structuré sur le modèle 'd'un homme blanc totalement dévoué à son travail et qui n'a aucune responsabilité envers des enfants ou des obligations familiales autres que gagner sa vie.'."
+    },
+    {
+      "id": "q16",
+      "prompt": "Les 8 heures de travail continu, l'attention totale et les heures supplémentaires demandées sont-elles une règle écrite ou une présomption encodée dans l'organisation ?",
+      "choices": [
+        "C'est une présomption encodée dans l'organisation elle-même.",
+        "C'est une règle écrite et clairement stipulée dans les contrats de travail.",
+        "C'est une pratique informelle qui varie grandement d'une institution à l'autre.",
+        "C'est une exigence légale imposée par la législation du travail nationale.",
+        "C'est un idéal de performance encouragé mais rarement atteint par les employés."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que 'ce n'est pas une règle écrite mais c'est une présomption encodée dans l'organisation elle-même'."
+    },
+    {
+      "id": "q17",
+      "prompt": "Qui, historiquement, correspond au profil implicite autour duquel l'institution est construite, et pourquoi la structure pénalise-t-elle les femmes ?",
+      "choices": [
+        "Les hommes, car les femmes assument majoritairement les responsabilités domestiques et parentales, s'écartant du profil.",
+        "Les femmes, car elles sont naturellement plus douées pour la conciliation vie pro/perso.",
+        "Les hommes, car ils ont historiquement été les seuls à occuper des postes de direction.",
+        "Les femmes, car elles sont moins enclines à se conformer aux attentes rigides du milieu professionnel.",
+        "Nul, car le profil implicite est une construction théorique sans ancrage dans la réalité sociale."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte explique que historiquement, les hommes correspondent à ce profil et que les femmes sont pénalisées parce qu'elles s'écartent du profil implicite en raison de leurs responsabilités domestiques et parentales."
+    },
+    {
+      "id": "q18",
+      "prompt": "Selon Acker, quelle est la conclusion de l'analyse des bases de l'inégalité en matière de répartition des rôles et des ressources ?",
+      "choices": [
+        "C'est la structure qui organise la répartition inégale des rôles et des ressources.",
+        "C'est la volonté individuelle des employés qui détermine la répartition des rôles.",
+        "C'est le hasard qui explique la distribution inégale des ressources.",
+        "C'est l'évolution naturelle des compétences qui conduit à cette répartition.",
+        "C'est la législation du travail qui est la principale cause des inégalités."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source conclut cette dimension par : '→ C'est la structure qui organise la répartition inégale des rôles et des ressources'."
+    },
+    {
+      "id": "q19",
+      "prompt": "Quelle est la deuxième dimension des régimes d'inégalité ?",
+      "choices": [
+        "Les procédés organisationnels, transformant les présomptions en décisions concrètes.",
+        "Les fondements éthiques des institutions, guidant leurs actions.",
+        "Les dynamiques interpersonnelles, influençant les interactions quotidiennes.",
+        "Les stratégies de communication interne, diffusant les valeurs de l'entreprise.",
+        "Les systèmes de régulation externe, imposant des normes de conformité."
+      ],
+      "correctIndex": 0,
+      "explanation": "La deuxième dimension est intitulée 'Dimension 2: les procédés organisationnels', expliquant comment les présomptions se transforment en décisions concrètes."
+    },
+    {
+      "id": "q20",
+      "prompt": "Quel exemple Acker donne-t-elle pour illustrer comment les présomptions se transforment en décisions concrètes dans les procédés organisationnels ?",
+      "choices": [
+        "L'exemple des banques suédoises où des postes neutres sur le papier mènent à des assignations genrées.",
+        "L'exemple des écoles américaines et leurs critères d'admission pour les étudiants.",
+        "L'exemple des hôpitaux français et la répartition des tâches entre infirmiers et infirmières.",
+        "L'exemple des usines japonaises et leurs méthodes de production innovantes.",
+        "L'exemple des universités britanniques et leurs processus de recrutement de professeurs."
+      ],
+      "correctIndex": 0,
+      "explanation": "Acker 'donne l'exemple des banques suédoises' pour illustrer les procédés organisationnels, montrant un poste de débutant unique menant à des tâches différentes pour hommes et femmes."
+    },
+    {
+      "id": "q21",
+      "prompt": "Comment les présomptions sur 'qui mérite quoi' se traduisent-elles en décisions quotidiennes, selon la deuxième dimension des régimes d'inégalité ?",
+      "choices": [
+        "Souvent sans que personne ne les formule explicitement, ce sont les pratiques quotidiennes qui reproduisent les inégalités.",
+        "Par des directives écrites claires qui définissent les critères de mérite et d'affectation des tâches.",
+        "Uniquement par des décisions conscientes prises par les superviseurs en fonction des performances.",
+        "Principalement par des algorithmes et des systèmes automatisés qui éliminent les biais humains.",
+        "Exclusivement par des consultations régulières avec les employés pour garantir l'équité des promotions."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que 'Les présomptions sur qui mérite quoi se traduisent en décisions quotidiennes, souvent sans que personne ne les formule explicitement' et que 'Ce sont les pratiques quotidiennes qui reproduisent ces inégalités'."
+    },
+    {
+      "id": "q22",
+      "prompt": "Quelle est la troisième dimension des régimes d'inégalité abordée par Acker ?",
+      "choices": [
+        "Les mécanismes de légitimation, expliquant comment les décisions sont rendues acceptables et invisibles.",
+        "Les systèmes de rémunération, déterminant les disparités salariales entre les groupes d'employés.",
+        "Les stratégies de recrutement, analysant les méthodes d'embauche privilégiées par les entreprises.",
+        "Les cultures d'entreprise, influençant les valeurs et les normes de comportement des salariés.",
+        "Les infrastructures physiques, impactant l'environnement de travail et le bien-être des employés."
+      ],
+      "correctIndex": 0,
+      "explanation": "La troisième dimension est intitulée 'Dimension 3 : les mécanismes de légitimation', qui explore comment les décisions sont rendues acceptables, voire invisibles."
+    },
+    {
+      "id": "q23",
+      "prompt": "Selon Acker, quel est le 'privilège des privilèges' ?",
+      "choices": [
+        "Le fait de ne pas voir son propre privilège.",
+        "L'accès exclusif à des ressources et des opportunités rares.",
+        "La capacité d'influencer les décisions politiques et économiques.",
+        "La reconnaissance sociale et professionnelle accordée sans effort.",
+        "La possibilité d'échapper aux contraintes et aux normes sociales."
+      ],
+      "correctIndex": 0,
+      "explanation": "Acker souligne que '“le privilège des privilèges est de ne pas voir leur privilège”'."
+    },
+    {
+      "id": "q24",
+      "prompt": "Comment les groupes dominants perçoivent-ils généralement l'organisation, selon les mécanismes de légitimation ?",
+      "choices": [
+        "Comme neutre et méritocratique.",
+        "Comme un système injuste favorisant certains groupes.",
+        "Comme un environnement complexe nécessitant une amélioration constante.",
+        "Comme un espace de compétition féroce où seuls les plus forts survivent.",
+        "Comme une entité dynamique en perpétuelle transformation."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte explique que 'Les groupes dominants perçoivent l'organisation comme neutre et méritocratique'."
+    },
+    {
+      "id": "q25",
+      "prompt": "Quel est le mécanisme principal de légitimation des inégalités, les présentant comme naturelles ?",
+      "choices": [
+        "La naturalisation.",
+        "La rationalisation.",
+        "La médicalisation.",
+        "La juridiction.",
+        "La démocratisation."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le mécanisme principal est 'la naturalisation → les inégalités sont légitimées par des arguments qui les présentent comme naturelles'."
+    },
+    {
+      "id": "q26",
+      "prompt": "Quel est l'exemple donné par Acker pour illustrer la naturalisation des inégalités concernant les femmes et les carrières ?",
+      "choices": [
+        "Les employeurs considèrent que les femmes sont 'plus adaptées à la garde des enfants et moins adaptées à des carrières exigeantes'.",
+        "Les employeurs estiment que les femmes sont plus efficaces dans les tâches administratives répétitives et moins créatives.",
+        "Les employeurs ont tendance à favoriser les hommes pour les promotions basées sur l'expérience et l'ancienneté.",
+        "Les employeurs croient que les femmes sont plus sujettes aux arrêts maladie fréquents en raison de leur physiologie.",
+        "Les employeurs pensent que les femmes sont moins ambitieuses et recherchent un équilibre vie pro/perso plus marqué."
+      ],
+      "correctIndex": 0,
+      "explanation": "Acker cite l'exemple des employeurs qui considèrent que les femmes sont 'plus adaptés à la garde des enfants et moins adaptés à des carrières exigeantes'."
+    },
+    {
+      "id": "q27",
+      "prompt": "Dans le contexte scolaire, quelle est la présomption de l''élève idéal.e' selon la première dimension des régimes d'inégalité ?",
+      "choices": [
+        "Calme, reste assis, lève la main, rend ses devoirs à l'heure, souvent un enfant blanc de classe moyenne avec des parents diplômés.",
+        "Actif, curieux, posant de nombreuses questions, souvent un enfant issu de milieu populaire et défavorisé.",
+        "Indépendant, autonome, capable de résoudre ses problèmes seul, sans intervention des enseignants.",
+        "Collaboratif, empathique, favorisant le travail en groupe et l'entraide entre pairs.",
+        "Créatif, innovant, proposant des solutions originales et sortant des sentiers battus."
+      ],
+      "correctIndex": 0,
+      "explanation": "L'école présuppose comme 'élève ideal.e' un élève 'Calme, reste assis, lève la main, rend ses devoirs à l'heure', souvent 'un enfant blanc, de classe moyenne, avec des parents diplômés'."
+    },
+    {
+      "id": "q28",
+      "prompt": "Lorsque un garçon de milieu populaire arrive à l'école avec une énergie ou une manière de s'exprimer ne correspondant pas au profil de l'élève idéal, quelle est la réaction typique de l'école ?",
+      "choices": [
+        "Elle se demande généralement : 'qu'est-ce qui ne va pas chez lui ?'",
+        "Elle adapte immédiatement ses attentes pour mieux correspondre à l'enfant.",
+        "Elle met en place des mesures de soutien individualisées pour l'aider à s'intégrer.",
+        "Elle interroge ses propres méthodes pédagogiques et les ajustements nécessaires.",
+        "Elle valorise cette différence comme une source d'enrichissement pour la classe."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source précise que l'école ne se demande généralement pas : 'Est-ce que mes attentes sont adaptés à cet enfant ?' mais plutôt : 'qu'est-ce qui ne va pas chez lui?'."
+    },
+    {
+      "id": "q29",
+      "prompt": "Quel est le constat de Fish (2019) concernant le diagnostic des troubles émotionnels et comportementaux chez les garçons ?",
+      "choices": [
+        "Les garçons ont 4 fois plus de probabilités d'être diagnostiqués comme ayant des troubles émotionnels et comportementaux.",
+        "Les garçons sont moins susceptibles que les filles d'être diagnostiqués avec des troubles émotionnels.",
+        "Le genre n'a aucune influence sur la probabilité d'un diagnostic de trouble comportemental.",
+        "Les filles sont surreprésentées dans les diagnostics de troubles émotionnels et comportementaux.",
+        "La probabilité de diagnostic dépend uniquement du statut socio-économique des familles, pas du genre."
+      ],
+      "correctIndex": 0,
+      "explanation": "Fish (2019) 'montre que les garçons ont 4 fois plus de probabilités d'être diagnostiqués comme ayant des troubles émotionnels et comportementaux'."
+    },
+    {
+      "id": "q30",
+      "prompt": "Selon Wint et al. (2022), comment les enseignants interprètent-ils souvent les comportements des garçons jugés 'problématiques' ?",
+      "choices": [
+        "Comme les symptômes d'un trouble nécessitant une prise en charge, et non de simples écarts disciplinaires.",
+        "Comme des tentatives de capter l'attention de l'adulte, ne nécessitant pas de réponse spécifique.",
+        "Comme des manifestations normales de l'énergie masculine, qui finiront par se réguler d'elles-mêmes.",
+        "Comme des signes d'un manque de discipline personnelle, nécessitant des sanctions plus strictes.",
+        "Comme des indicateurs d'une créativité débordante qui doit être canalisée de manière constructive."
+      ],
+      "correctIndex": 0,
+      "explanation": "Wint et al. (2022) expliquent que 'les enseignants interprètent souvent les comportements des garçons non pas comme de simples écarts disciplinaires, mais comme les symptômes d'un trouble nécessitant une prise en charge'."
+    },
+    {
+      "id": "q31",
+      "prompt": "Comment un comportement 'problématique' est-il différemment perçu selon qu'il vient d'un garçon blanc de classe moyenne ou d'un garçon issu de l'immigration ?",
+      "choices": [
+        "Il est souvent vu comme une phase du développement pour le premier, et comme un 'vrai' problème psychologique pour le second.",
+        "Il est toujours perçu comme un signe de rébellion contre l'autorité, indépendamment de l'origine.",
+        "Il est interprété comme un besoin d'attention dans tous les cas, nécessitant une approche pédagogique similaire.",
+        "Il est généralement ignoré chez le premier, tandis que le second reçoit un accompagnement immédiat.",
+        "La différence de perception se manifeste principalement par la durée de la tolérance accordée au comportement."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source souligne qu'un comportement 'problématique' chez un garçon blanc de classe moyenne est souvent vu comme une phase du développement, tandis que le même comportement chez un garçon issu de l'immigration est vu comme le signe d'un 'vrai' problème psychologique."
+    },
+    {
+      "id": "q32",
+      "prompt": "Selon l'illustration qualitative, comment le diagnostic d'un enfant avec un 'gros problème psychologique' est-il énoncé par la direction d'école ?",
+      "choices": [
+        "Comme une certitude médicale, sans que les attentes de l'institution ne soient questionnées.",
+        "Comme une hypothèse nécessitant des investigations approfondies et un dialogue ouvert.",
+        "Comme une opinion subjective qui peut être remise en question par les parents.",
+        "Comme une étiquette provisoire destinée à déclencher des ressources supplémentaires.",
+        "Comme une reconnaissance d'une difficulté temporaire qui sera résolue avec le temps."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source indique que 'Le diagnostic est énoncé comme une certitude médicale sans que les attentes de l'institution ne soient questionnées'."
+    },
+    {
+      "id": "q33",
+      "prompt": "Quel mécanisme justifie l'orientation vers l'enseignement spécialisé, selon la Transposition dimension 2 ?",
+      "choices": [
+        "Le sentiment d'impuissance des professionnels face à l'enfant et à ses parents.",
+        "Une décision collective prise après un examen approfondi de toutes les options pédagogiques.",
+        "Une évaluation objective des besoins de l'enfant par une équipe multidisciplinaire.",
+        "La volonté des parents de voir leur enfant bénéficier d'une prise en charge plus intensive.",
+        "Une obligation légale imposée par les autorités académiques en cas de difficultés persistantes."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source explique que 'Le sentiment d'impuissance est ce qui va justifier l'orientation vers l'enseignement spécialisé'."
+    },
+    {
+      "id": "q34",
+      "prompt": "Comment la décision d'orienter un garçon vers l'enseignement spécialisé est-elle présentée aux familles, selon la troisième dimension (légitimation par la médicalisation) ?",
+      "choices": [
+        "Elle est présentée comme une aide, une réponse à ses besoins, et non comme une relégation.",
+        "Elle est expliquée comme une nécessité absolue due à l'incapacité de l'école à gérer son cas.",
+        "Elle est présentée comme une mesure temporaire, le temps de résoudre les problèmes identifiés.",
+        "Elle est justifiée par des statistiques nationales montrant l'efficacité de l'enseignement spécialisé.",
+        "Elle est décrite comme un dernier recours après l'épuisement de toutes les autres options pédagogiques."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source affirme que 'Quand ce garçon est orienté vers l'enseignement spécialisé, ce n'est pas présenté comme une relégation, c'est présenté comme une aide, une réponse à ses besoins'."
+    },
+    {
+      "id": "q35",
+      "prompt": "Quelle est la fonction du diagnostic médical dans le processus de légitimation des inégalités scolaires ?",
+      "choices": [
+        "Il vient naturaliser une trajectoire socialement construite, en faisant passer le problème pour un trouble de l'enfant et non un échec de l'école.",
+        "Il sert à identifier précisément les lacunes de l'enfant afin de lui offrir un soutien personnalisé et adapté.",
+        "Il permet de justifier l'allocation de ressources supplémentaires pour l'école et le corps enseignant.",
+        "Il renforce la responsabilité des parents dans le suivi scolaire de leur enfant et leur engagement.",
+        "Il constitue une étape obligatoire pour accéder à certains dispositifs pédagogiques innovants."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte explique que 'Le diagnostic médical vient naturaliser une trajectoire socialement construite : ce n'est plus l'école qui a échoué à accueillir cet enfant, c'est l'enfant qui a un trouble'."
+    },
+    {
+      "id": "q36",
+      "prompt": "Comment l'inégalité est-elle rendue invisible dans ce processus, selon la source ?",
+      "choices": [
+        "Elle est traduite dans le langage de la bienveillance et de l'expertise.",
+        "Elle est masquée par des données statistiques complexes et inaccessibles.",
+        "Elle est compensée par des programmes de soutien financier aux familles.",
+        "Elle est effacée par des changements rapides de la politique éducative.",
+        "Elle est diluée dans le discours sur la diversité et l'inclusion scolaire."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source indique que 'L'inégalité est rendue invisible parce qu'elle est traduite dans le langage de la bienveillance et de l'expertise'."
+    },
+    {
+      "id": "q37",
+      "prompt": "Quel mécanisme le sociologue Jean-Paul Payet (2017) décrit-il comme une 'prophétie créatrice' ?",
+      "choices": [
+        "Le travail patient de l'institution auprès des parents pour obtenir leur 'soumission librement consentie' à une décision médicale légitime.",
+        "Le fait que les prévisions des enseignants sur les performances des élèves se réalisent systématiquement au fil du temps.",
+        "La capacité de l'école à inspirer les élèves à atteindre des niveaux d'excellence inattendus.",
+        "L'influence des médias sur la perception publique des problèmes scolaires et des solutions proposées.",
+        "La tendance des élèves à se conformer aux attentes implicites de leurs pairs et de leurs professeurs."
+      ],
+      "correctIndex": 0,
+      "explanation": "Jean-Paul Payet (2017) décrit ce mécanisme comme une 'prophétie créatrice' où l'institution 'déploie un travail patient auprès des parents pour obtenir leur “soumission librement consentie”'."
+    },
+    {
+      "id": "q38",
+      "prompt": "Quel est le rôle de l'idéologie du don et du mérite dans l'invisibilisation des inégalités par l'école ?",
+      "choices": [
+        "L'élève favorisé pense réussir grâce à son intelligence, et le défavorisé intériorise son échec comme une défaillance personnelle.",
+        "Elle garantit que tous les élèves, quelle que soit leur origine, ont une chance égale de réussir par leur travail.",
+        "Elle encourage la compétition saine entre les élèves, stimulant ainsi l'excellence académique.",
+        "Elle met en lumière les efforts individuels, permettant de récompenser les plus méritants de manière transparente.",
+        "Elle favorise un sentiment d'appartenance collective en célébrant les talents innés de chaque élève."
+      ],
+      "correctIndex": 0,
+      "explanation": "L'idéologie du don et du mérite fait que 'L'élève favorisé qui réussit pense que c'est uniquement grâce à son intelligence' et 'L'élève défavorisé qui échoue intériorise son échec comme une défaillance personnelle'."
+    },
+    {
+      "id": "q39",
+      "prompt": "Comment l'institution scolaire se présente-t-elle face aux différences sociales, et quelle est la réalité qu'elle masque ?",
+      "choices": [
+        "Elle se présente comme un arbitre neutre et aveugle aux différences sociales, masquant la réalité de son régime d'inégalité.",
+        "Elle se positionne comme un agent de transformation sociale, œuvrant activement à l'éradication des différences de classe.",
+        "Elle adopte une approche pragmatique, reconnaissant les différences sans pour autant les influencer directement.",
+        "Elle s'affiche comme un lieu de découverte des talents individuels, indépendamment des origines sociales.",
+        "Elle met en avant sa capacité à offrir des chances égales à tous, grâce à des programmes éducatifs standardisés."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source affirme que 'L'institution scolaire se présente comme un arbitre neutre et aveugle aux différences sociales, ce qui masque la réalité de son régime d'inégalité'."
+    },
+    {
+      "id": "q40",
+      "prompt": "Quelle est la conclusion générale concernant la surreprésentation des garçons de milieux populaires dans l'enseignement spécialisé ?",
+      "choices": [
+        "Elle illustre parfaitement comment le genre, la classe et la race s'entrecroisent pour produire des inégalités.",
+        "Elle démontre l'inefficacité des politiques d'inclusion scolaire actuelles face aux défis éducatifs.",
+        "Elle révèle une tendance croissante à la médicalisation excessive des comportements juvéniles.",
+        "Elle met en évidence la nécessité de réformer les programmes d'enseignement pour les adapter aux garçons.",
+        "Elle souligne l'impact prédominant du facteur économique sur les trajectoires scolaires individuelles."
+      ],
+      "correctIndex": 0,
+      "explanation": "La conclusion indique que 'la surreprésentation des garçons de milieux populaires dans l'enseignement spécialisé illustre parfaitement comment le genre, la classe et la race s'entrecroisent'."
+    }
+  ],
+  "course": "Sociologie du Genre"
+}
