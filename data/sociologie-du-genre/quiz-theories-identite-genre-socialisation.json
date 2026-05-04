@@ -1,0 +1,495 @@
+{
+  "quizId": "theories-identite-genre-socialisation",
+  "title": "Théories de l'Identité de Genre et Processus de Socialisation",
+  "section": {
+    "id": "theories-identite-genre-socialisation",
+    "title": "Théories de l'Identité de Genre et Processus de Socialisation",
+    "startPage": 1,
+    "endPage": 3,
+    "summary": "Définition de la socialisation primaire et analyse de l'identité de genre selon Judith Butler (performativité, matrices d'intelligibilité). Le chapitre aborde également les principes fondamentaux de la socialisation comme processus actif, non-mécanique et situé socialement.",
+    "estimatedQuestionCount": 15
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon le document, comment est définie la socialisation primaire ?",
+      "choices": [
+        "Un processus d'apprentissage et d'intériorisation des normes et valeurs de l'enfance à l'adolescence",
+        "Une simple imitation passive des comportements des parents durant la petite enfance uniquement",
+        "Une transmission biologique des traits de caractère de la naissance jusqu'à l'âge adulte",
+        "Un conditionnement psychologique visant à réprimer les pulsions durant la phase scolaire",
+        "Une adaptation superficielle aux règles de l'école maternelle sans impact sur l'identité réelle"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Quels sont les vecteurs d'apprentissage lors des premiers âges (maternelles, primaires) ?",
+      "choices": [
+        "L'imitation, la confrontation quotidienne, les expériences et l'institution scolaire",
+        "Le travail, les médias, les pairs, le sport et les interactions numériques",
+        "Uniquement l'enseignement formel dispensé par les professeurs en classe",
+        "La lecture solitaire, l'observation des médias et le rejet des structures familiales",
+        "Les loisirs encadrés, la vie associative et les relations de couple précoces"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q3",
+      "prompt": "Que signifie l'affirmation 'ce qui se passe dans l'enfance n'est pas à jeter' à l'arrivée au secondaire ?",
+      "choices": [
+        "Les acquis de la socialisation primaire perdurent et servent d'appui dans l'espace social",
+        "Les enfants doivent oublier leurs expériences familiales pour s'intégrer au lycée",
+        "L'école secondaire remplace totalement les valeurs acquises durant la petite enfance",
+        "Le matériel scolaire du primaire doit être conservé pour les études supérieures",
+        "La socialisation secondaire n'a aucun effet face aux comportements déjà figés à 6 ans"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q4",
+      "prompt": "Selon Judith Butler (1990), pourquoi est-il nécessaire de discuter de l'identité de genre en particulier ?",
+      "choices": [
+        "Parce que les personnes ne deviennent intelligibles que si elles ont pris un genre",
+        "Parce que le sexe biologique détermine entièrement l'identité psychologique",
+        "Pour prouver que l'identité générale est totalement indépendante du genre",
+        "Afin de simplifier les statistiques démographiques dans les recensements",
+        "Pour démontrer que l'identité est une donnée innée et fixe dès la naissance"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q5",
+      "prompt": "Sur quoi reposent les 'matrices d'intelligibilité' mentionnées par Butler ?",
+      "choices": [
+        "Une cohérence instaurée entre le sexe, le genre, la pratique sexuelle et le désir",
+        "Une séparation stricte entre les fonctions biologiques et les rôles sociaux",
+        "Uniquement sur l'apparence physique et le code vestimentaire des individus",
+        "L'acceptation passive des dogmes religieux concernant la reproduction humaine",
+        "La corrélation directe entre le niveau de diplôme et l'orientation sexuelle"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelle est la définition de la performativité du genre selon Judith Butler ?",
+      "choices": [
+        "Le genre constitue l'identité qu'il est censé être via une action continue",
+        "Le genre est une performance théâtrale optionnelle choisie par le sujet",
+        "La capacité d'un individu à réussir professionnellement selon son sexe",
+        "Une mesure de l'efficacité des rôles sociaux dans la productivité économique",
+        "L'expression naturelle d'un moi intérieur préexistant à toute action sociale"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q7",
+      "prompt": "Selon le texte, le genre est-il le fait d'un sujet qui précéderait ce 'faire' ?",
+      "choices": [
+        "Non, le genre est toujours un faire et non l'attribut d'un sujet préalable",
+        "Oui, l'individu naît avec une essence de genre avant toute socialisation",
+        "Oui, le sujet décide de son genre avant de commencer à agir socialement",
+        "Non, le genre est une imposition extérieure sans lien avec l'action du sujet",
+        "Uniquement chez les adultes ayant terminé leur socialisation secondaire"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q8",
+      "prompt": "Comment les transidentités étaient-elles historiquement définies par la psychiatrie ?",
+      "choices": [
+        "Par le sentiment d'appartenir au sexe opposé et le dégoût de son propre sexe",
+        "Comme une simple phase transitoire liée à la crise de l'adolescence",
+        "Par une volonté politique de renverser les normes de la binarité sociale",
+        "Comme un choix esthétique lié à l'évolution des modes vestimentaires",
+        "Par un besoin de reconnaissance sociale au sein de groupes marginaux"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q9",
+      "prompt": "Quel est l'effet des formulations comme 'sentiment enraciné' selon le texte ?",
+      "choices": [
+        "Elles sanctifient l'idée d'une identité binaire et 'naturelle' à l'individu",
+        "Elles encouragent la fluidité de genre et la déconstruction des normes",
+        "Elles permettent d'éliminer totalement les discriminations psychiatriques",
+        "Elles prouvent que le genre est une construction purement aléatoire",
+        "Elles renforcent le rôle actif de l'individu dans son choix identitaire"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q10",
+      "prompt": "Où se situe l'identité de genre selon la perspective sociologique présentée ?",
+      "choices": [
+        "Entre un mouvement d'innovation/adaptation et un mouvement de contrainte",
+        "Exclusivement dans la sphère privée et les préférences individuelles",
+        "Dans la conformation stricte et inconditionnelle aux normes biologiques",
+        "Dans le rejet total de toute influence sociale dès la petite enfance",
+        "Uniquement dans les gènes hérités des parents lors de la conception"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q11",
+      "prompt": "La notion d'identité de genre nie-t-elle les normes sociales ?",
+      "choices": [
+        "Non, elle naît précisément sous l'effet de la contrainte du genre",
+        "Oui, elle postule que l'individu est libre de toute influence sociale",
+        "Oui, car l'identité est un choix conscient indépendant de la société",
+        "Non, car elle impose une binarité biologique immuable à tous",
+        "Uniquement dans le cas des innovations de genre marginales"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q12",
+      "prompt": "Que représentent les 'innovations de genre' par rapport aux normes ?",
+      "choices": [
+        "Elles s'appuient sur les normes pour les contrarier et se loger dans leurs plis",
+        "Elles sont des expériences totalement extérieures aux normes sociales",
+        "Elles constituent un rejet complet et définitif de tout code social",
+        "Elles sont des erreurs de socialisation dues à un manque de surveillance",
+        "Elles sont des comportements purement biologiques sans dimension sociale"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q13",
+      "prompt": "Selon Beaubatie (2021), comment doit-on concevoir le genre ?",
+      "choices": [
+        "Comme un espace social en plusieurs dimensions, analogue aux classes sociales",
+        "Comme une ligne droite allant d'un pôle féminin à un pôle masculin",
+        "Comme une catégorie biologique fixe déterminée par les chromosomes",
+        "Comme une simple question de préférence sexuelle sans impact social",
+        "Comme un phénomène de mode limité aux environnements urbains"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q14",
+      "prompt": "De quoi est fait 'l'espace social du genre' ?",
+      "choices": [
+        "D'identifications, de pratiques et de représentations produisant des positions singulières",
+        "Uniquement de lois juridiques encadrant le mariage et la filiation",
+        "De prédispositions génétiques et de réflexes hormonaux innés",
+        "D'une échelle de performance allant de 0 à 100 entre les sexes",
+        "D'un ensemble de vêtements et d'accessoires genrés imposés"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q15",
+      "prompt": "Pourquoi est-il important de penser le genre au-delà du binaire ?",
+      "choices": [
+        "Pour reconnaître que le genre est toujours situé et pluriel",
+        "Pour supprimer totalement les catégories d'homme et de femme",
+        "Afin d'uniformiser tous les comportements humains sans distinction",
+        "Pour faciliter le travail des administrations et des statistiques",
+        "Pour ignorer les hiérarchies sociales au profit des gènes"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q16",
+      "prompt": "Comment varie la socialisation de genre selon les classes sociales ?",
+      "choices": [
+        "Elle est plus différenciée dans les milieux populaires que dans les milieux dotés en capital culturel",
+        "Elle est identique dans toutes les strates sociales sans aucune distinction",
+        "Les milieux aisés sont les seuls à imposer une binarité stricte aux enfants",
+        "Elle ne dépend que du revenu financier et non du capital culturel",
+        "Les milieux populaires adoptent systématiquement un ethos égalitaire"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q17",
+      "prompt": "Qu'observe-t-on dans les milieux dotés en capital culturel concernant le genre ?",
+      "choices": [
+        "Un ethos égalitaire qui ne se traduit pas toujours dans les pratiques",
+        "Une différenciation extrême et violente des rôles dès la naissance",
+        "L'absence totale de toute notion de genre ou de sexe biologique",
+        "Une soumission totale aux traditions religieuses patriarcales",
+        "Une reproduction parfaite et systématique de l'égalité réelle"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q18",
+      "prompt": "Selon le texte, la socialisation primaire est-elle limitée à la famille ?",
+      "choices": [
+        "Non, elle s'effectue par la famille puis par l'école",
+        "Oui, la famille est l'unique agent capable d'influencer l'enfant",
+        "Non, elle commence uniquement après l'entrée à l'école primaire",
+        "Oui, car l'école ne s'occupe que de la transmission des savoirs",
+        "Non, elle est exclusivement le fait des médias et des réseaux sociaux"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q19",
+      "prompt": "Quels agents interviennent dans la socialisation secondaire ?",
+      "choices": [
+        "Le travail, le couple, les médias, le sport et les pairs",
+        "Uniquement les parents et les membres de la famille élargie",
+        "Les médecins psychiatres et les institutions judiciaires seulement",
+        "Les professeurs de maternelle et de primaire exclusivement",
+        "Les robots et les algorithmes d'intelligence artificielle"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q20",
+      "prompt": "Dans quel réseau de relations s'inscrit la socialisation aux normes de genre ?",
+      "choices": [
+        "École, pairs, médias, institutions et espaces numériques",
+        "Uniquement dans le cercle fermé de la cellule familiale",
+        "Dans l'ADN et les structures neuronales de l'individu",
+        "Dans le rapport unique entre l'enfant et sa mère biologique",
+        "Dans les codes de lois constitutionnelles d'un pays donné"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q21",
+      "prompt": "Quelle est la définition de la socialisation selon Darmon (2016) ?",
+      "choices": [
+        "L'ensemble des processus par lesquels l'individu est construit par la société",
+        "Une simple transmission de connaissances techniques et de savoir-faire",
+        "Un mécanisme de rejet des influences extérieures par l'individu",
+        "Un dressage animal visant à l'obéissance totale au pouvoir",
+        "L'acquisition innée de la parole et de la marche sans aide extérieure"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q22",
+      "prompt": "Quels verbes Darmon utilise-t-elle pour décrire la construction de l'individu ?",
+      "choices": [
+        "Formé, modelé, façonné, fabriqué, conditionné",
+        "Éduqué, aimé, protégé, nourri, surveillé",
+        "Ignoré, abandonné, révolté, libéré, autonome",
+        "Commandé, puni, récompensé, évalué, classé",
+        "Inspiré, motivé, encouragé, valorisé, épanoui"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q23",
+      "prompt": "Au cours de la socialisation, que finit par acquérir l'individu ?",
+      "choices": [
+        "Des façons de faire, de penser et d'être situées socialement",
+        "Uniquement des diplômes et des certificats de compétence",
+        "Une indépendance totale vis-à-vis des attentes de son milieu",
+        "La capacité de manipuler autrui pour son propre profit",
+        "Un rejet définitif de toutes les valeurs apprises durant l'enfance"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q24",
+      "prompt": "La socialisation est-elle un processus mécanique et passif ?",
+      "choices": [
+        "Non, l'individu a un rôle actif dans le processus de socialisation",
+        "Oui, les individus enregistrent passivement toutes les injonctions",
+        "Oui, comme un disque dur enregistrant des données informatiques",
+        "Non, c'est un processus purement biologique dicté par les hormones",
+        "Uniquement durant la phase de la socialisation secondaire"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q25",
+      "prompt": "Comment le genre peut-il être affecté par la socialisation selon le texte ?",
+      "choices": [
+        "Il peut être actualisé, déstabilisé, transformé ou 'défait'",
+        "Il est définitivement gravé et ne peut plus jamais changer",
+        "Il est automatiquement rejeté par tous les individus à l'adolescence",
+        "Il est rendu totalement invisible par les processus sociaux",
+        "Il est uniformisé pour que tout le monde se comporte de la même façon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q26",
+      "prompt": "Sur quelle durée opère le processus de socialisation de genre ?",
+      "choices": [
+        "Tout au long de la vie dans une multiplicité d'activités",
+        "Uniquement de la naissance à l'entrée à l'école primaire",
+        "Durant la période pubertaire et s'arrête à la majorité légale",
+        "Exclusivement pendant les heures passées au sein de l'école",
+        "Pendant les neuf mois de gestation dans le ventre maternel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q27",
+      "prompt": "La socialisation de genre est-elle un processus isolé ?",
+      "choices": [
+        "Non, elle est toujours imbriquée dans d'autres processus de socialisation",
+        "Oui, elle ne concerne que le sexe et aucune autre dimension sociale",
+        "Oui, elle est totalement indépendante de la classe sociale ou de l'origine",
+        "Non, elle est subordonnée uniquement aux lois biologiques naturelles",
+        "Uniquement dans les sociétés primitives et non occidentales"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q28",
+      "prompt": "Que signifie le fait que la socialisation est 'située' ?",
+      "choices": [
+        "Qu'elle s'inscrit précisément dans l'espace et dans le temps",
+        "Qu'elle dépend uniquement de la localisation géographique (GPS)",
+        "Qu'elle est le résultat d'un choix de carrière professionnelle",
+        "Qu'elle s'arrête dès que l'individu change de quartier",
+        "Qu'elle est fixe et identique dans toutes les époques de l'histoire"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q29",
+      "prompt": "Le féminin et le masculin sont-ils des entités immuables ?",
+      "choices": [
+        "Non, ce sont des catégories plurielles, diversifiées selon les contextes",
+        "Oui, ce sont des essences naturelles qui ne changent jamais",
+        "Oui, car l'anatomie humaine dicte une seule façon d'être femme ou homme",
+        "Non, ce sont des inventions récentes qui n'existaient pas avant 1990",
+        "Uniquement dans les pays qui ne respectent pas les droits de l'homme"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q30",
+      "prompt": "Malgré la pluralité des genres, que continuent de produire les rapports sociaux ?",
+      "choices": [
+        "Ils continuent de (re)produire des inégalités de sexe",
+        "Une égalité parfaite et naturelle entre tous les individus",
+        "L'effacement total des différences entre les hommes et les femmes",
+        "Une harmonie sociale fondée sur la reconnaissance des mérites",
+        "La fin définitive des discriminations au travail et à l'école"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q31",
+      "prompt": "Admettre les caractéristiques de genre comme critère de classement implique-t-il l'uniformité ?",
+      "choices": [
+        "Non, cela ne signifie pas que tous les comportements soient uniformes",
+        "Oui, cela oblige chaque sexe à agir exactement de la même manière",
+        "Oui, car le classement social ne tolère aucune déviance individuelle",
+        "Non, car le genre n'est qu'une étiquette administrative sans effet",
+        "Uniquement pour les individus vivant dans des milieux populaires"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q32",
+      "prompt": "Selon Bereni et al. (2020), que nous apprend la socialisation de genre ?",
+      "choices": [
+        "À se comporter, sentir, penser et voir le monde selon la différence de sexe",
+        "À ignorer les différences physiques pour se concentrer sur l'intellect",
+        "À rejeter toute forme de hiérarchie entre les êtres vivants",
+        "À mémoriser uniquement les rôles traditionnels des contes de fées",
+        "À développer des compétences techniques sans lien avec l'identité"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q33",
+      "prompt": "Quelle comparaison Beaubatie fait-elle entre le genre et les classes sociales ?",
+      "choices": [
+        "Le genre est une appartenance plurielle et multidimensionnelle",
+        "Le genre est plus important que la classe sociale pour réussir",
+        "Les classes sociales n'ont aucune influence sur l'identité de genre",
+        "Le genre est inné alors que la classe sociale est acquise",
+        "Il n'y a aucune analogie possible entre ces deux concepts"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q34",
+      "prompt": "Comment les filles manifestent-elles leur rôle de genre selon l'exemple du texte ?",
+      "choices": [
+        "En montrant qu'elles sont des belles princesses",
+        "En participant à des compétitions sportives de haut niveau",
+        "En refusant systématiquement de porter des vêtements roses",
+        "En imitant exclusivement le comportement de leur père",
+        "En développant des compétences scientifiques très tôt"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q35",
+      "prompt": "Que signifie 'devenir genré' (becoming gendered) ?",
+      "choices": [
+        "Entrer dans les critères distinctifs de l'intelligibilité sociale",
+        "Changer de sexe biologique par une intervention chirurgicale",
+        "Apprendre à ignorer les attentes de la société sur le sexe",
+        "Se déguiser temporairement pour une performance artistique",
+        "Perdre son identité individuelle au profit d'une masse anonyme"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q36",
+      "prompt": "Dans la socialisation primaire, que transmet la famille via la 'confrontation quotidienne' ?",
+      "choices": [
+        "L'intériorisation des normes et des comportements sociaux",
+        "Uniquement les gènes et les caractéristiques physiques",
+        "La capacité à contester systématiquement toute autorité",
+        "Le rejet des savoirs scolaires au profit des savoirs familiaux",
+        "Des techniques de survie en milieu hostile uniquement"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q37",
+      "prompt": "Quel est l'apport spécifique de l'école dans la socialisation primaire selon le schéma ?",
+      "choices": [
+        "La transmission de savoirs, de savoir-être et de savoir-faire",
+        "L'imposition d'une binarité stricte absente de la famille",
+        "Uniquement la préparation aux examens de fin d'année",
+        "La rupture totale avec les expériences quotidiennes de l'enfant",
+        "Le remplacement de l'éducation sentimentale par la raison"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q38",
+      "prompt": "Pourquoi dit-on que le genre est 'situé' historiquement ?",
+      "choices": [
+        "Car les définitions du masculin/féminin évoluent selon les époques",
+        "Car le genre n'existait pas avant la révolution industrielle",
+        "Car les hormones humaines ont changé au cours des siècles",
+        "Car chaque siècle impose un seul et unique genre universel",
+        "Car l'histoire est écrite uniquement par les hommes"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q39",
+      "prompt": "Que permet la perspective de pluralité avec les hiérarchies ?",
+      "choices": [
+        "De comprendre comment les individus se confrontent selon des prescriptions concurrentes",
+        "De supprimer toute forme de compétition entre les groupes sociaux",
+        "D'affirmer que toutes les identités ont le même pouvoir social",
+        "De prouver que la hiérarchie est une donnée biologique naturelle",
+        "D'ignorer les différences de classe au profit du genre unique"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q40",
+      "prompt": "Quel rôle jouent les 'espaces numériques' dans la socialisation actuelle ?",
+      "choices": [
+        "Ils constituent un nouvel agent de socialisation aux normes de genre",
+        "Ils sont des espaces neutres sans aucune influence sur l'identité",
+        "Ils remplacent totalement l'école et la famille chez les jeunes",
+        "Ils servent uniquement à la transmission de savoirs techniques",
+        "Ils renforcent exclusivement les stéréotypes du 19ème siècle"
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "course": "Sociologie du Genre"
+}
