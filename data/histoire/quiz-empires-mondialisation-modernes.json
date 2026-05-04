@@ -1,0 +1,663 @@
+{
+  "quizId": "empires-mondialisation-modernes",
+  "title": "Quiz - Empires et mondialisation aux temps modernes",
+  "section": {
+    "id": "empires-mondialisation-modernes",
+    "title": "Empires et mondialisation aux temps modernes",
+    "startPage": 2,
+    "endPage": 20,
+    "summary": "Analyse du système des empires en Asie (Moghol, Safavide, Ottoman) et en Europe, l'histoire des grandes découvertes, la colonisation des Amériques et la mise en place du commerce triangulaire et de l'esclavage."
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon le document, comment définit-on un 'Empire' aux temps modernes ?",
+      "choices": [
+        "Un régime démocratique fondé sur le vote populaire",
+        "Une petite principauté sans autorité centrale",
+        "Un régime autoritaire de type monarchique détenu par un empereur",
+        "Une confédération d'États totalement indépendants",
+        "Une colonie sans lien avec une métropole"
+      ],
+      "correctIndex": 2,
+      "explanation": "Un empire est défini comme un régime autoritaire de type monarchique détenu par un empereur, détenant sous son autorité centrale plusieurs peuples différents."
+    },
+    {
+      "id": "q2",
+      "prompt": "Qui a fondé la dynastie de l'Empire moghol en 1530 ?",
+      "choices": [
+        "Akbar",
+        "Babur",
+        "Shah Abbas",
+        "Isma'il",
+        "Soliman le Magnifique"
+      ],
+      "correctIndex": 1,
+      "explanation": "Babur a fondé la dynastie de l'empire moghol en 1530 en commençant la conquête par le nord de l'Inde."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel dirigeant moghol est célèbre pour son extension de l'empire et sa tolérance religieuse ?",
+      "choices": [
+        "Babur",
+        "Shah Jahan",
+        "Akbar",
+        "Aurangzeb",
+        "Isma'il"
+      ],
+      "correctIndex": 2,
+      "explanation": "Akbar (1605) a réalisé l'unité de l'Inde, l'extension de l'empire et s'est montré tolérant envers d'autres religions."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quelle était la base économique principale de l'Empire moghol ?",
+      "choices": [
+        "L'industrie minière exclusivement",
+        "La piraterie maritime",
+        "L'agriculture et le commerce avec les Européens",
+        "L'exportation de pétrole",
+        "L'élevage nomade"
+      ],
+      "correctIndex": 2,
+      "explanation": "La base de l'empire était l'agriculture mais aussi le commerce de la soie et des épices avec les Européens."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle est la religion dominante de l'Empire safavide (Perse) ?",
+      "choices": [
+        "Islam sunnite",
+        "Islam chiite",
+        "Bouddhisme",
+        "Zoroastrisme",
+        "Christianisme orthodoxe"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'empire safavide était un empire chiite situé sur la route de la soie."
+    },
+    {
+      "id": "q6",
+      "prompt": "Sous quel souverain l'Empire safavide connaît-il son apogée ?",
+      "choices": [
+        "Isma'il",
+        "Akbar",
+        "Shah Abbas le Grand",
+        "Mehmed II",
+        "Soliman II"
+      ],
+      "correctIndex": 2,
+      "explanation": "Shah Abbas le Grand a mené l'empire safavide à son apogée, se montrant relativement tolérant politiquement."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quelle ville safavide était considérée comme la plus belle du monde au moment de sa prospérité ?",
+      "choices": [
+        "Téhéran",
+        "Ispahan",
+        "Bagdad",
+        "Istanbul",
+        "Agra"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ispahan était considérée comme la plus belle ville du monde à ce moment-là."
+    },
+    {
+      "id": "q8",
+      "prompt": "En quelle année l'Empire ottoman prend-il Constantinople ?",
+      "choices": [
+        "1520",
+        "1492",
+        "1453",
+        "1571",
+        "1683"
+      ],
+      "correctIndex": 2,
+      "explanation": "Les Ottomans fondent un empire avec la prise de Constantinople en 1453."
+    },
+    {
+      "id": "q9",
+      "prompt": "Quel est le nom du palais qui servait de centre à l'Empire ottoman ?",
+      "choices": [
+        "Le Taj Mahal",
+        "L'Alhambra",
+        "Le Palais de Topkapi",
+        "Le Kremlin",
+        "L'Escorial"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le palais de Topkapi était le centre de l'empire et abritait 'la sublime porte'."
+    },
+    {
+      "id": "q10",
+      "prompt": "Qui est le 'Grand Vizir' dans l'Empire ottoman ?",
+      "choices": [
+        "Le chef religieux suprême",
+        "Le premier des fonctionnaires dirigeant le conseil impérial",
+        "Le garde personnel du sultan",
+        "L'héritier direct du trône",
+        "Un marchand de soie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le conseil impérial ottoman était dirigé par le grand vizir, qui était le premier des fonctionnaires."
+    },
+    {
+      "id": "q11",
+      "prompt": "Quel souverain ottoman est surnommé 'Le Législateur' ?",
+      "choices": [
+        "Mehmed II",
+        "Isma'il",
+        "Soliman II (ou Soliman le Magnifique)",
+        "Akbar",
+        "Charles Quint"
+      ],
+      "correctIndex": 2,
+      "explanation": "Soliman II le législateur (1521) a contribué à l'agrandissement de l'empire."
+    },
+    {
+      "id": "q12",
+      "prompt": "Comment s'appelait la garde personnelle du Sultan ottoman, forte de 12 000 hommes ?",
+      "choices": [
+        "Les conquistadors",
+        "Les janissaires",
+        "Les mamelouks",
+        "Les hussards",
+        "Les croisés"
+      ],
+      "correctIndex": 1,
+      "explanation": "Soliman a popularisé les janissaires, qui étaient la garde personnelle du sultan."
+    },
+    {
+      "id": "q13",
+      "prompt": "Quelle bataille de 1571 marque une victoire de la Ligue sainte contre les Ottomans ?",
+      "choices": [
+        "Bataille de Pavie",
+        "Bataille de Lépante",
+        "Siège de Vienne",
+        "Bataille de Marignan",
+        "Bataille d'Hastings"
+      ],
+      "correctIndex": 1,
+      "explanation": "La bataille de Lépante en 1571 est une victoire de la Ligue sainte marquant la fin de l'avancée ottomane en Europe."
+    },
+    {
+      "id": "q14",
+      "prompt": "Quel pays d'Afrique du Nord n'a jamais été conquis par les Ottomans ?",
+      "choices": [
+        "L'Égypte",
+        "L'Algérie",
+        "Le Maroc",
+        "La Tunisie",
+        "La Libye"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le Maroc n'a pas été conquis par les Ottomans."
+    },
+    {
+      "id": "q15",
+      "prompt": "Quelle était la langue d'unité de l'Europe occidentale pour l'église et les documents officiels ?",
+      "choices": [
+        "Le français",
+        "L'espagnol",
+        "Le latin",
+        "L'allemand",
+        "L'anglais"
+      ],
+      "correctIndex": 2,
+      "explanation": "La langue latine était le facteur d'unité, parlée à l'église et enseignée à l'université."
+    },
+    {
+      "id": "q16",
+      "prompt": "Quand s'est terminée la présence musulmane en Espagne (Reconquista) ?",
+      "choices": [
+        "1516",
+        "1453",
+        "1492",
+        "1520",
+        "1588"
+      ],
+      "correctIndex": 2,
+      "explanation": "La présence musulmane se termine en 1492 avec la chute de l'émirat de Grenade."
+    },
+    {
+      "id": "q17",
+      "prompt": "Quel monument espagnol est l'un des vestiges les mieux conservés de la présence arabe ?",
+      "choices": [
+        "La Sagrada Familia",
+        "L'Alhambra de Grenade",
+        "Le Palais de Topkapi",
+        "L'Escorial",
+        "La Cathédrale de Séville"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'Alhambra à Grenade est un des vestiges les mieux conservés de la présence arabe."
+    },
+    {
+      "id": "q18",
+      "prompt": "Qui sont les 'Rois catholiques' mentionnés dans le document ?",
+      "choices": [
+        "Louis XIV et Marie-Thérèse",
+        "Ferdinand d'Aragon et Isabelle de Castille",
+        "Charles Quint et Philippe II",
+        "Henri IV et Marie de Médicis",
+        "François Ier et Claude de France"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le mariage de Ferdinand d'Aragon et Isabelle de Castille réunit les royaumes et ils reçoivent du pape le titre de 'Rois catholiques'."
+    },
+    {
+      "id": "q19",
+      "prompt": "Que désigne le terme 'Juifs marranes' ?",
+      "choices": [
+        "Des Juifs expulsés vers l'Empire ottoman",
+        "Des Juifs convertis au christianisme mais continuant à pratiquer leur foi",
+        "Des marchands juifs de Venise",
+        "Des soldats juifs dans l'armée espagnole",
+        "Les fondateurs du premier ghetto"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les juifs marranes sont ceux qui se sont convertis mais continuent à pratiquer leur foi en secret."
+    },
+    {
+      "id": "q20",
+      "prompt": "Où et quand a été institué le premier ghetto juif ?",
+      "choices": [
+        "À Madrid en 1492",
+        "À Venise en 1516",
+        "À Paris en 1610",
+        "À Londres en 1580",
+        "À Rome en 1450"
+      ],
+      "correctIndex": 1,
+      "explanation": "En 1516, Venise a institué le premier ghetto."
+    },
+    {
+      "id": "q21",
+      "prompt": "Pourquoi les activités de prêt d'argent étaient-elles souvent laissées aux Juifs ?",
+      "choices": [
+        "Parce qu'ils possédaient toutes les mines d'or",
+        "Parce que le prêt avec intérêt était interdit par les textes bibliques aux chrétiens",
+        "Parce qu'ils ne savaient pas cultiver la terre",
+        "Sur ordre direct de l'empereur ottoman",
+        "C'était une punition de l'Inquisition"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le prêt d'argent avec intérêt provoquait un malaise car il était interdit par des textes bibliques (aux chrétiens et musulmans), laissant cette activité aux juifs."
+    },
+    {
+      "id": "q22",
+      "prompt": "Quel navigateur a établi la première liaison maritime directe entre l'Europe et l'Inde ?",
+      "choices": [
+        "Christophe Colomb",
+        "Vasco de Gama",
+        "Magellan",
+        "Amerigo Vespucci",
+        "Jacques Cartier"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vasco de Gama est le premier à établir une liaison directe via la mer à l'Inde."
+    },
+    {
+      "id": "q23",
+      "prompt": "Quel est le principal avantage technique de la caravelle portugaise ?",
+      "choices": [
+        "Sa grande taille permettant de transporter 1000 hommes",
+        "Sa capacité à naviguer en haute mer et plus loin",
+        "Son blindage en métal contre les boulets de canon",
+        "L'utilisation d'un moteur à vapeur précoce",
+        "L'absence totale de voiles"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'invention de la caravelle a permis aux Portugais de naviguer plus loin, en haute mer."
+    },
+    {
+      "id": "q24",
+      "prompt": "Quel traité de 1494 divise le monde entre les zones d'influence espagnole et portugaise ?",
+      "choices": [
+        "Traité de Westphalie",
+        "Traité de Tordesillas",
+        "Traité de Versailles",
+        "Traité d'Utrecht",
+        "Traité de Saragosse"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le traité de Tordesillas (1494) divise le monde en deux zones entre l'Espagne et le Portugal."
+    },
+    {
+      "id": "q25",
+      "prompt": "Quel conquérant espagnol a fait chuter l'Empire aztèque à partir de 1518 ?",
+      "choices": [
+        "Francisco Pizarro",
+        "Hernán Cortés",
+        "Vasco de Gama",
+        "Magellan",
+        "Pedro Alvares Cabral"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'empire aztèque a été vaincu par Cortés à partir de 1518."
+    },
+    {
+      "id": "q26",
+      "prompt": "Quelle était la capitale de l'Empire aztèque ?",
+      "choices": [
+        "Cuzco",
+        "Tenochtitlan",
+        "Palenque",
+        "Lima",
+        "Madrid"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tenochtitlan était la plus grande ville du nouveau monde et la capitale aztèque."
+    },
+    {
+      "id": "q27",
+      "prompt": "Qui a conquis l'Empire inca en 1533 ?",
+      "choices": [
+        "Hernán Cortés",
+        "Francisco Pizarro",
+        "Bartolomé de las Casas",
+        "Charles Quint",
+        "Moctezuma"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'empire inca a été détruit par Pizarro en 1533."
+    },
+    {
+      "id": "q28",
+      "prompt": "Quelle est la cause principale de la rapidité de la conquête et de l'effondrement démographique des Amérindiens ?",
+      "choices": [
+        "Le manque de courage des guerriers autochtones",
+        "Le choc microbien (maladies apportées par les Européens)",
+        "L'utilisation de la bombe atomique par les Espagnols",
+        "Une migration massive vers l'Asie",
+        "Une famine naturelle préexistante"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le choc microbien est cité comme la plus grande cause de la rapidité de la conquête, la population passant de 20 à 2 millions."
+    },
+    {
+      "id": "q29",
+      "prompt": "Qu'est-ce que le système de l'encomienda ?",
+      "choices": [
+        "Un traité de paix entre Incas et Espagnols",
+        "Un système où la couronne octroie temporairement des terres et du travail forcé des indigènes à un conquistador",
+        "Une technique de navigation portugaise",
+        "Une nouvelle religion syncrétique",
+        "Une monnaie utilisée au Mexique"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'encomienda permettait au conquistador d'exiger impôts et travail (forcé) des habitants en échange de leur évangélisation."
+    },
+    {
+      "id": "q30",
+      "prompt": "Quelle mine de Bolivie est devenue célèbre pour son exploitation massive d'argent au XVIe siècle ?",
+      "choices": [
+        "Zacatecas",
+        "Potosi",
+        " Minas Gerais",
+        "Sierra Nevada",
+        "Eldorado"
+      ],
+      "correctIndex": 1,
+      "explanation": "Potosi en Bolivie était le centre de l'extraction des métaux précieux (argent) au XVIe siècle."
+    },
+    {
+      "id": "q31",
+      "prompt": "Quel était le rôle principal des Jésuites dans les colonies espagnoles ?",
+      "choices": [
+        "Diriger les armées de conquête",
+        "Diffuser la religion chrétienne et évangéliser",
+        "Construire des navires",
+        "Gérer les banques de Séville",
+        "Traduire des textes grecs"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les jésuites s'implantaient pour diffuser la religion chrétienne."
+    },
+    {
+      "id": "q32",
+      "prompt": "Quelle institution à Séville gérait les richesses provenant du nouveau monde dès 1503 ?",
+      "choices": [
+        "Le Conseil des Indes",
+        "La Casa de contratacion",
+        "La Banque d'Espagne",
+        "Le Tribunal de l'Inquisition",
+        "Le Palais de l'Alcazar"
+      ],
+      "correctIndex": 1,
+      "explanation": "La Casa de contratacion à Séville (1503) était le lieu par où transitaient les richesses du nouveau monde."
+    },
+    {
+      "id": "q33",
+      "prompt": "Où s'implantent durablement les Français au début du XVIIe siècle en Amérique du Nord ?",
+      "choices": [
+        "Jamestown",
+        "Québec (1608)",
+        "New York",
+        "Floride",
+        "Mexique"
+      ],
+      "correctIndex": 1,
+      "explanation": "La France s'installe durablement à Québec en 1608."
+    },
+    {
+      "id": "q34",
+      "prompt": "Comment s'appelle le navire qui débarque les pères pèlerins (puritains) en 1620 ?",
+      "choices": [
+        "Le Titanic",
+        "La Santa Maria",
+        "Le Mayflower",
+        "La Bounty",
+        "Le Victory"
+      ],
+      "correctIndex": 2,
+      "explanation": "En 1620, le Mayflower débarque près de Boston avec des puritains."
+    },
+    {
+      "id": "q35",
+      "prompt": "Quel produit est au cœur de l'économie de la Nouvelle-France ?",
+      "choices": [
+        "L'or et l'argent",
+        "Le castor (fourrure)",
+        "Le sucre de canne",
+        "Le café",
+        "Le coton"
+      ],
+      "correctIndex": 1,
+      "explanation": "En Nouvelle-France, 'le castor fait tout', car il sert à fabriquer des chapeaux en feutre très prisés en Europe."
+    },
+    {
+      "id": "q36",
+      "prompt": "Qu'est-ce que le 'Mayflower compact' ?",
+      "choices": [
+        "Un traité de commerce avec les autochtones",
+        "Un ensemble de règles de bonne conduite pour la réussite de la colonie",
+        "Un plan de guerre contre les Français",
+        "Un dictionnaire de langue puritaine",
+        "Une nouvelle sorte de navire"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Mayflower compact était un ensemble de règles de bonne conduite établi par les pèlerins."
+    },
+    {
+      "id": "q37",
+      "prompt": "Quelle était la culture principale dans les colonies anglaises du Sud (Virginie) ?",
+      "choices": [
+        "Le blé",
+        "Le tabac",
+        "La canne à sucre",
+        "La vigne",
+        "Le maïs"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'agriculture dans les colonies du Sud reposait sur le tabac (en Virginie)."
+    },
+    {
+      "id": "q38",
+      "prompt": "Qui a écrit 'Brevísima relación de la destrucción de las Indias' pour dénoncer l'exploitation des autochtones ?",
+      "choices": [
+        "Michel de Montaigne",
+        "Bartolomé de las Casas",
+        "Christophe Colomb",
+        "Francisco Pizarro",
+        "Jean Bodin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bartolomé de las Casas a dénoncé la réduction en esclavage des autochtones dans son ouvrage."
+    },
+    {
+      "id": "q39",
+      "prompt": "Quel philosophe français a introduit la notion de 'relativisme culturel' face aux 'cannibales' ?",
+      "choices": [
+        "René Descartes",
+        "Jean-Jacques Rousseau",
+        "Michel de Montaigne",
+        "Voltaire",
+        "Blaise Pascal"
+      ],
+      "correctIndex": 2,
+      "explanation": "Michel de Montaigne, dans ses 'Essais', remet en question la barbarie et prône le relativisme culturel."
+    },
+    {
+      "id": "q40",
+      "prompt": "Combien de millions d'Africains estime-t-on avoir été déportés lors de la traite atlantique ?",
+      "choices": [
+        "1 à 2 millions",
+        "5 à 10 millions",
+        "15 à 20 millions",
+        "50 millions",
+        "100 millions"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le document estime que la traite atlantique a déraciné 15 à 20 millions d'Africains."
+    },
+    {
+      "id": "q41",
+      "prompt": "Qu'est-ce que le 'Code Noir' de 1685 ?",
+      "choices": [
+        "Un manuel de navigation de nuit",
+        "Une ordonnance royale touchant la police des îles de l'Amérique française et l'esclavage",
+        "Un traité secret entre la France et l'Espagne",
+        "Une loi interdisant la couleur noire dans les vêtements",
+        "Un code de conduite pour les pirates"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Code noir est le titre donné à l'ordonnance royale de Louis XIV touchant la police des îles de l'Amérique française (esclavage)."
+    },
+    {
+      "id": "q42",
+      "prompt": "Dans le cadre de l'échange colombien, quel élément est passé des Amériques vers l'Ancien Monde ?",
+      "choices": [
+        "Le blé",
+        "Le cheval",
+        "La pomme de terre",
+        "Le café",
+        "La variole"
+      ],
+      "correctIndex": 2,
+      "explanation": "La pomme de terre (ainsi que la tomate, le maïs, le tabac...) est passée des Amériques vers l'Ancien Monde."
+    },
+    {
+      "id": "q43",
+      "prompt": "Quelle maladie est soupçonnée d'avoir été transmise des Amériques vers l'Europe ?",
+      "choices": [
+        "La peste",
+        "La variole",
+        "La syphilis",
+        "Le typhus",
+        "La grippe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le document mentionne la syphilis avec un point d'interrogation comme provenant des Amériques vers l'Europe."
+    },
+    {
+      "id": "q44",
+      "prompt": "Quel animal a été introduit en Amérique par les Européens ?",
+      "choices": [
+        "Le dindon",
+        "Le cheval",
+        "Le lama",
+        "Le bison",
+        "Le jaguar"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les chevaux (ainsi que les bovins, ovins, porcs) ont été introduits en Amérique par les Européens."
+    },
+    {
+      "id": "q45",
+      "prompt": "Quelle était la fonction de 'l'Hôpital général de Paris' créé en 1656 ?",
+      "choices": [
+        "Soigner uniquement les blessés de guerre",
+        "Éduquer et remettre au travail les pauvres (le grand renfermement)",
+        "Accueillir les ambassadeurs étrangers",
+        "Servir de prison politique",
+        "Former les futurs médecins de la cour"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'Hôpital général visait à éduquer et remettre au travail les pauvres dans le cadre du 'grand renfermement'."
+    },
+    {
+      "id": "q46",
+      "prompt": "Quel empire dominait l'espace de l'actuel Iran au XVIe siècle ?",
+      "choices": [
+        "L'Empire moghol",
+        "L'Empire ottoman",
+        "L'Empire safavide",
+        "L'Empire songhaï",
+        "L'Empire romain"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'empire safavide occupait l'espace de l'Iran actuel."
+    },
+    {
+      "id": "q47",
+      "prompt": "Comment appelle-t-on le commerce à trois étapes reliant l'Europe, l'Afrique et les Amériques ?",
+      "choices": [
+        "Le commerce bilatéral",
+        "Le commerce triangulaire",
+        "La route de la soie",
+        "Le mercantilisme",
+        "L'échange équitable"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le commerce triangulaire désigne les flux d'échanges entre ces trois continents aux XVIe-XVIIIe siècles."
+    },
+    {
+      "id": "q48",
+      "prompt": "Qui est 'Soliman le Magnifique' par rapport à la loi ?",
+      "choices": [
+        "Le Destructeur",
+        "Le Législateur",
+        "L'Usurpateur",
+        "Le Philosophe",
+        "Le Saint"
+      ],
+      "correctIndex": 1,
+      "explanation": "Soliman II est surnommé 'le législateur' dans le document."
+    },
+    {
+      "id": "q49",
+      "prompt": "Quelle est la particularité du détroit de Béring mentionnée indirectement via les Norrois ?",
+      "choices": [
+        "C'est là que Colomb a débarqué",
+        "Il n'est pas mentionné, on parle plutôt de l'Anse aux Meadows comme site archéologique viking en Amérique",
+        "C'est la route de Vasco de Gama",
+        "C'est le centre de l'empire Inca",
+        "C'est un comptoir portugais"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le document mentionne l'Anse aux Meadows et l'île de Baffin comme preuves de la présence viking vers l'an 1000."
+    },
+    {
+      "id": "q50",
+      "prompt": "Quel produit de luxe motivait initialement la recherche de nouvelles routes vers l'Inde ?",
+      "choices": [
+        "Le bois de construction",
+        "Les épices (poivre, cannelle...)",
+        "Le pétrole",
+        "La fourrure de castor",
+        "Le fer"
+      ],
+      "correctIndex": 1,
+      "explanation": "La recherche de nouveaux itinéraires pour les épices visait à rompre le monopole de Venise."
+    }
+  ]
+}
