@@ -1,0 +1,690 @@
+{
+  "quizId": "part-2-chapter-5-weber-rationalization-ethics",
+  "title": "Chapitre 5 : Légitimité Démocratique, Rationalisation et Éthique",
+  "section": {
+    "id": "part-2-chapter-5-weber-rationalization-ethics",
+    "title": "Chapitre 5 : Légitimité Démocratique, Rationalisation et Éthique",
+    "startPage": 36,
+    "endPage": 42,
+    "summary": "Analyse de Max Weber sur l'obéissance politique et les trois types de légitimité (traditionnelle, charismatique, légale-rationnelle). Exploration du désenchantement du monde et de l'opposition entre éthique de conviction et éthique de responsabilité. Inclut des exercices d'argumentation sur l'ensemble du cours.",
+    "estimatedQuestionCount": 52
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Pourquoi le progrès technique semble-t-il favoriser l'émergence d'une technocratie selon le texte ?",
+      "choices": [
+        "Parce que la complexité des sujets techniques dépasse la compréhension des citoyens ordinaires.",
+        "Parce que les experts techniques possèdent une vision politique supérieure à celle des élus.",
+        "Parce que les institutions internationales imposent désormais des normes de gestion neutres.",
+        "Parce que les citoyens préfèrent déléguer leur souveraineté pour éviter les débats sociaux.",
+        "Parce que les algorithmes de décision automatisée remplacent les processus de vote classiques."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que le progrès technique a rendu des questions (finance, environnement, économie) si difficiles que personne ne semble capable de toutes les comprendre, suggérant le recours à des techniciens."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quelle est la limite fondamentale des conseillers techniques en politique selon le document ?",
+      "choices": [
+        "Ils ne peuvent proposer que des moyens d'action sans déterminer les fins et les valeurs.",
+        "Ils manquent de connaissances spécialisées pour traiter les crises économiques majeures.",
+        "Ils sont incapables de communiquer leurs résultats de manière compréhensible au public.",
+        "Ils ignorent les contraintes budgétaires lors de la formulation de leurs recommandations.",
+        "Ils privilégient systématiquement les intérêts privés au détriment du bien commun global."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que les techniciens ne peuvent donner que des moyens d'action et ne sont pas capables de proposer des fins ou des directions politiques."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel organisme est cité comme exemple d'expertise technique nécessitant un arbitrage politique ?",
+      "choices": [
+        "Le GIEC (Groupe d'experts intergouvernemental sur l'évolution du climat).",
+        "L'OMS (Organisation mondiale de la santé) durant les crises sanitaires.",
+        "La BCE (Banque centrale européenne) pour la régulation de l'inflation.",
+        "L'OMC (Organisation mondiale du commerce) pour les traités internationaux.",
+        "L'AIEA (Agence internationale de l'énergie atomique) pour la sécurité civile."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le document utilise explicitement le GIEC comme exemple pour illustrer que la décision politique implique des arbitrages entre intérêts contradictoires."
+    },
+    {
+      "id": "q4",
+      "prompt": "Selon le texte, quel est l'objectif principal de l'éducation des citoyens dans ce contexte ?",
+      "choices": [
+        "Permettre au peuple d'acquérir le savoir nécessaire pour éviter une médiocratie.",
+        "Remplacer les experts techniques par des comités de citoyens tirés au hasard.",
+        "Standardiser les opinions politiques pour faciliter la gestion administrative de l'État.",
+        "Encourager la consommation de masse pour soutenir la croissance économique nationale.",
+        "Former uniquement des cadres capables de diriger les institutions de la fonction publique."
+      ],
+      "correctIndex": 0,
+      "explanation": "L'éducation vise à développer l'esprit critique et la réflexion commune pour permettre au peuple de déterminer la politique et ainsi éviter la médiocratie."
+    },
+    {
+      "id": "q5",
+      "prompt": "Comment Max Weber définit-il l'État dans son ouvrage 'Le savant et le politique' ?",
+      "choices": [
+        "Un rapport de domination de l'homme fondé sur le moyen de la violence légitime.",
+        "Un contrat social garantissant la protection des libertés individuelles fondamentales.",
+        "Une organisation administrative neutre visant à harmoniser les intérêts économiques.",
+        "Une entité territoriale souveraine assurant la redistribution équitable des richesses.",
+        "Un système de règles morales imposées par une autorité spirituelle supérieure reconnue."
+      ],
+      "correctIndex": 0,
+      "explanation": "Weber définit l'État comme un rapport de domination de l'homme sur l'homme fondé sur le moyen de la violence légitime."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelle condition est nécessaire à l'existence de l'État selon la perspective de Max Weber ?",
+      "choices": [
+        "La soumission des hommes dominés à l'autorité revendiquée par les dominateurs.",
+        "La signature d'un traité international reconnaissant les frontières géographiques.",
+        "L'existence d'une constitution écrite limitant strictement les pouvoirs du monarque.",
+        "Le développement d'une économie de marché permettant de financer l'armée publique.",
+        "La séparation absolue entre les pouvoirs religieux et les institutions de gouvernance."
+      ],
+      "correctIndex": 0,
+      "explanation": "Weber affirme que l'État ne peut exister qu'à la condition que les hommes dominés se soumettent à l'autorité revendiquée par les dominateurs."
+    },
+    {
+      "id": "q7",
+      "prompt": "Pourquoi l'obéissance basée uniquement sur la crainte de la sanction n'est-elle pas une autorité légitime ?",
+      "choices": [
+        "Parce que la légitimité exige que les citoyens reconnaissent eux-mêmes l'autorité.",
+        "Parce que la peur empêche le développement économique nécessaire à la survie de l'État.",
+        "Parce que les sanctions juridiques coûtent trop cher à mettre en œuvre pour le Trésor.",
+        "Parce que l'autorité doit toujours émaner d'un consensus religieux universellement partagé.",
+        "Parce que la violence est inefficace pour contrôler les comportements de masse modernes."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que si l'on obéit que par crainte, ce n'est pas une autorité légitime ; il faut une reconnaissance de la légitimité par ceux qui obéissent."
+    },
+    {
+      "id": "q8",
+      "prompt": "Sur quoi repose fondamentalement la légitimité traditionnelle selon Max Weber ?",
+      "choices": [
+        "Sur la tradition et les coutumes sanctifiées par le passage du temps.",
+        "Sur le vote majoritaire exprimé lors d'élections législatives régulières.",
+        "Sur les qualités héroïques exceptionnelles d'un individu providentiel unique.",
+        "Sur le respect strict de procédures administratives fixées par un code pénal.",
+        "Sur la compétence technique vérifiée par des diplômes d'études supérieures."
+      ],
+      "correctIndex": 0,
+      "explanation": "La légitimité traditionnelle repose sur les coutumes sanctifiées par le temps : on obéit parce que les choses se sont toujours faites ainsi."
+    },
+    {
+      "id": "q9",
+      "prompt": "Quelle est la principale source de fragilité de la légitimité traditionnelle ?",
+      "choices": [
+        "Elle s'effondre dès que les citoyens exigent des raisons rationnelles d'obéir.",
+        "Elle dépend de la survie physique d'un chef charismatique aux pouvoirs étendus.",
+        "Elle nécessite une croissance économique constante pour satisfaire la population.",
+        "Elle est systématiquement renversée par les révolutions technologiques industrielles.",
+        "Elle ne peut pas s'adapter aux changements climatiques affectant la production agricole."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que dès que les citoyens exigent des raisons d'obéir, la légitimité traditionnelle s'effondre face à la modernisation."
+    },
+    {
+      "id": "q10",
+      "prompt": "Sur quoi se fonde la légitimité charismatique d'un individu selon le document ?",
+      "choices": [
+        "Sur la grâce personnelle et extraordinaire attribuée à une personne spécifique.",
+        "Sur l'application rigoureuse de lois votées par une assemblée de représentants.",
+        "Sur l'ancienneté historique de la lignée familiale à laquelle appartient le chef.",
+        "Sur la possession de richesses matérielles permettant de corrompre les opposants.",
+        "Sur la réussite technique d'une gestion administrative efficace des services publics."
+      ],
+      "correctIndex": 0,
+      "explanation": "La légitimité charismatique repose sur le charisme, c'est-à-dire la grâce personnelle et extraordinaire d'un individu."
+    },
+    {
+      "id": "q11",
+      "prompt": "Comment le dévouement des sujets est-il caractérisé dans la légitimité charismatique ?",
+      "choices": [
+        "Comme un attachement personnel fondé sur la confiance en une personne singulière.",
+        "Comme une obligation contractuelle stipulée dans le code civil des nations modernes.",
+        "Comme une soumission aveugle imposée par l'usage quotidien de la force policière.",
+        "Comme un intérêt rationnel visant à maximiser le profit économique des individus.",
+        "Comme une peur irrationnelle de sanctions divines en cas de désobéissance au chef."
+      ],
+      "correctIndex": 0,
+      "explanation": "Weber parle de 'dévouement tout personnel des sujets' par leur confiance en la seule personne en tant qu'elle se singularise."
+    },
+    {
+      "id": "q12",
+      "prompt": "Quelle est la caractéristique majeure de la puissance de la légitimité charismatique ?",
+      "choices": [
+        "Elle peut mobiliser des masses et fonder de nouvelles religions ou régimes.",
+        "Elle garantit une stabilité politique sur plusieurs siècles par la transmission du sang.",
+        "Elle permet une gestion bureaucratique prévisible et neutre des affaires de l'État.",
+        "Elle assure le respect des libertés individuelles grâce à un système de contre-pouvoirs.",
+        "Elle favorise l'innovation technologique par le biais de la libre concurrence commerciale."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte souligne que cette légitimité est très puissante car elle peut mobiliser des masses, renverser des régimes ou fonder des religions."
+    },
+    {
+      "id": "q13",
+      "prompt": "Quelle est la cause de la fragilité de la légitimité charismatique selon Max Weber ?",
+      "choices": [
+        "Elle dépend entièrement de la survie de la personne du chef et s'interroge à sa mort.",
+        "Elle nécessite un financement permanent par l'impôt pour maintenir le prestige du leader.",
+        "Elle est incompatible avec l'usage de la violence légitime pour maintenir l'ordre public.",
+        "Elle disparaît dès que le chef tente de codifier ses ordres dans des textes de loi écrits.",
+        "Elle ne peut pas s'exercer sur de grands territoires géographiquement dispersés."
+      ],
+      "correctIndex": 0,
+      "explanation": "La légitimité charismatique est fragile car elle est liée à la personne du chef ; la question de ce qui se passe à sa mort est cruciale."
+    },
+    {
+      "id": "q14",
+      "prompt": "À quoi obéit-on dans le cadre d'une légitimité légale-rationnelle ?",
+      "choices": [
+        "À des règles établies rationnellement plutôt qu'à une personne spécifique.",
+        "Aux coutumes ancestrales transmises oralement par les générations précédentes.",
+        "Aux ordres directs d'un prophète possédant des dons spirituels surnaturels.",
+        "Aux désirs changeants de la majorité exprimés quotidiennement sur les réseaux.",
+        "Aux intérêts financiers des élites économiques qui contrôlent les moyens de production."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dans la légitimité légale-rationnelle, on n’obéit pas à une personne, mais à des règles établies rationnellement."
+    },
+    {
+      "id": "q15",
+      "prompt": "Selon la définition de Weber, en vertu de quoi l'autorité s'impose-t-elle dans ce troisième type ?",
+      "choices": [
+        "En vertu de la légalité et de la croyance en la validité d'un statut légal.",
+        "En vertu de la peur des sanctions physiques exercées par les milices du parti.",
+        "En vertu de la piété religieuse due au souverain désigné par la volonté divine.",
+        "En vertu de l'amour inconditionnel porté par les citoyens à leur guide suprême.",
+        "En vertu de l'efficacité prouvée d'une gestion économique sans aucune règle écrite."
+      ],
+      "correctIndex": 0,
+      "explanation": "L’autorité s’impose en vertu de la légalité et de la croyance en la validité d’un statut légal fondé sur des règles rationnelles."
+    },
+    {
+      "id": "q16",
+      "prompt": "Quelle est la première caractéristique de l'autorité légale-rationnelle citée dans le texte ?",
+      "choices": [
+        "L’autorité est impersonnelle : on obéit à la fonction et non à l'individu.",
+        "L'autorité est héréditaire : le pouvoir se transmet obligatoirement par le sang.",
+        "L'autorité est absolue : le dirigeant n'a de comptes à rendre à aucune institution.",
+        "L'autorité est secrète : les décisions sont prises par un comité occulte d'experts.",
+        "L'autorité est instable : les règles changent selon les humeurs du dirigeant actuel."
+      ],
+      "correctIndex": 0,
+      "explanation": "La première caractéristique est que l’autorité est impersonnelle : on obéit à la fonction (le rôle) et non à la personne."
+    },
+    {
+      "id": "q17",
+      "prompt": "Comment l'accès aux fonctions publiques est-il organisé dans le système légal-rationnel ?",
+      "choices": [
+        "Par la compétence, vérifiée notamment par des concours ou des élections.",
+        "Par le tirage au sort intégral parmi tous les citoyens majeurs du pays.",
+        "Par l'achat de charges administratives auprès du trésorier général de l'État.",
+        "Par la recommandation exclusive des membres de la famille régnante actuelle.",
+        "Par l'allégeance religieuse certifiée par une autorité spirituelle supérieure."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que l'accès aux fonctions se fait par compétence (concours, élection)."
+    },
+    {
+      "id": "q18",
+      "prompt": "Quelle est la nature des règles dans le cadre de la légitimité légale-rationnelle ?",
+      "choices": [
+        "Les règles sont publiques et prévisibles pour l'ensemble des citoyens.",
+        "Les règles sont modifiables sans préavis par décision du chef charismatique.",
+        "Les règles sont des secrets d'État accessibles uniquement aux technocrates.",
+        "Les règles sont dictées par les astres et interprétées par des spécialistes.",
+        "Les règles sont facultatives tant que l'ordre public n'est pas menacé par la foule."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le document précise que les règles sont publiques et prévisibles dans ce système."
+    },
+    {
+      "id": "q19",
+      "prompt": "Sur quoi repose la démocratie moderne selon Max Weber ?",
+      "choices": [
+        "Sur la troisième légitimité (légale-rationnelle) où l'on obéit aux procédures.",
+        "Sur la fusion des trois types de légitimité en une seule autorité souveraine.",
+        "Sur l'élimination totale de toute forme de hiérarchie au sein de la société.",
+        "Sur la légitimité traditionnelle revitalisée par l'usage des nouvelles technologies.",
+        "Sur le charisme individuel des élus qui s'affranchissent des cadres législatifs."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pour Weber, la démocratie moderne repose sur la légitimité légale-rationnelle : on obéit aux lois votées selon une procédure."
+    },
+    {
+      "id": "q20",
+      "prompt": "Quelles procédures définissent l'obéissance légale dans une démocratie moderne ?",
+      "choices": [
+        "Les élections, le débat parlementaire et le vote à la majorité.",
+        "Le plébiscite permanent par acclamation du chef sur la place publique.",
+        "L'examen des entrailles d'animaux par des conseillers techniques certifiés.",
+        "La signature de contrats de fidélité entre chaque citoyen et son député.",
+        "L'approbation tacite de décisions prises par les grandes firmes privées."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte cite les élections, le débat parlementaire et le vote à la majorité comme procédures légales de la démocratie moderne."
+    },
+    {
+      "id": "q21",
+      "prompt": "Outre la volonté générale, qu'est-ce qui rend une démocratie légitime selon le texte ?",
+      "choices": [
+        "Le respect scrupuleux des règles du jeu démocratique par tous les acteurs.",
+        "L'augmentation constante du niveau de vie matériel de la population active.",
+        "L'unanimité absolue de tous les citoyens sur les questions morales fondamentales.",
+        "La capacité du gouvernement à censurer les critiques pour maintenir la paix.",
+        "La présence de symboles religieux forts dans l'espace public de délibération."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le document précise que la légitimité ne vient pas seulement de la volonté générale, mais aussi du respect des règles du jeu démocratique."
+    },
+    {
+      "id": "q22",
+      "prompt": "Comment s'exprime la fragilité de la démocratie moderne selon le document ?",
+      "choices": [
+        "Par un possible retour à la légitimité charismatique via des leaders populistes.",
+        "Par l'obsolescence technique des systèmes de vote électronique non sécurisés.",
+        "Par la diminution constante du nombre de fonctionnaires dans l'administration.",
+        "Par l'excès de participation directe des citoyens aux décisions budgétaires.",
+        "Par la disparition totale des partis politiques au profit de syndicats ouvriers."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte mentionne qu'elle peut être contestée par un retour à la légitimité charismatique (ex : leaders populistes)."
+    },
+    {
+      "id": "q23",
+      "prompt": "Que se passe-t-il si les citoyens ne croient plus que les règles institutionnelles sont justes ?",
+      "choices": [
+        "La légitimité légale-rationnelle s'effondre faute de confiance dans le système.",
+        "Le pays bascule automatiquement dans une autocratie militaire héréditaire.",
+        "L'État doit obligatoirement augmenter les impôts pour restaurer l'ordre public.",
+        "Les citoyens sont exclus de la nationalité pour manquement au devoir civique.",
+        "Le système juridique est remplacé par un système de troc de services privés."
+      ],
+      "correctIndex": 0,
+      "explanation": "Si les citoyens ne croient plus à la justice des règles, la légitimité légale-rationnelle s’effondre (crise de confiance)."
+    },
+    {
+      "id": "q24",
+      "prompt": "Qu'est-ce que le 'désenchantement du monde' pour Max Weber ?",
+      "choices": [
+        "Un processus de rationalisation et d’intellectualisation croissante de la société.",
+        "Une perte de foi religieuse généralisée causée par les scandales du clergé.",
+        "Une tristesse collective due à la disparition des fêtes traditionnelles locales.",
+        "L'incapacité des individus à éprouver des émotions lors des débats politiques.",
+        "Le remplacement de la beauté artistique par la standardisation de la production."
+      ],
+      "correctIndex": 0,
+      "explanation": "Weber nomme 'désenchantement du monde' le processus de rationalisation et d’intellectualisation croissante de la modernité."
+    },
+    {
+      "id": "q25",
+      "prompt": "Quelle idée fondamentale caractérise le monde 'désenchanté' selon le texte ?",
+      "choices": [
+        "L'idée qu'aucune puissance mystérieuse n'interfère et que tout est maîtrisable par la prévision.",
+        "La certitude que le progrès technologique apportera le bonheur éternel à l'humanité.",
+        "La conviction que les émotions doivent être totalement bannies de l'espace public.",
+        "Le sentiment que la vie n'a plus aucun sens en raison de l'absence de divinités.",
+        "La croyance que le hasard est le seul moteur réel de l'évolution des civilisations."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le désenchantement revient à prouver qu'il n'existe aucune puissance mystérieuse et que l'on peut maîtriser les choses par la prévision rationnelle."
+    },
+    {
+      "id": "q26",
+      "prompt": "Quelle est la conséquence du désenchantement sur la légitimité traditionnelle ?",
+      "choices": [
+        "Elle perd sa force car on n'accorde plus de pouvoir au sacré ou au religieux.",
+        "Elle se renforce en se cachant derrière des institutions bureaucratiques opaques.",
+        "Elle fusionne avec la science pour créer de nouveaux rituels de passage technologiques.",
+        "Elle devient la seule protection des citoyens contre l'arbitraire de l'État moderne.",
+        "Elle disparaît totalement des livres d'histoire pour ne plus influencer le présent."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dans le monde moderne, la légitimité traditionnelle perd sa force car on n'accorde plus de légitimité à ce qui est fondé sur le sacré ou la religion."
+    },
+    {
+      "id": "q27",
+      "prompt": "Qu'advient-il des valeurs traditionnelles dans un monde dominé par la légalité-rationnelle ?",
+      "choices": [
+        "Elles perdent leur signification et leur sens d'obligation pour les individus.",
+        "Elles sont codifiées en lois pénales pour assurer leur survie institutionnelle.",
+        "Elles deviennent plus puissantes en se transformant en convictions politiques.",
+        "Elles sont remplacées par des algorithmes de calcul de l'utilité économique.",
+        "Elles sont exportées vers des sociétés moins avancées pour favoriser l'ordre."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que dans un monde de légale-rationnelle, les valeurs traditionnelles perdent leur sens d’obligation."
+    },
+    {
+      "id": "q28",
+      "prompt": "Quelle est la limite de la science par rapport aux valeurs selon le document ?",
+      "choices": [
+        "Elle peut donner des moyens d'agir mais ne peut pas prescrire de valeurs.",
+        "Elle est incapable d'expliquer les phénomènes naturels dans un monde enchanté.",
+        "Elle est trop coûteuse pour être utilisée par les gouvernements démocratiques.",
+        "Elle change trop souvent de paradigme pour fonder une politique stable.",
+        "Elle est réservée à une élite et ne peut pas informer le choix des citoyens."
+      ],
+      "correctIndex": 0,
+      "explanation": "La science explique comment agir mais ne dit pas pourquoi utiliser ses moyens ; elle ne prescrit pas de valeurs."
+    },
+    {
+      "id": "q29",
+      "prompt": "Qui définit les valeurs dans une société moderne selon le texte ?",
+      "choices": [
+        "C'est la politique qui a pour rôle de définir et de hiérarchiser les valeurs.",
+        "Ce sont les experts scientifiques par le biais de leurs rapports techniques.",
+        "Ce sont les juges lors de l'interprétation des textes de loi fondamentaux.",
+        "Ce sont les chefs religieux par leurs homélies et leurs guides moraux.",
+        "Ce sont les grandes entreprises à travers leurs stratégies de marketing global."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le document affirme explicitement : 'C'est la politique qui définit les valeurs'."
+    },
+    {
+      "id": "q30",
+      "prompt": "En quoi consiste l'éthique de conviction pour un homme politique ?",
+      "choices": [
+        "Agir selon ses principes sans se soucier des conséquences de ses actes.",
+        "Modifier ses idées en fonction des sondages d'opinion hebdomadaires.",
+        "Négocier des compromis permanents avec les partis d'opposition radicale.",
+        "Prendre en compte les risques financiers avant chaque décision législative.",
+        "Suivre scrupuleusement les recommandations des experts scientifiques agrégés."
+      ],
+      "correctIndex": 0,
+      "explanation": "L'éthique de conviction consiste à agir selon ses convictions et principes sans se soucier des conséquences de ses actes."
+    },
+    {
+      "id": "q31",
+      "prompt": "Quel exemple de l'éthique de conviction est donné dans le document ?",
+      "choices": [
+        "Un pacifiste qui refuse de faire la guerre même si cela conduit à la défaite.",
+        "Un écologiste qui accepte de polluer pour créer des emplois industriels.",
+        "Un banquier qui réduit les taux d'intérêt pour favoriser l'achat immobilier.",
+        "Un juge qui libère un coupable par peur des représailles de son clan.",
+        "Un policier qui démissionne pour ne pas avoir à porter un uniforme neuf."
+      ],
+      "correctIndex": 0,
+      "explanation": "L'exemple cité est celui d'un pacifiste refusant la guerre malgré la défaite potentielle de son pays."
+    },
+    {
+      "id": "q32",
+      "prompt": "Comment se définit l'éthique de responsabilité ?",
+      "choices": [
+        "Se tenir pour responsable des conséquences de ses actes, quitte à compromettre ses convictions.",
+        "Accuser systématiquement les prédécesseurs pour les échecs de la politique actuelle.",
+        "Suivre uniquement les règles écrites pour se dédouaner de tout choix moral personnel.",
+        "Déléguer toutes les décisions difficiles à des commissions d'enquête indépendantes.",
+        "Agir uniquement pour satisfaire les demandes immédiates de son électorat direct."
+      ],
+      "correctIndex": 0,
+      "explanation": "L'éthique de responsabilité signifie assumer les conséquences de ses actes, même si cela implique des compromis avec ses convictions."
+    },
+    {
+      "id": "q33",
+      "prompt": "Quel compromis fait un politicien pacifiste selon l'éthique de responsabilité ?",
+      "choices": [
+        "Il accepte de faire la guerre pour protéger son pays et en assume les conséquences.",
+        "Il refuse de voter le budget de l'armée pour rester fidèle à sa foi intérieure.",
+        "Il demande l'exil pour ne pas avoir à choisir entre ses principes et son devoir.",
+        "Il organise des manifestations pacifiques pendant que l'ennemi envahit le territoire.",
+        "Il change de parti politique pour rejoindre une formation plus belliqueuse."
+      ],
+      "correctIndex": 0,
+      "explanation": "L'exemple montre que sous l'éthique de responsabilité, un pacifiste accepte la guerre pour protéger son pays, faisant un compromis avec ses convictions."
+    },
+    {
+      "id": "q34",
+      "prompt": "Pourquoi l'opposition entre conviction et responsabilité est-elle marquée en politique ?",
+      "choices": [
+        "Parce que le moyen spécifique de la politique est l'usage de la violence légitime.",
+        "Parce que les hommes politiques sont plus narcissiques que les autres citoyens.",
+        "Parce que les mandats électoraux sont trop courts pour voir les conséquences réelles.",
+        "Parce que la loi interdit aux élus d'exprimer publiquement leurs sentiments personnels.",
+        "Parce que les médias exigent des réponses simples à des problèmes très complexes."
+      ],
+      "correctIndex": 0,
+      "explanation": "L'opposition est marquée car la politique utilise comme moyen spécifique la violence légitime, dont l'État a le monopole."
+    },
+    {
+      "id": "q35",
+      "prompt": "Quelle difficulté rencontrent les dirigeants politiques selon Max Weber ?",
+      "choices": [
+        "Ils doivent souvent utiliser des moyens moralement problématiques pour des fins bonnes.",
+        "Ils n'ont pas accès aux données statistiques nécessaires pour prendre des décisions.",
+        "Ils sont obligés de mentir systématiquement pour plaire à la majorité de l'électorat.",
+        "Ils ne peuvent pas voyager à l'étranger sans l'accord préalable du parlement national.",
+        "Ils doivent financer personnellement leurs campagnes pour garantir leur indépendance."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que pour atteindre des fins bonnes, les dirigeants sont souvent obligés d'utiliser des moyens moralement problématiques (violence, répression)."
+    },
+    {
+      "id": "q36",
+      "prompt": "Comment un gouvernement gère-t-il les manifestations selon l'éthique de responsabilité ?",
+      "choices": [
+        "Il peut utiliser la violence policière pour protéger l'ordre public malgré les blessures.",
+        "Il interdit toute forme de protestation pour éviter les dégradations matérielles.",
+        "Il se joint aux manifestants pour montrer sa solidarité avec les causes populaires.",
+        "Il démissionne immédiatement dès que la foule descend dans la rue pour protester.",
+        "Il ignore les dégradations en espérant que la fatigue calmera les manifestants."
+      ],
+      "correctIndex": 0,
+      "explanation": "L'éthique de responsabilité pousserait à utiliser la violence policière pour protéger l'État public si les manifestations engendrent des dégradations."
+    },
+    {
+      "id": "q37",
+      "prompt": "Selon quelle éthique les experts raisonnent-ils généralement ?",
+      "choices": [
+        "L'éthique de responsabilité, en calculant les conséquences et l'efficacité des moyens.",
+        "L'éthique de conviction, en restant fidèles à des dogmes scientifiques immuables.",
+        "L'éthique de vertu, en cherchant à devenir des modèles de comportement pour tous.",
+        "L'éthique du soin, en privilégiant le bien-être émotionnel des populations fragiles.",
+        "L'éthique stoïcienne, en acceptant les catastrophes naturelles sans tenter d'agir."
+      ],
+      "correctIndex": 0,
+      "explanation": "Les experts raisonnent selon une éthique de responsabilité : ils calculent les conséquences et proposent les moyens les plus efficaces."
+    },
+    {
+      "id": "q38",
+      "prompt": "Comment les citoyens et leurs représentants agissent-ils souvent selon le texte ?",
+      "choices": [
+        "Selon une éthique de conviction qui peut ne pas concorder avec l'expertise technique.",
+        "Selon une éthique de paresse consistant à laisser les experts décider à leur place.",
+        "Selon une éthique de profit visant uniquement l'enrichissement personnel immédiat.",
+        "Selon une éthique de tradition en refusant systématiquement toute nouvelle loi.",
+        "Selon une éthique de peur face aux menaces environnementales globales imminentes."
+      ],
+      "correctIndex": 0,
+      "explanation": "Les citoyens et représentants peuvent agir selon une éthique de conviction, laquelle peut diverger de l'expertise."
+    },
+    {
+      "id": "q39",
+      "prompt": "Que risquent d'être les dirigeants politiques s'ils n'ont pas de sens de la responsabilité ?",
+      "choices": [
+        "Des fanatiques qui ne se soucient pas des conséquences réelles de leurs actes.",
+        "Des technocrates froids qui ne s'intéressent qu'aux chiffres de la croissance.",
+        "Des poètes rêveurs incapables de comprendre les mécanismes de la fiscalité.",
+        "Des juges sévères appliquant la loi sans aucune forme de compassion humaine.",
+        "Des commerçants avisés cherchant à vendre les actifs de l'État au plus offrant."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sans sens de la responsabilité, les dirigeants seraient des fanatiques ne se souciant pas des conséquences."
+    },
+    {
+      "id": "q40",
+      "prompt": "Que deviendraient les dirigeants s'ils n'avaient aucune conviction selon Weber ?",
+      "choices": [
+        "Ils ne seraient que de simples technocrates dépourvus de vision politique.",
+        "Ils deviendraient des dictateurs assoiffés de sang pour maintenir leur pouvoir.",
+        "Ils seraient des serviteurs dévoués du bien commun sans aucune ambition.",
+        "Ils se transformeraient en saints religieux guidant le peuple vers le paradis.",
+        "Ils seraient remplacés par des intelligences artificielles de gestion urbaine."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sans convictions, les dirigeants politiques ne seraient que des technocrates."
+    },
+    {
+      "id": "q41",
+      "prompt": "Quelles tensions constitutives la démocratie moderne rencontre-t-elle ?",
+      "choices": [
+        "Entre souveraineté populaire et expertise, ou entre conviction et responsabilité.",
+        "Entre les besoins de l'industrie lourde et les revendications des syndicats.",
+        "Entre les lois nationales et les directives imposées par les religions globales.",
+        "Entre la liberté d'expression totale et la protection de la vie privée des élus.",
+        "Entre le développement des villes et la préservation des zones agricoles rurales."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte mentionne des tensions entre souveraineté populaire et expertise, représentation et participation, conviction et responsabilité."
+    },
+    {
+      "id": "q42",
+      "prompt": "Qu'est-ce que la démocratie participative selon les propositions du document ?",
+      "choices": [
+        "Un système conservant la représentation parlementaire avec une participation citoyenne.",
+        "L'abolition totale du parlement au profit de votes quotidiens par internet.",
+        "Le remplacement des députés par des représentants des grandes entreprises nationales.",
+        "La nomination des ministres par un comité de citoyens experts en management.",
+        "L'obligation pour chaque habitant de travailler gratuitement pour sa commune."
+      ],
+      "correctIndex": 0,
+      "explanation": "La démocratie participative conserve une représentation parlementaire mais les citoyens participent au pouvoir politique."
+    },
+    {
+      "id": "q43",
+      "prompt": "Quel est un exemple de démocratie participative cité dans le texte ?",
+      "choices": [
+        "Les conventions citoyennes avec tirage au sort et formulation de recommandations.",
+        "L'élection du Président de la République au suffrage universel direct tous les cinq ans.",
+        "Le paiement des impôts locaux par le biais d'une plateforme numérique simplifiée.",
+        "La surveillance des frontières par des milices de volontaires civils non armés.",
+        "La lecture publique des lois dans les écoles primaires pour former les futurs électeurs."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte cite le budget participatif, les consultations locales et les conventions citoyennes comme exemples."
+    },
+    {
+      "id": "q44",
+      "prompt": "Comment se définit la démocratie directe dans les propositions du texte ?",
+      "choices": [
+        "Les citoyens exercent le pouvoir et décident sans passer par des représentants.",
+        "Le peuple élit un dictateur qui applique ses volontés sans aucune opposition.",
+        "Les lois sont écrites par les citoyens et validées par un conseil de sages.",
+        "Chaque citoyen possède un droit de veto sur toutes les décisions de sa mairie.",
+        "Le gouvernement est assuré par rotation entre toutes les familles du pays."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dans la démocratie directe, les citoyens décident sans en passer par des représentants."
+    },
+    {
+      "id": "q45",
+      "prompt": "Qu'est-ce que l'initiative populaire mentionnée dans le document ?",
+      "choices": [
+        "La possibilité pour les citoyens de proposer un référendum après une pétition.",
+        "Le droit pour chaque habitant de créer sa propre monnaie locale d'échange.",
+        "L'autorisation de construire des logements sociaux sans permis de construire.",
+        "La capacité des individus à refuser de payer l'impôt s'ils sont en désaccord.",
+        "Le pouvoir de renvoyer un juge si la majorité du quartier le demande par écrit."
+      ],
+      "correctIndex": 0,
+      "explanation": "L'initiative populaire permet aux citoyens de proposer l'organisation d'un référendum après avoir reçu un certain nombre de signatures."
+    },
+    {
+      "id": "q46",
+      "prompt": "Pourquoi la question de la participation est-elle liée à la justice sociale ?",
+      "choices": [
+        "Pour que chacun ait réellement les moyens financiers et sociaux de participer.",
+        "Pour garantir que seuls les plus riches puissent influencer les décisions de l'État.",
+        "Pour supprimer les aides sociales afin de forcer les pauvres à travailler plus.",
+        "Pour limiter le droit de vote aux personnes ayant un diplôme universitaire élevé.",
+        "Pour instaurer une taxe sur les opinions divergentes afin de financer la solidarité."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte lie participation et justice sociale en demandant comment organiser la société pour que chacun ait réellement les moyens de participer."
+    },
+    {
+      "id": "q47",
+      "prompt": "Quelle est l'erreur courante concernant la critique de Rousseau sur la démocratie ?",
+      "choices": [
+        "Croire qu'il critique la démocratie alors qu'il critique la représentation.",
+        "Penser qu'il était en faveur d'une monarchie absolue de droit divin éternel.",
+        "Imaginer qu'il souhaitait que seuls les experts techniques dirigent le pays.",
+        "Prétendre qu'il a inventé le concept de dictature du prolétariat industriel.",
+        "Affirmer qu'il refusait toute forme de contrat social entre les individus."
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon l'exercice d'argumentation, l'erreur est de dire qu'il critique la démocratie, alors qu'il critique la représentation."
+    },
+    {
+      "id": "q48",
+      "prompt": "Quel est le problème de la proposition de Young sur la parité selon l'exercice ?",
+      "choices": [
+        "Elle ne demande pas une représentation proportionnelle exacte de 50%.",
+        "Elle exige que les femmes possèdent plus de droits que les hommes au travail.",
+        "Elle s'oppose à toute forme de quota pour les minorités visibles dans la loi.",
+        "Elle souhaite que la démocratie soit remplacée par un système de castes.",
+        "Elle refuse que les minorités soient représentées dans les instances de décision."
+      ],
+      "correctIndex": 0,
+      "explanation": "L'exercice montre que Young ne demande pas une représentation proportionnelle exacte (50/50)."
+    },
+    {
+      "id": "q49",
+      "prompt": "Quelle précision est apportée sur Foucault et les savoirs populaires ?",
+      "choices": [
+        "Foucault ne dit pas que les savoirs populaires sont intrinsèquement faux.",
+        "Foucault affirme que seuls les savoirs scientifiques sont dignes de confiance.",
+        "Foucault pense que le pouvoir doit éliminer tous les savoirs des classes pauvres.",
+        "Foucault suggère que la vérité n'existe pas en dehors des manuels scolaires.",
+        "Foucault refuse d'analyser la relation entre le savoir et l'exercice du pouvoir."
+      ],
+      "correctIndex": 0,
+      "explanation": "L'exercice précise que Foucault ne dit pas que les savoirs populaires sont 'faux', mais analyse comment le pouvoir crée les savoirs légitimes."
+    },
+    {
+      "id": "q50",
+      "prompt": "Quelle est la nature de la volonté générale chez Rousseau d'après le texte ?",
+      "choices": [
+        "C'est la raison commune visant l'intérêt général et non une raison froide.",
+        "C'est l'addition pure et simple de tous les intérêts égoïstes des particuliers.",
+        "C'est une décision irrationnelle prise sous le coup de l'émotion collective.",
+        "C'est une norme dictée par les experts scientifiques pour le bien de la foule.",
+        "C'est le désir de la majorité de supprimer les droits de la minorité riche."
+      ],
+      "correctIndex": 0,
+      "explanation": "La volonté générale n'est pas la 'froide raison', mais la raison commune qui vise l'intérêt général."
+    },
+    {
+      "id": "q51",
+      "prompt": "Pourquoi la démocratie directe totale est-elle jugée impossible par Rousseau ?",
+      "choices": [
+        "Elle est impossible à mettre en œuvre efficacement dans les grands États.",
+        "Elle nécessite un niveau d'éducation que le peuple ne pourra jamais atteindre.",
+        "Elle est contraire aux lois de la nature qui imposent toujours un chef unique.",
+        "Elle provoque systématiquement la faillite économique des nations agricoles.",
+        "Elle est interdite par les traités internationaux de sécurité continentale."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte note que Rousseau reconnaît lui-même que la démocratie directe totale est impossible dans les grands États."
+    },
+    {
+      "id": "q52",
+      "prompt": "Quel risque les référendums peuvent-ils faire courir à la volonté générale ?",
+      "choices": [
+        "Ils peuvent trahir la volonté générale par la manipulation ou la démagogie.",
+        "Ils ralentissent trop le processus de décision en cas de guerre imminente.",
+        "Ils coûtent trop cher à organiser pour les petites communes rurales isolées.",
+        "Ils empêchent les élus de voyager pour représenter le pays à l'étranger.",
+        "Ils favorisent systématiquement les intérêts des puissances étrangères rivales."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le document indique que les référendums peuvent trahir la volonté générale via la manipulation ou la démagogie."
+    }
+  ]
+}
