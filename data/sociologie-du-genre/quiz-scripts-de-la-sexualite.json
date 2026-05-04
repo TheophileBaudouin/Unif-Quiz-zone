@@ -1,0 +1,535 @@
+{
+  "quizId": "scripts-de-la-sexualite",
+  "title": "Les scripts de la sexualité",
+  "section": {
+    "id": "scripts-de-la-sexualite",
+    "title": "Les scripts de la sexualité",
+    "startPage": 71,
+    "endPage": 79,
+    "summary": "Cadre théorique de Gagnon et Simon : scripts culturels, interpersonnels et intrapsychiques. Analyse de la 'rencontre sexuelle' traditionnelle et enjeux éthiques de l'enquête de terrain.",
+    "estimatedQuestionCount": 40
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon John Gagnon et William Simon, qu'est-ce qu'un script sexuel d'un point de vue théorique ?",
+      "choices": [
+        "Un cadre expliquant que les comportements sexuels ne sont pas uniquement biologiques ou instinctifs.",
+        "Une grille d'analyse des pulsions sexuelles innées et universelles de l'être humain.",
+        "Un modèle descriptif des réactions émotionnelles durant l'activité sexuelle.",
+        "Un protocole pour l'identification des dysfonctions sexuelles psychologiques.",
+        "Une méthode d'observation des comportements reproductifs chez les primates."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source indique clairement qu'un script sexuel est un 'cadre théorique qui explique comment les comportements sexuels humains ne sont pas simplement biologiques ou instinctifs'."
+    },
+    {
+      "id": "q2",
+      "prompt": "Comment les comportements sexuels humains sont-ils principalement constitués, selon la perspective des scripts sexuels ?",
+      "choices": [
+        "Ils sont principalement appris, organisés et interprétés à travers des normes sociales, culturelles et psychologiques.",
+        "Ils sont entièrement déterminés par des prédispositions génétiques et neurologiques universelles.",
+        "Ils résultent de processus entièrement conscients de décision individuelle et rationnelle.",
+        "Ils se développent de manière aléatoire sans aucune structure ni organisation prédéfinie.",
+        "Ils sont le reflet direct et non médiatisé des désirs biologiques fondamentaux de l'individu."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source stipule que les comportements sexuels sont 'Mais appris, organisés et interprétés à travers des normes sociales, culturelles et psychologiques'."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quand les premiers cas d'une nouvelle maladie, potentiellement le VIH, ont-ils été déclarés, selon l'historique présenté ?",
+      "choices": [
+        "En 1980, marquant la prise de conscience de nouvelles maladies.",
+        "En 1975, avec l'émergence des premières pandémies virales mondiales.",
+        "En 1983, lors de la découverte des premiers traitements antirétroviraux.",
+        "À la fin des années 80, coïncidant avec l'arrivée du préservatif comme réponse.",
+        "Au début des années 70, en même temps que le développement des scripts sexuels."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source mentionne '1980, premiers cas d'une nouvelle maladie déclarés : on se rend compte qu'il y a des maladies (VIH?)'."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quelle est la principale objection rencontrée par le préservatif en tant que réponse à la propagation du VIH à la fin des années 80 ?",
+      "choices": [
+        "Il était peu utilisé et les gens s'y opposaient malgré son efficacité reconnue.",
+        "Sa production était insuffisante pour répondre à la demande mondiale croissante.",
+        "Son coût d'acquisition était excessivement élevé, le rendant inaccessible pour la majorité.",
+        "Il était perçu comme inefficace et comportait des risques pour la santé des utilisateurs.",
+        "Sa distribution était limitée aux pays développés, excluant les régions les plus touchées."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source indique qu'à la fin des années 80, le préservatif 'est peu utilisé et les gens s'y opposent'."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle question de recherche est apparue rapidement concernant l'usage du préservatif dans les rencontres sexuelles ?",
+      "choices": [
+        "Dans quelle séquence de la rencontre sexuelle insérer le préservatif ?",
+        "Quel est l'impact psychologique de l'usage du préservatif sur la libido ?",
+        "Comment optimiser la conception du préservatif pour une meilleure sensation ?",
+        "Quelle est l'histoire de l'évolution du préservatif à travers les civilisations ?",
+        "Comment la culture médiatique influence-t-elle la perception du préservatif ?"
+      ],
+      "correctIndex": 0,
+      "explanation": "La source cite directement la question de recherche : 'dans quelle séquence de la rencontre sexuelle insérer le préservatif ?'."
+    },
+    {
+      "id": "q6",
+      "prompt": "Selon Gagnon et Simon, quel est le statut de l'expérience sexuelle humaine ?",
+      "choices": [
+        "Toute expérience sexuelle humaine est d'emblée 'scriptée'.",
+        "L'expérience sexuelle humaine est fondamentalement 'naturelle' et universelle.",
+        "Elle est majoritairement le produit d'impulsions biologiques inconscientes.",
+        "Elle est principalement déterminée par des facteurs environnementaux aléatoires.",
+        "L'expérience sexuelle humaine est une construction individuelle sans influence externe."
+      ],
+      "correctIndex": 0,
+      "explanation": "La perspective de Gagnon et Simon affirme que 'toute expérience sexuelle humaine est d'emblée “scriptée”'."
+    },
+    {
+      "id": "q7",
+      "prompt": "Comment l'expérience sexuelle est-elle construite au sens cinématographique du terme ?",
+      "choices": [
+        "Apprise par exposition aux récits qui décrivent la sexualité humaine, structurée et codifiée.",
+        "Créée spontanément par l'individu, sans référence à des modèles narratifs préexistants.",
+        "Développée principalement à travers l'expérimentation physiologique directe et aléatoire.",
+        "Transmise génétiquement de génération en génération sous forme d'instincts primaires.",
+        "Construite uniquement par l'observation des comportements des pairs dans des contextes non-verbaux."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source explique que l'expérience est 'construite comme un script, au sens cinématographique du terme : L'expérience est apprise par exposition aux récits qui disent quelque chose de la sexualité humaine. Dans ces récits, l'expérience est structurée, séquencée, et codifiée'."
+    },
+    {
+      "id": "q8",
+      "prompt": "Selon les postulats, comment les individus apprennent-ils à reconnaître et construire une situation sexuelle ?",
+      "choices": [
+        "Via les récits qui leur permettent d'apprendre la structure, les séquences et les codes des expériences sexuelles.",
+        "Exclusivement par des interactions physiques directes et des essais-erreurs individuels.",
+        "Uniquement par l'observation passive des comportements sexuels dans leur environnement immédiat.",
+        "Par des mécanismes innés de reconnaissance, indépendants de toute influence culturelle.",
+        "Grâce à des informations scientifiques précises sur la physiologie de la reproduction."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source indique 'Via les récits, les individus apprennent La structure, les séquences, les codes des expériences sexuelles, et donc concrètement À reconnaitre une situation comme potentiellement sexuelle. À donner sens à leurs états corporels. À construire une situation sexuelle, etc.'."
+    },
+    {
+      "id": "q9",
+      "prompt": "Quel est le premier postulat de la théorie de Gagnon et Simon ?",
+      "choices": [
+        "\"L'activité sexuelle est une activité sociale.\"",
+        "\"La sexualité humaine est un phénomène purement biologique.\"",
+        "\"Les scripts sexuels sont des constructions individuelles isolées.\"",
+        "\"Les rôles sexuels sont universellement identiques.\"",
+        "\"L'expérience sexuelle est indépendante de l'apprentissage social.\""
+      ],
+      "correctIndex": 0,
+      "explanation": "Le premier postulat est cité littéralement : '\"L'activité sexuelle est une activité sociale\"'."
+    },
+    {
+      "id": "q10",
+      "prompt": "Selon le quatrième postulat de la théorie, comment l'expérience de la sexualité est-elle formée ?",
+      "choices": [
+        "Elle résulte d'un apprentissage social qui varie selon les cultures.",
+        "Elle est principalement déterminée par des facteurs génétiques immuables.",
+        "Elle découle uniquement de l'instinct reproducteur inné de l'individu.",
+        "Elle est une construction psychologique subjective, indépendante de la société.",
+        "Elle se développe à travers des expériences isolées, sans influence extérieure."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le quatrième postulat stipule : '“L'expérience de la sexualité (...) “résulte d'un apprentissage social qui varie selon les cultures”'."
+    },
+    {
+      "id": "q11",
+      "prompt": "Quelle est la fonction structurante des scripts sexuels pour l'imaginaire sexuel des groupes, des relations et des individus ?",
+      "choices": [
+        "Ils permettent d'identifier, d'interpréter et de stabiliser les composantes sexuelles de la vie sociale.",
+        "Ils favorisent la suppression des désirs sexuels considérés comme déviants ou inappropriés.",
+        "Ils servent à créer des hiérarchies de pouvoir au sein des interactions sexuelles humaines.",
+        "Ils incitent les individus à rejeter toute forme de contrainte sociale en matière de sexualité.",
+        "Ils définissent les limites strictes des comportements sexuels acceptables dans chaque culture."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source indique que les scripts sexuels ont une fonction structurante 'Dans la mesure où ils permettent d'identifier, d'interpréter et de stabiliser les composantes sexuelles de la vie sociale'."
+    },
+    {
+      "id": "q12",
+      "prompt": "Que représentent les 'composantes sexuelles' dans le cadre de la fonction des scripts sexuels ?",
+      "choices": [
+        "Tout ce qui, dans la vie sociale, touche à la sexualité en tant que phénomène culturel, relationnel et symbolique.",
+        "Les instincts biologiques primaires qui régissent la reproduction humaine et animale.",
+        "Les dysfonctionnements érectiles et les troubles de l'excitation féminine identifiés cliniquement.",
+        "Les modèles comportementaux hérités qui influencent la dynamique du désir sexuel.",
+        "Les hormones et neurotransmetteurs qui modulent les réactions physiologiques."
+      ],
+      "correctIndex": 0,
+      "explanation": "La définition est donnée comme : 'Les composantes sexuelles = tout ce qui, dans la vie sociale, touche à la sexualité en tant que phénomène culturel, relationnel et symbolique'."
+    },
+    {
+      "id": "q13",
+      "prompt": "Quel est l'objectif principal du script sexuel pour un sociologue ?",
+      "choices": [
+        "Appréhender la manière dont les individus entament et s'engagent dans une relation sexuelle, pour comprendre la sexualité humaine.",
+        "Classifier les différentes catégories de déviances sexuelles au sein d'une population donnée.",
+        "Démontrer l'universalité des comportements sexuels à travers les civilisations et les époques.",
+        "Fournir un manuel pratique pour la gestion des relations intimes et la résolution de conflits.",
+        "Établir des normes éthiques strictes pour la conduite des recherches sur la sexualité humaine."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source stipule : 'Pour le sociologue, le script sexuel permet d'appréhender la façon dont les individus entament et s'engagent dans une relation sexuelle les uns avec les autres, bref de comprendre la sexualité humaine'."
+    },
+    {
+      "id": "q14",
+      "prompt": "Quel type de script correspond au 'plan des prescriptions culturelles' ?",
+      "choices": [
+        "Les scénarios culturels ou scripts d'ordre culturel.",
+        "Les scripts interpersonnels.",
+        "Les scripts intrapsychiques.",
+        "Les scripts de la performance sexuelle.",
+        "Les scripts de communication non-verbale."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le tableau 'Les trois types de scripts sexuels' associe 'Le plan des prescriptions culturelles' aux 'Les scénarios culturels ou scripts d'ordre culturel'."
+    },
+    {
+      "id": "q15",
+      "prompt": "Quel type de script est lié au 'plan de l'organisation des interactions sociales' ?",
+      "choices": [
+        "Les scripts interpersonnels.",
+        "Les scénarios culturels ou scripts d'ordre culturel.",
+        "Les scripts intrapsychiques.",
+        "Les scripts de la symbolique sexuelle.",
+        "Les scripts des désirs inconscients."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le tableau 'Les trois types de scripts sexuels' associe 'Le plan de l'organisation des interactions sociales' aux 'Les scripts interpersonnels'."
+    },
+    {
+      "id": "q16",
+      "prompt": "Quelle est la définition d'un script d'ordre culturel ?",
+      "choices": [
+        "Un ensemble +/- cohérent de prescriptions sociales relatives à la sexualité qui définit ce qui est sexuel, convenable, possible, etc.",
+        "Les séquences ritualisées d'actes qui se produisent dans les interactions entre partenaires.",
+        "L'interprétation subjective des contenus sociaux et leur reformulation par les individus.",
+        "Les réactions instinctives et non apprises face à des stimuli sexuels variés.",
+        "Les modèles comportementaux transmis génétiquement pour la reproduction."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source définit le script d'ordre culturel comme 'un ensemble +/- cohérent de prescriptions sociales relatives à la sexualité qui définit : Ce qui est sexuel et ce qui ne l'est pas, Ce qui est convenable ou pas, Ce qui est possible et ce qui ne l'est pas, Ce qui ne peut pas, ce qui peut, Ce qui doit être fait en matière sexuelle'."
+    },
+    {
+      "id": "q17",
+      "prompt": "Où peut-on retrouver les prescriptions, recommandations et interdits sexuels du script d'ordre culturel ?",
+      "choices": [
+        "Dans les lois, juridiques, règles d'usage des lieux publics, et œuvres culturelles.",
+        "Exclusivement dans les fantasmes et rêves personnels de chaque individu.",
+        "Uniquement dans les manuels scolaires et les guides d'éducation sexuelle.",
+        "Principalement dans les conventions non-écrites des interactions privées.",
+        "Seulement dans les rituels religieux ancestraux et les traditions orales."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source précise : 'Ces prescriptions, recommandations et interdits sexuels, se retrouvent certes dans les lois, juridiques ou autres, Mais aussi dans les règles d'usage des lieux publics, dans les récits, des œuvres culturelles'."
+    },
+    {
+      "id": "q18",
+      "prompt": "Qu'advient-il des scénarios culturels aux niveaux intrapsychique et interpersonnel ?",
+      "choices": [
+        "Ils sont réinterprétés et réappropriés par les individus.",
+        "Ils sont rejetés car jugés trop rigides et contraignants.",
+        "Ils demeurent strictement identiques à leur forme originale.",
+        "Ils sont complétement ignorés au profit de l'improvisation spontanée.",
+        "Ils servent uniquement de base pour la création de nouvelles normes sociales."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source indique que 'Les scénarios culturels sont réinterprétés, réappropriés au plan intrapsychique et au plan interpersonnel'."
+    },
+    {
+      "id": "q19",
+      "prompt": "Quel est un exemple de séquence proposée par le scénario culturel du rendez-vous romantique ?",
+      "choices": [
+        "Rencontre ou prise de contact, invitation, rendez-vous dans un lieu approprié.",
+        "Établissement immédiat d'une intimité physique, sans préliminaires sociaux.",
+        "Communication exclusivement non-verbale pour exprimer l'intérêt mutuel.",
+        "Évitement délibéré de toute interaction sociale avant l'engagement intime.",
+        "Négociation formelle des termes d'une relation future via des contrats écrits."
+      ],
+      "correctIndex": 0,
+      "explanation": "L'exemple donné est : 'Rencontre ou prise de contact. Invitation. Rdv dans un lieu approprié'."
+    },
+    {
+      "id": "q20",
+      "prompt": "Pourquoi un script culturel rend-il les interactions prévisibles ?",
+      "choices": [
+        "Parce qu'il est partagé par un groupe social et organise la manière d'agir ensemble.",
+        "Parce qu'il est strictement individuel et non influencé par des facteurs externes.",
+        "Parce qu'il est appris de manière inconsciente, sans aucune forme de médiation.",
+        "Parce qu'il incite à l'improvisation constante, créant de nouvelles situations.",
+        "Parce qu'il est universellement compris, sans aucune variation culturelle possible."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source précise qu'un script culturel 'rend les interactions prévisibles' et 'il est partagé par un groupe social' et 'il organise la manière d'agir ensemble'."
+    },
+    {
+      "id": "q21",
+      "prompt": "Quelle est la définition du script interpersonnel ?",
+      "choices": [
+        "Il représente le contexte social immédiat dans lequel les conduites sont négociées entre différents acteurs.",
+        "Il est un cadre théorique expliquant les comportements sexuels uniquement biologiques.",
+        "Il décrit les processus individuels de mémorisation des expériences sexuelles passées.",
+        "Il se concentre sur les rôles sexuels masculins et féminins comme des conduites innées.",
+        "Il concerne l'ensemble des prescriptions sociales non négociables relatives à la sexualité."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source donne la définition : '“Le niveau interpersonnel représente le contexte social immédiat dans lequel les conduites sont négociées entre différents acteurs”'."
+    },
+    {
+      "id": "q22",
+      "prompt": "Selon Gagnon et Simon, qu'implique un rapport sexuel ?",
+      "choices": [
+        "Un acte complexe impliquant une dépendance mutuelle entre les partenaires.",
+        "Une expression spontanée de désirs individuels, sans coordination préalable.",
+        "Une démonstration de pouvoir dominant d'un partenaire sur l'autre.",
+        "Un ensemble de réflexes physiologiques dénués de signification sociale.",
+        "Une situation où les partenaires agissent de manière entièrement autonome."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source cite Gagnon et Simon : 'un rapport sexuel est un “acte complexe impliquant une dépendance mutuelle”'."
+    },
+    {
+      "id": "q23",
+      "prompt": "De quoi se composent les scripts interpersonnels, présents dans les interactions entre partenaires ?",
+      "choices": [
+        "De séquences ritualisées d'actes qui interviennent dans les rencontres, la mise en place et l'entretien des relations.",
+        "D'un ensemble de prescriptions culturelles strictes qui ne laissent aucune place à la négociation.",
+        "De prédispositions biologiques universelles qui dictent le comportement sexuel.",
+        "De fantasmes individuels non partagés qui orientent les actions de chaque partenaire.",
+        "De règles légales et juridiques qui régissent explicitement la conduite des rapports sexuels."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source décrit les scripts interpersonnels comme étant composés 'de séquences ritualisées d'actes, qui interviennent dans les rencontres, la mise en place et l'entretient des relations'."
+    },
+    {
+      "id": "q24",
+      "prompt": "Comment se déroule l'interaction entre partenaires avec des ressources inégales, dans le cadre d'un script interpersonnel ?",
+      "choices": [
+        "Les acteurs doivent s'accorder, généralement 'sur un fond de ritualité sociale', malgré leurs interprétations différentes.",
+        "L'acteur le plus dominant impose toujours son interprétation sans négociation ni compromis.",
+        "Les différences de ressources annulent toute possibilité d'accord ou de compréhension mutuelle.",
+        "Chaque acteur maintient sa propre interprétation, créant une situation de confusion permanente.",
+        "Les partenaires échangent de manière aléatoire, sans aucune structure ni convention partagée."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source explique : 'L'interaction met face-à-face des acteurs aux ressources inégales qui n'ont pas toujours la même interprétation de la situation et vont devoir s'accorder, généralement “sur un fond de ritualité sociale”'."
+    },
+    {
+      "id": "q25",
+      "prompt": "Quel aspect du déroulement d'un rendez-vous est examiné au niveau du script interpersonnel ?",
+      "choices": [
+        "Comment les deux personnes s'ajustent l'une à l'autre à travers des signaux et réponses.",
+        "Les prescriptions culturelles générales qui régissent le comportement de chacun.",
+        "Les désirs inconscients et les fantasmes individuels de chaque participant.",
+        "Les statistiques sur la probabilité de succès d'un rendez-vous amoureux.",
+        "Les règles formelles de politesse dans un cadre professionnel ou public."
+      ],
+      "correctIndex": 0,
+      "explanation": "L'exemple donné pour le script interpersonnel est 'comment les deux personnes s'ajustent l'une à l'autre' en 'observ[ant] les réactions de l'autre', 'cherch[ant] des signes d'intérêts ou de désintérêt', etc."
+    },
+    {
+      "id": "q26",
+      "prompt": "Quel plan de la vie mentale est associé au script intrapsychique ?",
+      "choices": [
+        "Le plan subjectif de la vie mentale, celui des appropriations individualisées.",
+        "Le plan des prescriptions culturelles explicites et universelles.",
+        "Le plan des interactions sociales structurées et rituelles.",
+        "Le plan des pulsions biologiques et des instincts innés.",
+        "Le plan des réactions physiologiques et des comportements automatiques."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source indique : 'Le plan subjectif de la vie mentale est celui des appropriations individualisées'."
+    },
+    {
+      "id": "q27",
+      "prompt": "Qu'est-ce que la dimension intrapsychique, selon Gagnon et Simon ?",
+      "choices": [
+        "Le lieu de l'interprétation subjective des contenus sociaux et de leur reformulation par les individus.",
+        "Le niveau des comportements observables et des interactions directes entre personnes.",
+        "L'ensemble des normes culturelles et des lois régissant la sexualité dans une société.",
+        "La sphère des besoins biologiques fondamentaux et des instincts reproducteurs.",
+        "Le domaine des traditions et des rituels transmis collectivement de génération en génération."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source définit la dimension intrapsychique comme 'le lieu de l'interprétation subjective des contenus sociaux et de leur reformulation par les individus'."
+    },
+    {
+      "id": "q28",
+      "prompt": "Comment les scripts intrapsychiques structurent-ils l'expérience individuelle ?",
+      "choices": [
+        "En schèmes cognitifs composites, intégrant des éléments symboliques, des traces d'expériences personnelles et des fragments de scénarios culturels.",
+        "En un ensemble rigide de règles comportementales imposées par la société et non modifiables.",
+        "En des réactions émotionnelles primaires, sans aucune élaboration cognitive ou symbolique.",
+        "En des séquences d'actions prédéfinies et universelles pour toutes les interactions sociales.",
+        "En une série d'impulsions aléatoires et déconnectées de tout cadre culturel ou personnel."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source explique que les scripts intrapsychiques structurent 'en schèmes cognitifs un ensemble composites - constitué d'éléments symboliques, de traces d'expériences personnelles et de fragments de scénarios culturels'."
+    },
+    {
+      "id": "q29",
+      "prompt": "Dans les sociétés traditionnelles, quel est le rôle des scénarios culturels et de l'improvisation ?",
+      "choices": [
+        "Les scénarios culturels sont connus de tous, varient peu, largement intériorisés et l'improvisation individuelle est réduite.",
+        "Les scénarios culturels sont constamment remis en question, permettant une grande improvisation individuelle.",
+        "Les scénarios culturels sont inexistants, laissant place à une improvisation totale et spontanée.",
+        "Les scénarios culturels sont réservés à une élite, les autres improvisant leurs relations.",
+        "Les scénarios culturels sont purement théoriques, sans application pratique dans les interactions."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source indique : 'Dans les sociétés traditionnelles, hautement consensuelles et avec un contrôle social fort, les scénarios culturels sont connus de tous et varient peu; ils sont très largement intériorisés par toutes et tous ; en situation d'interaction, les improvisations ritualisées sont peu nombreuses ; l'improvisation individuelle est plus réduite encore'."
+    },
+    {
+      "id": "q30",
+      "prompt": "Dans les sociétés occidentales actuelles, comment se caractérisent les scénarios culturels et l'improvisation ?",
+      "choices": [
+        "Les scénarios culturels se sont diversifiés, les normes sexuelles aussi, et les nécessités d'improvisation augmentent.",
+        "Les scénarios culturels sont devenus uniformes, réduisant la diversité des normes sexuelles.",
+        "L'individualisation a conduit à la disparition totale des scénarios culturels dans les relations intimes.",
+        "Le contrôle social est absolu, ne laissant aucune place à l'improvisation personnelle.",
+        "La sexualité est principalement régie par des modèles traditionnels immuables et universels."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source précise : 'Aujourd'hui, dans les sociétés occidentales, où personne ne contrôle totalement les scénarios culturels, ceux-ci se sont diversifiés, les normes sexuelles aussi. En interaction, les nécessités d'adaptation entre les partenaires augmentent significativement ; les nécessités d'improvisations individuelles également'."
+    },
+    {
+      "id": "q31",
+      "prompt": "Au début d'une relation, quel type de script joue un rôle plus important ?",
+      "choices": [
+        "Les scénarios culturels, qui posent un cadre initial pour l'interaction.",
+        "Les scripts intrapsychiques, qui déterminent les fantasmes personnels uniquement.",
+        "Les scripts interpersonnels, qui régulent les ajustements spontanés entre partenaires.",
+        "Les scripts biologiques, qui activent des réflexes instinctifs de reproduction.",
+        "Les scripts de la performance, axés sur l'atteinte de l'orgasme par les deux partenaires."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source mentionne : 'Les scénarios culturels jouent un rôle plus important en début de relation'."
+    },
+    {
+      "id": "q32",
+      "prompt": "Selon le modèle des 3 niveaux de script en interaction, quel rôle joue l'individu 'à l'interface entre la vie mentale et la culture' ?",
+      "choices": [
+        "Il est le public, le critique et le correcteur des normes culturelles.",
+        "Il est l'acteur, le critique et le dramaturge des interactions sociales.",
+        "Il est le fabuliste, le mémorialiste et l'utopiste de son monde intérieur.",
+        "Il est le régisseur, le metteur en scène et le producteur des scripts.",
+        "Il est l'observateur passif, l'enregistreur et le diffuseur des scripts."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source indique : 'À l'interface entre la vie mentale et la culture, (...) l'individu est à la fois le public, le critique et le correcteur'."
+    },
+    {
+      "id": "q33",
+      "prompt": "Quel rôle joue l'individu dans son monde intérieur, selon le modèle des 3 niveaux de script en interaction ?",
+      "choices": [
+        "Il est le fabuliste, le mémorialiste et l'utopiste (ou dystopiste) qui crée des scénarios personnels.",
+        "Il est l'acteur, le critique et le dramaturge des interactions avec autrui.",
+        "Il est le public, le critique et le correcteur des normes culturelles générales.",
+        "Il est le collecteur de données, l'analyste et le rapporteur des expériences.",
+        "Il est le traducteur des scripts biologiques en comportements sociaux acceptables."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source explique que 'Dans son monde intérieur, l'individu joue encore d'autres rôles : Fabuliste : il invente des histoires, imagine des scénarios. Mémorialiste : il revisite ses souvenirs, les réinterprète. Utopiste : il imagine des versions idéales de ses relations'."
+    },
+    {
+      "id": "q34",
+      "prompt": "Dans le script traditionnel du désir sexuel masculin, que se passe-t-il pendant la phase 1 concernant le désir ?",
+      "choices": [
+        "L'activité sexuelle ne s'enclenche qu'après un temps où la tension sexuelle augmente et l'homme manifeste son désir par des signes de courtoisie.",
+        "Le désir masculin est immédiat et se manifeste par une demande directe de rapport sexuel.",
+        "La femme initie l'interaction sexuelle en manifestant ouvertement son propre désir.",
+        "L'homme et la femme expriment simultanément leur désir sans aucune médiation sociale.",
+        "La tension sexuelle diminue progressivement, menant à une absence d'activité sexuelle."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pour la Phase 1, la source indique : 'L'activité sexuelle ne s'enclenche qu'après un temps où la tension sexuelle augmente. L'homme manifeste son désir par des signes de courtoisie'."
+    },
+    {
+      "id": "q35",
+      "prompt": "Dans le script traditionnel du désir sexuel masculin, quelle est la position de la femme en phase 1 ?",
+      "choices": [
+        "Elle se montre sexuellement désirable, sans manifester son propre désir.",
+        "Elle prend l'initiative de l'interaction sexuelle et guide la rencontre.",
+        "Elle exprime activement son désir sexuel, défiant les conventions sociales.",
+        "Elle rejette toute avancée masculine, attendant un signal non-verbal clair.",
+        "Elle est indifférente au désir masculin, ne participant pas à l'interaction."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pour la Phase 1, la source précise : 'La femme se montre sexuellement désirable, sans manifester son propre désir'."
+    },
+    {
+      "id": "q36",
+      "prompt": "Selon le script traditionnel du désir sexuel masculin, comment le consentement féminin est-il supposé en phase 2 ?",
+      "choices": [
+        "Il est supposé s'il n'y a pas de « non » explicite de sa part.",
+        "Il est obtenu après une négociation formelle et une expression verbale claire.",
+        "Il est entièrement déterminé par l'initiative et la persistance de l'homme.",
+        "Il est considéré comme absent tant qu'un « oui » explicite n'est pas prononcé.",
+        "Il n'est pas pertinent, car le désir masculin est omnipotent et prédominant."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pour la Phase 2, la source affirme : 'Le consentement de la femme est supposé s'il n'y a pas de « non »'."
+    },
+    {
+      "id": "q37",
+      "prompt": "Dans la phase 3 du script traditionnel du désir sexuel masculin, quel rôle est attendu de l'homme concernant l'interaction sexuelle ?",
+      "choices": [
+        "Il est attendu de l'homme qu'il prenne les initiatives et que la femme le suive, guidant la relation vers un rapport pénétratif.",
+        "Il doit s'adapter entièrement aux initiatives de la femme, la laissant guider l'interaction.",
+        "Il doit maintenir une distance physique, attendant que la femme exprime explicitement son désir.",
+        "Il doit uniquement se concentrer sur son propre plaisir, ignorant les besoins de la partenaire.",
+        "Il est encouragé à déléguer les initiatives à la femme pour une interaction plus équilibrée."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pour la Phase 3, la source déclare : 'Il est attendu de l'homme qu'il prenne les initiatives et que la femme le suive. L'homme guide la relation vers un rapport pénétratif'."
+    },
+    {
+      "id": "q38",
+      "prompt": "Selon Isabelle Clair, à quoi la relation d'enquête est-elle comparée concernant son script interpersonnel ?",
+      "choices": [
+        "Elle n'est pas sans rappeler le script le plus répandu et partagé d'une relation sexuelle, renfermant une dramaturgie sexuelle cachée.",
+        "Elle est une interaction purement professionnelle, dénuée de toute implication émotionnelle ou sexuelle.",
+        "Elle est un modèle d'interaction asymétrique où l'enquêteur impose ses désirs sans considération pour l'enquêté.",
+        "Elle représente un cas unique de communication, sans parallèle avec d'autres formes de relations sociales.",
+        "Elle est une forme d'échange où les rôles sont strictement définis et ne peuvent être interprétés de manière ambiguë."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source cite Isabelle Clair : 'le script interpersonnel de la relation d'enquête n'est pas sans rappeler le script le plus répandu et partagé d'une relation sexuelle : « le script de la relation d'enquête renferme (...) une dramaturgie sexuelle cachée »'."
+    },
+    {
+      "id": "q39",
+      "prompt": "Selon le tableau comparatif, quelle est la principale différence entre le 'script sexuel répandu' et le 'script de la relation d'enquête' concernant leur objet ?",
+      "choices": [
+        "Le script sexuel répandu vise à structurer les relations intimes, tandis que le script d'enquête vise à produire des données fiables.",
+        "Le script sexuel répandu organise les normes culturelles, alors que le script d'enquête est purement aléatoire.",
+        "Le script sexuel répandu est appris par formation méthodologique, le script d'enquête par socialisation générale.",
+        "Le script sexuel répandu concerne la vie professionnelle, alors que le script d'enquête concerne la vie privée.",
+        "Le script sexuel répandu est interactionnel lié à la recherche, et le script d'enquête est culturel lié à la sexualité."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le tableau indique que le 'Script sexuel répandu' 'Vise à structurer les relations intimes' et le 'Script de la relation d'enquête' 'Vise à produire des données fiables'."
+    },
+    {
+      "id": "q40",
+      "prompt": "Quelles sont les conditions qui favorisent l'interprétation sexuelle de la relation d'enquête par l'enquêté.e ?",
+      "choices": [
+        "L'enquêté.e ne connaissant pas le script de la relation d'enquête et mobilisant des répertoires d'interactions comparables, la relation sexuelle étant l'un d'eux, et l'asymétrie de la relation.",
+        "La clarté et l'explicitation parfaite des rôles de chacun.e et du cadre de l'interaction par l'enquêteur.trice.",
+        "L'égalité de pouvoir et de statut social entre l'enquêteur.trice et l'enquêté.e, éliminant toute ambiguïté.",
+        "Le contexte strictement professionnel et public de la rencontre, excluant toute interprétation intime.",
+        "La présence systématique d'une tierce personne pour garantir une objectivité totale de l'échange."
+      ],
+      "correctIndex": 0,
+      "explanation": "La source mentionne deux conditions : 'L'enquêté e ne connaissant pas la relation d'enquête cherche à mobiliser des répertoires d'interactions dans lesquels iel puise des situations qui lui paraissent comparables. La relation sexuelle fait partie de celles-là.' et 'L'asymétrie inhérente à la relation d'enquête'."
+    }
+  ],
+  "course": "Sociologie du Genre"
+}
