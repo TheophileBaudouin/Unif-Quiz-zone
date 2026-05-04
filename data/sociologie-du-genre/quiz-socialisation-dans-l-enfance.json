@@ -1,0 +1,495 @@
+{
+  "quizId": "socialisation-dans-l-enfance",
+  "title": "Socialisation dans l'enfance",
+  "section": {
+    "id": "socialisation-dans-l-enfance",
+    "title": "Socialisation dans l'enfance",
+    "startPage": 23,
+    "endPage": 31,
+    "summary": "Étude de la socialisation différenciée dès la naissance, influence des jouets, des livres et des espaces, et impact des classes sociales sur les logiques éducatives.",
+    "estimatedQuestionCount": 40
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon le document, quel obstacle majeur freine l'évolution vers l'égalité des sexes au début du 21ème siècle ?",
+      "choices": [
+        "La rigidité des formes sociales de division du travail dans la famille et l'entreprise",
+        "L'absence totale de nouvelles relations amoureuses expérimentées par les individus",
+        "Le refus global des institutions internationales de proclamer l'égalité entre les sexes",
+        "La disparition complète des mouvements militants en faveur des droits des femmes",
+        "L'uniformisation biologique des modes de vie entre les hommes et les femmes"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Quel phénomène illustre la tendance récente à la plasticité des genres selon la source ?",
+      "choices": [
+        "Le déliement de la parole associé au mouvement social #MeToo",
+        "La réduction drastique de la présence des femmes dans le champ politique",
+        "Le renforcement de la division binaire stricte dans les milieux professionnels",
+        "L'interdiction légale de toute forme de résistance au changement social",
+        "La disparition des mouvements populistes et illibéraux en Europe"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q3",
+      "prompt": "Que soutient Bernard Lahire (2019) concernant la conscience de nos actions ?",
+      "choices": [
+        "Nous sommes rarement conscients des dispositions qui nous poussent à agir",
+        "L'individu possède une pleine maîtrise réflexive de ses contraintes sociales",
+        "La conscience spontanée suffit à expliquer l'origine de nos pratiques quotidiennes",
+        "Les sciences sociales sont inutiles car l'action humaine est totalement innée",
+        "Les conditions de déploiement de l'action sont toujours choisies délibérément"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q4",
+      "prompt": "Comment l'hétéronormativité est-elle définie par Amari et al. (2025) ?",
+      "choices": [
+        "Comme un agencement social et politique du système sexe/genre adossé à un ordre social",
+        "Comme une simple inclinaison biologique dénuée de dimension politique ou sociale",
+        "Comme une préférence sexuelle individuelle sans lien avec les structures de pouvoir",
+        "Comme une pratique culturelle marginale n'affectant pas la conception du monde",
+        "Comme un arrangement temporaire entre les sexes facilitant la reproduction humaine"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q5",
+      "prompt": "Sur quel modèle de rapports de genre l'hétéronormativité se fonde-t-elle ?",
+      "choices": [
+        "La différenciation asymétrique et la complémentarité obligatoire des sexes",
+        "L'égalité parfaite des rôles domestiques et la dissolution des identités",
+        "La symétrie absolue des pratiques sexuelles et la fluidité des genres",
+        "La suppression de toute norme disciplinaire concernant les identités sociales",
+        "L'indépendance totale des individus vis-à-vis des attentes collectives"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelle est la définition du 'cisgenrisme' mentionnée dans le document ?",
+      "choices": [
+        "Un système marginalisant les identités ne correspondant pas au sexe assigné à la naissance",
+        "Une théorie biologique affirmant la supériorité d'un sexe sur l'autre dès la conception",
+        "Une pratique médicale visant exclusivement à stabiliser l'ambiguïté sexuelle des adultes",
+        "Un ensemble de croyances favorisant la transition de genre pour les enfants",
+        "Une norme sociale encourageant l'indifférenciation des sexes dans l'éducation"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q7",
+      "prompt": "Comment l'hétéronormativité influence-t-elle les institutions selon le texte ?",
+      "choices": [
+        "En naturalisant l'hétérosexualité comme un ordre moral et social légitime",
+        "En favorisant la reconnaissance légale des identités non-binaires en priorité",
+        "En déconstruisant systématiquement les préjugés liés à l'orientation sexuelle",
+        "En limitant son action au seul plan des subjectivités individuelles privées",
+        "En encourageant la diversité des modèles familiaux dès la petite enfance"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q8",
+      "prompt": "Selon Duru-Bellat, quand commence l'injonction à être sexué pour un individu ?",
+      "choices": [
+        "Dès la grossesse, car le fœtus est attendu et imaginé comme sexué",
+        "À l'entrée à l'école primaire lors de l'apprentissage des rôles sociaux",
+        "Uniquement lors de l'expression des premières préférences de l'enfant",
+        "À l'adolescence au moment du développement des caractères sexuels",
+        "Au moment du choix professionnel et de l'entrée dans la vie active"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q9",
+      "prompt": "Quelle est la réaction typique face à l'ambiguïté sexuelle (intersexe) dans nos sociétés ?",
+      "choices": [
+        "Elle provoque des réactions vives et les médecins cherchent à corriger le sexe",
+        "Elle est accueillie avec indifférence car le genre n'est plus considéré comme binaire",
+        "Elle entraîne une valorisation systématique de la diversité biologique par les parents",
+        "Elle est systématiquement ignorée par les institutions médicales contemporaines",
+        "Elle favorise l'abolition immédiate des catégories de 'fille' et de 'garçon'"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q10",
+      "prompt": "Que signifie le concept de 'prématuré social' appliqué au nourrisson ?",
+      "choices": [
+        "L'enfant ne survit et ne se développe que grâce au guidage d'adultes porteurs de culture",
+        "Le nourrisson naît avec des compétences sociales innées lui permettant d'être autonome",
+        "Le développement de l'enfant est uniquement dicté par ses prédispositions génétiques",
+        "L'individu est socialement mature dès sa naissance grâce à l'instinct grégaire",
+        "La survie biologique est indépendante de tout processus d'étayage culturel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q11",
+      "prompt": "Qu'est-ce que le processus de 'socialisation' selon le cours ?",
+      "choices": [
+        "Le processus qui amène à la formation de la part sociale de l'identité",
+        "Le mécanisme biologique permettant la croissance physique du nouveau-né",
+        "L'apprentissage exclusif du langage sans influence des structures sociales",
+        "L'imposition violente de normes par les institutions contre la volonté des parents",
+        "L'élimination des différences individuelles pour créer une masse homogène"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q12",
+      "prompt": "Quel message silencieux transmet la prise en charge majoritaire des enfants par les femmes ?",
+      "choices": [
+        "Une réalité incontestable et appelée à persister s'impose à tous",
+        "La démonstration que les pères n'ont aucune compétence pour le soin",
+        "La preuve scientifique de l'infériorité des hommes dans les métiers de crèche",
+        "L'idée que le travail domestique doit être rémunéré à hauteur égale au secteur privé",
+        "Le signal que les institutions refusent d'employer du personnel masculin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q13",
+      "prompt": "Comment le rôle du père est-il perçu par rapport à celui de la mère dans l'éducation ?",
+      "choices": [
+        "Le père garde le choix de s'investir alors que pour la mère, cela relève de la nature",
+        "Le père est soumis à une obligation naturelle d'investissement supérieur à la mère",
+        "Les deux parents sont perçus comme ayant la même absence de choix face au soin",
+        "La mère peut choisir de s'investir tandis que le père est défini par sa paternité",
+        "Le rôle paternel est perçu comme inné et le rôle maternel comme purement social"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q14",
+      "prompt": "Dès qu'un bébé est déclaré 'fille' ou 'garçon', quel travail commence ?",
+      "choices": [
+        "Un travail de mise en conformité incluant vêtements, langage et attentes motrices",
+        "Une période de neutralité totale permettant à l'enfant de choisir son identité",
+        "Un processus de déconstruction des normes de genre par les parents bienveillants",
+        "L'application exclusive de consignes médicales sans dimension culturelle",
+        "Une observation passive des inclinaisons naturelles de l'enfant sans intervention"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q15",
+      "prompt": "Que signifie l'affirmation 'le sexe est potentiellement là mais doit être accompli' ?",
+      "choices": [
+        "La socialisation précoce est performatrice et construit activement l'identité de genre",
+        "L'identité sexuelle est figée biologiquement dès la conception sans influence sociale",
+        "L'enfant décide seul de son sexe à travers ses actions quotidiennes",
+        "Les parents ne jouent aucun rôle dans la manifestation des attributs sexuels",
+        "Le genre est une illusion qui ne se réalise jamais concrètement dans la réalité"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q16",
+      "prompt": "Dans la typologie de la socialisation, qu'est-ce que l'inculcation ?",
+      "choices": [
+        "L'enseignement direct de normes et valeurs, comme apprendre à manger proprement",
+        "L'influence subtile des situations et des relations sur le développement global",
+        "La participation active et la collaboration dans des activités d'apprentissage",
+        "L'imitation inconsciente des comportements observés chez les pairs",
+        "La répétition machinale d'exercices physiques sans lien avec les valeurs sociales"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q17",
+      "prompt": "Quel constat le texte fait-il sur les jouets et les livres proposés aux enfants ?",
+      "choices": [
+        "L'univers est massivement sexué avec des supports fortement genrés avant 2 ans",
+        "Les supports éducatifs sont devenus neutres grâce aux nouvelles politiques publiques",
+        "Les livres pour enfants valorisent majoritairement des héroïnes actives et fortes",
+        "Le marketing genré a disparu au profit d'une approche individualisée des besoins",
+        "Les jouets sont offerts uniquement après que l'enfant a exprimé ses préférences"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q18",
+      "prompt": "Comment les animaux sont-ils utilisés dans les albums pour enfants ?",
+      "choices": [
+        "Ils sont utilisés pour naturaliser la division des rôles sociaux entre les sexes",
+        "Ils servent à dénoncer les violences faites aux humains dans le cadre familial",
+        "Ils sont représentés de manière neutre pour éviter toute identification de genre",
+        "Ils occupent des rôles interchangeables sans distinction de sexe ou de fonction",
+        "Ils illustrent exclusivement des comportements sauvages décorrélés du social"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q19",
+      "prompt": "Quelles sont les caractéristiques des jouets destinés aux garçons par rapport à ceux des filles ?",
+      "choices": [
+        "Ils sont plus variés, plus stimulants, propices à l'invention et moins chers",
+        "Ils sont plus onéreux car ils demandent une technologie de pointe constante",
+        "Ils se concentrent sur le soin, le langage et l'imitation de la vie domestique",
+        "Ils exigent moins de manipulation physique et de construction spatiale",
+        "Ils sont conçus pour limiter l'agressivité et favoriser la proximité familiale"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q20",
+      "prompt": "En quoi les 'Lego Friends' diffèrent-ils des Lego 'normaux' selon l'exemple cité ?",
+      "choices": [
+        "Ils sont presque déjà montés et demandent moins de travail de construction",
+        "Ils sont plus complexes et stimulent davantage l'ingénierie chez les filles",
+        "Ils coûtent nettement plus cher en raison de la qualité des matériaux utilisés",
+        "Ils permettent une manipulation plus libre et une invention spatiale étendue",
+        "Ils sont strictement identiques aux autres gammes mais changent de couleur"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q21",
+      "prompt": "Comment la socialisation corporelle différencie-t-elle l'usage de l'espace ?",
+      "choices": [
+        "Les garçons apprennent à occuper un espace large alors que les filles sont restreintes",
+        "Les filles sont encouragées à utiliser leur force pour lancer des objets très loin",
+        "Les garçons doivent rester dans des espaces confinés pour apprendre l'auto-contrôle",
+        "Les deux sexes sont formés à une occupation identique et symétrique du sol",
+        "L'espace n'est jamais un enjeu de socialisation durant la petite enfance"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q22",
+      "prompt": "Quelle disparité observe-t-on dans la pratique sportive hors école à 18 ans ?",
+      "choices": [
+        "60% des garçons pratiquent du sport contre moins d'un tiers des filles",
+        "Les filles et les garçons ont un taux de pratique parfaitement égalitaire",
+        "75% des filles pratiquent un sport contre seulement 59% des garçons",
+        "La pratique sportive s'arrête totalement pour les deux sexes à cet âge",
+        "Le sport devient une activité exclusivement féminine dès la fin de l'adolescence"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q23",
+      "prompt": "Sur quoi les sports féminins privilégiés (danse, gymnastique) sont-ils centrés ?",
+      "choices": [
+        "Sur l'apparence et l'esthétique plutôt que sur l'affrontement physique",
+        "Sur le développement de la force brute et la conquête d'espaces étendus",
+        "Sur la compétition violente et l'écrasement de l'adversaire direct",
+        "Sur l'absence totale de contrôle du corps et la liberté de mouvement",
+        "Sur des techniques identiques à celles du rugby ou des sports de contact"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q24",
+      "prompt": "Comment la vêture féminine entrave-t-elle la liberté du corps ?",
+      "choices": [
+        "Par des vêtements fragiles exigeant retenue et empêchant de se rouler par terre",
+        "Par une uniformisation qui rend les corps invisibles dans l'espace public",
+        "En imposant des tenues trop lourdes qui ralentissent le développement musculaire",
+        "En favorisant une exposition excessive au froid et aux éléments extérieurs",
+        "En interdisant toute forme d'auto-contrôle chez la jeune fille en public"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q25",
+      "prompt": "Pourquoi les classes sociales sont-elles étudiées dans le cadre de la socialisation ?",
+      "choices": [
+        "Car elles traduisent des inégalités de richesse et de place symbolique dans la société",
+        "Car elles n'ont aucun impact réel sur les logiques éducatives des parents",
+        "Pour prouver que les enfants pauvres sont naturellement moins intelligents",
+        "Afin d'éliminer toute distinction entre les styles éducatifs nationaux",
+        "Pour démontrer que la santé n'est pas corrélée aux différences de revenus"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q26",
+      "prompt": "Quelle est une caractéristique de l'éducation dans la bourgeoisie ?",
+      "choices": [
+        "La présence de nombreux espaces spécialisés (jeu, manger, cuisine) évitant la superposition",
+        "L'absence totale de temps dédié à l'inculcation des valeurs chez les enfants",
+        "L'obligation pour toutes les mères de travailler à temps plein hors du domicile",
+        "Le refus systématique de sous-traiter l'éducation à d'autres femmes",
+        "La promotion d'un langage exclusivement contextuel et fonctionnel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q27",
+      "prompt": "Qu'est-ce que le 'capital culturel' permet d'identifier selon le document ?",
+      "choices": [
+        "Des pratiques éducatives valorisables au sein de la société",
+        "Le montant exact de l'épargne financière d'une famille moyenne",
+        "L'appartenance biologique à une lignée aristocratique ancienne",
+        "La capacité d'un enfant à rejeter toute forme d'institution scolaire",
+        "L'absence de hiérarchie entre les différents objets de consommation"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q28",
+      "prompt": "Quel style éducatif est associé à l'autorité directe et au langage contextuel ?",
+      "choices": [
+        "Celui décrit par Thin (2010) dans certains milieux populaires",
+        "Le modèle de la bourgeoisie caractérisé par la négociation constante",
+        "Les classes moyennes visant l'idéal de la performance et de l'assurance",
+        "Les institutions scolaires d'élite privilégiant la réflexivité verbale",
+        "Le système éducatif moderne tendant vers l'indifférenciation des classes"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q29",
+      "prompt": "Quel idéal les classes moyennes cherchent-elles à inculquer à leurs enfants ?",
+      "choices": [
+        "Un idéal de self-confidence (confiance en soi) et de performance",
+        "Une autonomie juvénile totale sans aucun contrôle des activités par les parents",
+        "Un respect strict de la hiérarchie basée sur la confrontation physique",
+        "Une discrétion absolue et un retrait systématique de la parole publique",
+        "Le refus de toute interaction avec les professionnels de santé ou l'école"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q30",
+      "prompt": "Quelles compétences sont valorisées dans les activités organisées des classes moyennes ?",
+      "choices": [
+        "L'assurance corporelle, verbale et la capacité à parler aux adultes",
+        "La débrouillardise en extérieur et la résistance face aux institutions",
+        "Le silence, l'obéissance passive et l'absence de négociation avec l'autorité",
+        "Le rejet de la performance au profit de la solidarité entre pairs uniquement",
+        "L'utilisation exclusive de la force physique pour résoudre les conflits"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q31",
+      "prompt": "Quel est l'effet de genre implicite dans les classes populaires ?",
+      "choices": [
+        "La construction des rôles au contact d'un univers enfantin moins régulé par les adultes",
+        "L'incitation des filles à devenir assertives et à négocier des aménagements",
+        "L'association de la féminité à des compétences réflexives et verbales dominantes",
+        "La disparition de la hiérarchie générationnelle au profit d'une égalité totale",
+        "L'apprentissage systématique des normes institutionnelles validées par l'école"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q32",
+      "prompt": "Comment les interactions avec les adultes diffèrent-elles dans les classes moyennes ?",
+      "choices": [
+        "On apprend aux enfants à regarder dans les yeux et à faire valoir leurs droits",
+        "Le regard direct est considéré comme dangereux et doit être évité par l'enfant",
+        "La parole enfantine est contenue et moins sollicitée par les parents",
+        "Les conflits sont résolus par des registres physiques encouragés par la famille",
+        "L'enfant doit se soumettre à une autorité basée uniquement sur la contrainte brute"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q33",
+      "prompt": "À quoi la masculinité de classe populaire est-elle souvent associée ?",
+      "choices": [
+        "À la débrouillardise et à la résistance corporelle",
+        "À l'assurance verbale et au contrôle de soi permanent",
+        "À la négociation constante et à la diplomatie institutionnelle",
+        "À la discrétion, à la proximité et à la protection de l'espace privé",
+        "À l'obéissance aveugle aux normes de genre dictées par les professionnels"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q34",
+      "prompt": "Quelle métaphore est utilisée pour décrire l'éducation dans les classes populaires ?",
+      "choices": [
+        "La pousse naturelle",
+        "La mise en culture concertée",
+        "L'étayage intensif",
+        "Le dressage institutionnel",
+        "La construction modulaire"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q35",
+      "prompt": "Qu'est-ce que la 'socialisation primaire' selon le texte ?",
+      "choices": [
+        "Le processus d'apprentissage et d'intériorisation des normes de la petite enfance à l'adolescence",
+        "Le mécanisme de sélection des gènes lors de la reproduction des individus",
+        "L'entrée sur le marché du travail après la fin des études supérieures",
+        "L'apprentissage des techniques professionnelles spécifiques à l'âge adulte",
+        "La rupture totale avec les valeurs familiales lors de l'arrivée à l'école secondaire"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q36",
+      "prompt": "Que soutient Judith Butler (1990) concernant l'identité de genre ?",
+      "choices": [
+        "Les personnes ne deviennent intelligibles que si elles ont pris un genre",
+        "L'identité de genre précède toujours l'action et le faire de l'individu",
+        "Le sexe biologique détermine l'identité sans aucune médiation sociale",
+        "Le genre est une substance fixe et immuable ancrée dans l'anatomie",
+        "Il faut discuter de l'identité en général avant de parler du genre"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q37",
+      "prompt": "Sur quoi reposent les 'matrices d'intelligibilité' du genre ?",
+      "choices": [
+        "Sur la cohérence entre le sexe, le genre, la pratique sexuelle et le désir",
+        "Sur la déconnexion totale entre les attributs biologiques et les rôles sociaux",
+        "Sur l'absence de lien entre l'identité ressentie et les attentes de la société",
+        "Sur une hiérarchie où le désir est indépendant du sexe assigné à la naissance",
+        "Sur la suppression des catégories binaires pour favoriser l'anarchie identitaire"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q38",
+      "prompt": "Que signifie le terme 'performatif' appliqué au genre ?",
+      "choices": [
+        "Le genre constitue l'identité qu'il est censé être ; c'est un 'faire' permanent",
+        "Le genre est une performance théâtrale optionnelle que l'on peut arrêter à tout moment",
+        "L'identité de genre est le résultat d'un calcul rationnel visant la performance économique",
+        "Le genre est un fait biologique qui s'impose sans aucune action de la part du sujet",
+        "La performativité désigne l'incapacité des individus à modifier leurs comportements"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q39",
+      "prompt": "Quels étaient les deux critères classiques définissant les personnes trans dans la psychiatrie ?",
+      "choices": [
+        "Le sentiment d'appartenir au sexe opposé et le dégoût de leur sexe",
+        "L'indifférence totale au genre et la volonté de supprimer toute sexualité",
+        "La conformité parfaite aux normes de naissance et l'acceptation de l'anatomie",
+        "Le refus de toute étiquette sociale et l'isolement volontaire des institutions",
+        "L'adoption de comportements neutres et la pratique d'activités non-genrées"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q40",
+      "prompt": "Comment les filles endossent-elles leur rôle de genre selon l'exemple de la page 31 ?",
+      "choices": [
+        "En montrant qu'elles sont des belles princesses (le genre comme un faire)",
+        "En rejetant systématiquement les attributs esthétiques liés à la féminité",
+        "En imitant exclusivement les comportements sportifs de leurs frères",
+        "En refusant de participer aux interactions sociales avec les autres enfants",
+        "En adoptant un langage neutre pour ne pas être identifiées comme filles"
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "course": "Sociologie du Genre"
+}
