@@ -1,0 +1,1236 @@
+{
+  "quizId": "apple-broken-promises-vocabulary",
+  "title": "Apple's Broken Promises Vocabulary",
+  "section": {
+    "id": "apple-broken-promises-vocabulary",
+    "title": "Apple's Broken Promises Vocabulary",
+    "startPage": 10,
+    "endPage": 11,
+    "summary": "Corporate, manufacturing, and ethical vocabulary related to global supply chains and labor conditions.",
+    "estimatedQuestionCount": 93
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Traduisez le terme anglais 'truth' selon le lexique du document.",
+      "choices": [
+        "liberté",
+        "pureté",
+        "vérité",
+        "réalité",
+        "fierté"
+      ],
+      "correctIndex": 2,
+      "explanation": "Selon la source, 'truth' se traduit par 'vérité'."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quel est l'équivalent français du terme 'valuable' ?",
+      "choices": [
+        "de faible valeur",
+        "de pleine valeur",
+        "de grande valeur",
+        "de courte valeur",
+        "de fausse valeur"
+      ],
+      "correctIndex": 2,
+      "explanation": "D'après le document, 'valuable' signifie 'de grande valeur'."
+    },
+    {
+      "id": "q3",
+      "prompt": "Traduisez le mot 'customer' présent dans le vocabulaire.",
+      "choices": [
+        "agent",
+        "client",
+        "expert",
+        "parent",
+        "talent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le terme 'customer' est traduit par 'client'."
+    },
+    {
+      "id": "q4",
+      "prompt": "Comment traduire le verbe 'to operate' dans ce contexte industriel ?",
+      "choices": [
+        "exporter",
+        "exécuter",
+        "exploiter",
+        "expliquer",
+        "exprimer"
+      ],
+      "correctIndex": 2,
+      "explanation": "La source indique 'to operate' = 'exploiter'."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle est la traduction correcte de l'adjectif 'heartless' ?",
+      "choices": [
+        "cruel",
+        "fidèle",
+        "actuel",
+        "mortel",
+        "réel"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le lexique traduit 'heartless' par 'cruel'."
+    },
+    {
+      "id": "q6",
+      "prompt": "Traduisez l'expression temporelle 'overnight'.",
+      "choices": [
+        "pendant le jour",
+        "pendant le mois",
+        "pendant la nuit",
+        "pendant le soir",
+        "pendant le midi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Selon le document, 'overnight' signifie 'pendant la nuit'."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quel est le sens du verbe 'to launch' ?",
+      "choices": [
+        "foncer",
+        "lacer",
+        "lancer",
+        "percer",
+        "tracer"
+      ],
+      "correctIndex": 2,
+      "explanation": "La source traduit 'to launch' par 'lancer'."
+    },
+    {
+      "id": "q8",
+      "prompt": "Traduisez l'adjectif 'faithful' présent dans la liste.",
+      "choices": [
+        "habile",
+        "modèle",
+        "utile",
+        "fidèle",
+        "réel"
+      ],
+      "correctIndex": 3,
+      "explanation": "Le terme 'faithful' correspond à 'fidèle'."
+    },
+    {
+      "id": "q9",
+      "prompt": "Traduisez le verbe 'to gather' selon le document.",
+      "choices": [
+        "se consulter",
+        "se rassembler",
+        "se transformer",
+        "se multiplier",
+        "se différencier"
+      ],
+      "correctIndex": 1,
+      "explanation": "D'après le lexique, 'to gather' signifie 'se rassembler'."
+    },
+    {
+      "id": "q10",
+      "prompt": "Quel est l'équivalent français de l'adjectif 'iconic' ?",
+      "choices": [
+        "stratégique",
+        "périphérique",
+        "automatique",
+        "emblématique",
+        "systématique"
+      ],
+      "correctIndex": 3,
+      "explanation": "Selon la source, 'iconic' se traduit par 'emblématique'."
+    },
+    {
+      "id": "q11",
+      "prompt": "Traduisez le terme 'consumer'.",
+      "choices": [
+        "administrateur",
+        "intermédiaire",
+        "collaborateur",
+        "consommateur",
+        "fournisseur"
+      ],
+      "correctIndex": 3,
+      "explanation": "Le mot 'consumer' signifie 'consommateur'."
+    },
+    {
+      "id": "q12",
+      "prompt": "Traduisez 'gorgeous' tel qu'indiqué dans le lexique.",
+      "choices": [
+        "unique, stable",
+        "dense, intense",
+        "riche, proche",
+        "splendide, superbe",
+        "vague, calme"
+      ],
+      "correctIndex": 3,
+      "explanation": "La source traduit 'gorgeous' par 'splendide, superbe'."
+    },
+    {
+      "id": "q13",
+      "prompt": "Quel est l'équivalent français de 'brand' ?",
+      "choices": [
+        "marque",
+        "banque",
+        "plaque",
+        "attaque",
+        "barque"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le document traduit 'brand' par 'marque'."
+    },
+    {
+      "id": "q14",
+      "prompt": "Traduisez le nom 'commitment'.",
+      "choices": [
+        "mouvement",
+        "revêtement",
+        "traitement",
+        "engagement",
+        "alignement"
+      ],
+      "correctIndex": 3,
+      "explanation": "Le terme 'commitment' signifie 'engagement'."
+    },
+    {
+      "id": "q15",
+      "prompt": "Traduisez l'expression 'to care'.",
+      "choices": [
+        "faire pression sur",
+        "faire équipe avec",
+        "faire attention, se soucier de",
+        "faire appel à un expert",
+        "faire confiance à autrui"
+      ],
+      "correctIndex": 2,
+      "explanation": "Selon le lexique, 'to care' signifie 'faire attention, se soucier de'."
+    },
+    {
+      "id": "q16",
+      "prompt": "Que signifie l'expression spécifique 'Apple cares' ?",
+      "choices": [
+        "c’est un risque pour Apple",
+        "c’est une règle chez Apple",
+        "c’est vraiment important pour Apple",
+        "c’est une chance pour Apple",
+        "c’est une perte pour Apple"
+      ],
+      "correctIndex": 2,
+      "explanation": "La source indique que 'Apple cares' signifie 'c’est vraiment important pour Apple'."
+    },
+    {
+      "id": "q17",
+      "prompt": "Traduisez le terme 'supply' selon le document.",
+      "choices": [
+        "concurrence, vente, achat",
+        "maintenance, étude, test",
+        "approvisionnement, fourniture, apport",
+        "investissement, profit, gain",
+        "développement, gestion, suivi"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Supply' se traduit par 'approvisionnement, fourniture, apport'."
+    },
+    {
+      "id": "q18",
+      "prompt": "Quel est le sens de 'supply chain' ?",
+      "choices": [
+        "chaîne de valeur",
+        "chaîne logistique",
+        "chaîne de montage",
+        "chaîne de production",
+        "chaîne de direction"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dans le lexique, 'supply chain' est traduit par 'chaîne logistique'."
+    },
+    {
+      "id": "q19",
+      "prompt": "Traduisez le connecteur logique 'therefore'.",
+      "choices": [
+        "par contre, cependant",
+        "par ailleurs, ensuite",
+        "par conséquent, pour cette raison",
+        "par hasard, justement",
+        "par moments, parfois"
+      ],
+      "correctIndex": 2,
+      "explanation": "La source traduit 'therefore' par 'par conséquent, pour cette raison'."
+    },
+    {
+      "id": "q20",
+      "prompt": "Comment traduire le verbe 'to fulfil' ?",
+      "choices": [
+        "connaître, agir",
+        "chercher, créer",
+        "accomplir, réaliser",
+        "attendre, subir",
+        "réussir, partir"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le verbe 'to fulfil' signifie 'accomplir, réaliser'."
+    },
+    {
+      "id": "q21",
+      "prompt": "Traduisez le nom 'purpose'.",
+      "choices": [
+        "objectif",
+        "édifice",
+        "bénéfice",
+        "service",
+        "indices"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon le document, 'purpose' se traduit par 'objectif'."
+    },
+    {
+      "id": "q22",
+      "prompt": "Traduisez l'adjectif 'whole' selon le lexique.",
+      "choices": [
+        "léger",
+        "froid",
+        "entier",
+        "clair",
+        "vague"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le terme 'whole' signifie 'entier'."
+    },
+    {
+      "id": "q23",
+      "prompt": "Quel est l'équivalent français de 'package' ?",
+      "choices": [
+        "paquet, ensemble",
+        "voyage, escale",
+        "usage, règle",
+        "passage, durée",
+        "blocage, arrêt"
+      ],
+      "correctIndex": 0,
+      "explanation": "La source traduit 'package' par 'paquet, ensemble'."
+    },
+    {
+      "id": "q24",
+      "prompt": "Traduisez l'expression familière 'whole package'.",
+      "choices": [
+        "la finale",
+        "la totale",
+        "la morale",
+        "la locale",
+        "la royale"
+      ],
+      "correctIndex": 1,
+      "explanation": "D'après le document, 'whole package' se traduit par 'la totale'."
+    },
+    {
+      "id": "q25",
+      "prompt": "Traduisez le verbe 'to investigate'.",
+      "choices": [
+        "éditer",
+        "opter",
+        "enquêter",
+        "insister",
+        "arrêter"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le verbe 'to investigate' signifie 'enquêter'."
+    },
+    {
+      "id": "q26",
+      "prompt": "Que signifie le terme 'workforce' ?",
+      "choices": [
+        "force de vente brute",
+        "direction de projet",
+        "population active, main-d’œuvre",
+        "puissance industrielle",
+        "organisation de travail"
+      ],
+      "correctIndex": 2,
+      "explanation": "La source traduit 'workforce' par 'population active, main-d’œuvre'."
+    },
+    {
+      "id": "q27",
+      "prompt": "Traduisez l'adjectif 'raw' dans un contexte matériel.",
+      "choices": [
+        "cru, brut, non traité",
+        "pur, dur, non moulé",
+        "fin, net, non utilisé",
+        "sec, nu, non pesé",
+        "vif, mat, non cadré"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dans ce contexte, 'raw' signifie 'cru, brut, non traité'."
+    },
+    {
+      "id": "q28",
+      "prompt": "Traduisez le terme 'raw materials'.",
+      "choices": [
+        "matières légères",
+        "matières stables",
+        "matières premières",
+        "matières finales",
+        "matières utiles"
+      ],
+      "correctIndex": 2,
+      "explanation": "Selon le lexique, 'raw materials' se traduit par 'matières premières'."
+    },
+    {
+      "id": "q29",
+      "prompt": "Quel est le sens du verbe 'to manufacture' ?",
+      "choices": [
+        "capturer",
+        "fabriquer",
+        "indiquer",
+        "procurer",
+        "concurer"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le verbe 'to manufacture' signifie 'fabriquer'."
+    },
+    {
+      "id": "q30",
+      "prompt": "Traduisez le verbe 'to provide'.",
+      "choices": [
+        "réunir",
+        "retenir",
+        "fournir",
+        "finir",
+        "subir"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le verbe 'to provide' signifie 'fournir'."
+    },
+    {
+      "id": "q31",
+      "prompt": "Quelle est la traduction de 'labour' dans ce texte ?",
+      "choices": [
+        "direction",
+        "production",
+        "main-d’œuvre",
+        "croissance",
+        "technique"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le terme 'labour' se traduit ici par 'main-d’œuvre'."
+    },
+    {
+      "id": "q32",
+      "prompt": "Traduisez l'adverbe 'cheaply'.",
+      "choices": [
+        "à moindre prix, à peu de frais",
+        "à chaque fois, à peu de jours",
+        "à grande vitesse, à peu de temps",
+        "à pleine charge, à peu de force",
+        "à haute valeur, à peu de pertes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon le lexique, 'cheaply' signifie 'à moindre prix, à peu de frais'."
+    },
+    {
+      "id": "q33",
+      "prompt": "Traduisez l'expression 'to go wrong'.",
+      "choices": [
+        "mal parler",
+        "mal agir",
+        "mal tourner",
+        "mal finir",
+        "mal juger"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'expression 'to go wrong' signifie 'mal tourner'."
+    },
+    {
+      "id": "q34",
+      "prompt": "Traduisez le terme 'supplier'.",
+      "choices": [
+        "chercheur",
+        "formateur",
+        "fournisseur",
+        "inspecteur",
+        "promoteur"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le mot 'supplier' correspond à 'fournisseur'."
+    },
+    {
+      "id": "q35",
+      "prompt": "Traduisez l'adjectif 'harsh'.",
+      "choices": [
+        "lent, doux",
+        "long, flou",
+        "dur, rude",
+        "frais, pur",
+        "clair, net"
+      ],
+      "correctIndex": 2,
+      "explanation": "La source traduit 'harsh' par 'dur, rude'."
+    },
+    {
+      "id": "q36",
+      "prompt": "Traduisez le verbe à particule 'to put up'.",
+      "choices": [
+        "classer, trier",
+        "briser, isoler",
+        "dresser, placer",
+        "lancer, cadrer",
+        "tenter, lancer"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le verbe 'to put up' est traduit par 'dresser, placer'."
+    },
+    {
+      "id": "q37",
+      "prompt": "Quel est l'équivalent français de 'net' ?",
+      "choices": [
+        "objet",
+        "trajet",
+        "filet",
+        "aspect",
+        "projet"
+      ],
+      "correctIndex": 2,
+      "explanation": "Selon le document, 'net' se traduit par 'filet'."
+    },
+    {
+      "id": "q38",
+      "prompt": "Traduisez le terme géographique 'outskirts'.",
+      "choices": [
+        "majorité",
+        "proximité",
+        "périphérie",
+        "trajectoire",
+        "territoire"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le terme 'outskirts' signifie 'périphérie'."
+    },
+    {
+      "id": "q39",
+      "prompt": "Traduisez l'adverbe 'undercover'.",
+      "choices": [
+        "modérément",
+        "ouvertement",
+        "clandestinement",
+        "actuellement",
+        "probablement"
+      ],
+      "correctIndex": 2,
+      "explanation": "D'après la source, 'undercover' signifie 'clandestinement'."
+    },
+    {
+      "id": "q40",
+      "prompt": "Traduisez le nom 'state'.",
+      "choices": [
+        "état",
+        "écart",
+        "éclat",
+        "débat",
+        "achat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le mot 'state' se traduit par 'état'."
+    },
+    {
+      "id": "q41",
+      "prompt": "Quelle est la traduction de 'launch' (nom) ?",
+      "choices": [
+        "changement",
+        "alignement",
+        "lancement",
+        "revêtement",
+        "traitement"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le terme 'launch' (en tant que nom) signifie 'lancement'."
+    },
+    {
+      "id": "q42",
+      "prompt": "Traduisez la préposition 'across'.",
+      "choices": [
+        "au-delà de la ligne de",
+        "au travers de la zone de",
+        "d’un côté à l’autre de",
+        "au début de la série de",
+        "au milieu de la foule de"
+      ],
+      "correctIndex": 2,
+      "explanation": "La source traduit 'across' par 'd’un côté à l’autre de'."
+    },
+    {
+      "id": "q43",
+      "prompt": "Que signifie l'expression 'to fingerprint' ?",
+      "choices": [
+        "relever les défis techniques",
+        "relever les prix indiqués",
+        "relever les empreintes digitales",
+        "relever les erreurs logistiques",
+        "relever les données privées"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'expression 'to fingerprint' signifie 'relever les empreintes digitales'."
+    },
+    {
+      "id": "q44",
+      "prompt": "Traduisez le verbe à particule 'to hand over'.",
+      "choices": [
+        "permettre",
+        "soumettre",
+        "remettre",
+        "admettre",
+        "omettre"
+      ],
+      "correctIndex": 2,
+      "explanation": "Selon le lexique, 'to hand over' se traduit par 'remettre'."
+    },
+    {
+      "id": "q45",
+      "prompt": "Traduisez 'to hold – held – held'.",
+      "choices": [
+        "savoir, être en mesure de",
+        "avoir, être en possession de",
+        "croire, être en accord de",
+        "vouloir, être en faveur de",
+        "partir, être en retard de"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le verbe 'to hold' signifie 'avoir, être en possession de'."
+    },
+    {
+      "id": "q46",
+      "prompt": "Quel est l'équivalent français de 'law' ?",
+      "choices": [
+        "foi",
+        "soi",
+        "loi",
+        "roi",
+        "moi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le terme 'law' se traduit par 'loi'."
+    },
+    {
+      "id": "q47",
+      "prompt": "Traduisez l'expression 'by law'.",
+      "choices": [
+        "librement",
+        "totalement",
+        "légalement",
+        "rarement",
+        "fidèlement"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'expression 'by law' signifie 'légalement'."
+    },
+    {
+      "id": "q48",
+      "prompt": "What is the meaning of the verb 'to investigate'?",
+      "choices": [
+        "mener une enquête",
+        "faire une offre",
+        "lancer une marque",
+        "passer une commande",
+        "signer un contrat"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to the vocabulary list, 'to investigate' means 'enquêter'."
+    },
+    {
+      "id": "q49",
+      "prompt": "How is the term 'workforce' translated?",
+      "choices": [
+        "la direction générale",
+        "la population active",
+        "la chaîne de montage",
+        "la gestion du personnel",
+        "la plateforme logistique"
+      ],
+      "correctIndex": 1,
+      "explanation": "The source defines 'workforce' as 'population active, main-d’œuvre'."
+    },
+    {
+      "id": "q50",
+      "prompt": "In a manufacturing context, what are 'raw materials'?",
+      "choices": [
+        "des produits finis",
+        "des déchets toxiques",
+        "des matières premières",
+        "des surplus industriels",
+        "des composants usagers"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Raw materials' translates to 'matières premières'."
+    },
+    {
+      "id": "q51",
+      "prompt": "What is the meaning of the verb 'to manufacture'?",
+      "choices": [
+        "réparer",
+        "exporter",
+        "emballer",
+        "inspecter",
+        "fabriquer"
+      ],
+      "correctIndex": 4,
+      "explanation": "The list provides 'fabriquer' as the translation for 'to manufacture'."
+    },
+    {
+      "id": "q52",
+      "prompt": "What does the term 'labour' refer to?",
+      "choices": [
+        "la main-d’œuvre",
+        "le bureau d'étude",
+        "le stock de pièces",
+        "le contrat de vente",
+        "le temps de pause"
+      ],
+      "correctIndex": 0,
+      "explanation": "The vocabulary list defines 'labour' as 'main-d’œuvre'."
+    },
+    {
+      "id": "q53",
+      "prompt": "What is the meaning of the adverb 'cheaply'?",
+      "choices": [
+        "à grand renfort",
+        "à moindre prix",
+        "à visage découvert",
+        "à vitesse constante",
+        "à titre provisoire"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Cheaply' is translated as 'à moindre prix, à peu de frais'."
+    },
+    {
+      "id": "q54",
+      "prompt": "How is the expression 'to go wrong' defined?",
+      "choices": [
+        "prendre fin",
+        "bien se porter",
+        "mal tourner",
+        "vite changer",
+        "tout arrêter"
+      ],
+      "correctIndex": 2,
+      "explanation": "'To go wrong' means 'mal tourner' in this context."
+    },
+    {
+      "id": "q55",
+      "prompt": "What is a 'supplier'?",
+      "choices": [
+        "un acheteur",
+        "un superviseur",
+        "un formateur",
+        "un fournisseur",
+        "un distributeur"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Supplier' is the English term for 'fournisseur'."
+    },
+    {
+      "id": "q56",
+      "prompt": "What is the meaning of the adjective 'harsh'?",
+      "choices": [
+        "souple",
+        "stable",
+        "rapide",
+        "utile",
+        "rude"
+      ],
+      "correctIndex": 4,
+      "explanation": "The source defines 'harsh' as 'dur, rude'."
+    },
+    {
+      "id": "q57",
+      "prompt": "What does the verb 'to put up' mean in this context?",
+      "choices": [
+        "dresser",
+        "ranger",
+        "vendre",
+        "casser",
+        "perdre"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to the list, 'to put up' means 'dresser, placer' (referring to safety nets in factories)."
+    },
+    {
+      "id": "q58",
+      "prompt": "What is the meaning of 'net'?",
+      "choices": [
+        "un écran",
+        "un filet",
+        "un mur",
+        "un sol",
+        "un toit"
+      ],
+      "correctIndex": 1,
+      "explanation": "The source translates 'net' as 'filet'."
+    },
+    {
+      "id": "q59",
+      "prompt": "How is the word 'outskirts' translated?",
+      "choices": [
+        "le centre-ville",
+        "la périphérie",
+        "le sous-sol",
+        "la banlieue",
+        "la campagne"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Outskirts' refers to the 'périphérie'."
+    },
+    {
+      "id": "q60",
+      "prompt": "What does 'undercover' mean?",
+      "choices": [
+        "publiquement",
+        "clandestinement",
+        "officiellement",
+        "partiellement",
+        "uniquement"
+      ],
+      "correctIndex": 1,
+      "explanation": "The term 'undercover' is translated as 'clandestinement'."
+    },
+    {
+      "id": "q61",
+      "prompt": "What is the meaning of 'state'?",
+      "choices": [
+        "effet",
+        "étape",
+        "état",
+        "étude",
+        "étal"
+      ],
+      "correctIndex": 2,
+      "explanation": "'State' is translated as 'état'."
+    },
+    {
+      "id": "q62",
+      "prompt": "In the context of a project or product, what is a 'launch'?",
+      "choices": [
+        "une fin",
+        "un test",
+        "un prix",
+        "un plan",
+        "un lancement"
+      ],
+      "correctIndex": 4,
+      "explanation": "A 'launch' corresponds to a 'lancement'."
+    },
+    {
+      "id": "q63",
+      "prompt": "What is the meaning of the preposition 'across'?",
+      "choices": [
+        "d’un côté à l’autre de",
+        "au beau milieu de",
+        "tout autour de",
+        "à l'encontre de",
+        "en dehors de"
+      ],
+      "correctIndex": 0,
+      "explanation": "The vocabulary list defines 'across' as 'd’un côté à l’autre de'."
+    },
+    {
+      "id": "q64",
+      "prompt": "What is the meaning of 'to fingerprint'?",
+      "choices": [
+        "toucher un écran",
+        "relever les empreintes",
+        "signer un registre",
+        "scanner un code",
+        "ouvrir une porte"
+      ],
+      "correctIndex": 1,
+      "explanation": "'To fingerprint' means 'relever les empreintes digitales'."
+    },
+    {
+      "id": "q65",
+      "prompt": "What does the phrasal verb 'to hand over' mean?",
+      "choices": [
+        "retenir",
+        "recevoir",
+        "refuser",
+        "repartir",
+        "remettre"
+      ],
+      "correctIndex": 4,
+      "explanation": "The list provides 'remettre' as the translation for 'to hand over'."
+    },
+    {
+      "id": "q66",
+      "prompt": "What is the meaning of 'to hold (held, held)'?",
+      "choices": [
+        "être en possession de",
+        "être en désaccord avec",
+        "être en mesure de",
+        "être en retard sur",
+        "être en avance de"
+      ],
+      "correctIndex": 0,
+      "explanation": "The verb 'to hold' is translated as 'avoir, être en possession de'."
+    },
+    {
+      "id": "q67",
+      "prompt": "What is the meaning of 'law'?",
+      "choices": [
+        "lieu",
+        "loi",
+        "lien",
+        "lot",
+        "logis"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Law' translates directly to 'loi'."
+    },
+    {
+      "id": "q68",
+      "prompt": "What does the expression 'by law' mean?",
+      "choices": [
+        "officieusement",
+        "légalement",
+        "rarement",
+        "brièvement",
+        "facilement"
+      ],
+      "correctIndex": 1,
+      "explanation": "'By law' means 'légalement'."
+    },
+    {
+      "id": "q69",
+      "prompt": "What is the meaning of the verb 'to breach'?",
+      "choices": [
+        "respecter",
+        "apprendre",
+        "enfreindre",
+        "expliquer",
+        "modifier"
+      ],
+      "correctIndex": 2,
+      "explanation": "'To breach' means 'enfreindre' (as in breaching a law or rule)."
+    },
+    {
+      "id": "q70",
+      "prompt": "What does the verb 'to state' mean?",
+      "choices": [
+        "démontrer",
+        "demander",
+        "dénoncer",
+        "décréter",
+        "déclarer"
+      ],
+      "correctIndex": 4,
+      "explanation": "The list defines 'to state' as 'déclarer, affirmer'."
+    },
+    {
+      "id": "q71",
+      "prompt": "In the context of transport, what is a 'coach'?",
+      "choices": [
+        "un car",
+        "un train",
+        "un avion",
+        "un bateau",
+        "un vélo"
+      ],
+      "correctIndex": 0,
+      "explanation": "The word 'coach' is translated as 'car'."
+    },
+    {
+      "id": "q72",
+      "prompt": "What is the meaning of 'journey'?",
+      "choices": [
+        "un séjour",
+        "un voyage",
+        "un départ",
+        "un retour",
+        "un arrêt"
+      ],
+      "correctIndex": 1,
+      "explanation": "The vocabulary list translates 'journey' as 'voyage, trajet'."
+    },
+    {
+      "id": "q73",
+      "prompt": "What is a 'dormitory'?",
+      "choices": [
+        "une chambre",
+        "un dortoir",
+        "une cantine",
+        "un bureau",
+        "une usine"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Dormitory' is the English term for 'dortoir'."
+    },
+    {
+      "id": "q74",
+      "prompt": "What is the meaning of 'accommodation'?",
+      "choices": [
+        "un arrangement",
+        "un logement",
+        "un vêtement",
+        "un argument",
+        "un abonnement"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Accommodation' refers to 'logement'."
+    },
+    {
+      "id": "q75",
+      "prompt": "What does the adjective 'cramped' mean?",
+      "choices": [
+        "spacieux",
+        "étendu",
+        "ouvert",
+        "exigu",
+        "sombre"
+      ],
+      "correctIndex": 3,
+      "explanation": "The list translates 'cramped' as 'exigu'."
+    },
+    {
+      "id": "q76",
+      "prompt": "How is the noun 'breach' defined?",
+      "choices": [
+        "une invention",
+        "une infraction",
+        "une indication",
+        "une instruction",
+        "une inspection"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Breach' as a noun is an 'infraction'."
+    },
+    {
+      "id": "q77",
+      "prompt": "What are 'chemicals'?",
+      "choices": [
+        "des produits chimiques",
+        "des métaux précieux",
+        "des gaz naturels",
+        "des déchets urbains",
+        "des fibres synthétiques"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Chemicals' translates to 'produits chimiques'."
+    },
+    {
+      "id": "q78",
+      "prompt": "What is the meaning of the verb 'to pass' in this context?",
+      "choices": [
+        "donner",
+        "partir",
+        "passer",
+        "réussir",
+        "dormir"
+      ],
+      "correctIndex": 3,
+      "explanation": "In this context, 'to pass' means 'réussir' (e.g., passing an inspection)."
+    },
+    {
+      "id": "q79",
+      "prompt": "What does the phrasal verb 'to hand out' mean?",
+      "choices": [
+        "distribuer",
+        "organiser",
+        "supprimer",
+        "rapporter",
+        "consulter"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To hand out' is translated as 'distribuer'."
+    },
+    {
+      "id": "q80",
+      "prompt": "What is the meaning of the adverb 'hardly'?",
+      "choices": [
+        "fortement",
+        "à peine",
+        "vraiment",
+        "toujours",
+        "souvent"
+      ],
+      "correctIndex": 1,
+      "explanation": "The list defines 'hardly' as 'à peine'."
+    },
+    {
+      "id": "q81",
+      "prompt": "What is the meaning of the adjective 'tough'?",
+      "choices": [
+        "souple",
+        "difficile",
+        "calme",
+        "simple",
+        "stable"
+      ],
+      "correctIndex": 1,
+      "explanation": "The source defines 'tough' as 'dur, difficile, compliqué'."
+    },
+    {
+      "id": "q82",
+      "prompt": "How is the word 'paperwork' translated?",
+      "choices": [
+        "les outils de bureau",
+        "les travaux manuels",
+        "les dossiers secrets",
+        "les documents administratifs",
+        "les rapports annuels"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Paperwork' refers to 'les documents administratifs'."
+    },
+    {
+      "id": "q83",
+      "prompt": "What is 'evidence'?",
+      "choices": [
+        "preuve",
+        "erreur",
+        "entente",
+        "exemple",
+        "enjeu"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Evidence' translates as 'preuve'."
+    },
+    {
+      "id": "q84",
+      "prompt": "What does 'coaching' refer to in this context?",
+      "choices": [
+        "aide à la réussite",
+        "gestion de crise",
+        "vente à distance",
+        "calcul de coûts",
+        "achat de matériel"
+      ],
+      "correctIndex": 0,
+      "explanation": "The list defines 'coaching' as 'entrainement, aide à la réussite'."
+    },
+    {
+      "id": "q85",
+      "prompt": "What is the 'shop floor'?",
+      "choices": [
+        "un bureau",
+        "un atelier",
+        "un magasin",
+        "un entrepôt",
+        "un parking"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Shop floor' is translated as 'atelier'."
+    },
+    {
+      "id": "q86",
+      "prompt": "What is the meaning of 'challenge'?",
+      "choices": [
+        "défi",
+        "débit",
+        "délai",
+        "début",
+        "décès"
+      ],
+      "correctIndex": 0,
+      "explanation": "A 'challenge' is a 'défi'."
+    },
+    {
+      "id": "q87",
+      "prompt": "What is the meaning of 'search'?",
+      "choices": [
+        "fouille",
+        "faute",
+        "forme",
+        "force",
+        "foule"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Search' is translated as 'fouille'."
+    },
+    {
+      "id": "q88",
+      "prompt": "What does the adjective 'heart-stopping' mean?",
+      "choices": [
+        "passionnant",
+        "angoissant",
+        "intéressant",
+        "surprenant",
+        "accablant"
+      ],
+      "correctIndex": 1,
+      "explanation": "The list translates 'heart-stopping' as 'angoissant, effrayant'."
+    },
+    {
+      "id": "q89",
+      "prompt": "What does 'to jail' mean?",
+      "choices": [
+        "libérer",
+        "juger",
+        "arrêter",
+        "accuser",
+        "emprisonner"
+      ],
+      "correctIndex": 4,
+      "explanation": "'To jail' means 'emprisonner'."
+    },
+    {
+      "id": "q90",
+      "prompt": "What is the meaning of 'to reach for'?",
+      "choices": [
+        "partir pour un lieu",
+        "chercher une solution",
+        "tendre le bras pour prendre",
+        "attendre une réponse",
+        "demander une faveur"
+      ],
+      "correctIndex": 2,
+      "explanation": "The list defines 'to reach for' as 'tendre le bras pour prendre qqch'."
+    },
+    {
+      "id": "q91",
+      "prompt": "What is the meaning of the phrasal verb 'to stand out'?",
+      "choices": [
+        "ressortir",
+        "renoncer",
+        "regarder",
+        "raconter",
+        "réussir"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To stand out' is defined as 'ressortir, sauter aux yeux'."
+    },
+    {
+      "id": "q92",
+      "prompt": "What is the meaning of the adjective 'exhausted'?",
+      "choices": [
+        "épuisé",
+        "excité",
+        "exclu",
+        "expert",
+        "exact"
+      ],
+      "correctIndex": 0,
+      "explanation": "The vocabulary list translates 'exhausted' as 'épuisé, exténué'."
+    },
+    {
+      "id": "q93",
+      "prompt": "What is the meaning of 'awake'?",
+      "choices": [
+        "éveillé",
+        "étonné",
+        "égaré",
+        "énervé",
+        "élu"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Awake' means 'éveillé'."
+    },
+    {
+      "id": "q94",
+      "prompt": "What does 'shift' mean in a work context?",
+      "choices": [
+        "une pause déjeuner",
+        "une période de travail",
+        "un contrat d'embauche",
+        "une réunion de service",
+        "un plan de formation"
+      ],
+      "correctIndex": 1,
+      "explanation": "A 'shift' is defined as an 'équipe, période de travail'."
+    }
+  ]
+}
