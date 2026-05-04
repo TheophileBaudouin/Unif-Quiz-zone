@@ -2,7 +2,6 @@
 const q = (s) => document.querySelector(s);
 const listEl = q('#quiz-list');
 const panelContent = q('#panel-content');
-const meta = q('#meta');
 const countEl = q('#quiz-count');
 const listError = q('#list-error');
 
@@ -230,23 +229,18 @@ async function loadQuiz(file) {
 }
 
 async function bootstrap() {
-  meta.textContent = 'Lecture du manifest…';
   try {
     const data = await fetchJson('./data/manifest.json');
     const shapeErr = validateManifestShape(data);
     if (shapeErr) {
-      meta.textContent = 'Manifest invalide';
       listError.textContent = shapeErr;
       listError.classList.remove('hidden');
       showPanelMessage('Manifest invalide', shapeErr, 'error');
       return;
     }
     manifest = data;
-    const title = manifest.documentTitle || 'Quiz Zone';
-    meta.textContent = title + ' · ' + manifest.quizzes.length + ' quiz';
     renderList();
   } catch (err) {
-    meta.textContent = 'Manifest non disponible';
     const msg = 'Impossible de lire data/manifest.json. Lance quizgen scaffold puis quizgen run &lt;pdf&gt;.';
     listError.textContent = msg;
     listError.classList.remove('hidden');
