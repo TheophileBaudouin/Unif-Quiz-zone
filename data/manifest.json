@@ -1,7 +1,7 @@
 {
-  "documentTitle": "Quiz Zone",
-  "generatedAt": "2026-05-04T22:12:27.767Z",
-  "sourcePdf": "multiple",
+  "documentTitle": "Sociologie du Genre",
+  "generatedAt": "2026-05-04T22:56:41.814Z",
+  "sourcePdf": "Sociologie du Genre (1).pdf",
   "quizzes": [
     {
       "id": "adolescence-sexualite-normes",
@@ -58,6 +58,15 @@
       "course": "anglais"
     },
     {
+      "id": "ecole-pairs-et-adolescence",
+      "title": "L'école, les pairs et l'adolescence",
+      "file": "sociologie-du-genre/quiz-ecole-pairs-et-adolescence.json",
+      "questionCount": 40,
+      "pageStart": 32,
+      "pageEnd": 40,
+      "course": "Sociologie du Genre"
+    },
+    {
       "id": "empires-mondialisation-modernes",
       "title": "Quiz - Empires et mondialisation aux temps modernes",
       "file": "histoire/quiz-empires-mondialisation-modernes.json",
@@ -65,6 +74,15 @@
       "pageStart": 2,
       "pageEnd": 20,
       "course": "histoire"
+    },
+    {
+      "id": "genre-travail-et-humour",
+      "title": "Genre, travail et humour",
+      "file": "sociologie-du-genre/quiz-genre-travail-et-humour.json",
+      "questionCount": 60,
+      "pageStart": 80,
+      "pageEnd": 94,
+      "course": "Sociologie du Genre"
     },
     {
       "id": "guerres-et-societes-quiz",
@@ -85,6 +103,15 @@
       "course": "histoire"
     },
     {
+      "id": "identites-queer-et-monde-numerique",
+      "title": "Identités queer et monde numérique",
+      "file": "sociologie-du-genre/quiz-identites-queer-et-monde-numerique.json",
+      "questionCount": 40,
+      "pageStart": 41,
+      "pageEnd": 46,
+      "course": "Sociologie du Genre"
+    },
+    {
       "id": "ideologies-politiques-masses",
       "title": "Quiz - Régimes et idéologies politiques à l'ère des masses",
       "file": "histoire/quiz-ideologies-politiques-masses.json",
@@ -101,6 +128,15 @@
       "pageStart": 1,
       "pageEnd": 5,
       "course": "philosophie"
+    },
+    {
+      "id": "introduction-et-concepts-de-base",
+      "title": "Introduction et concepts de base",
+      "file": "sociologie-du-genre/quiz-introduction-et-concepts-de-base.json",
+      "questionCount": 40,
+      "pageStart": 6,
+      "pageEnd": 14,
+      "course": "Sociologie du Genre"
     },
     {
       "id": "introduction-temps-modernes",
@@ -164,6 +200,15 @@
       "pageStart": 66,
       "pageEnd": 77,
       "course": "histoire"
+    },
+    {
+      "id": "non-binarite-et-presentation-de-soi",
+      "title": "Quiz sur la Non-binarité et la Présentation de Soi",
+      "file": "sociologie-du-genre/quiz-non-binarite-et-presentation-de-soi.json",
+      "questionCount": 40,
+      "pageStart": 47,
+      "pageEnd": 52,
+      "course": "Sociologie du Genre"
     },
     {
       "id": "part-1-chapter-2-scientific-knowledge",
@@ -247,6 +292,15 @@
       "course": "histoire"
     },
     {
+      "id": "regimes-d-inegalite-dans-les-organisations",
+      "title": "Régimes d'inégalité dans les organisations",
+      "file": "sociologie-du-genre/quiz-regimes-d-inegalite-dans-les-organisations.json",
+      "questionCount": 40,
+      "pageStart": 66,
+      "pageEnd": 70,
+      "course": "Sociologie du Genre"
+    },
+    {
       "id": "renaissance-culture-art",
       "title": "Quiz - La Renaissance",
       "file": "histoire/quiz-renaissance-artistique-humanisme.json",
@@ -256,6 +310,15 @@
       "course": "histoire"
     },
     {
+      "id": "resistances-et-inegalites-d-orientation",
+      "title": "Résistances et inégalités d'orientation",
+      "file": "sociologie-du-genre/quiz-resistances-et-inegalites-d-orientation.json",
+      "questionCount": 50,
+      "pageStart": 53,
+      "pageEnd": 65,
+      "course": "Sociologie du Genre"
+    },
+    {
       "id": "restauration-nationalisme-liberalisme",
       "title": "Quiz - Restauration, nationalisme et libéralisme",
       "file": "histoire/quiz-restauration-nationalisme-liberalisme.json",
@@ -263,6 +326,15 @@
       "pageStart": 78,
       "pageEnd": 87,
       "course": "histoire"
+    },
+    {
+      "id": "scripts-de-la-sexualite",
+      "title": "Les scripts de la sexualité",
+      "file": "sociologie-du-genre/quiz-scripts-de-la-sexualite.json",
+      "questionCount": 40,
+      "pageStart": 71,
+      "pageEnd": 79,
+      "course": "Sociologie du Genre"
     },
     {
       "id": "six-degrees-change-world-vocabulary",
@@ -281,6 +353,15 @@
       "pageStart": 6,
       "pageEnd": 7,
       "course": "anglais"
+    },
+    {
+      "id": "socialisation-dans-l-enfance",
+      "title": "Socialisation dans l'enfance",
+      "file": "sociologie-du-genre/quiz-socialisation-dans-l-enfance.json",
+      "questionCount": 40,
+      "pageStart": 23,
+      "pageEnd": 31,
+      "course": "Sociologie du Genre"
     },
     {
       "id": "socialisation-genre-ecole",
@@ -308,6 +389,15 @@
       "pageStart": 17,
       "pageEnd": 17,
       "course": "anglais"
+    },
+    {
+      "id": "theorie-de-connell-et-masculinites",
+      "title": "Théorie de Raewyn Connell et Masculinités",
+      "file": "sociologie-du-genre/quiz-theorie-de-connell-et-masculinites.json",
+      "questionCount": 40,
+      "pageStart": 15,
+      "pageEnd": 22,
+      "course": "Sociologie du Genre"
     },
     {
       "id": "theories-identite-genre-socialisation",
