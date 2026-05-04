@@ -1,0 +1,495 @@
+{
+  "quizId": "ecole-pairs-et-adolescence",
+  "title": "L'école, les pairs et l'adolescence",
+  "section": {
+    "id": "ecole-pairs-et-adolescence",
+    "title": "L'école, les pairs et l'adolescence",
+    "startPage": 32,
+    "endPage": 40,
+    "summary": "Rôle de l'école dans la fabrication de l'ordre du genre, socialisation par les pairs (horizontale) et l'adolescence comme moment clé pour l'apprentissage des normes de genre et de sexualité.",
+    "estimatedQuestionCount": 40
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon la perspective évoquée, quelle est la nature fondamentale du genre, au-delà d'une conception binaire simpliste ?",
+      "choices": [
+        "Le genre est toujours situé entre un mouvement d'innovation, des adaptations, et une contrainte sociale.",
+        "Le genre est une construction purement individuelle, indépendante des normes externes.",
+        "Le genre est principalement déterminé par des facteurs biologiques et innés.",
+        "Le genre est une échelle simple allant du féminin au masculin sans nuances intermédiaires.",
+        "Le genre est une réalité stable et immuable, fixée dès la naissance de chaque individu."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Comment la notion d'identité de genre interagit-elle avec les normes de genre selon le texte ?",
+      "choices": [
+        "L'identité de genre nie les normes en créant des expériences totalement extérieures à celles-ci.",
+        "L'identité de genre nait sous l'effet de la contrainte du genre, s'appuyant sur les normes pour les contrarier.",
+        "L'identité de genre est le fruit d'une absence totale de contraintes imposées par la société.",
+        "L'identité de genre est une entité fixée qui détermine la conformité totale aux normes.",
+        "L'identité de genre est indépendante des normes, permettant une liberté absolue d'expression."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q3",
+      "prompt": "Comment la sociologie conçoit-elle le genre, de manière analogue aux classes sociales ?",
+      "choices": [
+        "Le genre est vu comme une appartenance unitaire, déterminée par un seul critère préétabli.",
+        "Le genre est perçu comme une simple échelle unidimensionnelle du féminin au masculin.",
+        "Le genre est décrit comme un espace en plusieurs dimensions produisant des positions singulières.",
+        "Le genre est une catégorie statique qui ne permet aucune identification individuelle variée.",
+        "Le genre représente une hiérarchie fixe où les individus se confrontent sans distinction."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q4",
+      "prompt": "Selon le texte, quelle affirmation est vraie concernant l'uniformité de la socialisation de genre ?",
+      "choices": [
+        "La socialisation de genre est uniforme pour tous les individus, quelles que soient leurs origines.",
+        "La socialisation de genre varie considérablement en fonction des classes sociales.",
+        "La socialisation de genre est uniquement déterminée par les influences médiatiques contemporaines.",
+        "La socialisation de genre est plus différenciée dans les milieux dotés en capital culturel.",
+        "La socialisation de genre est un processus identique dans les milieux populaires et aisés."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q5",
+      "prompt": "Qu'observe-t-on concernant les styles de féminité et de masculinité selon les milieux sociaux ?",
+      "choices": [
+        "Les styles de féminité et de masculinité sont identiques dans tous les milieux sociaux.",
+        "Des styles distincts de féminité et de masculinité émergent selon les milieux sociaux.",
+        "Les milieux populaires présentent un éthos égalitaire qui annule les distinctions de genre.",
+        "Les milieux dotés en capital culturel favorisent des styles de genre uniformes.",
+        "Les styles de genre sont uniquement influencés par les médias, sans rapport avec le milieu social."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q6",
+      "prompt": "Quel est l'un des rôles majeurs de l'école dans la socialisation primaire du genre ?",
+      "choices": [
+        "L'école est le seul agent de socialisation primaire, précédant la famille dans ce rôle.",
+        "L'école intervient comme agent de socialisation primaire après la famille.",
+        "L'école joue un rôle secondaire et négligeable dans la socialisation du genre.",
+        "L'école est principalement un agent de socialisation secondaire, sans impact primaire.",
+        "L'école est responsable de la disparition complète de la socialisation primaire."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q7",
+      "prompt": "Quels sont les principaux agents de socialisation secondaire mentionnés dans le texte ?",
+      "choices": [
+        "La famille et l'école sont les seuls agents de socialisation secondaire.",
+        "Le travail, le couple, les médias, le sport et les pairs sont des agents secondaires.",
+        "Uniquement les institutions religieuses et politiques constituent la socialisation secondaire.",
+        "La socialisation secondaire se limite aux interactions individuelles sans influence extérieure.",
+        "Les parents et les enseignants sont les uniques acteurs de la socialisation secondaire."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q8",
+      "prompt": "Selon la définition de Darmon (2016), qu'est-ce que la socialisation ?",
+      "choices": [
+        "Un ensemble de processus par lesquels l'individu est construit par des facteurs génétiques.",
+        "L'ensemble des processus par lesquels l'individu est façonné par la société globale et locale.",
+        "Un processus linéaire et rapide d'acquisition de connaissances abstraites.",
+        "Une phase unique et limitée où l'individu intériorise des règles de comportement.",
+        "Un mécanisme inconscient où l'individu reproduit passivement les normes établies."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q9",
+      "prompt": "Quelle est la définition de la socialisation de genre proposée par Bereni et al. (2020) ?",
+      "choices": [
+        "La façon dont les individus développent une conscience de leurs préférences personnelles.",
+        "Comment les personnes apprennent à se comporter, à sentir et à penser selon les formes associées à leur sexe.",
+        "Le processus par lequel les genres sont biologiquement déterminés dès la naissance.",
+        "Comment les individus rejettent toutes les normes de genre imposées par la société.",
+        "L'étude des variations individuelles dans les expressions de genre à travers le monde."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q10",
+      "prompt": "Quel rôle l'individu joue-t-il dans le processus de socialisation, selon le texte ?",
+      "choices": [
+        "L'individu enregistre passivement les injonctions extérieures, sans influence active.",
+        "L'individu a un rôle actif, ce n'est pas un processus mécanique d'enregistrement passif.",
+        "L'individu est un réceptacle vide qui se remplit entièrement des normes sociales.",
+        "L'individu subit la socialisation sans aucune possibilité de déstabilisation ou transformation.",
+        "L'individu est principalement un observateur des dynamiques sociales sans y participer activement."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q11",
+      "prompt": "De quelle manière la socialisation de genre est-elle décrite concernant sa temporalité et son étendue ?",
+      "choices": [
+        "Elle opère principalement pendant l'enfance, se terminant à l'âge adulte.",
+        "Elle est un processus qui opère tout au long de la vie dans une multiplicité d'activités et de sphères sociales.",
+        "Elle est une série d'événements ponctuels, sans continuité dans le temps.",
+        "Elle est confinée à la sphère familiale et scolaire, sans influence sociale plus large.",
+        "Elle est toujours la même pour tous les individus, indépendamment de leur contexte de vie."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q12",
+      "prompt": "Quelle est la nature du féminin et du masculin selon les principes de la socialisation de genre ?",
+      "choices": [
+        "Ce sont des entités fixes et immuables, prédéterminées génétiquement.",
+        "Ce sont des catégories plurielles et diversifiées selon les contextes sociaux et historiques.",
+        "Ce sont des constructions sociales qui ne connaissent aucune variation au fil du temps.",
+        "Ce sont des oppositions binaires strictes sans aucune forme de mélange possible.",
+        "Ce sont des rôles sociaux prédéfinis qui ne peuvent être remis en question ou transformés."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q13",
+      "prompt": "Malgré la pluralité des catégories de genre, que continuent de reproduire les rapports sociaux de sexe ?",
+      "choices": [
+        "Ils continuent de reproduire une parfaite égalité entre tous les individus.",
+        "Ils continuent de reproduire des hiérarchies et des inégalités persistantes.",
+        "Ils n'ont plus aucune influence sur la répartition des pouvoirs et des statuts.",
+        "Ils conduisent à une uniformisation complète des comportements genrés.",
+        "Ils permettent une totale fluidité identitaire sans aucune restriction sociale."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q14",
+      "prompt": "À quelle période historique l'enseignement secondaire féminin était-il principalement destiné aux filles de la bourgeoisie ?",
+      "choices": [
+        "Après 1945, avec l'avènement de la mixité scolaire.",
+        "Dans les années 1960-1970, avec l'essor de la réussite scolaire féminine.",
+        "À la fin du 19e et au début du 20e siècle, avec des établissements séparés.",
+        "Dans les années 1980-1990, lors des premières recherches sur la réussite scolaire des filles.",
+        "Depuis le milieu du 20e siècle, avec l'égalisation progressive des chances éducatives."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q15",
+      "prompt": "Quel était l'objectif principal de la scolarisation des filles à la fin du 19e et au début du 20e siècle ?",
+      "choices": [
+        "Préparer les filles à des carrières professionnelles exigeantes et prestigieuses.",
+        "Vise surtout la préparation des filles à leur rôle d'épouse et de mère.",
+        "Encourager les filles à développer des compétences en sciences et en technologie.",
+        "Offrir aux filles un accès égal aux mêmes programmes que les garçons.",
+        "Favoriser l'autonomie financière et l'indépendance des jeunes femmes."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q16",
+      "prompt": "Quel événement est considéré comme un tournant majeur pour l'éducation des filles après 1945 ?",
+      "choices": [
+        "La suppression complète des cours de couture et de cuisine.",
+        "L'introduction de la mixité scolaire dans l'enseignement secondaire.",
+        "L'exclusivité de l'enseignement supérieur réservée aux jeunes femmes.",
+        "La généralisation des programmes d'études strictement identiques pour tous.",
+        "La création de nouvelles filières spécifiquement féminines et distinctes."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q17",
+      "prompt": "Qu'observe-t-on concernant la réussite scolaire des filles durant les années 1960-1970 ?",
+      "choices": [
+        "Les filles ont connu un déclin significatif de leurs performances scolaires.",
+        "Les filles ont commencé à rattraper puis à dépasser les garçons dans la plupart des disciplines.",
+        "La réussite scolaire des filles est restée stagnante et inférieure à celle des garçons.",
+        "Les inégalités sexuées se sont accentuées en défaveur des filles durant cette période.",
+        "La réussite des filles était exclusivement concentrée dans les matières littéraires."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q18",
+      "prompt": "Selon le texte, quelle est la nature des inégalités scolaires présentes dans de nombreux pays ?",
+      "choices": [
+        "L'école ne produit qu'une inégalité, celle liée aux performances individuelles.",
+        "L'école est marquée par une double inégalité : entre les classes scolaires et entre les sexes.",
+        "L'école a réussi à éliminer toutes les inégalités, grâce à la mixité et l'égalisation.",
+        "Les inégalités scolaires sont principalement dues à des facteurs géographiques et climatiques.",
+        "Seules les inégalités entre les sexes persistent, celles entre classes sociales ayant disparu."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q19",
+      "prompt": "Malgré l'augmentation du temps moyen passé aux études, qu'observe-t-on concernant l'accès aux savoirs et diplômes ?",
+      "choices": [
+        "Les processus de production des inégalités sociales d'accès aux savoirs ont totalement disparu.",
+        "Un renouvellement des processus de production des inégalités sociales d'accès aux savoirs et aux diplômes.",
+        "L'accès aux savoirs et aux diplômes est devenu parfaitement égalitaire pour tous les élèves.",
+        "Le temps passé aux études est devenu le seul facteur déterminant l'accès aux diplômes.",
+        "Les inégalités ne concernent plus que les choix d'orientation, pas l'accès initial aux études."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q20",
+      "prompt": "Comment se caractérisent les parcours scolaires et sociaux mentionnés dans le texte ?",
+      "choices": [
+        "Ils sont parfaitement uniformes et sans hiérarchie pour tous les élèves.",
+        "Ils sont linéaires et dénués de toute différenciation de valeur entre filières.",
+        "Ils sont hiérarchisés scolairement et socialement, avec des filières plus valorisées que d'autres.",
+        "Ils sont entièrement déterminés par le mérite individuel, sans influence sociale.",
+        "Ils mènent tous à des insertions professionnelles équivalentes en termes de statut."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q21",
+      "prompt": "Quel est le constat paradoxal concernant la réussite scolaire des filles et leurs choix d'orientation ?",
+      "choices": [
+        "Les filles réussissent moins bien scolairement mais optent pour des orientations très ambitieuses.",
+        "Les filles réussissent mieux scolairement que les garçons, mais leurs choix d'orientation sont moins ambitieux.",
+        "Les filles réussissent autant que les garçons et leurs choix d'orientation sont identiques.",
+        "Les filles réussissent mieux uniquement dans les filières littéraires, pas dans les autres.",
+        "Les filles choisissent des orientations plus rentables socialement malgré leur moindre réussite."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q22",
+      "prompt": "Comment l'apprentissage de l'identité masculine peut-il être en contradiction avec les attentes scolaires ?",
+      "choices": [
+        "L'apprentissage de l'identité masculine induit à des comportements de conformité systématique aux règles scolaires.",
+        "L'apprentissage de l'identité masculine induit à l'incorporation de traits éloignés, et parfois en contradiction, avec les attentes de l'institution scolaire.",
+        "L'apprentissage de l'identité masculine est toujours en parfaite adéquation avec le cadre éducatif.",
+        "L'identité masculine favorise la discrétion, le respect et l'obéissance, ce qui est valorisé par l'école.",
+        "L'identité masculine encourage uniquement la prise de risque et la compétition, sans aucun conflit avec l'école."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q23",
+      "prompt": "Quelles sont les deux attentes contradictoires auxquelles les garçons sont confrontés à l'école ?",
+      "choices": [
+        "L'autonomie individuelle et le besoin de soutien constant des professeurs.",
+        "La conformité institutionnelle (discrétion, respect) et la virilité hétéronormative (domination, force).",
+        "La réussite académique à tout prix et l'exploration de compétences artistiques.",
+        "L'expression émotionnelle libre et la retenue face à l'autorité.",
+        "La socialisation par les pairs et l'isolement dans le travail personnel."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q24",
+      "prompt": "Comment les garçons gèrent-ils la tension entre conformité institutionnelle et virilité hétéronormative ?",
+      "choices": [
+        "En se conformant strictement à toutes les règles scolaires et en évitant la transgression.",
+        "En adoptant une attitude passive, laissant les filles gérer les interactions sociales.",
+        "En s'appuyant sur l'adrénaline et la transgression des règles pour prouver leur virilité.",
+        "En recherchant constamment le soutien des enseignants pour éviter les conflits.",
+        "En se retirant des interactions sociales pour se concentrer sur leurs études individuelles."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q25",
+      "prompt": "Selon le texte, quel est le rôle des filles par rapport aux garçons dans l'asymétrie des rôles de genre à l'école ?",
+      "choices": [
+        "Les filles sont les actrices principales de l'indiscipline et du divertissement.",
+        "Les filles sont les spectatrices passives qui 'profitent' du spectacle, mais restent passives.",
+        "Les filles sont celles qui initient la transgression des règles et la confrontation.",
+        "Les filles sont responsables de la mise en scène de la virilité des garçons.",
+        "Les filles assument un rôle de leadership dans les activités périscolaires mixtes."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q26",
+      "prompt": "Comment la socialisation des filles favorise-t-elle généralement leur réussite scolaire ?",
+      "choices": [
+        "Elle les encourage à adopter des comportements rebelles et indisciplinés.",
+        "Elle favorise des dispositions valorisées à l'école comme la conformité et l'organisation.",
+        "Elle les incite à négliger les attentes scolaires pour se concentrer sur les relations sociales.",
+        "Elle conduit les filles à une sous-estimation systématique de leurs propres compétences.",
+        "Elle les pousse à éviter les filières prestigieuses pour des choix moins ambitieux."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q27",
+      "prompt": "Quel est l'un des effets négatifs des dispositions valorisées chez les filles pour leur socialisation scolaire ?",
+      "choices": [
+        "Ces dispositions les conduisent à dominer les filières prestigieuses et rémunératrices.",
+        "Elles peuvent freiner l'accès des filles aux filières prestigieuses nécessitant assurance et compétition.",
+        "Elles assurent aux filles une égalité parfaite en termes de choix d'orientation et de carrière.",
+        "Ces dispositions les encouragent à l'affirmation de soi et à la prise de risque sans conséquence.",
+        "Elles garantissent une intégration sans heurt dans tous les parcours académiques possibles."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q28",
+      "prompt": "Quel phénomène la socialisation féminine conduit-elle fréquemment, notamment en mathématiques ?",
+      "choices": [
+        "Une surestimation de leurs compétences, menant à une performance élevée et constante.",
+        "Une sous-estimation de leurs compétences, amenant une baisse de performance (menace du stéréotype).",
+        "Une égalisation parfaite des performances entre filles et garçons dans toutes les matières.",
+        "Un désintérêt complet pour les matières scientifiques, sans impact sur la performance.",
+        "Une concentration exclusive sur les matières littéraires, sans influence sur les autres."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q29",
+      "prompt": "Comment la culture virile des milieux populaires peut-elle affecter les parcours scolaires des garçons ?",
+      "choices": [
+        "Elle les incite à embrasser pleinement les parcours scolaires longs et prestigieux.",
+        "Elle peut mener à une mise à distance de l'école ou à une auto-exclusion des parcours scolaires longs.",
+        "Elle favorise une intégration sans effort dans toutes les disciplines scolaires.",
+        "Elle est en parfaite harmonie avec les attentes de l'institution scolaire et ses valeurs.",
+        "Elle conduit les garçons à exceller dans les matières exigeant conformité et obéissance."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q30",
+      "prompt": "Selon Marie Duru-Bellat, comment faut-il comprendre les choix d'orientation des filles ?",
+      "choices": [
+        "Ils sont uniquement le produit d'une intériorisation passive de la socialisation féminine.",
+        "Ils doivent être compris comme des 'stratégies' sous contrainte, impliquant un rôle actif.",
+        "Ils sont le résultat de l'absence totale de toute contrainte sociale ou institutionnelle.",
+        "Ils reflètent une liberté absolue de choix, sans aucune influence des normes de genre.",
+        "Ils sont principalement dictés par des préférences innées, indépendamment de la socialisation."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q31",
+      "prompt": "Outre la reproduction de la socialisation familiale, quel rôle actif l'école joue-t-elle dans l'ordre du genre ?",
+      "choices": [
+        "L'école est un relais passif des normes de genre, sans influence significative.",
+        "L'école participe activement à la (re)production des rapports de genre.",
+        "L'école est un espace neutre qui ignore délibérément les questions de genre.",
+        "L'école vise à éliminer toute forme de différenciation de genre dès le plus jeune âge.",
+        "L'école ne fait que refléter les inégalités existantes sans jamais les influencer."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q32",
+      "prompt": "Comment la mixité scolaire affecte-t-elle les différenciations de genre selon le texte ?",
+      "choices": [
+        "La mixité scolaire élimine systématiquement toutes les différenciations de genre.",
+        "La mixité peut devenir un espace où les normes de genre se rejouent, se renforcent et s'intensifient.",
+        "La mixité scolaire garantit une égalité parfaite dans tous les comportements et orientations.",
+        "La mixité scolaire n'a aucun impact sur les relations de genre entre les élèves.",
+        "La mixité scolaire conduit à une uniformisation des rôles de genre pour tous les élèves."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q33",
+      "prompt": "Quelles sont les activités spontanément genrées observées dans la cour de récréation ?",
+      "choices": [
+        "Le football et les jeux physiques pour les filles, la corde à sauter pour les garçons.",
+        "Les discussions et la lecture pour les garçons, les jeux de poursuite pour les filles.",
+        "Le football et les jeux physiques pour les garçons, les discussions et la corde à sauter pour les filles.",
+        "Tous les enfants participent indifféremment à toutes les activités sans distinction de genre.",
+        "Les garçons jouent à l'élastique, les filles aux sports de compétition."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q34",
+      "prompt": "Comment la division genrée des activités influence-t-elle l'occupation de l'espace dans la cour de récréation ?",
+      "choices": [
+        "Les filles occupent l'ensemble de la cour avec mobilité, tandis que les garçons sont statiques.",
+        "Les garçons occupent l'ensemble de la cour, tandis que les filles, plus statiques, composent avec leur emprise spatiale.",
+        "L'occupation de l'espace est totalement aléatoire et ne présente aucune distinction de genre.",
+        "Les filles et les garçons partagent l'espace de manière égale, sans aucune ségrégation observée.",
+        "Les garçons sont relégués aux marges de la cour, les filles dominant le centre."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q35",
+      "prompt": "Quel est le type de socialisation caractérisant les relations entre pairs ?",
+      "choices": [
+        "Une socialisation verticale, où les adultes imposent leurs normes aux enfants.",
+        "Une socialisation horizontale, basée sur la complicité, l'imitation et la reconnaissance mutuelle.",
+        "Une socialisation unilatérale, où un seul individu dicte les comportements du groupe.",
+        "Une socialisation formelle, encadrée par des institutions éducatives strictes.",
+        "Une socialisation involontaire, sans aucune interaction consciente entre les membres."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q36",
+      "prompt": "Quel est l'un des effets positifs de la socialisation par les pairs mentionné dans le texte ?",
+      "choices": [
+        "Le renforcement des stéréotypes de genre et des normes rigides sans discussion.",
+        "Le développement de compétences sociales telles que la coopération, la négociation et l'entraide.",
+        "La pression normative conduisant au conformisme et à l'exclusion des déviants.",
+        "L'isolement individuel, empêchant toute construction de sentiment d'appartenance.",
+        "La reproduction passive des comportements adultes sans aucune innovation."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q37",
+      "prompt": "Quelle est l'une des conséquences négatives de la socialisation par les pairs ?",
+      "choices": [
+        "Le développement d'une autonomie accrue vis-à-vis des normes de groupe.",
+        "La réduction des stéréotypes de genre grâce à l'expérimentation collective.",
+        "Le renforcement des stéréotypes de genre ou des normes rigides et la pression normative.",
+        "La construction d'un sentiment d'appartenance qui exclut toute forme de conformisme.",
+        "L'encouragement à l'exploration identitaire sans aucune restriction ni jugement."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q38",
+      "prompt": "Selon le texte, qu'arrive-t-il aux comportements 'non conformes' dans la socialisation par les pairs, en fonction du genre ?",
+      "choices": [
+        "Les comportements 'non conformes' sont toujours stigmatisés de la même manière pour les deux sexes.",
+        "Ils sont plus tolérés chez les filles que chez les garçons.",
+        "Ils sont entièrement acceptés par le groupe de pairs, quelle que soit la personne.",
+        "Ils mènent systématiquement à l'exclusion pour les filles et les garçons.",
+        "Ils sont valorisés chez les garçons comme preuve de virilité, mais pas chez les filles."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q39",
+      "prompt": "Quelle est la double contrainte que rencontrent les adolescents selon le texte ?",
+      "choices": [
+        "Le besoin de conformité sociale et l'obligation de s'isoler pour travailler.",
+        "Le besoin de se singulariser pour construire son identité et celui de se conformer au groupe de pairs.",
+        "Le désir d'autonomie financière et la nécessité de rester dépendant de la famille.",
+        "La pression d'exceller scolairement et le désir d'abandonner les études prématurément.",
+        "Le choix entre une identité de genre fixe et une exploration de la fluidité de genre."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q40",
+      "prompt": "Pourquoi l'adolescence est-elle considérée comme un moment clé pour le genre ?",
+      "choices": [
+        "C'est la période où les normes de genre sont entièrement rejetées et déconstruites.",
+        "C'est une période privilégiée pour observer l'apprentissage des normes de genre et la transition sociale.",
+        "L'adolescence est une phase de stagnation où il n'y a pas de changements significatifs de genre.",
+        "Durant l'adolescence, les pratiques quotidiennes deviennent moins genrées et plus universelles.",
+        "C'est le seul moment où l'individu n'est pas influencé par les normes de féminité ou de virilité."
+      ],
+      "correctIndex": 1
+    }
+  ],
+  "course": "Sociologie du Genre"
+}
