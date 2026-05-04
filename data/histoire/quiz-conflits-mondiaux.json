@@ -1,0 +1,598 @@
+{
+  "quizId": "quiz-conflits-mondiaux",
+  "title": "Quiz - Les Guerres Mondiales et le Droit International",
+  "section": {
+    "id": "conflits-mondiaux",
+    "title": "Guerres mondiales",
+    "startPage": 98,
+    "endPage": 107,
+    "summary": "L'émergence du droit international, les phases de la Première Guerre mondiale, le caractère total et racial de la Seconde Guerre mondiale, et la sortie de guerre vers Nuremberg et Yalta."
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quel traité de 1648 est considéré comme le fondement du principe des États comme acteurs souverains ?",
+      "choices": [
+        "Le traité de Versailles",
+        "Les traités de Westphalie",
+        "Le pacte de Varsovie",
+        "Le traité de Paris",
+        "La convention de Genève"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les traités de Westphalie (1648) ont établi le principe des États comme acteurs souverains des relations internationales."
+    },
+    {
+      "id": "q2",
+      "prompt": "Qui est à l'origine de la création du Comité international de la Croix-Rouge (CICR) en 1863 ?",
+      "choices": [
+        "Woodrow Wilson",
+        "Winston Churchill",
+        "Henri Dunant",
+        "Stig Förster",
+        "Jean Monnet"
+      ],
+      "correctIndex": 2,
+      "explanation": "Henri Dunant a fondé le CICR après avoir été témoin des horreurs de la bataille de Solférino."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel était l'objectif principal de la première Convention de Genève en 1864 ?",
+      "choices": [
+        "Protéger les populations civiles",
+        "Interdire les armes chimiques",
+        "Améliorer le sort des blessés sur le champ de bataille",
+        "Régler le sort des prisonniers de guerre",
+        "Définir les crimes contre l'humanité"
+      ],
+      "correctIndex": 2,
+      "explanation": "La convention de 1864 portait spécifiquement sur le sort des militaires blessés dans les armées en campagne."
+    },
+    {
+      "id": "q4",
+      "prompt": "En quelles années se sont tenues les conférences internationales de la paix à La Haye ?",
+      "choices": [
+        "1864 et 1906",
+        "1914 et 1918",
+        "1899 et 1907",
+        "1942 et 1945",
+        "1919 et 1920"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ces conférences ont formalisé les lois de la guerre en 1899 et 1907."
+    },
+    {
+      "id": "q5",
+      "prompt": "Selon l'article 25 de la Convention de La Haye, qu'est-il interdit de faire ?",
+      "choices": [
+        "Utiliser des gaz asphyxiants",
+        "Bombarder des villes ou habitations non défendues",
+        "Exécuter des prisonniers de guerre",
+        "Confisquer la propriété privée",
+        "Recruter des enfants soldats"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'article 25 interdit l'attaque ou le bombardement de localités qui ne sont pas défendues."
+    },
+    {
+      "id": "q6",
+      "prompt": "Laquelle de ces crises n'est PAS citée comme un prélude diplomatique à la Première Guerre mondiale ?",
+      "choices": [
+        "La crise de Tanger (1905)",
+        "L'annexion de la Bosnie-Herzégovine (1908)",
+        "La crise d'Agadir (1911)",
+        "La guerre russo-japonaise",
+        "L'Anschluss de l'Autriche"
+      ],
+      "correctIndex": 4,
+      "explanation": "L'Anschluss (1938) est un prélude à la Seconde Guerre mondiale, pas à la Première."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quelle est la date de l'assassinat de l'archiduc François-Ferdinand à Sarajevo ?",
+      "choices": [
+        "11 novembre 1918",
+        "28 juin 1914",
+        "1er août 1914",
+        "28 juin 1919",
+        "3 août 1914"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'assassinat le 28 juin 1914 a déclenché la 'crise de juillet' menant à la guerre."
+    },
+    {
+      "id": "q8",
+      "prompt": "Comment se nomme la stratégie allemande de 1914 visant à contourner les défenses françaises par la Belgique ?",
+      "choices": [
+        "Plan Barbarossa",
+        "Opération Overlord",
+        "Plan Moltke-Schlieffen",
+        "Blitzkrieg",
+        "Ligne Maginot"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le plan Schlieffen (modifié par Moltke) prévoyait une invasion rapide via le Luxembourg et la Belgique."
+    },
+    {
+      "id": "q9",
+      "prompt": "Quelle période correspond à la 'guerre des tranchées' sur le front Ouest ?",
+      "choices": [
+        "Été 1914 uniquement",
+        "Automne 1914 - Printemps 1918",
+        "1917 - 1918",
+        "1939 - 1945",
+        "1914 - 1919"
+      ],
+      "correctIndex": 1,
+      "explanation": "Après la phase de mouvement initiale, la guerre s'enlise dans les tranchées jusqu'au printemps 1918."
+    },
+    {
+      "id": "q10",
+      "prompt": "Quelles batailles de 1916 sont citées comme exemples d'offensives meurtrières et échouées ?",
+      "choices": [
+        "La Marne et Tannenberg",
+        "Verdun et la Somme",
+        "Waterloo et Sedan",
+        "Stalingrad et Koursk",
+        "Gallipoli et El Alamein"
+      ],
+      "correctIndex": 1,
+      "explanation": "Verdun et la Somme sont les symboles de l'usure et des pertes massives de l'année 1916."
+    },
+    {
+      "id": "q11",
+      "prompt": "Quel événement majeur survient en 1917, déstabilisant le front de l'Est ?",
+      "choices": [
+        "L'entrée en guerre de l'Empire Ottoman",
+        "La chute de l'Empire austro-hongrois",
+        "Les révolutions russes",
+        "La bataille de Verdun",
+        "L'assassinat de Jaurès"
+      ],
+      "correctIndex": 2,
+      "explanation": "Les révolutions russes de 1917 entraînent l'effondrement du front de l'Est."
+    },
+    {
+      "id": "q12",
+      "prompt": "Quel facteur favorise l'Empire britannique et la France face à l'Allemagne lors de la guerre d'usure ?",
+      "choices": [
+        "La supériorité des chars allemands",
+        "La mobilisation des ressources coloniales",
+        "L'alliance avec l'Empire Ottoman",
+        "L'absence de blocus naval",
+        "La neutralité des États-Unis"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'accès aux ressources coloniales (hommes et matières premières) a donné un avantage décisif aux Alliés."
+    },
+    {
+      "id": "q13",
+      "prompt": "Qui a défini les quatre critères de la 'guerre totale' ?",
+      "choices": [
+        "Woodrow Wilson",
+        "Stig Förster",
+        "Walter Benjamin",
+        "Eric Hobsbawm",
+        "Adolf Hitler"
+      ],
+      "correctIndex": 1,
+      "explanation": "Stig Förster a défini la guerre totale par ses buts, ses méthodes, sa mobilisation et son contrôle totaux."
+    },
+    {
+      "id": "q14",
+      "prompt": "En quelle année l'Empire ottoman commet-il le génocide arménien ?",
+      "choices": [
+        "1899",
+        "1907",
+        "1915",
+        "1917",
+        "1923"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le génocide arménien a eu lieu en 1915, en pleine Première Guerre mondiale."
+    },
+    {
+      "id": "q15",
+      "prompt": "Quel document de 1918 propose une vision de paix basée sur le droit à l'autodétermination ?",
+      "choices": [
+        "Le traité de Versailles",
+        "Le traité de Brest-Litovsk",
+        "Les quatorze points de Wilson",
+        "La charte de l'ONU",
+        "Le Code Noir"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le programme de Woodrow Wilson visait à reconstruire l'Europe sur des principes démocratiques."
+    },
+    {
+      "id": "q16",
+      "prompt": "Quelle clause du traité de Versailles a particulièrement humilié l'Allemagne ?",
+      "choices": [
+        "La création de la SDN",
+        "La désignation de l'Allemagne comme coupable de la guerre",
+        "L'annexion de la Pologne par la France",
+        "Le maintien de l'armée impériale",
+        "La fin du blocus naval"
+      ],
+      "correctIndex": 1,
+      "explanation": "La clause de culpabilité et les réparations gigantesques ont été perçues comme un 'Diktat' par les Allemands."
+    },
+    {
+      "id": "q17",
+      "prompt": "Quel est le rôle principal de la Société des Nations (SDN) créée après 1918 ?",
+      "choices": [
+        "Juger les criminels de guerre nazis",
+        "Fournir une aide alimentaire mondiale",
+        "Servir de forum de discussion pour l'arbitrage et la sécurité collective",
+        "Gérer les colonies allemandes de manière indépendante",
+        "Unifier les armées européennes"
+      ],
+      "correctIndex": 2,
+      "explanation": "La SDN était la première institution internationale visant la paix universelle par le dialogue."
+    },
+    {
+      "id": "q18",
+      "prompt": "Comment se nomme l'annexion des Sudètes par l'Allemagne en 1938 ?",
+      "choices": [
+        "L'Anschluss",
+        "L'opération Barbarossa",
+        "Les Accords de Munich",
+        "Le pacte germano-soviétique",
+        "Le Blitzkrieg"
+      ],
+      "correctIndex": 2,
+      "explanation": "Les accords de Munich ont validé l'annexion de cette région tchécoslovaque."
+    },
+    {
+      "id": "q19",
+      "prompt": "Quelle est la date de l'agression de la Pologne, déclenchant la Seconde Guerre mondiale en Europe ?",
+      "choices": [
+        "28 juin 1914",
+        "1er septembre 1939",
+        "22 juin 1941",
+        "7 décembre 1941",
+        "30 janvier 1933"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'invasion de la Pologne le 1er septembre 1939 entraîne l'entrée en guerre de la France et du Royaume-Uni."
+    },
+    {
+      "id": "q20",
+      "prompt": "Quel pays le Japon envahit-il dès 1937, marquant le début de la guerre en Extrême-Orient ?",
+      "choices": [
+        "La Russie",
+        "Les Philippines",
+        "L'Indonésie",
+        "La Chine",
+        "L'Australie"
+      ],
+      "correctIndex": 3,
+      "explanation": "Le conflit sino-japonais débute massivement en 1937."
+    },
+    {
+      "id": "q21",
+      "prompt": "Quelle opération débute le 22 juin 1941 avec l'invasion de l'URSS ?",
+      "choices": [
+        "Opération Overlord",
+        "Opération Barbarossa",
+        "Opération Seelöwe",
+        "Opération Husky",
+        "Opération Torch"
+      ],
+      "correctIndex": 1,
+      "explanation": "Il s'agit de l'offensive massive de l'Allemagne nazie contre l'Union soviétique."
+    },
+    {
+      "id": "q22",
+      "prompt": "En quoi consiste la 'guerre raciale' menée à l'Est par les nazis ?",
+      "choices": [
+        "Une guerre de tranchées classique",
+        "Une libération des peuples opprimés par Staline",
+        "La réduction en esclavage et l'affamement des populations slaves",
+        "Uniquement des combats entre soldats",
+        "Le respect des conventions de La Haye"
+      ],
+      "correctIndex": 2,
+      "explanation": "La guerre à l'Est visait l'extermination des élites et l'asservissement des Slaves considérés comme 'sous-hommes'."
+    },
+    {
+      "id": "q23",
+      "prompt": "Qu'était l'Aktion T4 initiée par le régime nazi en 1939 ?",
+      "choices": [
+        "Le plan d'invasion de la Pologne",
+        "L'élimination des handicapés mentaux",
+        "La création des Einsatzgruppen",
+        "Le blocus de Berlin",
+        "Le programme nucléaire allemand"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'Aktion T4 était le premier essai d'extermination systématique ciblant les handicapés."
+    },
+    {
+      "id": "q24",
+      "prompt": "Quelle conférence de 1942 a mis au point la 'solution finale' (Shoah) ?",
+      "choices": [
+        "Conférence de Yalta",
+        "Conférence de Wannsee",
+        "Conférence de Potsdam",
+        "Conférence de Munich",
+        "Conférence de Bandoeng"
+      ],
+      "correctIndex": 1,
+      "explanation": "La conférence de Wannsee a réuni les hauts responsables nazis pour organiser la déportation et l'extermination des Juifs."
+    },
+    {
+      "id": "q25",
+      "prompt": "Quel nom porte l'extermination des Juifs par fusillades de masse à l'Est ?",
+      "choices": [
+        "La solution finale par gazage",
+        "La Shoah par balles",
+        "Le Blitzkrieg racial",
+        "L'opération Overlord",
+        "Le massacre de Katyn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Elle était pratiquée par les Einsatzgruppen (groupes d'intervention mobiles)."
+    },
+    {
+      "id": "q26",
+      "prompt": "Quel camp d'extermination est à la fois un camp de gazage et de travail servile ?",
+      "choices": [
+        "Treblinka",
+        "Sobibor",
+        "Belzek",
+        "Chelmno",
+        "Auschwitz"
+      ],
+      "correctIndex": 4,
+      "explanation": "Auschwitz-Birkenau combinait les deux fonctions, contrairement à d'autres centres uniquement voués au gazage immédiat."
+    },
+    {
+      "id": "q27",
+      "prompt": "Combien de victimes juives compte-t-on environ à l'issue du génocide ?",
+      "choices": [
+        "1 million",
+        "10 millions",
+        "5,8 millions",
+        "200 000",
+        "2 millions"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le bilan du génocide est estimé à environ 5,8 millions de Juifs et 200 000 tziganes."
+    },
+    {
+      "id": "q28",
+      "prompt": "Où a eu lieu le massacre de plus de 20 000 officiers polonais par les Soviétiques en 1940 ?",
+      "choices": [
+        "Auschwitz",
+        "Varsovie",
+        "Katyn",
+        "Dachau",
+        "Nuremberg"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le massacre de Katyn est un crime de guerre soviétique majeur de la Seconde Guerre mondiale."
+    },
+    {
+      "id": "q29",
+      "prompt": "Quelles villes japonaises ont subi un bombardement atomique en août 1945 ?",
+      "choices": [
+        "Tokyo et Osaka",
+        "Hiroshima et Nagasaki",
+        "Kyoto et Yokohama",
+        "Okinawa et Kobe",
+        "Nagoya et Sapporo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hiroshima a été bombardée le 6 août et Nagasaki le 9 août 1945."
+    },
+    {
+      "id": "q30",
+      "prompt": "Qui sont les 'Trois Grands' réunis à la conférence de Yalta en février 1945 ?",
+      "choices": [
+        "Hitler, Mussolini, Hirohito",
+        "Staline, Churchill, Roosevelt",
+        "De Gaulle, Truman, Atlee",
+        "Wilson, Clemenceau, Lloyd George",
+        "Lénine, Trotski, Staline"
+      ],
+      "correctIndex": 1,
+      "explanation": "Staline (URSS), Churchill (Royaume-Uni) et Roosevelt (USA) ont organisé la fin de la guerre à Yalta."
+    },
+    {
+      "id": "q31",
+      "prompt": "Quel tribunal constitue la première expérience de juridiction pénale internationale ?",
+      "choices": [
+        "La Cour Pénale Internationale",
+        "Le tribunal de La Haye",
+        "Le tribunal militaire international de Nuremberg",
+        "Le tribunal de Tokyo",
+        "La Cour de justice de l'UE"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nuremberg a innové en jugeant des individus pour des crimes de guerre et crimes contre l'humanité."
+    },
+    {
+      "id": "q32",
+      "prompt": "Lequel de ces chefs d'accusation n'était PAS utilisé à Nuremberg ?",
+      "choices": [
+        "Complot",
+        "Crime contre la paix",
+        "Crime de guerre",
+        "Crime contre l'humanité",
+        "Délit d'opinion"
+      ],
+      "correctIndex": 4,
+      "explanation": "Les quatre premiers étaient les chefs d'accusation officiels définis par le statut du tribunal."
+    },
+    {
+      "id": "q33",
+      "prompt": "Quel pays a été désigné comme coupable par le traité de Versailles en 1919 ?",
+      "choices": [
+        "L'Autriche-Hongrie",
+        "L'Empire Ottoman",
+        "L'Allemagne",
+        "La Russie",
+        "L'Italie"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'Allemagne a été officiellement désignée comme seule responsable du conflit."
+    },
+    {
+      "id": "q34",
+      "prompt": "Quel terme désigne la montée de la violence extrême et la déshumanisation après 1918 ?",
+      "choices": [
+        "Démocratisation",
+        "Brutalisation",
+        "Mondialisation",
+        "Libéralisation",
+        "Socialisation"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'historien George Mosse utilise le terme 'brutalisation' pour décrire l'impact des sociétés traumatisées par la guerre."
+    },
+    {
+      "id": "q35",
+      "prompt": "Quel événement de mars 1938 marque l'expansion territoriale nazie avant la guerre ?",
+      "choices": [
+        "L'invasion de la Pologne",
+        "L'Anschluss de l'Autriche",
+        "La bataille de France",
+        "L'occupation de la Belgique",
+        "Le siège de Léningrad"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'Anschluss est l'annexion de l'Autriche par le IIIe Reich."
+    },
+    {
+      "id": "q36",
+      "prompt": "Le 'Blitzkrieg' combine principalement deux types de forces militaires, lesquelles ?",
+      "choices": [
+        "La marine et l'infanterie",
+        "La cavalerie et l'artillerie",
+        "L'aviation et les blindés",
+        "Les parachutistes et les espions",
+        "Les sous-marins et les mines"
+      ],
+      "correctIndex": 2,
+      "explanation": "La 'guerre éclair' repose sur l'utilisation massive de l'aviation et des chars."
+    },
+    {
+      "id": "q37",
+      "prompt": "En quelle année l'Allemagne a-t-elle capitulé, marquant la fin du conflit en Europe ?",
+      "choices": [
+        "1918",
+        "1944",
+        "1945",
+        "1942",
+        "1946"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'Allemagne capitule sans condition en mai 1945."
+    },
+    {
+      "id": "q38",
+      "prompt": "Quelle institution internationale est créée en 1945 pour remplacer la SDN ?",
+      "choices": [
+        "L'OTAN",
+        "L'Organisation des Nations Unies (ONU)",
+        "L'Union Européenne",
+        "L'OMC",
+        "Le FMI"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'ONU est créée lors de la conférence de San Francisco pour garantir la paix mondiale."
+    },
+    {
+      "id": "q39",
+      "prompt": "Que signifie le concept de 'guerre totale' selon les critères de Förster ?",
+      "choices": [
+        "Une guerre qui ne dure qu'un mois",
+        "Une guerre menée uniquement par des professionnels",
+        "Une mobilisation totale des ressources humaines et économiques pour la destruction",
+        "Une guerre sans aucune perte civile",
+        "Un conflit limité à une seule région géographique"
+      ],
+      "correctIndex": 2,
+      "explanation": "La guerre totale implique que l'ensemble de la société et de l'économie est tourné vers l'effort de guerre."
+    },
+    {
+      "id": "q40",
+      "prompt": "Quel est le but de la conférence de Yalta concernant l'Allemagne ?",
+      "choices": [
+        "L'intégrer immédiatement à l'ONU",
+        "L'occuper et la diviser en zones",
+        "Lui pardonner ses dettes",
+        "Rétablir la monarchie",
+        "En faire une puissance nucléaire"
+      ],
+      "correctIndex": 1,
+      "explanation": "Yalta a acté le principe de l'occupation et du partage de l'Allemagne entre les vainqueurs."
+    },
+    {
+      "id": "q41",
+      "prompt": "Quelle est la particularité du procès de Nuremberg sur le plan juridique ?",
+      "choices": [
+        "Il ne concernait que des crimes financiers",
+        "Il a jugé des chefs d'État en exercice",
+        "C'est la première fois que des individus sont jugés au nom de l'humanité entière",
+        "Il n'y avait pas d'avocats de la défense",
+        "Les juges étaient uniquement allemands"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nuremberg a établi la responsabilité pénale individuelle internationale."
+    },
+    {
+      "id": "q42",
+      "prompt": "Comment les populations civiles ont-elles été affectées lors de la Seconde Guerre mondiale ?",
+      "choices": [
+        "Elles n'ont jamais été prises pour cibles",
+        "Par des bombardements de terreur et des politiques d'extermination",
+        "Uniquement par le rationnement alimentaire",
+        "Elles ont toutes été évacuées vers l'Amérique",
+        "Leur sort a été protégé par le respect strict des traités"
+      ],
+      "correctIndex": 1,
+      "explanation": "La Seconde Guerre mondiale a vu une généralisation des attaques contre les civils (bombardements, génocides)."
+    },
+    {
+      "id": "q43",
+      "prompt": "Quel pays a subi le plus de pertes humaines lors de la Seconde Guerre mondiale ?",
+      "choices": [
+        "Les États-Unis",
+        "La France",
+        "Le Royaume-Uni",
+        "L'URSS",
+        "L'Italie"
+      ],
+      "correctIndex": 3,
+      "explanation": "L'URSS a payé le plus lourd tribut avec environ 27 millions de morts."
+    },
+    {
+      "id": "q44",
+      "prompt": "Quel était le rôle des Einsatzgruppen à partir de 1941 ?",
+      "choices": [
+        "Construire des routes en Allemagne",
+        "Assurer la logistique des chars",
+        "Éliminer systématiquement les 'ennemis' (Juifs, cadres communistes) derrière le front",
+        "Négocier la paix avec les Alliés",
+        "Protéger les prisonniers de guerre"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ces unités mobiles étaient chargées de l'extermination sur le terrain lors de l'invasion de l'URSS."
+    },
+    {
+      "id": "q45",
+      "prompt": "Quelle est la conséquence directe de la Seconde Guerre mondiale sur le plan diplomatique après 1945 ?",
+      "choices": [
+        "Le retour à l'isolationnisme américain",
+        "La domination de l'Europe sur le monde",
+        "L'émergence de deux superpuissances et le début de la Guerre froide",
+        "La fin de toutes les guerres coloniales",
+        "La disparition immédiate du communisme"
+      ],
+      "correctIndex": 2,
+      "explanation": "La sortie de guerre est marquée par la rupture entre les anciens alliés (USA et URSS)."
+    }
+  ]
+}
