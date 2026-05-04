@@ -1,0 +1,872 @@
+{
+  "quizId": "part-1-chapter-3-power-exclusion-situated-knowledge",
+  "title": "Chapitre 3 : Légitimation, Exclusion et Savoirs Situés",
+  "section": {
+    "id": "part-1-chapter-3-power-exclusion-situated-knowledge",
+    "title": "Chapitre 3 : Légitimation, Exclusion et Savoirs Situés",
+    "startPage": 22,
+    "endPage": 32,
+    "summary": "Analyse du pouvoir dans la science avec Michel Foucault (mécanismes d'exclusion, savoirs assujettis) et Donna Haraway. Critique de l'objectivité neutre via le concept de 'savoirs situés' et l'importance de la diversité des perspectives sociales dans la production de connaissances.",
+    "estimatedQuestionCount": 65
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon Michel Foucault, quelle question radicale permet d'interroger la légitimation des savoirs ?",
+      "choices": [
+        "Qui a réellement le pouvoir de dire le vrai ?",
+        "Comment la science découvre-t-elle la vérité ?",
+        "Quelle est la méthode pour prouver la réalité ?",
+        "Pourquoi la science est-elle un savoir universel ?",
+        "Comment les faits sont-ils isolés par les savants ?"
+      ],
+      "correctIndex": 0,
+      "explanation": "Foucault radicalise l'idée de Kuhn en posant la question du pouvoir politique et social derrière la production de la vérité."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quelle est la conception de la vérité défendue par Foucault dans 'L'ordre du discours' ?",
+      "choices": [
+        "Un résultat pur provenant d'une méthode neutre.",
+        "Une simple découverte fortuite par les chercheurs.",
+        "Une production issue de mécanismes institutionnels.",
+        "Une évidence biologique dictée par la nature réelle.",
+        "Un reflet fidèle des lois physiques de l'univers."
+      ],
+      "correctIndex": 2,
+      "explanation": "Pour Foucault, la vérité est produite par des mécanismes historiques, sociaux et institutionnels."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quels sont les trois grands mécanismes de légitimation identifiés par Foucault ?",
+      "choices": [
+        "La volonté de vérité, les disciplines et les institutions.",
+        "La méthode scientifique, les preuves et les laboratoires.",
+        "Les diplômes universitaires, les revues et les archives.",
+        "Le consensus social, la raison politique et l'éthique.",
+        "L'observation directe, l'expérimentation et le calcul."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte identifie explicitement la volonté de vérité, les disciplines et les institutions de légitimation."
+    },
+    {
+      "id": "q4",
+      "prompt": "Comment Foucault définit-il la procédure de 'l'interdit' dans le contrôle des discours ?",
+      "choices": [
+        "L'impossibilité de tout dire via des rituels de parole.",
+        "La suppression systématique des données non vérifiées.",
+        "L'interdiction légale de publier des résultats erronés.",
+        "La censure politique exercée par l'État sur la presse.",
+        "L'arrêt des financements pour les recherches sensibles."
+      ],
+      "correctIndex": 0,
+      "explanation": "L'interdit signifie qu'on ne peut pas tout dire, il existe des tabous et des rituels de la parole (ex: sexualité, politique)."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quel est l'effet de la procédure du 'partage entre raison et folie' sur la parole de l'individu ?",
+      "choices": [
+        "La parole de la personne déclarée folle ne compte pas.",
+        "Le discours fou est analysé comme une vérité cachée.",
+        "La raison doit intégrer la folie pour être complète.",
+        "La folie devient une catégorie purement biologique.",
+        "Le fou conserve un droit de parole dans les institutions."
+      ],
+      "correctIndex": 0,
+      "explanation": "La personne déclarée 'folle' perd le droit d'être entendue et sa parole est disqualifiée d'office."
+    },
+    {
+      "id": "q6",
+      "prompt": "Que se passe-t-il pour un discours qui n'est pas reconnu comme vrai selon la 'volonté de vérité' ?",
+      "choices": [
+        "Il est écarté, disqualifié et finalement ignoré.",
+        "Il est archivé comme une étape historique de l'erreur.",
+        "Il est soumis à un vote de la communauté scientifique.",
+        "Il est traduit dans un langage technique acceptable.",
+        "Il est conservé comme une hypothèse alternative crédible."
+      ],
+      "correctIndex": 0,
+      "explanation": "Un discours non reconnu vrai selon les critères en vigueur est écarté et disqualifié."
+    },
+    {
+      "id": "q7",
+      "prompt": "Comment la volonté de vérité est-elle renforcée au sein d'une société selon Foucault ?",
+      "choices": [
+        "Par un support institutionnel comme les universités.",
+        "Par la supériorité naturelle des faits sur les idées.",
+        "Par l'adhésion spontanée des citoyens à l'évidence.",
+        "Par la disparition progressive des croyances anciennes.",
+        "Par l'absence totale de rapports de pouvoir en science."
+      ],
+      "correctIndex": 0,
+      "explanation": "La volonté de vérité est conduite par un ensemble d'institutions (université, labo) qui imposent et valorisent le savoir."
+    },
+    {
+      "id": "q8",
+      "prompt": "Quel pouvoir le savoir médical exerce-t-il sur les concepts de santé et de maladie ?",
+      "choices": [
+        "Le pouvoir de définir ce qui doit être soigné.",
+        "L'obligation de suivre les désirs des patients.",
+        "La simple observation de réalités biologiques fixes.",
+        "Le retrait face aux jugements moraux de la société.",
+        "La neutralité absolue devant les comportements humains."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le savoir médical a le pouvoir de définir le 'sain', la 'maladie' et ce qui doit être médicalement traité."
+    },
+    {
+      "id": "q9",
+      "prompt": "Qu'est-ce que la 'drapétomanie' illustre dans l'histoire de la médecine ?",
+      "choices": [
+        "Un jugement moral déguisé en diagnostic scientifique.",
+        "Une avancée majeure dans la neurologie du XIXe siècle.",
+        "Une maladie génétique touchant les populations isolées.",
+        "Une épidémie infectieuse causée par les voyages longs.",
+        "Une découverte fortuite liée aux conditions climatiques."
+      ],
+      "correctIndex": 0,
+      "explanation": "C'était un diagnostic officiel au 19ème siècle pour les esclaves voulant fuir, illustrant un contrôle social par la médecine."
+    },
+    {
+      "id": "q10",
+      "prompt": "Jusqu'en quelle année l'homosexualité était-elle classée comme maladie mentale par l'OMS ?",
+      "choices": [
+        "Jusqu'en 1990.",
+        "Jusqu'en 1970.",
+        "Jusqu'en 1981.",
+        "Jusqu'en 2005.",
+        "Jusqu'en 1945."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que l'homosexualité était classée comme maladie mentale par l'OMS jusqu'en 1990."
+    },
+    {
+      "id": "q11",
+      "prompt": "Selon Foucault, pourquoi un discours est-il reconnu comme étant 'vrai' ?",
+      "choices": [
+        "Parce qu'il satisfait aux critères institutionnels.",
+        "Uniquement par sa correspondance parfaite au réel.",
+        "Grâce à l'absence totale de pression sociale exercée.",
+        "Par son rejet systématique de tout pouvoir politique.",
+        "Via une intuition géniale dépassant les règles établies."
+      ],
+      "correctIndex": 0,
+      "explanation": "Un discours est reconnu vrai non pas seulement par sa réalité, mais parce qu'il satisfait les critères institutionnels de vérité."
+    },
+    {
+      "id": "q12",
+      "prompt": "Quelle est la fonction d'une discipline scientifique selon l'analyse de Foucault ?",
+      "choices": [
+        "Un ensemble de règles définissant ce qui peut être dit.",
+        "Un simple catalogue de découvertes accumulées par hasard.",
+        "Une liberté totale de parole pour tous les chercheurs.",
+        "Un espace où seuls les faits biologiques sont discutés.",
+        "Une organisation visant à supprimer toute forme de règle."
+      ],
+      "correctIndex": 0,
+      "explanation": "Une discipline est un ensemble de règles définissant le domaine d'objets et les méthodes de ce qui peut être dit."
+    },
+    {
+      "id": "q13",
+      "prompt": "Dans le domaine de la médecine, quel objet est considéré comme non légitime par la discipline ?",
+      "choices": [
+        "L'âme au sens strictement religieux.",
+        "Le sang et ses composants chimiques.",
+        "Les organes internes de l'être humain.",
+        "Le diagnostic basé sur des tests cliniques.",
+        "L'analyse des symptômes physiologiques."
+      ],
+      "correctIndex": 0,
+      "explanation": "On ne peut pas parler de l'âme au sens religieux en médecine car ce n'est pas un objet médical légitime."
+    },
+    {
+      "id": "q14",
+      "prompt": "Comment la discipline médicale définit-elle sa manière de parler (la méthode) ?",
+      "choices": [
+        "Via le diagnostic clinique et les tests de laboratoire.",
+        "En autorisant les prières comme outils thérapeutiques.",
+        "Par l'usage exclusif de l'intuition du médecin traitant.",
+        "En interdisant toute forme de technologie moderne.",
+        "Grâce au rejet systématique de la preuve scientifique."
+      ],
+      "correctIndex": 0,
+      "explanation": "La médecine moderne définit comment on parle via le diagnostic clinique, les tests de laboratoire, etc."
+    },
+    {
+      "id": "q15",
+      "prompt": "Quelle est la fonction 'filtrante' d'une discipline scientifique ?",
+      "choices": [
+        "Elle détermine ce qui peut être dit et qui peut parler.",
+        "Elle empêche la diffusion des savoirs vers le public.",
+        "Elle élimine les chercheurs les moins productifs du labo.",
+        "Elle trie les données pour ne garder que les plus simples.",
+        "Elle sélectionne les projets selon leur coût financier."
+      ],
+      "correctIndex": 0,
+      "explanation": "La discipline fonctionne comme un filtre qui détermine le contenu du discours et l'identité de l'énonciateur autorisé."
+    },
+    {
+      "id": "q16",
+      "prompt": "Qui décide, selon Foucault, de ce qui constitue la 'vraie médecine' ?",
+      "choices": [
+        "La communauté médicale via ses propres institutions.",
+        "Les patients en fonction de leur satisfaction personnelle.",
+        "Le gouvernement par des lois purement administratives.",
+        "Le hasard des découvertes empiriques faites sur le terrain.",
+        "Les philosophes analysant la logique interne des soins."
+      ],
+      "correctIndex": 0,
+      "explanation": "C'est la communauté médicale elle-même qui décide par ses institutions qui peut parler médicalement."
+    },
+    {
+      "id": "q17",
+      "prompt": "Foucault affirme-t-il que les critères scientifiques des disciplines sont arbitraires ?",
+      "choices": [
+        "Non, il considère que ce sont de bons critères.",
+        "Oui, il pense qu'ils n'ont aucune utilité réelle.",
+        "Partiellement, il les juge utiles uniquement en chimie.",
+        "Il ne se prononce jamais sur la validité des critères.",
+        "Oui, il souhaite les remplacer par l'intuition pure."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que Foucault ne considère pas ces critères comme arbitraires ; ils sont scientifiques et 'bons'."
+    },
+    {
+      "id": "q18",
+      "prompt": "Comment la pharmacologie moderne a-t-elle légitimé certaines plantes médicinales ?",
+      "choices": [
+        "En isolant les mécanismes et en testant l'efficacité.",
+        "En acceptant les superstitions populaires sans preuve.",
+        "Par une décision politique sans lien avec les labos.",
+        "En les utilisant uniquement comme placebos sans tests.",
+        "Via l'approbation directe des guérisseurs traditionnels."
+      ],
+      "correctIndex": 0,
+      "explanation": "La science moderne a isolé les principes actifs et testé l'efficacité par des tests cliniques pour légitimer les plantes."
+    },
+    {
+      "id": "q19",
+      "prompt": "Quelle distinction est faite entre médecine traditionnelle et médecine moderne ?",
+      "choices": [
+        "L'approche empirique opposée à un usage contrôlé.",
+        "La gratuité des soins contre le profit industriel.",
+        "L'usage des plantes contre l'usage des minéraux.",
+        "La localisation rurale contre la localisation urbaine.",
+        "L'absence de résultats contre l'efficacité absolue."
+      ],
+      "correctIndex": 0,
+      "explanation": "La différence réside dans le passage d'une approche empirique ou approximative à un usage rigoureusement contrôlé."
+    },
+    {
+      "id": "q20",
+      "prompt": "Qu'entend-on par 'pouvoir colonial' dans l'étude des savoirs ?",
+      "choices": [
+        "Les médecins occidentaux décidant de ce qui est étudié.",
+        "L'importation forcée de médicaments vers les colonies.",
+        "La suppression physique de tous les guérisseurs locaux.",
+        "Le financement des hôpitaux uniquement dans les villes.",
+        "L'étude exclusive des maladies tropicales par le Sud."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le pouvoir colonial se manifeste par les médecins occidentaux qui décident ce qui peut être fait, dit ou étudié."
+    },
+    {
+      "id": "q21",
+      "prompt": "Quel changement historique a eu lieu en gynécologie selon le texte ?",
+      "choices": [
+        "Les sage-femmes ont été écartées par les médecins hommes.",
+        "Le savoir empirique a fusionné avec la chirurgie moderne.",
+        "Les femmes ont toujours dominé l'obstétrique institutionnelle.",
+        "Les accouchements sont devenus uniquement religieux.",
+        "La gynécologie a refusé toute approche scientifique initiale."
+      ],
+      "correctIndex": 0,
+      "explanation": "Avec le développement de la médecine moderne, les sage-femmes ont été écartées au profit des médecins hommes."
+    },
+    {
+      "id": "q22",
+      "prompt": "Que désigne l'expression 'sociétés de discours' pour Michel Foucault ?",
+      "choices": [
+        "Les institutions contrôlant l'accès à la parole scientifique.",
+        "Les clubs de discussion informels entre les chercheurs.",
+        "Les associations de patients militant pour leurs droits.",
+        "Les syndicats d'étudiants au sein des universités.",
+        "Les journaux de vulgarisation destinés au grand public."
+      ],
+      "correctIndex": 0,
+      "explanation": "Foucault appelle 'sociétés de discours' les institutions qui contrôlent, organisent et restreignent l'accès au discours."
+    },
+    {
+      "id": "q23",
+      "prompt": "Quels critères faut-il remplir pour devenir 'autorisé à parler' en science ?",
+      "choices": [
+        "Formation, labo, financements et publications.",
+        "Intuition, talent, éloquence et réseau social.",
+        "Fortune personnelle, nom célèbre et âge avancé.",
+        "Accord du public, charisme et absence de diplôme.",
+        "Croyance religieuse, moralité et origine familiale."
+      ],
+      "correctIndex": 0,
+      "explanation": "Il faut avoir suivi une formation, appartenir à un labo, obtenir des financements et publier dans des revues."
+    },
+    {
+      "id": "q24",
+      "prompt": "Qu'est-ce que 'l'effet Matilda' dans le domaine scientifique ?",
+      "choices": [
+        "Le déni systématique de la contribution des femmes.",
+        "L'augmentation des bourses pour les pays du Sud.",
+        "L'influence des médias sur les résultats des labos.",
+        "Le rejet des savoirs patients par les institutions.",
+        "L'impact des émotions sur la rationalité du chercheur."
+      ],
+      "correctIndex": 0,
+      "explanation": "L'effet Matilda désigne le déni ou la minimisation systématique de la contribution des femmes scientifiques."
+    },
+    {
+      "id": "q25",
+      "prompt": "Quel exemple historique illustre l'effet Matilda dans le texte ?",
+      "choices": [
+        "Rosalind Franklin et sa découverte non créditée.",
+        "Marie Curie et l'obtention de ses deux prix Nobel.",
+        "Ada Lovelace et ses travaux sur les algorithmes.",
+        "Lise Meitner et ses recherches sur la fission nucléaire.",
+        "Sophie Germain et ses contributions aux mathématiques."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte cite Rosalind Franklin qui a fait une grande découverte mais n'a pas reçu le mérite attribué à un homme."
+    },
+    {
+      "id": "q26",
+      "prompt": "Comment le milieu social influence-t-il l'accès aux institutions de savoir ?",
+      "choices": [
+        "Il détermine la facilité à obtenir des financements.",
+        "Il n'a aucun impact grâce à la méritocratie pure.",
+        "Il affecte seulement le choix du sujet de recherche.",
+        "Il facilite uniquement l'accès aux savoirs populaires.",
+        "Il réduit la qualité intrinsèque des projets de recherche."
+      ],
+      "correctIndex": 0,
+      "explanation": "L'accès dépend du milieu social, du genre et du pays, influençant par exemple l'obtention de financements."
+    },
+    {
+      "id": "q27",
+      "prompt": "Quelle est la définition des 'savoirs assujettis' selon Foucault ?",
+      "choices": [
+        "Des savoirs disqualifiés ou considérés non scientifiques.",
+        "Des connaissances secrètes réservées à une élite.",
+        "Des données informatiques stockées dans les archives.",
+        "Des lois physiques immuables contrôlant la nature.",
+        "Des manuels scolaires imposés par le ministère."
+      ],
+      "correctIndex": 0,
+      "explanation": "Les savoirs assujettis sont des savoirs en bas de la hiérarchie, considérés comme insuffisamment élaborés ou disqualifiés."
+    },
+    {
+      "id": "q28",
+      "prompt": "Pourquoi certains savoirs populaires sont-ils exclus des disciplines ?",
+      "choices": [
+        "Car ils ne correspondent pas aux critères établis.",
+        "Uniquement parce qu'ils sont systématiquement faux.",
+        "Parce qu'ils sont trop faciles à comprendre pour tous.",
+        "À cause de leur origine exclusivement religieuse.",
+        "Parce qu'ils refusent d'utiliser des outils techniques."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ils sont exclus car ils ne correspondent pas aux critères de la discipline établis par les institutions (ex: pas de publication)."
+    },
+    {
+      "id": "q29",
+      "prompt": "Quel rôle les militants du SIDA ont-ils joué par rapport au savoir médical ?",
+      "choices": [
+        "Ils ont participé à l'écriture même du protocole.",
+        "Ils ont refusé toute forme de traitement scientifique.",
+        "Ils ont financé l'intégralité des recherches mondiales.",
+        "Ils ont interdit aux médecins d'accéder aux hôpitaux.",
+        "Ils ont uniquement demandé des soins spirituels."
+      ],
+      "correctIndex": 0,
+      "explanation": "Les militants ont appris à lire les articles et ont essayé de participer à l'écriture même du protocole expérimental."
+    },
+    {
+      "id": "q30",
+      "prompt": "Qu'est-ce qu'un 'patient expert' dans le contexte médical actuel ?",
+      "choices": [
+        "Un patient dont l'expérience co-construit le savoir.",
+        "Un médecin qui tombe malade et se soigne seul.",
+        "Un individu qui refuse tout avis venant d'un docteur.",
+        "Un patient qui finance son propre essai clinique.",
+        "Une personne qui simule des symptômes pour tester le labo."
+      ],
+      "correctIndex": 0,
+      "explanation": "Il s'agit d'un mouvement de science participative où l'avis et l'expérience du patient servent à construire le savoir."
+    },
+    {
+      "id": "q31",
+      "prompt": "Comment les institutions réagissent-elles généralement à l'intégration des nouveaux savoirs ?",
+      "choices": [
+        "Elles résistent et nécessitent une lutte pour l'intégration.",
+        "Elles acceptent instantanément toute nouvelle perspective.",
+        "Elles disparaissent au profit de structures informelles.",
+        "Elles délèguent leur pouvoir aux guérisseurs locaux.",
+        "Elles cessent de définir des critères de scientificité."
+      ],
+      "correctIndex": 0,
+      "explanation": "L'intégration des savoirs (comme ceux des patients) a été l'objet d'une lutte, l'institution ne s'est pas laissé faire."
+    },
+    {
+      "id": "q32",
+      "prompt": "Quelle est la conclusion de Foucault sur la légitimité scientifique ?",
+      "choices": [
+        "Elle implique nécessairement des mécanismes de pouvoir.",
+        "Elle dépend exclusivement de la précision des calculs.",
+        "Elle est totalement indépendante des structures sociales.",
+        "Elle ne peut être atteinte que par les individus isolés.",
+        "Elle est un mythe qui n'existe dans aucune discipline."
+      ],
+      "correctIndex": 0,
+      "explanation": "Foucault montre que la légitimité n'est pas qu'une question de méthode mais implique des mécanismes de pouvoir."
+    },
+    {
+      "id": "q33",
+      "prompt": "Que désigne le concept de 'regard de nulle part' chez Donna Haraway ?",
+      "choices": [
+        "Le mythe d'une objectivité scientifique neutre et totale.",
+        "Une technique d'observation utilisant des satellites.",
+        "Le point de vue des populations exclues du savoir.",
+        "L'absence de vision chez certains chercheurs aveugles.",
+        "Une méthode de méditation pour atteindre la vérité."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le 'regard de nulle part' est une critique de l'idée que la science pourrait être une vision neutre et sans attaches sociales."
+    },
+    {
+      "id": "q34",
+      "prompt": "Quelle est la première étape fondamentale du modèle hypothético-déductif selon les supports de cours ?",
+      "choices": [
+        "Réaliser une expérience pour observer des phénomènes",
+        "Formuler une hypothèse à partir de connaissances antérieures",
+        "Identifier des phénomènes inexpliqués et construire un problème",
+        "Soumettre ses résultats à une communauté scientifique",
+        "Développer un cadre mathématique pour valider les données"
+      ],
+      "correctIndex": 2,
+      "explanation": "La première étape du modèle hypothético-déductif consiste à identifier des phénomènes inexpliqués afin de construire une problématique scientifique."
+    },
+    {
+      "id": "q35",
+      "prompt": "Qu'est-ce qui distingue principalement l'expérience scientifique de l'expérience de la vie courante ?",
+      "choices": [
+        "L'expérience scientifique est subjective et unique",
+        "L'expérience scientifique est reproductible et théorique",
+        "L'expérience scientifique repose sur l'intuition du chercheur",
+        "L'expérience scientifique ne peut jamais être remise en question",
+        "L'expérience scientifique ignore les variables environnementales"
+      ],
+      "correctIndex": 1,
+      "explanation": "Contrairement à l'expérience quotidienne, l'expérience scientifique se caractérise par sa dimension théorique et sa reproductibilité."
+    },
+    {
+      "id": "q36",
+      "prompt": "Selon le critère de Karl Popper, pourquoi l'astrologie ne peut-elle pas être considérée comme une science ?",
+      "choices": [
+        "Elle n'utilise pas un vocabulaire technique suffisamment précis",
+        "Elle ne s'intéresse pas à des phénomènes physiques réels",
+        "Elle peut toujours s'adapter pour éviter la réfutation",
+        "Elle n'est pas pratiquée par une communauté reconnue",
+        "Elle refuse catégoriquement l'usage de données statistiques"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'astrologie échoue au critère de réfutabilité de Popper car elle s'adapte systématiquement pour éviter d'être contredite par l'observation."
+    },
+    {
+      "id": "q37",
+      "prompt": "Comment Thomas Kuhn décrit-il la réaction initiale des scientifiques face à une anomalie dans un paradigme ?",
+      "choices": [
+        "Ils abandonnent immédiatement le paradigme en vigueur",
+        "Ils cherchent d'abord des explications compatibles avec le paradigme",
+        "Ils soumettent l'anomalie au vote de la communauté internationale",
+        "Ils considèrent que l'anomalie invalide définitivement la théorie",
+        "Ils ignorent systématiquement toute donnée remettant en cause la norme"
+      ],
+      "correctIndex": 1,
+      "explanation": "Face à une anomalie, les scientifiques tentent d'abord de l'intégrer ou de l'expliquer sans sortir du cadre du paradigme existant."
+    },
+    {
+      "id": "q38",
+      "prompt": "Quelle est la position correcte de Popper vis-à-vis du faillibilisme en sciences ?",
+      "choices": [
+        "C'est un défaut que la science cherche à corriger par les preuves",
+        "C'est une erreur de méthode qui disqualifie le chercheur",
+        "C'est une caractéristique essentielle qu'il ne faut pas chercher à éliminer",
+        "C'est une étape transitoire avant d'atteindre une vérité absolue",
+        "C'est une faiblesse théorique qui mène au scepticisme radical"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pour Popper, le faillibilisme n'est pas un défaut mais le cœur de la démarche scientifique qui doit accepter la possibilité de sa propre réfutation."
+    },
+    {
+      "id": "q39",
+      "prompt": "Sur quel point Einstein est-il cité comme un exemple de rigueur scientifique ?",
+      "choices": [
+        "Sa capacité à prouver mathématiquement l'existence de Dieu",
+        "Son refus d'écouter les critiques de la communauté scientifique",
+        "Son acceptation préalable que sa théorie puisse être réfutée par l'observation",
+        "Sa volonté de créer une théorie qui explique absolument tout",
+        "Son utilisation exclusive de l'intuition contre la méthode empirique"
+      ],
+      "correctIndex": 2,
+      "explanation": "Einstein est présenté comme un exemple car il acceptait que sa théorie soit invalidée si les observations ne correspondaient pas à ses prédictions."
+    },
+    {
+      "id": "q40",
+      "prompt": "Quelle affirmation concernant la disqualification de l'astrologie est rejetée par le cours ?",
+      "choices": [
+        "Elle est rejetée car elle ne respecte pas le principe de réfutabilité",
+        "Elle est disqualifiée car ses prédictions sont trop vagues",
+        "Elle est disqualifiée car elle s'intéresse à des objets frivoles",
+        "Elle est rejetée car elle manque de cohérence expérimentale",
+        "Elle est exclue car elle refuse la confrontation avec les faits"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'astrologie n'est pas disqualifiée parce qu'elle traite d'objets 'frivoles', mais pour des raisons méthodologiques liées à la réfutation."
+    },
+    {
+      "id": "q41",
+      "prompt": "Quelle critique Foucault adresse-t-il à la conception traditionnelle de la légitimité scientifique ?",
+      "choices": [
+        "Elle repose uniquement sur des bases mathématiques erronées",
+        "Elle ignore que la science implique des mécanismes de pouvoir",
+        "Elle refuse de reconnaître l'importance des découvertes privées",
+        "Elle ne s'intéresse pas assez à la biographie des grands savants",
+        "Elle surévalue le rôle des institutions au détriment de l'individu"
+      ],
+      "correctIndex": 1,
+      "explanation": "Foucault montre que la légitimité n'est pas qu'une question de méthode, mais qu'elle est imbriquée dans des structures de pouvoir."
+    },
+    {
+      "id": "q42",
+      "prompt": "Selon Michel Foucault, quelle question est cruciale pour comprendre la production du savoir ?",
+      "choices": [
+        "Quel est le coût financier d'une expérimentation réussie ?",
+        "Comment peut-on prouver la vérité d'une théorie isolée ?",
+        "Qui a accès aux institutions et définit les règles de la discipline ?",
+        "Pourquoi certains scientifiques refusent-ils le progrès technologique ?",
+        "Quand la science pourra-t-elle se passer du soutien politique ?"
+      ],
+      "correctIndex": 2,
+      "explanation": "Foucault s'interroge sur les mécanismes institutionnels : l'accès aux lieux de savoir et la définition des normes disciplinaires."
+    },
+    {
+      "id": "q43",
+      "prompt": "Comment Donna Haraway est-elle présentée dans le cadre de ce cours ?",
+      "choices": [
+        "Comme une physicienne nucléaire française engagée",
+        "Comme une historienne des sciences d'origine allemande",
+        "Comme une philosophe et biologiste américaine",
+        "Comme une sociologue spécialisée dans l'économie politique",
+        "Comme une mathématicienne travaillant sur l'intelligence artificielle"
+      ],
+      "correctIndex": 2,
+      "explanation": "Donna Haraway est une philosophe et biologiste américaine dont les travaux portent sur les savoirs situés."
+    },
+    {
+      "id": "q44",
+      "prompt": "Qu'est-ce que Donna Haraway appelle le « regard de nulle part » ?",
+      "choices": [
+        "Une méthode d'observation spatiale utilisée en astronomie",
+        "L'idée que les scientifiques observent depuis une position neutre",
+        "Une technique d'analyse statistique ignorant les données aberrantes",
+        "Un trouble de la vision affectant les chercheurs en fin de carrière",
+        "Une théorie psychologique sur l'absence totale de perception"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le 'regard de nulle part' désigne la prétention scientifique à la neutralité et à l'objectivité absolue, comme si l'observateur n'avait aucune position sociale."
+    },
+    {
+      "id": "q45",
+      "prompt": "Quel terme Donna Haraway utilise-t-elle pour désigner l'idéal du chercheur détaché et objectif ?",
+      "choices": [
+        "L'observateur omniscient",
+        "Le savant universel",
+        "Le témoin modeste",
+        "L'expert neutre",
+        "Le génie solitaire"
+      ],
+      "correctIndex": 2,
+      "explanation": "Elle utilise le terme de 'témoin modeste' pour qualifier cette figure scientifique prétendant à une neutralité parfaite."
+    },
+    {
+      "id": "q46",
+      "prompt": "Pourquoi Haraway affirme-t-elle que la neutralité scientifique est une illusion ?",
+      "choices": [
+        "Parce que les instruments de mesure sont toujours imprécis",
+        "Parce que les chercheurs sont motivés par l'appât du gain",
+        "Parce que les sciences ont été dominées par un groupe social spécifique",
+        "Parce que le cerveau humain ne peut pas traiter trop de données",
+        "Parce que les lois de la physique changent selon l'endroit du globe"
+      ],
+      "correctIndex": 2,
+      "explanation": "Elle souligne que la science a longtemps été faite par des hommes blancs occidentaux aisés, dont la position a marqué la production du savoir."
+    },
+    {
+      "id": "q47",
+      "prompt": "Quel exemple anatomique Haraway utilise-t-elle pour critiquer le privilège scientifique ?",
+      "choices": [
+        "L'étude du cerveau des oiseaux par les biologistes marins",
+        "La définition du corps de l'homme comme règle et celui de la femme comme anomalie",
+        "La comparaison entre la taille des membres des Européens et des Africains",
+        "L'analyse des différences musculaires entre les classes sociales",
+        "L'observation des systèmes nerveux chez les primates en captivité"
+      ],
+      "correctIndex": 1,
+      "explanation": "Elle montre que les anatomistes européens prenaient le corps masculin comme norme, reléguant le corps féminin au statut d'exception ou d'anomalie."
+    },
+    {
+      "id": "q48",
+      "prompt": "Que signifie l'affirmation d'Haraway : « On regarde toujours depuis quelque part » ?",
+      "choices": [
+        "Que l'observation dépend de la qualité optique des lunettes utilisées",
+        "Que le savoir est déterminé par une position sociale, historique et géographique",
+        "Que les scientifiques doivent voyager pour obtenir des résultats valides",
+        "Que la vision humaine est limitée par la structure de l'œil biologique",
+        "Que chaque laboratoire possède sa propre culture d'entreprise fermée"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cela signifie que toute connaissance est située dans un contexte social, historique et géographique particulier."
+    },
+    {
+      "id": "q49",
+      "prompt": "Dans la perspective des savoirs situés, comment la position de l'observateur est-elle perçue ?",
+      "choices": [
+        "Comme un obstacle majeur à l'acquisition de toute connaissance",
+        "Comme une erreur que la méthode scientifique doit chercher à gommer",
+        "Comme la condition même de la connaissance et de l'objectivité",
+        "Comme un paramètre négligeable dans les sciences de la nature",
+        "Comme un biais cognitif qui rend toute science impossible"
+      ],
+      "correctIndex": 2,
+      "explanation": "Loin d'être un obstacle, la position occupée est la condition nécessaire pour produire un savoir conscient de ses limites."
+    },
+    {
+      "id": "q50",
+      "prompt": "Selon Donna Haraway, en quoi consiste la véritable objectivité scientifique ?",
+      "choices": [
+        "À ignorer totalement ses propres opinions lors d'une étude",
+        "À assumer d'où l'on voit et à en tenir compte dans la démarche",
+        "À supprimer toute mention de l'expérimentateur dans les rapports",
+        "À utiliser uniquement des machines pour collecter les données",
+        "À atteindre un consensus universel sans aucune voix discordante"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'objectivité consiste à être conscient de sa position et à l'intégrer rigoureusement dans son analyse plutôt que de la nier."
+    },
+    {
+      "id": "q51",
+      "prompt": "Qu'est-ce que les primatologues hommes occidentaux cherchaient principalement à observer chez les grands singes ?",
+      "choices": [
+        "Les techniques de cueillette et le partage de la nourriture",
+        "La coopération entre les mères et l'éducation des petits",
+        "La domination, la compétition et l'agressivité des mâles",
+        "L'évolution du langage gestuel au sein de la communauté",
+        "La résistance des espèces face aux changements climatiques"
+      ],
+      "correctIndex": 2,
+      "explanation": "En raison de leur position sociale, ils se sont focalisés sur des comportements de compétition et de domination pour l'accès aux femelles."
+    },
+    {
+      "id": "q52",
+      "prompt": "Qu'ont observé Jane Goodall et Dian Fossey que leurs prédécesseurs avaient négligé ?",
+      "choices": [
+        "La supériorité physique absolue des mâles dominants",
+        "La coopération, les soins aux petits et les stratégies d'alliances",
+        "L'absence totale d'interactions sociales chez les grands singes",
+        "Le rôle secondaire des femelles dans la survie de l'espèce",
+        "L'impossibilité pour les primates de vivre en harmonie sociale"
+      ],
+      "correctIndex": 1,
+      "explanation": "Leur position différente leur a permis de voir des aspects comme la coopération et les soins, ignorés par les observations précédentes."
+    },
+    {
+      "id": "q53",
+      "prompt": "Quelle a été la contribution spécifique du primatologue japonais Kinji Imanishi ?",
+      "choices": [
+        "Il a prouvé que les primates n'avaient aucune forme de structure sociale",
+        "Il a observé une harmonie sociale et une forme de culture",
+        "Il a rejeté l'idée que les animaux puissent ressentir des émotions",
+        "Il a confirmé que l'agressivité était le seul moteur de l'évolution",
+        "Il a démontré que la culture était un trait exclusivement humain"
+      ],
+      "correctIndex": 1,
+      "explanation": "Venant d'une culture non-occidentale, il a identifié une harmonie et une culture chez les primates que les Européens ne voyaient pas."
+    },
+    {
+      "id": "q54",
+      "prompt": "Pourquoi les primatologues hommes n'ont-ils pas vu les comportements de coopération plus tôt ?",
+      "choices": [
+        "Leurs outils d'observation étaient technologiquement trop limités",
+        "Ce n'était pas ce qu'ils cherchaient et ils jugeaient cela peu important",
+        "Les singes se comportaient différemment devant des observateurs hommes",
+        "Les comportements de coopération n'existaient pas avant les années 60",
+        "Ils n'avaient pas le droit de publier des résultats sur les femelles"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le document explique qu'ils auraient pu le voir, mais que leurs centres d'intérêt et leurs préjugés les empêchaient d'y accorder de l'importance."
+    },
+    {
+      "id": "q55",
+      "prompt": "Selon Haraway, quel facteur affecte ce qu'un chercheur voit et ce qu'il cherche ?",
+      "choices": [
+        "Uniquement le sexe biologique déterminé à la naissance",
+        "Le positionnement social incluant le genre, l'ethnie et la culture",
+        "Le niveau de salaire et le budget alloué à la recherche",
+        "Le choix aléatoire du sujet d'étude par l'université",
+        "L'utilisation d'un langage mathématique plutôt que littéraire"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le positionnement social multidimensionnel (genre, origine, culture) influence directement l'objet de l'observation."
+    },
+    {
+      "id": "q56",
+      "prompt": "Comment Haraway se distingue-t-elle du relativisme radical ?",
+      "choices": [
+        "Elle affirme que toutes les opinions se valent sans exception",
+        "Elle soutient que personne ne peut jamais avoir raison en science",
+        "Elle affirme que certaines positions voient mieux certains objets que d'autres",
+        "Elle rejette l'idée même de mener des expériences scientifiques",
+        "Elle pense que la vérité change tous les jours selon l'humeur"
+      ],
+      "correctIndex": 2,
+      "explanation": "Haraway refuse le 'tout se vaut' ; pour elle, certaines positions permettent une meilleure compréhension de certains objets."
+    },
+    {
+      "id": "q57",
+      "prompt": "Pour Haraway, que permet la reconnaissance de sa propre position sociale ?",
+      "choices": [
+        "De se dispenser de toute vérification expérimentale ultérieure",
+        "D'être plus rigoureux et de confronter son analyse à celle des autres",
+        "De prouver que sa vision est la seule vérité universelle possible",
+        "D'ignorer les critiques venant de personnes ayant un autre profil",
+        "De réduire la science à une simple affaire d'opinion personnelle"
+      ],
+      "correctIndex": 1,
+      "explanation": "Reconnaître son point de vue oblige à une plus grande rigueur et à l'ouverture aux autres perspectives pour enrichir l'analyse."
+    },
+    {
+      "id": "q58",
+      "prompt": "Quel problème historique est cité concernant les essais cliniques de médicaments ?",
+      "choices": [
+        "Ils étaient réalisés uniquement sur des personnes très âgées",
+        "Ils étaient faits quasi exclusivement sur des corps masculins",
+        "Ils utilisaient des doses trop faibles pour être efficaces",
+        "Ils étaient menés sans aucun contrôle de la communauté médicale",
+        "Ils ignoraient l'influence des régimes alimentaires sur les résultats"
+      ],
+      "correctIndex": 1,
+      "explanation": "On considérait le corps féminin comme trop variable, ce qui a mené à des tests centrés sur les hommes, dangereux pour les femmes."
+    },
+    {
+      "id": "q59",
+      "prompt": "Selon Haraway, quels sont les trois éléments affectés par la position sociale du chercheur ?",
+      "choices": [
+        "Le budget, le lieu du laboratoire et le nombre d'assistants",
+        "La vitesse de publication, la langue utilisée et le titre du livre",
+        "Le choix des questions, les phénomènes étudiés et l'interprétation des résultats",
+        "La validité des mathématiques, la physique des ondes et la chimie",
+        "Le recrutement, le salaire et l'âge de la retraite du scientifique"
+      ],
+      "correctIndex": 2,
+      "explanation": "La position sociale influence les questions posées, les objets étudiés et la manière dont on interprète les données récoltées."
+    },
+    {
+      "id": "q60",
+      "prompt": "Pourquoi Haraway encourage-t-elle la présence de plus de femmes en science ?",
+      "choices": [
+        "Uniquement pour respecter des quotas imposés par le gouvernement",
+        "Pour améliorer la science elle-même en apportant de nouvelles perspectives",
+        "Parce que les femmes sont naturellement plus douées pour la biologie",
+        "Pour réduire le coût de la recherche car elles seraient moins payées",
+        "Parce que les hommes refusent désormais de pratiquer la méthode scientifique"
+      ],
+      "correctIndex": 1,
+      "explanation": "La pluralité permet de voir ce qu'on ne voyait pas, de poser de nouvelles questions et de corriger les biais existants."
+    },
+    {
+      "id": "q61",
+      "prompt": "Qu'est-ce que la transparence renforce selon la vision d'Haraway sur l'objectivité ?",
+      "choices": [
+        "Elle affaiblit la crédibilité du chercheur face au public",
+        "Elle renforce la science en disant clairement d'où l'on parle",
+        "Elle permet aux concurrents de voler les idées plus facilement",
+        "Elle empêche toute forme de spécialisation dans une discipline",
+        "Elle rend la science totalement identique à la religion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dire d'où l'on parle (transparence de position) est un facteur de renforcement de la démarche scientifique."
+    },
+    {
+      "id": "q62",
+      "prompt": "Comment la science est-elle définie dans le processus de connexion des perspectives ?",
+      "choices": [
+        "Comme un exploit individuel réalisé par des génies isolés",
+        "Comme un processus collectif de confrontation et d'enrichissement mutuel",
+        "Comme une série de dogmes imposés par une autorité centrale",
+        "Comme une accumulation de faits bruts sans aucun lien entre eux",
+        "Comme une lutte où seule la perspective la plus forte doit survivre"
+      ],
+      "correctIndex": 1,
+      "explanation": "La science est vue comme un effort collectif où les perspectives se confrontent, se corrigent et s'enrichissent."
+    },
+    {
+      "id": "q63",
+      "prompt": "De quoi dépend la légitimité épistémique selon les conclusions de Donna Haraway ?",
+      "choices": [
+        "Uniquement du respect strict de la méthode mathématique",
+        "Seulement du charisme personnel du chercheur qui s'exprime",
+        "De la méthode scientifique et de qui parle depuis quelle position",
+        "Du financement privé accordé par les grandes entreprises",
+        "De l'approbation unanime de la population non-scientifique"
+      ],
+      "correctIndex": 2,
+      "explanation": "Elle dépend à la fois de la rigueur méthodologique et de la conscience de la position sociale de celui qui produit le savoir."
+    },
+    {
+      "id": "q64",
+      "prompt": "Quelles sont les trois dimensions finales de la légitimité épistémique retenues par le cours ?",
+      "choices": [
+        "La richesse, la célébrité et le soutien politique",
+        "La méthode, le pouvoir institutionnel et la position sociale",
+        "L'intuition, la force physique et la mémoire",
+        "Le hasard, la chance et la persévérance individuelle",
+        "La technologie, le matériel informatique et la vitesse de calcul"
+      ],
+      "correctIndex": 1,
+      "explanation": "La conclusion retient la méthode (falsifiabilité), le pouvoir institutionnel et la position sociale (dialogue des perspectives)."
+    },
+    {
+      "id": "q65",
+      "prompt": "Quelle est la thèse de Platon dans « La République » concernant le pouvoir politique ?",
+      "choices": [
+        "Le pouvoir doit être tiré au sort parmi tous les citoyens",
+        "Le pouvoir doit être confié à ceux qui savent et aiment savoir",
+        "Le pouvoir doit appartenir aux plus riches de la cité",
+        "Le pouvoir doit être exercé par les guerriers les plus forts",
+        "Le pouvoir doit être aboli pour laisser place à l'anarchie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Platon soutient une thèse technocratique ou aristocratique du savoir : le pouvoir revient au philosophe, celui qui sait."
+    },
+    {
+      "id": "q66",
+      "prompt": "Quel est le problème central soulevé par l'idée de confier le pouvoir aux experts ?",
+      "choices": [
+        "Les experts demandent des salaires trop élevés pour l'État",
+        "Cela menace la souveraineté populaire et la démocratie",
+        "Les experts ne s'intéressent jamais aux problèmes réels",
+        "Les experts changent d'avis trop souvent pour gouverner",
+        "Cela empêche le développement des nouvelles technologies"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le cours souligne la tension entre la légitimité scientifique des experts et la légitimité populaire du peuple qui doit obéir aux lois."
+    }
+  ]
+}
