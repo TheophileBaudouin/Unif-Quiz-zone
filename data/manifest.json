@@ -1,8 +1,17 @@
 {
   "documentTitle": "Quiz Zone",
-  "generatedAt": "2026-05-04T21:53:56.841Z",
+  "generatedAt": "2026-05-04T22:12:27.767Z",
   "sourcePdf": "multiple",
   "quizzes": [
+    {
+      "id": "adolescence-sexualite-normes",
+      "title": "Adolescence, Sexualité et Normes de Genre",
+      "file": "sociologie-du-genre/quiz-adolescence-sexualite-normes.json",
+      "questionCount": 40,
+      "pageStart": 9,
+      "pageEnd": 10,
+      "course": "Sociologie du Genre"
+    },
     {
       "id": "affirmation-absolutisme",
       "title": "Quiz - L'absolutisme",
@@ -11,22 +20,6 @@
       "pageStart": 45,
       "pageEnd": 55,
       "course": "histoire"
-    },
-    {
-      "id": "analyse-technique-plans-1-9",
-      "title": "Analyse Technique : Plans 1 à 9",
-      "file": "quiz-analyse-technique-plans-1-9.json",
-      "questionCount": 40,
-      "pageStart": 2,
-      "pageEnd": 3
-    },
-    {
-      "id": "analyse-technique-plans-10-22",
-      "title": "Analyse Technique : Plans 10 à 22",
-      "file": "quiz-analyse-technique-plans-10-22.json",
-      "questionCount": 40,
-      "pageStart": 4,
-      "pageEnd": 6
     },
     {
       "id": "apple-broken-promises-vocabulary",
@@ -108,14 +101,6 @@
       "pageStart": 1,
       "pageEnd": 5,
       "course": "philosophie"
-    },
-    {
-      "id": "introduction-equipe-technique",
-      "title": "Introduction et Équipe Technique",
-      "file": "quiz-introduction-equipe-technique.json",
-      "questionCount": 40,
-      "pageStart": 1,
-      "pageEnd": 1
     },
     {
       "id": "introduction-temps-modernes",
@@ -298,6 +283,24 @@
       "course": "anglais"
     },
     {
+      "id": "socialisation-genre-ecole",
+      "title": "La Socialisation de Genre en Milieu Scolaire",
+      "file": "sociologie-du-genre/quiz-socialisation-genre-ecole.json",
+      "questionCount": 40,
+      "pageStart": 4,
+      "pageEnd": 6,
+      "course": "Sociologie du Genre"
+    },
+    {
+      "id": "socialisation-par-les-pairs",
+      "title": "L'Espace Scolaire et la Socialisation par les Pairs",
+      "file": "sociologie-du-genre/quiz-socialisation-par-les-pairs.json",
+      "questionCount": 40,
+      "pageStart": 7,
+      "pageEnd": 8,
+      "course": "Sociologie du Genre"
+    },
+    {
       "id": "the-walking-dead-vocabulary",
       "title": "The Walking Dead Vocabulary",
       "file": "anglais/quiz-the-walking-dead-vocabulary.json",
@@ -305,6 +308,15 @@
       "pageStart": 17,
       "pageEnd": 17,
       "course": "anglais"
+    },
+    {
+      "id": "theories-identite-genre-socialisation",
+      "title": "Théories de l'Identité de Genre et Processus de Socialisation",
+      "file": "sociologie-du-genre/quiz-theories-identite-genre-socialisation.json",
+      "questionCount": 40,
+      "pageStart": 1,
+      "pageEnd": 3,
+      "course": "Sociologie du Genre"
     }
   ]
 }
