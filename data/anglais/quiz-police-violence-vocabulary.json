@@ -1,0 +1,898 @@
+{
+  "quizId": "police-violence-vocabulary",
+  "title": "Police Violence Vocabulary",
+  "section": {
+    "id": "police-violence-vocabulary",
+    "title": "Police Violence Vocabulary",
+    "startPage": 8,
+    "endPage": 9,
+    "summary": "Sociopolitical and legal vocabulary related to law enforcement, human rights, and social justice activism.",
+    "estimatedQuestionCount": 68
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "What is the French translation for the term 'unlawful'?",
+      "choices": [
+        "Un acte qui est considéré comme illégal",
+        "Un acte qui est considéré comme injuste",
+        "Un acte qui est considéré comme suspect",
+        "Un acte qui est considéré comme abusif",
+        "Un acte qui est considéré comme brutal"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon la source, 'unlawful' se traduit par 'illégal'."
+    },
+    {
+      "id": "q2",
+      "prompt": "Comment traduit-on 'an injury' dans le contexte du cours ?",
+      "choices": [
+        "Une perte",
+        "Une faute",
+        "Une plainte",
+        "Une blessure",
+        "Une menace"
+      ],
+      "correctIndex": 3,
+      "explanation": "Le vocabulaire indique qu'une 'injury' est une 'blessure'."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel est l'équivalent français de l'adverbe 'elsewhere' ?",
+      "choices": [
+        "Ailleurs",
+        "Toujours",
+        "Pourtant",
+        "D'ailleurs",
+        "Vraiment"
+      ],
+      "correctIndex": 0,
+      "explanation": "La source traduit 'elsewhere' par 'ailleurs'."
+    },
+    {
+      "id": "q4",
+      "prompt": "How is the term 'seriously' translated in the vocabulary list?",
+      "choices": [
+        "Sévèrement",
+        "Gravement",
+        "Justement",
+        "Réellement",
+        "Librement"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Seriously' est traduit par 'gravement' dans le document."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que signifie le verbe 'to injure' ?",
+      "choices": [
+        "Arrêter",
+        "Tirer",
+        "Traiter",
+        "Blesser",
+        "Abuser"
+      ],
+      "correctIndex": 3,
+      "explanation": "D'après la liste de vocabulaire, 'injure' signifie 'blesser'."
+    },
+    {
+      "id": "q6",
+      "prompt": "Traduisez 'an arrest' selon le document source :",
+      "choices": [
+        "Une arrestation",
+        "Une accusation",
+        "Une altercation",
+        "Une agression",
+        "Une aliénation"
+      ],
+      "correctIndex": 0,
+      "explanation": "'An arrest' correspond à 'une arrestation'."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quelle est la signification de l'expression 'to be fuelled by' ?",
+      "choices": [
+        "Être alimenté par",
+        "Être organisé par",
+        "Être provoqué par",
+        "Être contesté par",
+        "Être dissimulé par"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'expression 'to be fuelled by' se traduit par 'être alimenté par'."
+    },
+    {
+      "id": "q8",
+      "prompt": "What is a 'demonstration' in French in this context?",
+      "choices": [
+        "Une manifestation",
+        "Une démonstration",
+        "Une provocation",
+        "Une intervention",
+        "Une collaboration"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le terme 'demonstration' désigne une 'manifestation' politique ou sociale."
+    },
+    {
+      "id": "q9",
+      "prompt": "How is 'throughout' translated in the vocabulary list?",
+      "choices": [
+        "Durant",
+        "Devant",
+        "Dedans",
+        "Depuis",
+        "Demain"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Throughout' est traduit par 'durant'."
+    },
+    {
+      "id": "q10",
+      "prompt": "Que signifie l'adverbe 'repeatedly' ?",
+      "choices": [
+        "À plusieurs reprises",
+        "À titre d'exemples",
+        "À travers les lois",
+        "À chaque incident",
+        "À peine visiblement"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Repeatedly' se traduit par 'à plusieurs reprises'."
+    },
+    {
+      "id": "q11",
+      "prompt": "Comment traduit-on 'a weapon' ?",
+      "choices": [
+        "Une arme",
+        "Une aide",
+        "Une amende",
+        "Une attaque",
+        "Une alerte"
+      ],
+      "correctIndex": 0,
+      "explanation": "La source indique que 'a weapon' est 'une arme'."
+    },
+    {
+      "id": "q12",
+      "prompt": "What is 'tear gas' in French?",
+      "choices": [
+        "Le gaz lacrymogène",
+        "Le gaz inflammatoire",
+        "Le gaz anesthésiant",
+        "Le gaz paralysant",
+        "Le gaz neutralisant"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Tear gas' est traduit par 'le gaz lacrymogène'."
+    },
+    {
+      "id": "q13",
+      "prompt": "Traduisez 'a rubber bullet' :",
+      "choices": [
+        "Une balle en composite",
+        "Une balle en plastique",
+        "Une balle en caoutchouc",
+        "Une balle en aluminium",
+        "Une balle en polymères"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le terme exact dans la source est 'une balle en caoutchouc'."
+    },
+    {
+      "id": "q14",
+      "prompt": "Quel est l'équivalent de 'a protester' ?",
+      "choices": [
+        "Un·e manifestant·e",
+        "Un·e surveillant·e",
+        "Un·e contrevenant·e",
+        "Un·e intervenant·e",
+        "Un·e représentant·e"
+      ],
+      "correctIndex": 0,
+      "explanation": "Un 'protester' est traduit par 'un·e manifestant·e'."
+    },
+    {
+      "id": "q15",
+      "prompt": "What does 'the UN Basic Principles on the Use of Force and Firearms by Law Enforcement Officials (BPUFF)' refer to?",
+      "choices": [
+        "Les Principes de base des Nations Unies sur le recours à la force et l'utilisation des armes à feu par les responsables de l'application des lois",
+        "Les Directives de base des Nations Unies sur le contrôle de la force et l'utilisation des armes à feu par les responsables de l'application des lois",
+        "Les Règlements de base des Nations Unies sur le maintien de la force et l'utilisation des armes à feu par les responsables de l'application des lois",
+        "Les Conventions de base des Nations Unies sur le déploiement de la force et l'utilisation des armes à feu par les responsables de l'application des lois",
+        "Les Protocoles de base des Nations Unies sur la limitation de la force et l'utilisation des armes à feu par les responsables de l'application des lois"
+      ],
+      "correctIndex": 0,
+      "explanation": "Il s'agit de la traduction officielle longue fournie dans le document (BPUFF)."
+    },
+    {
+      "id": "q16",
+      "prompt": "How is 'to deal with' translated in the vocabulary list?",
+      "choices": [
+        "Traiter",
+        "Vérifier",
+        "Limiter",
+        "Changer",
+        "Publier"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To deal with' est traduit par 'traiter'."
+    },
+    {
+      "id": "q17",
+      "prompt": "Que signifie 'a last resort' ?",
+      "choices": [
+        "Un dernier recours",
+        "Un premier secours",
+        "Un nouveau support",
+        "Un simple rapport",
+        "Un double effort"
+      ],
+      "correctIndex": 0,
+      "explanation": "'A last resort' se traduit par 'un dernier recours'."
+    },
+    {
+      "id": "q18",
+      "prompt": "Comment traduit-on 'a threat' ?",
+      "choices": [
+        "Une menace",
+        "Une mesure",
+        "Une mission",
+        "Une méthode",
+        "Une mémoire"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon la source, 'a threat' est 'une menace'."
+    },
+    {
+      "id": "q19",
+      "prompt": "What is 'de-escalation' in French?",
+      "choices": [
+        "La désescalade",
+        "La dénonciation",
+        "La désignation",
+        "La dégradation",
+        "La déstructuration"
+      ],
+      "correctIndex": 0,
+      "explanation": "'De-escalation' se traduit par 'la désescalade'."
+    },
+    {
+      "id": "q20",
+      "prompt": "Comment est traduit 'a killing' ?",
+      "choices": [
+        "Une mise à jour",
+        "Une mise à mort",
+        "Une mise à pied",
+        "Une mise à part",
+        "Une mise à nu"
+      ],
+      "correctIndex": 1,
+      "explanation": "'A killing' est traduit par 'une mise à mort'."
+    },
+    {
+      "id": "q21",
+      "prompt": "Que signifie l'adjectif 'unarmed' ?",
+      "choices": [
+        "Désarmé",
+        "Délaissé",
+        "Délogé",
+        "Défendu",
+        "Déclassé"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Unarmed' signifie 'désarmé'."
+    },
+    {
+      "id": "q22",
+      "prompt": "Traduisez le verbe 'to shoot' :",
+      "choices": [
+        "Tirer",
+        "Trier",
+        "Tenir",
+        "Taper",
+        "Tisser"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To shoot' correspond à 'tirer'."
+    },
+    {
+      "id": "q23",
+      "prompt": "What is 'a witness' in French?",
+      "choices": [
+        "Un témoin",
+        "Un terrain",
+        "Un trajet",
+        "Un tribut",
+        "Un tuteur"
+      ],
+      "correctIndex": 0,
+      "explanation": "'A witness' est traduit par 'un témoin'."
+    },
+    {
+      "id": "q24",
+      "prompt": "Comment traduit-on 'to beg for mercy' ?",
+      "choices": [
+        "Implorer la pitié",
+        "Ignorer la plainte",
+        "Inspirer la peur",
+        "Imposer la paix",
+        "Indiquer la piste"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To beg for mercy' signifie 'implorer la pitié'."
+    },
+    {
+      "id": "q25",
+      "prompt": "Que signifie 'a duty' ?",
+      "choices": [
+        "Un devoir",
+        "Un destin",
+        "Un défaut",
+        "Un décret",
+        "Un détail"
+      ],
+      "correctIndex": 0,
+      "explanation": "'A duty' se traduit par 'un devoir'."
+    },
+    {
+      "id": "q26",
+      "prompt": "How is 'to fail' translated?",
+      "choices": [
+        "Échouer",
+        "Écouter",
+        "Éclater",
+        "Écarter",
+        "Échanger"
+      ],
+      "correctIndex": 0,
+      "explanation": "La source traduit 'to fail' par 'échouer'."
+    },
+    {
+      "id": "q27",
+      "prompt": "Traduisez le verbe 'to require' :",
+      "choices": [
+        "Exiger",
+        "Exclure",
+        "Exposer",
+        "Exister",
+        "Excuser"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To require' est traduit par 'exiger'."
+    },
+    {
+      "id": "q28",
+      "prompt": "Que signifie 'to resolve' ?",
+      "choices": [
+        "Résoudre",
+        "Réserver",
+        "Réduire",
+        "Régler",
+        "Rétablir"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To resolve' se traduit par 'résoudre'."
+    },
+    {
+      "id": "q29",
+      "prompt": "What is 'a law enforcement officer' in French?",
+      "choices": [
+        "Un·e responsable de l'application des lois",
+        "Un·e responsable de l'élaboration des lois",
+        "Un·e responsable de l'interprétation des lois",
+        "Un·e responsable de l'organisation des lois",
+        "Un·e responsable de l'annulation des lois"
+      ],
+      "correctIndex": 0,
+      "explanation": "La traduction exacte est 'un·e responsable de l'application des lois'."
+    },
+    {
+      "id": "q30",
+      "prompt": "Comment traduit-on 'to rely on' ?",
+      "choices": [
+        "Compter sur",
+        "Communiquer sur",
+        "Commenter sur",
+        "Cliquer sur",
+        "Céder sur"
+      ],
+      "correctIndex": 0,
+      "explanation": "'To rely on' signifie 'compter sur'."
+    },
+    {
+      "id": "q31",
+      "prompt": "Que signifie le verbe 'to seek' ?",
+      "choices": [
+        "Chercher",
+        "Changer",
+        "Chuter",
+        "Chasser",
+        "Chiffrer"
+      ],
+      "correctIndex": 0,
+      "explanation": "D'après le document, 'to seek' signifie 'chercher'."
+    },
+    {
+      "id": "q32",
+      "prompt": "Comment traduit-on 'truth' ?",
+      "choices": [
+        "La vérité",
+        "La réalité",
+        "La dignité",
+        "La pureté",
+        "La légalité"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Truth' est 'la vérité'."
+    },
+    {
+      "id": "q33",
+      "prompt": "What is 'a rate' in French?",
+      "choices": [
+        "Un taux",
+        "Un temps",
+        "Un test",
+        "Un ton",
+        "Un tour"
+      ],
+      "correctIndex": 0,
+      "explanation": "La source traduit 'a rate' par 'un taux'."
+    },
+    {
+      "id": "q34",
+      "prompt": "Que signifie l'adjectif 'entrenched' ?",
+      "choices": [
+        "Enraciné",
+        "Encadré",
+        "Engagé",
+        "Entouré",
+        "Enlevé"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Entrenched' se traduit par 'enraciné'."
+    },
+    {
+      "id": "q35",
+      "prompt": "What is the French translation for the term 'truth'?",
+      "choices": [
+        "la vérité",
+        "la clarté",
+        "la fidélité",
+        "la réalité",
+        "la loyauté"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to the vocabulary list on page 51, 'truth' translates to 'la vérité'."
+    },
+    {
+      "id": "q36",
+      "prompt": "How is 'a rate' translated in the context of police statistics?",
+      "choices": [
+        "un gain",
+        "un prix",
+        "un rang",
+        "un taux",
+        "un coût"
+      ],
+      "correctIndex": 3,
+      "explanation": "Page 51 defines 'a rate' as 'un taux'."
+    },
+    {
+      "id": "q37",
+      "prompt": "Which French word corresponds to the adjective 'entrenched'?",
+      "choices": [
+        "accentué",
+        "enraciné",
+        "déterminé",
+        "renforcé",
+        "impliqué"
+      ],
+      "correctIndex": 1,
+      "explanation": "The source material on page 51 identifies 'entrenched' as 'enraciné'."
+    },
+    {
+      "id": "q38",
+      "prompt": "What is the French equivalent of the adverb 'routinely'?",
+      "choices": [
+        "successivement",
+        "particulièrement",
+        "volontairement",
+        "nécessairement",
+        "systématiquement"
+      ],
+      "correctIndex": 4,
+      "explanation": "On page 51, 'routinely' is translated as 'systématiquement'."
+    },
+    {
+      "id": "q39",
+      "prompt": "Translate the verbal expression 'to trample on' into French.",
+      "choices": [
+        "bafouer",
+        "manquer",
+        "blesser",
+        "ignorer",
+        "limiter"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'to trample on' is defined as 'bafouer' on page 51."
+    },
+    {
+      "id": "q40",
+      "prompt": "What does 'freedom of expression' mean in French?",
+      "choices": [
+        "la liberté d’expression",
+        "la liberté d’information",
+        "la liberté d’association",
+        "la liberté d’insurrection",
+        "la liberté d’intervention"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to page 52, 'freedom of expression' translates to 'la liberté d’expression'."
+    },
+    {
+      "id": "q41",
+      "prompt": "How is 'a peaceful assembly' translated in the text?",
+      "choices": [
+        "un mouvement politique",
+        "un rassemblement pacifique",
+        "un groupement sporadique",
+        "un engagement spécifique",
+        "un traitement méthodique"
+      ],
+      "correctIndex": 1,
+      "explanation": "Page 52 defines 'a peaceful assembly' as 'un rassemblement pacifique'."
+    },
+    {
+      "id": "q42",
+      "prompt": "What is the French translation for the adjective 'heavy-handed'?",
+      "choices": [
+        "autoritaire",
+        "élémentaire",
+        "volontaire",
+        "sedentaire",
+        "secondaire"
+      ],
+      "correctIndex": 0,
+      "explanation": "In the context of the course, 'heavy-handed' means 'autoritaire' (page 52)."
+    },
+    {
+      "id": "q43",
+      "prompt": "Which French term is the correct equivalent of 'reliable'?",
+      "choices": [
+        "souple",
+        "stable",
+        "fiable",
+        "simple",
+        "visible"
+      ],
+      "correctIndex": 2,
+      "explanation": "The vocabulary on page 52 translates 'reliable' as 'fiable'."
+    },
+    {
+      "id": "q44",
+      "prompt": "What is the French equivalent for 'a survey'?",
+      "choices": [
+        "une enquête",
+        "une requête",
+        "une défaite",
+        "une collecte",
+        "une recette"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 52 identifies 'a survey' as 'une enquête'."
+    },
+    {
+      "id": "q45",
+      "prompt": "How is 'an encounter' translated in this vocabulary list?",
+      "choices": [
+        "une manifestation",
+        "une confrontation",
+        "une collaboration",
+        "une démonstration",
+        "une communication"
+      ],
+      "correctIndex": 1,
+      "explanation": "On page 52, 'an encounter' is translated as 'une confrontation'."
+    },
+    {
+      "id": "q46",
+      "prompt": "What does the adjective 'alleged' mean in French?",
+      "choices": [
+        "allégué",
+        "affiché",
+        "accepté",
+        "apporté",
+        "assigné"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 52 defines 'alleged' as 'allégué'."
+    },
+    {
+      "id": "q47",
+      "prompt": "What is the French translation for 'broad'?",
+      "choices": [
+        "large",
+        "riche",
+        "calme",
+        "libre",
+        "ferme"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to page 52, 'broad' translates to 'large'."
+    },
+    {
+      "id": "q48",
+      "prompt": "How is the conjunction 'though' translated in this list?",
+      "choices": [
+        "puisque",
+        "lorsque",
+        "quoique",
+        "presque",
+        "quelque"
+      ],
+      "correctIndex": 2,
+      "explanation": "The term 'though' is translated as 'quoique' on page 52."
+    },
+    {
+      "id": "q49",
+      "prompt": "What is the French equivalent for the verb 'to suffer'?",
+      "choices": [
+        "soutenir",
+        "recourir",
+        "souffrir",
+        "survenir",
+        "réfléchir"
+      ],
+      "correctIndex": 2,
+      "explanation": "Page 52 defines 'to suffer' as 'souffrir'."
+    },
+    {
+      "id": "q50",
+      "prompt": "Translate the verb 'to treat' into French.",
+      "choices": [
+        "traiter",
+        "tenter",
+        "tomber",
+        "tâcher",
+        "tramer"
+      ],
+      "correctIndex": 0,
+      "explanation": "The vocabulary on page 52 identifies 'to treat' as 'traiter'."
+    },
+    {
+      "id": "q51",
+      "prompt": "What is the French translation for 'enforcement'?",
+      "choices": [
+        "l’interdiction",
+        "l’assimilation",
+        "l’organisation",
+        "l’application",
+        "l’intervention"
+      ],
+      "correctIndex": 3,
+      "explanation": "According to page 52, 'enforcement' refers to 'l’application'."
+    },
+    {
+      "id": "q52",
+      "prompt": "Which French term corresponds to 'a belief'?",
+      "choices": [
+        "une méfiance",
+        "une prudence",
+        "une croyance",
+        "une présence",
+        "une instance"
+      ],
+      "correctIndex": 2,
+      "explanation": "Page 52 identifies 'a belief' as 'une croyance'."
+    },
+    {
+      "id": "q53",
+      "prompt": "How is 'a disability' translated into French?",
+      "choices": [
+        "un handicap",
+        "un dérapage",
+        "un voisinage",
+        "un passage",
+        "un équipage"
+      ],
+      "correctIndex": 0,
+      "explanation": "On page 52, 'a disability' translates to 'un handicap'."
+    },
+    {
+      "id": "q54",
+      "prompt": "What is the French meaning of 'to be built into'?",
+      "choices": [
+        "être limité",
+        "être intégré",
+        "être exposé",
+        "être achevé",
+        "être orienté"
+      ],
+      "correctIndex": 1,
+      "explanation": "Page 52 defines 'to be built into' as 'être intégré'."
+    },
+    {
+      "id": "q55",
+      "prompt": "What is the French equivalent of 'racial profiling'?",
+      "choices": [
+        "le pilotage social",
+        "le clivage marital",
+        "le profilage racial",
+        "le montage spatial",
+        "le dosage partiel"
+      ],
+      "correctIndex": 2,
+      "explanation": "The term 'racial profiling' is translated as 'le profilage racial' on page 52."
+    },
+    {
+      "id": "q56",
+      "prompt": "How is the prepositional phrase 'according to' translated?",
+      "choices": [
+        "selon",
+        "avant",
+        "parmi",
+        "outre",
+        "entre"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 52 identifies 'according to' as 'selon'."
+    },
+    {
+      "id": "q57",
+      "prompt": "What is the French translation for 'ombudsman'?",
+      "choices": [
+        "un médiateur",
+        "un inspecteur",
+        "un éducateur",
+        "un régulateur",
+        "un formateur"
+      ],
+      "correctIndex": 0,
+      "explanation": "On page 52, 'ombudsman' is defined as 'un médiateur'."
+    },
+    {
+      "id": "q58",
+      "prompt": "Translate the verb 'to perceive' into French.",
+      "choices": [
+        "percevoir",
+        "concevoir",
+        "prévoir",
+        "recevoir",
+        "devoir"
+      ],
+      "correctIndex": 0,
+      "explanation": "The vocabulary on page 52 identifies 'to perceive' as 'percevoir'."
+    },
+    {
+      "id": "q59",
+      "prompt": "What is the French equivalent for 'likely'?",
+      "choices": [
+        "possible",
+        "probable",
+        "flexible",
+        "sensible",
+        "terrible"
+      ],
+      "correctIndex": 1,
+      "explanation": "Page 52 defines 'likely' as 'probable'."
+    },
+    {
+      "id": "q60",
+      "prompt": "How is the adjective 'horrific' translated into French?",
+      "choices": [
+        "horrible",
+        "tangible",
+        "visible",
+        "paisible",
+        "possible"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to page 52, 'horrific' translates to 'horrible'."
+    },
+    {
+      "id": "q61",
+      "prompt": "What is the French translation for the verb 'to spark'?",
+      "choices": [
+        "susciter",
+        "limiter",
+        "éviter",
+        "écarter",
+        "adopter"
+      ],
+      "correctIndex": 0,
+      "explanation": "Page 52 identifies 'to spark' as 'susciter'."
+    },
+    {
+      "id": "q62",
+      "prompt": "Which French word corresponds to the adjective 'widespread'?",
+      "choices": [
+        "répandu",
+        "entendu",
+        "attendu",
+        "perdu",
+        "rendu"
+      ],
+      "correctIndex": 0,
+      "explanation": "On page 52, 'widespread' is translated as 'répandu'."
+    },
+    {
+      "id": "q63",
+      "prompt": "How is the preposition 'beyond' translated in the text?",
+      "choices": [
+        "au-delà",
+        "en-deçà",
+        "au-dehors",
+        "au-dedans",
+        "au-dessus"
+      ],
+      "correctIndex": 0,
+      "explanation": "The term 'beyond' is defined as 'au-delà' on page 52."
+    },
+    {
+      "id": "q64",
+      "prompt": "What does 'to be held accountable' mean in French?",
+      "choices": [
+        "être jugé coupable",
+        "être rendu redevable",
+        "être tenu responsable",
+        "être traité équitable",
+        "être rendu disponible"
+      ],
+      "correctIndex": 2,
+      "explanation": "According to page 52, 'to be held accountable' translates to 'être tenu responsable'."
+    },
+    {
+      "id": "q65",
+      "prompt": "What is the French equivalent for the adverb 'broadly'?",
+      "choices": [
+        "clairement",
+        "librement",
+        "largement",
+        "fermement",
+        "purement"
+      ],
+      "correctIndex": 2,
+      "explanation": "Page 52 identifies 'broadly' as 'largement'."
+    },
+    {
+      "id": "q66",
+      "prompt": "How is 'in the wake of' translated into French?",
+      "choices": [
+        "suite à",
+        "face à",
+        "grâce à",
+        "liée à",
+        "prête à"
+      ],
+      "correctIndex": 0,
+      "explanation": "On page 52, 'in the wake of' is translated as 'suite à'."
+    },
+    {
+      "id": "q67",
+      "prompt": "What is the French translation for 'despite'?",
+      "choices": [
+        "malgré",
+        "contre",
+        "hormis",
+        "pendant",
+        "durant"
+      ],
+      "correctIndex": 0,
+      "explanation": "According to page 52, 'despite' translates to 'malgré'."
+    },
+    {
+      "id": "q68",
+      "prompt": "How is the adjective 'deadly' translated in this list?",
+      "choices": [
+        "cruel",
+        "mortel",
+        "rituel",
+        "formel",
+        "actuel"
+      ],
+      "correctIndex": 1,
+      "explanation": "Page 52 defines 'deadly' as 'mortel'."
+    }
+  ]
+}
