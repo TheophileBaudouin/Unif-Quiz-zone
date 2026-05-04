@@ -1,0 +1,735 @@
+{
+  "quizId": "genre-travail-et-humour",
+  "title": "Genre, travail et humour",
+  "section": {
+    "id": "genre-travail-et-humour",
+    "title": "Genre, travail et humour",
+    "startPage": 80,
+    "endPage": 94,
+    "summary": "Division sexuée du travail, ségrégation horizontale et verticale (plafond de verre), travail émotionnel et fonction de l'humour comme mécanisme de défense en milieu professionnel.",
+    "estimatedQuestionCount": 60
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon la sociologie du genre au travail, sur quoi s'appuie la socialisation professionnelle ou secondaire ?",
+      "choices": [
+        "Elle s'appuie directement sur la socialisation primaire, qui façonne les choix initiaux.",
+        "Elle dépend principalement des expériences individuelles post-éducation formelle.",
+        "Elle est majoritairement influencée par les politiques gouvernementales et les lois du travail.",
+        "Elle se développe indépendamment des premières interactions familiales ou éducatives.",
+        "Elle est surtout définie par les aspirations personnelles et les opportunités de carrière."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Quelles sont les deux conséquences principales de la socialisation primaire, mentionnées comme ayant un impact sur le genre au travail ?",
+      "choices": [
+        "Un choix différencié dans les parcours scolaires et une division sexuée du marché du travail.",
+        "Une augmentation des inégalités salariales et une diminution de la participation féminine.",
+        "Une prédominance des carrières scientifiques pour les hommes et artistiques pour les femmes.",
+        "Un renforcement des syndicats féminins et une flexibilité accrue des horaires de travail.",
+        "Une meilleure reconnaissance du travail non rémunéré et une réduction du temps partiel choisi."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q3",
+      "prompt": "Comment les attentes sociales et les stéréotypes de genre influencent-ils les choix de carrière selon Croity-Belz et al. ?",
+      "choices": [
+        "Ils contribuent au maintien du caractère sexué des choix de carrière et des trajectoires professionnelles.",
+        "Ils facilitent une plus grande diversité dans les parcours éducatifs et professionnels individuels.",
+        "Ils incitent les individus à défier les normes de genre établies dès le début de leur cursus.",
+        "Ils ont un impact négligeable sur les orientations professionnelles après l'âge adulte.",
+        "Ils encouragent une répartition équitable des rôles entre les sexes dans tous les domaines d'emploi."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q4",
+      "prompt": "Concernant l'historique de l'emploi des femmes, quelle affirmation est exacte selon le document ?",
+      "choices": [
+        "Les femmes ont toujours travaillé, mais n'ont pas toujours été considérées sur le marché de l'emploi.",
+        "Les femmes ont historiquement intégré le marché de l'emploi plus tardivement que les hommes.",
+        "Le travail des femmes a toujours été valorisé économiquement au même titre que celui des hommes.",
+        "Les statistiques ont toujours correctement reflété la contribution économique des femmes au foyer.",
+        "Les femmes ont commencé à travailler exclusivement après les années 1960, suite à des réformes."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q5",
+      "prompt": "Quel est un facteur majeur qui a énormément changé la répartition de l'emploi au sein des couples hétérosexuels ?",
+      "choices": [
+        "Plus souvent les femmes que les hommes s'arrêtent de travailler pour élever les enfants.",
+        "Les hommes ont majoritairement assumé la responsabilité des tâches ménagères et familiales.",
+        "Les femmes ont obtenu des congés maternité plus longs et entièrement rémunérés.",
+        "Les attentes sociales concernant le rôle parental ont complètement disparu des sphères privées.",
+        "Les politiques d'entreprise favorisent désormais une égalité stricte dans l'accès aux congés familiaux."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q6",
+      "prompt": "Dans certains pays européens, quel est l'impact de la répartition des tâches et des responsabilités familiales sur la carrière des femmes ?",
+      "choices": [
+        "Les femmes ont tendance à arrêter définitivement leur travail rémunéré.",
+        "Les femmes accèdent plus rapidement aux postes à haute responsabilité.",
+        "Les femmes bénéficient d'une flexibilité accrue pour concilier vie professionnelle et familiale.",
+        "Les femmes sont incitées à poursuivre des carrières à temps plein sans interruption.",
+        "Les femmes sont rémunérées de manière égale pour un volume de travail équivalent."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q7",
+      "prompt": "Quel rôle majeur les politiques et les lois jouent-elles dans la répartition des rôles genrés ?",
+      "choices": [
+        "Elles ont historiquement imposé des interdits juridiques aux femmes jusqu'aux années 60.",
+        "Elles garantissent une égalité parfaite des sexes dans tous les secteurs professionnels.",
+        "Elles ont systématiquement favorisé l'accès des femmes aux postes de pouvoir politique.",
+        "Elles sont neutres en matière de genre, laissant le marché du travail s'autoréguler.",
+        "Elles encouragent principalement les hommes à s'engager dans des professions traditionnellement féminines."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q8",
+      "prompt": "Jusqu'aux années 60, quels types d'interdits juridiques étaient en place, notamment pour les femmes ?",
+      "choices": [
+        "Des interdits concernant l'accès à certaines professions comme l'armée et la police.",
+        "Des restrictions sur l'accès à l'éducation supérieure et aux universités publiques.",
+        "Des lois interdisant aux femmes de voter et de posséder des biens immobiliers.",
+        "Des régulations empêchant les femmes de créer leur propre entreprise ou de gérer des finances.",
+        "Des règles interdisant la participation des femmes à la vie politique et aux assemblées locales."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q9",
+      "prompt": "Comment le congé de paternité et de co-parentalité a-t-il évolué en 2023, d'après le texte ?",
+      "choices": [
+        "Il est passé de 10 jours à 20 jours en 2023.",
+        "Il a été réduit de 20 jours à 10 jours en 2023.",
+        "Il a été introduit pour la première fois en 2023 avec une durée de 10 jours.",
+        "Il est resté inchangé, à 10 jours, malgré les discussions sur son augmentation.",
+        "Il a été remplacé par un congé parental unique de 20 jours pour les deux parents."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q10",
+      "prompt": "Selon le Tableau 1 (Fin 2003), quels pays offraient un congé légal de maternité avec une rémunération inférieure à 80% du salaire ?",
+      "choices": [
+        "Belgique, Finlande, Hongrie, Irlande et Royaume-Uni.",
+        "Allemagne, Slovénie, Autriche, France et Grèce.",
+        "Danemark, Italie, Slovaquie et Suède.",
+        "Luxembourg, Pays-Bas, Pologne et Portugal.",
+        "Espagne, Norvège et un groupe de pays non spécifiés."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q11",
+      "prompt": "D'après le Tableau 1 (Fin 2003), quels pays garantissaient une rémunération de 100% du salaire pour le congé légal de maternité ?",
+      "choices": [
+        "Allemagne, Slovénie, Autriche, France, Grèce, Luxembourg, Pays-Bas, Pologne, Portugal, Espagne et Norvège.",
+        "Belgique, Danemark, Italie, Royaume-Uni et Suède.",
+        "Finlande, Hongrie, Irlande et Slovaquie.",
+        "Seuls l'Allemagne et la France offraient cette compensation intégrale.",
+        "Uniquement les pays scandinaves comme la Norvège et le Danemark."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q12",
+      "prompt": "Que montre le schéma sur la répartition du temps partiel depuis l'arrivée des femmes sur le marché de l'emploi ?",
+      "choices": [
+        "Une énorme augmentation du temps partiel et une supériorité constante chez les femmes.",
+        "Une diminution constante du temps partiel pour les deux sexes au fil des ans.",
+        "Une égalisation progressive de la répartition du temps partiel entre hommes et femmes.",
+        "Une prédominance du temps partiel chez les hommes en raison de contraintes économiques.",
+        "Une stabilité du temps partiel, sans variation significative par rapport au genre."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q13",
+      "prompt": "Quel pourcentage de femmes salariées en Belgique occupait un emploi à temps partiel en 2024 ?",
+      "choices": [
+        "40,5%.",
+        "0,5%.",
+        "12,8%.",
+        "1,9%.",
+        "8,0%."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q14",
+      "prompt": "En 1983, quel était le pourcentage de femmes et d'hommes travaillant à temps partiel en Belgique, d'après Stabel (2025) ?",
+      "choices": [
+        "Femmes 0,5% et hommes 1,9%.",
+        "Femmes 12,8% et hommes 0,5%.",
+        "Femmes 1,9% et hommes 12,8%.",
+        "Femmes 40,5% et hommes 8%.",
+        "Femmes 8% et hommes 40,5%."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q15",
+      "prompt": "Pour quelles raisons les femmes de plus de 54 ans réduisent-elles leur temps de travail en Europe ?",
+      "choices": [
+        "Pour des raisons familiales (aidance, petits-enfants) ou de santé.",
+        "Principalement pour se concentrer sur des projets personnels ou de loisirs.",
+        "À cause d'une diminution de la demande pour leurs compétences professionnelles.",
+        "En raison de politiques d'entreprise incitant au départ anticipé à la retraite.",
+        "Pour se consacrer exclusivement à des activités bénévoles et associatives."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q16",
+      "prompt": "Quelle caractéristique principale est associée aux emplois féminisés en ce qui concerne le temps partiel ?",
+      "choices": [
+        "Ils sont déjà très souvent à temps partiel.",
+        "Ils sont principalement des emplois à temps plein avec des horaires flexibles.",
+        "Ils offrent des opportunités égales de progression professionnelle, qu'ils soient à temps partiel ou non.",
+        "Ils sont généralement mieux rémunérés que les emplois à temps plein pour les femmes.",
+        "Ils sont rarement disponibles en temps partiel, nécessitant une forte disponibilité."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q17",
+      "prompt": "Selon la source, quelle est la principale raison pour laquelle les hommes travaillent à temps partiel ?",
+      "choices": [
+        "Ils le font souvent par contrainte, car le boulot ne proposait qu'un temps partiel.",
+        "Ils le choisissent pour mieux concilier vie familiale et vie professionnelle.",
+        "Ils sont majoritairement motivés par des raisons de santé ou d'incapacité de travail.",
+        "Ils préfèrent le temps partiel pour accumuler plusieurs emplois simultanément.",
+        "Ils optent pour le temps partiel afin de poursuivre des études ou des formations continues."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q18",
+      "prompt": "Quels types d'emplois sont plus particulièrement touchés par le temps partiel chez les femmes ?",
+      "choices": [
+        "Les emplois peu qualifiés et faiblement rémunérés.",
+        "Les postes de haute direction et de leadership.",
+        "Les professions scientifiques et techniques de pointe.",
+        "Les carrières dans le secteur public et la fonction publique.",
+        "Les métiers exigeant des compétences hautement spécialisées."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q19",
+      "prompt": "D'après le tableau 'Motivation des salariés pour travailler à temps partiel selon le sexe (2020)', quelle est la motivation la plus fréquente pour les hommes ?",
+      "choices": [
+        "L'emploi souhaité n'est proposé qu'à temps partiel.",
+        "Les soins aux enfants ou à d'autres personnes dépendantes.",
+        "Des raisons de santé ou d'incapacité de travail.",
+        "La combinaison du travail avec les études.",
+        "La recherche d'un autre emploi à temps partiel."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q20",
+      "prompt": "Toujours selon le tableau 'Motivation des salariés pour travailler à temps partiel selon le sexe (2020)', quelle est la motivation la plus fréquente pour les femmes ?",
+      "choices": [
+        "Les soins aux enfants ou à d'autres personnes dépendantes.",
+        "L'emploi souhaité n'est proposé qu'à temps partiel.",
+        "D'autres raisons d'ordre personnel ou familial.",
+        "La combinaison du travail avec les études.",
+        "Des raisons de santé ou d'incapacité de travail."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q21",
+      "prompt": "Selon la source, qu'est-ce que la ségrégation verticale, également appelée 'plafond de verre' ?",
+      "choices": [
+        "Une barrière invisible mais bien réelle qui limite la progression professionnelle des femmes vers les postes à responsabilités.",
+        "Une concentration de femmes dans certains secteurs d'activité spécifiques, peu importe leur qualification.",
+        "La difficulté pour les femmes d'accéder à des emplois stables en raison de la précarité du marché.",
+        "Le phénomène par lequel les femmes quittent progressivement leur parcours professionnel pour des raisons personnelles.",
+        "La surreprésentation des hommes dans les métiers traditionnellement féminins, freinant l'avancement des femmes."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q22",
+      "prompt": "Quelles sont les causes principales du 'plafond de verre' selon le document ?",
+      "choices": [
+        "Les normes sociales, les stéréotypes, les réseaux informels et les pratiques organisationnelles.",
+        "Un manque d'ambition et de confiance en soi de la part des femmes elles-mêmes.",
+        "Des règles et procédures formelles d'entreprise explicitement discriminatoires.",
+        "Une insuffisance de qualifications ou de compétences chez les femmes candidates.",
+        "L'absence de politiques gouvernementales visant à promouvoir l'égalité professionnelle."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q23",
+      "prompt": "Selon Acker (1990), que révèlent les organisations en ce qui concerne le genre et le 'travailleur idéal' ?",
+      "choices": [
+        "Les organisations ne sont pas neutres et discriminent les femmes en favorisant un individu universel, désincarné.",
+        "Les organisations sont neutres et valorisent la diversité des parcours professionnels pour tous les genres.",
+        "Les organisations promeuvent activement l'égalité des sexes en reconnaissant toutes les formes de travail.",
+        "Les organisations s'efforcent de créer un environnement inclusif qui dépasse les stéréotypes de genre.",
+        "Les organisations adaptent leurs définitions du travail idéal pour inclure les responsabilités familiales."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q24",
+      "prompt": "Quelle est la définition du 'travailleur idéal' d'Acker, telle que mise en évidence dans le Wooclap ?",
+      "choices": [
+        "Une figure prétendument neutre, construite autour du modèle masculin, totalement disponible et sans responsabilités familiales.",
+        "Un salarié dont la carrière suit un parcours continu et linéaire, valorisé pour sa stabilité.",
+        "Un individu qui parvient à séparer sa vie personnelle et sa vie professionnelle pour garantir objectivité.",
+        "Un employé qui excelle par sa capacité à gérer le travail émotionnel et le travail du corps.",
+        "Un professionnel qui adapte ses compétences aux besoins fluctuants du marché du travail contemporain."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q25",
+      "prompt": "Qu'est-ce que la ségrégation horizontale, ou 'mur de verre' ?",
+      "choices": [
+        "Une concentration féminine ou masculine dans un certain secteur d'activité.",
+        "Une barrière invisible qui empêche les femmes d'accéder aux postes de direction.",
+        "La difficulté pour les hommes d'intégrer des métiers à forte proportion féminine.",
+        "Le phénomène par lequel les salaires diminuent dans les secteurs féminisés.",
+        "Une politique visant à diversifier les genres dans tous les départements d'une entreprise."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q26",
+      "prompt": "Quel est l'un des effets de la ségrégation horizontale sur les femmes ?",
+      "choices": [
+        "Elles sont confinées dans certains types de métiers, souvent moins valorisés et moins rémunérés.",
+        "Elles sont systématiquement promues aux postes de direction dans les secteurs féminisés.",
+        "Elles bénéficient d'une plus grande diversité de secteurs d'emploi comparativement aux hommes.",
+        "Elles accèdent plus facilement aux emplois flexibles et mieux qualifiés que les hommes.",
+        "Elles peuvent choisir librement entre des professions à dominante masculine ou féminine."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q27",
+      "prompt": "Quel phénomène est observé concernant le prestige des métiers lorsque les femmes commencent à les investir majoritairement ?",
+      "choices": [
+        "Ces métiers tendent à perdre du prestige, comme l'exemple des instituteur/trices.",
+        "Ces métiers acquièrent un prestige nouveau grâce à la contribution féminine.",
+        "Le prestige de ces métiers reste stable, indépendant du genre des occupants.",
+        "Le prestige augmente uniquement si des hommes entrent dans ces professions.",
+        "Ces métiers sont valorisés pour leur flexibilité et leur impact social accru."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q28",
+      "prompt": "Quel est le principe fondamental des politiques de 'gender mainstreaming' ?",
+      "choices": [
+        "L'approche de l'égalité hommes/femmes doit prendre en compte les effets du genre dans toutes les politiques.",
+        "La mise en place de quotas stricts pour garantir une représentation égale des sexes à tous les niveaux.",
+        "L'établissement de formations obligatoires pour les femmes afin d'accroître leurs compétences techniques.",
+        "La création de postes spécifiquement réservés aux femmes pour corriger les inégalités passées.",
+        "La promotion de la division sexuée du travail comme moyen d'optimiser l'efficacité organisationnelle."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q29",
+      "prompt": "Quelle est la caractéristique principale du travail domestique selon le texte ?",
+      "choices": [
+        "Il est non-rémunéré, dévalorisé, invisible, et n'est pas considéré comme un vrai métier.",
+        "Il est rémunéré de manière indirecte par l'épargne générée et les économies réalisées.",
+        "Il est de plus en plus reconnu comme une activité économique majeure et quantifiable.",
+        "Il est principalement effectué par des professionnels externes et rémunérés.",
+        "Il contribue directement au PIB d'un pays, même s'il est informel."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q30",
+      "prompt": "Qu'est-ce que la 'productivité' selon la définition fournie ?",
+      "choices": [
+        "Le travail productif, rémunéré, reconnu par le marché, qui compte dans le PIB (emploi).",
+        "Le travail reproductif, non rémunéré, indispensable à la survie de la société.",
+        "L'ensemble des activités non économiques qui contribuent au bien-être familial.",
+        "La capacité d à maintenir un équilibre entre vie professionnelle et vie privée.",
+        "La contribution des activités bénévoles à la richesse nationale et au développement."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q31",
+      "prompt": "Qu'est-ce que la 'reproductivité' d'après le texte ?",
+      "choices": [
+        "Le travail reproductif, non rémunéré, indispensable à la survie de la société (soins, ménage, éducation, charge mentale).",
+        "Le travail rémunéré qui contribue directement à la croissance économique et au PIB national.",
+        "L'ensemble des activités professionnelles exercées à temps partiel par les femmes.",
+        "La capacité des individus à se former tout au long de leur vie professionnelle.",
+        "Les efforts déployés pour maintenir un équilibre entre les rôles familiaux et les ambitions de carrière."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q32",
+      "prompt": "Comment le travail productif et reproductif sont-ils complémentaires et valorisés selon le document ?",
+      "choices": [
+        "Ces deux sphères sont complémentaires, mais seule la productivité est valorisée économiquement.",
+        "Les deux sphères sont également valorisées économiquement, bien que différemment.",
+        "Le travail reproductif est désormais plus valorisé que le travail productif dans nos sociétés.",
+        "La complémentarité n'existe pas, car les deux types de travail s'opposent fondamentalement.",
+        "La valorisation dépend entièrement des politiques gouvernementales et des subventions."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q33",
+      "prompt": "Selon le tableau récapitulatif, qui réalise majoritairement le travail productif et le travail reproductif ?",
+      "choices": [
+        "Les hommes réalisent majoritairement le travail productif et les femmes le travail reproductif.",
+        "Les femmes réalisent majoritairement le travail productif et les hommes le travail reproductif.",
+        "Les deux types de travail sont également répartis entre hommes et femmes.",
+        "La répartition varie selon les pays, sans majorité claire pour l'un ou l'autre sexe.",
+        "La plupart des tâches reproductives sont externalisées et réalisées par des professionnels."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q34",
+      "prompt": "En ce qui concerne les contraintes physiques au travail, quelle affirmation est vraie pour les femmes ?",
+      "choices": [
+        "Les femmes sont moins exposées à des contraintes physiques intenses.",
+        "Les femmes sont davantage exposées à des tâches exigeant une force physique considérable.",
+        "Les contraintes physiques sont équivalentes pour les hommes et les femmes dans la plupart des métiers.",
+        "Les femmes bénéficient de plus d'aménagements pour éviter les contraintes physiques.",
+        "La perception des contraintes physiques est subjective et ne dépend pas du genre."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q35",
+      "prompt": "De quelles manières les femmes sont-elles davantage impactées par les contraintes organisationnelles et psychosociales au travail ?",
+      "choices": [
+        "Elles subissent une intensité émotionnelle accrue, une moindre autonomie et une demande psychologique plus grande.",
+        "Elles sont confrontées à une pression plus faible et à un stress réduit par rapport aux hommes.",
+        "Elles ont une flexibilité accrue pour gérer leur vie familiale sans conséquences négatives sur leur travail.",
+        "Elles bénéficient d'un soutien organisationnel plus important pour faire face aux défis émotionnels.",
+        "Elles sont moins sujettes aux critiques concernant leur conciliation travail-famille."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q36",
+      "prompt": "Comment la division du travail sexuée se manifeste-t-elle dans les ménages, en ce qui concerne l'utilisation des compétences ?",
+      "choices": [
+        "Les employeurs utilisent différemment les compétences masculines et féminines et les essentialisent.",
+        "Les compétences sont valorisées de manière égale, indépendamment du genre des individus.",
+        "Les hommes et les femmes partagent équitablement toutes les compétences nécessaires aux tâches ménagères.",
+        "La spécialisation des compétences est encouragée pour optimiser l'efficacité du foyer.",
+        "Les entreprises offrent des formations pour aider à la répartition égale des compétences."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q37",
+      "prompt": "Quelle est la différence observée dans la répartition des tâches ménagères entre les femmes et les hommes ?",
+      "choices": [
+        "Les femmes s'occupent plus des ménages obligatoires, tandis que les hommes font les tâches secondaires (bricolage, jardinage).",
+        "Les hommes assument les tâches ménagères obligatoires, laissant les femmes gérer les tâches secondaires.",
+        "La répartition des tâches est généralement équitable, sans différence majeure selon le genre.",
+        "Les femmes délèguent la majorité des tâches ménagères à des prestataires externes.",
+        "Les jeunes générations montrent une inversion complète des rôles traditionnels dans la répartition des tâches."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q38",
+      "prompt": "Quel concept décrit le fait que les femmes pensent constamment aux tâches ménagères, même lorsqu'elles sont au travail ?",
+      "choices": [
+        "La charge mentale.",
+        "Le travail émotionnel.",
+        "La double journée.",
+        "La productivité invisible.",
+        "La ségrégation cognitive."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q39",
+      "prompt": "Quels stéréotypes de genre sont renforcés concernant la sphère privée et publique ?",
+      "choices": [
+        "Les femmes sont vues comme prédisposées à la sphère privée et aux tâches de soin, et les hommes à la sphère publique et aux postes de pouvoir.",
+        "Les hommes sont prédisposés aux tâches domestiques, tandis que les femmes excellent dans les compétences techniques.",
+        "La distinction entre sphère privée et publique tend à disparaître grâce aux nouvelles générations.",
+        "Les rôles sont interchangeables, sans réelle prédisposition de genre pour une sphère spécifique.",
+        "Les compétences techniques sont valorisées pour les femmes, et le soin pour les hommes."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q40",
+      "prompt": "Comment le genre fonctionne-t-il dans l'organisation du travail selon les principes organisateurs mentionnés ?",
+      "choices": [
+        "Le genre agit comme un principe organisateur basé sur la séparation et la hiérarchie.",
+        "Le genre est un concept neutre qui ne structure pas l'organisation du travail.",
+        "Le genre favorise la mixité et l'égalité des chances à tous les niveaux hiérarchiques.",
+        "Le genre est utilisé pour encourager la flexibilité des rôles et des responsabilités.",
+        "Le genre est un facteur secondaire, les compétences étant le principe organisateur principal."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q41",
+      "prompt": "Dans l'institution pénitentiaire, comment la division genrée des tâches se manifeste-t-elle ?",
+      "choices": [
+        "La formation insiste sur l'importance de la force (hommes), et les tâches bureaucratiques sont assignées aux femmes.",
+        "Les hommes et les femmes reçoivent la même formation, sans distinction de rôle.",
+        "Les tâches administratives sont principalement confiées aux hommes, et la force aux femmes.",
+        "La division des tâches est basée sur les préférences individuelles, non sur le genre.",
+        "Les femmes sont majoritairement affectées aux rôles de sécurité, et les hommes aux tâches relationnelles."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q42",
+      "prompt": "Concernant le journalisme, quelle observation est faite sur la place des femmes dans cette profession récemment féminisée ?",
+      "choices": [
+        "Elles occupent peu les postes à responsabilités (16%) et le genre pèse sur l'affection des postes.",
+        "Elles accèdent massivement aux postes de direction, révolutionnant les hiérarchies.",
+        "La féminisation a conduit à une égalité parfaite dans la répartition des postes et sujets.",
+        "Les femmes sont surreprésentées dans les sujets d'actualité politique et économique.",
+        "La profession est devenue entièrement neutre en termes de genre, sans aucune distinction."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q43",
+      "prompt": "Quelles sont les tâches ménagères majoritairement assignées aux femmes ?",
+      "choices": [
+        "Le travail répétitif, les règles obligatoires et chronophages comme la vaisselle, le linge et le nettoyage.",
+        "Le bricolage, le jardinage et les réparations diverses à la maison.",
+        "La gestion des finances familiales et des investissements à long terme.",
+        "Les activités de planification des loisirs et des vacances familiales.",
+        "Les tâches occasionnelles nécessitant une force physique importante."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q44",
+      "prompt": "Qu'est-ce que la 'double journée de travail' ?",
+      "choices": [
+        "Le fait de travailler au moins 10h par semaine pour le ménage, en plus du travail rémunéré.",
+        "La nécessité pour les femmes de cumuler deux emplois à temps partiel pour subsister.",
+        "L'obligation de travailler le week-end en plus de la semaine complète en entreprise.",
+        "La gestion simultanée d'une carrière professionnelle et d'un rôle d'aidant familial.",
+        "Le phénomène où les femmes sont présentes à la fois dans la sphère publique et privée sans distinction."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q45",
+      "prompt": "Quelle est la proportion d'hommes et de femmes concernés par la double journée de travail ?",
+      "choices": [
+        "36% de femmes et 13% d'hommes.",
+        "13% de femmes et 36% d'hommes.",
+        "50% de femmes et 50% d'hommes.",
+        "Moins de 5% de la population active, tous genres confondus.",
+        "Seulement les parents de jeunes enfants, sans distinction de genre."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q46",
+      "prompt": "Quel est l'un des impacts majeurs de la double journée de travail sur les femmes ?",
+      "choices": [
+        "Un impact significatif sur la santé et la charge mentale.",
+        "Une amélioration de leur résilience et de leur capacité de gestion du stress.",
+        "Une reconnaissance accrue de leur contribution économique au foyer.",
+        "Un renforcement de leur autonomie et de leur pouvoir de décision.",
+        "Une réduction du temps de loisirs sans conséquence négative perçue."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q47",
+      "prompt": "Concernant les dynamiques organisationnelles, comment l'exigence de disponibilité et de mobilité freine-t-elle les femmes dans leur progression ?",
+      "choices": [
+        "Elle valorise la présence hors des heures de travail et promeut un discours de vocation incompatible avec les tâches domestiques.",
+        "Elle encourage une flexibilité des horaires qui bénéficie aux femmes ayant des responsabilités familiales.",
+        "Elle impose des déplacements professionnels fréquents, mieux adaptés aux hommes célibataires.",
+        "Elle favorise les carrières féminines en exigeant une mobilité réduite et une grande autonomie.",
+        "Elle garantit un accès égal aux postes à responsabilité, sans distinction de genre ou de contrainte personnelle."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q48",
+      "prompt": "Comment la constitution de réseaux d'affinité et de sociabilité agit-elle comme frein pour les femmes dans les organisations ?",
+      "choices": [
+        "Elle se traduit par un entre-soi non formalisé, avec des sujets de discussion plutôt masculins, excluant souvent les femmes.",
+        "Elle crée des opportunités égales pour tous les genres, favorisant la diversité des points de vue.",
+        "Elle promeut une inclusion systématique des femmes dans les cercles de pouvoir informels.",
+        "Elle encourage la formation de réseaux féminins pour contrer les stéréotypes de genre existants.",
+        "Elle n'a aucun impact sur la progression professionnelle, car les compétences sont le seul critère."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q49",
+      "prompt": "En quoi consiste l'informalisation de la division des tâches comme frein pour les femmes ?",
+      "choices": [
+        "Elle rend difficile l'intégration des 'coulisses' du pouvoir où se donnent à voir les règles tacites.",
+        "Elle facilite l'accès des femmes aux postes de décision en éliminant les critères formels.",
+        "Elle standardise les procédures pour garantir une égalité de traitement, quel que soit le genre.",
+        "Elle permet aux femmes de négocier des horaires de travail flexibles plus facilement.",
+        "Elle valorise les compétences relationnelles des femmes dans tous les types de postes."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q50",
+      "prompt": "Qu'est-ce que l'endo-recrutement ?",
+      "choices": [
+        "La pratique consistant à embaucher un candidat issu de la même structure que celle qui propose le poste.",
+        "Le recrutement de candidats uniquement sur la base de leurs compétences techniques et de leur expérience.",
+        "Un processus de sélection interne favorisant la promotion des employés les plus anciens.",
+        "Une stratégie visant à diversifier les profils des employés en recrutant des personnes de différents horizons.",
+        "L'embauche de jeunes diplômés sans expérience professionnelle préalable dans l'entreprise."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q51",
+      "prompt": "Selon la source, qu'est-ce qui demeure une source majeure de définition des identités masculines ?",
+      "choices": [
+        "Le travail et la carrière professionnelle.",
+        "Les responsabilités familiales et domestiques.",
+        "Les activités de loisirs et les engagements sociaux.",
+        "L'expression des émotions et la sensibilité artistique.",
+        "Les rôles de genre attribués dès la socialisation primaire."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q52",
+      "prompt": "Selon le Wooclap, qu'est-ce que le 'tuyau percé' ?",
+      "choices": [
+        "Le phénomène par lequel les femmes (et autres groupes minorisés) quittent progressivement leur parcours professionnel.",
+        "La difficulté pour les femmes d'accéder aux postes à responsabilités en raison de critères de promotion flous.",
+        "Le fait que les femmes soient cantonnées à certains types de postes, limitant leur progression.",
+        "Le manque d'opportunités de formation continue pour les femmes dans certains secteurs.",
+        "L'absence de mesures concrètes pour lutter contre la discrimination de genre en entreprise."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q53",
+      "prompt": "Selon l'étude de Wajcman & Martin (2002) sur des cadres australiens, quelle est la tension principale vécue par les femmes ?",
+      "choices": [
+        "Une culpabilisation plus forte liée à la tension entre leur rôle de mère et la carrière à laquelle elles aspirent.",
+        "Une frustration face au désinvestissement des hommes dans l'éducation de leurs enfants, qu'elles ne partagent pas.",
+        "Une pression sociale les incitant à privilégier leur carrière au détriment de leur vie familiale.",
+        "Une difficulté à concilier des attentes professionnelles élevées avec des normes sociales égalitaires.",
+        "Un sentiment de perte d'identité professionnelle dû à des parcours de carrière hachés."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q54",
+      "prompt": "Comment les émotions sont-elles perçues au travail selon le document ?",
+      "choices": [
+        "Elles sont prescrites, ce qui implique d'avoir certaines émotions et d'agir d'une certaine manière.",
+        "Elles sont considérées comme des facteurs de perturbation à éliminer du milieu professionnel.",
+        "Elles sont spontanées et ne sont pas soumises à des attentes ou des régulations spécifiques.",
+        "Elles sont valorisées uniquement si elles sont positives et contribuent à la cohésion d'équipe.",
+        "Elles sont totalement ignorées dans l'évaluation des performances professionnelles."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q55",
+      "prompt": "Quelle est la définition du 'travail émotionnel' ?",
+      "choices": [
+        "L'effort que les salariés doivent fournir pour gérer, ajuster ou afficher certaines émotions, même si elles ne sont pas ressenties.",
+        "L'expression authentique et spontanée des sentiments au sein de l'environnement professionnel.",
+        "La capacité d'empathie naturelle manifestée par les employés envers leurs collègues et clients.",
+        "Le stress ou la frustration ressentis par les salariés dans leur activité professionnelle quotidienne.",
+        "Les tâches relationnelles et d'écoute effectuées en complément du travail principal."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q56",
+      "prompt": "Comment la nature des émotions demandées au travail varie-t-elle selon le sexe, d'après la source ?",
+      "choices": [
+        "Elle s'appuie sur la socialisation primaire, demandant empathie/séduction aux hôtesses et refus d'empathie aux recouvreurs de dettes.",
+        "Elle est universelle et ne présente aucune variation significative entre les sexes dans différents métiers.",
+        "Elle est déterminée par les compétences individuelles, indépendamment des attentes de genre.",
+        "Elle est le résultat de politiques d'entreprise visant à éliminer les stéréotypes de genre.",
+        "Elle est principalement influencée par les traits de personnalité de chaque individu, non par le sexe."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q57",
+      "prompt": "Qu'est-ce que le phénomène de l'ascenseur de verre ?",
+      "choices": [
+        "Quand un homme entre dans des métiers très féminisés, il n'est pas freiné dans sa carrière et est promu plus rapidement.",
+        "Une barrière invisible qui limite la progression professionnelle des femmes vers les postes à responsabilités.",
+        "La difficulté pour les hommes d'intégrer des métiers à forte concentration féminine.",
+        "Le fait que les femmes soient avantagées dans les métiers masculins grâce à des politiques d'action positive.",
+        "Un système de promotion basé uniquement sur le mérite, sans considération de genre ou de secteur."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q58",
+      "prompt": "Selon Dejours, à quoi sert l'humour en milieu professionnel ?",
+      "choices": [
+        "Il fonctionne comme un mécanisme de défense face à des situations difficiles, affrontant la peur et la souffrance au travail.",
+        "Il est principalement un outil de socialisation pour intégrer de nouvelles recrues dans l'équipe.",
+        "Il permet de dédramatiser les erreurs professionnelles et d'éviter les sanctions hiérarchiques.",
+        "Il est un moyen de contrôler les émotions négatives et de maintenir une façade de professionnalisme.",
+        "Il renforce la hiérarchie en permettant aux supérieurs de s'imposer sur leurs subordonnés."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q59",
+      "prompt": "Quel est l'un des rôles de l'humour dans les processus de socialisation et de construction identitaire, notamment dans le contexte policier ?",
+      "choices": [
+        "Il s'apprend et est le fruit de la socialisation policière, participant à la dédramatisation et la cohésion de groupe.",
+        "Il est principalement utilisé pour exprimer des tensions et critiquer les conditions de travail sans conséquence.",
+        "Il agit comme un outil de contrôle émotionnel, permettant de dissimuler les véritables sentiments des agents.",
+        "Il reflète des distinctions genrées dans le type d'humour pratiqué, renforçant les stéréotypes.",
+        "Il sert à remettre en question la hiérarchie et à promouvoir une prise de conscience des inégalités."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q60",
+      "prompt": "Quel est l'un des risques associés à la pratique de l'humour au travail, d'après la source ?",
+      "choices": [
+        "La perte de crédibilité, d'autorité ou une sanction formelle, voire l'ostracisme en cas de dénonciation de blagues.",
+        "Une amélioration systématique de la cohésion d'équipe et de la satisfaction au travail.",
+        "La promotion involontaire de l'égalité des sexes et la remise en question des stéréotypes.",
+        "Une réduction du stress et de la pression, facilitant l'intégration des nouvelles générations.",
+        "Un renforcement des liens hiérarchiques et une meilleure communication entre les différents niveaux."
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "course": "Sociologie du Genre"
+}
