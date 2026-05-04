@@ -1,0 +1,535 @@
+{
+  "quizId": "identites-queer-et-monde-numerique",
+  "title": "Identités queer et monde numérique",
+  "section": {
+    "id": "identites-queer-et-monde-numerique",
+    "title": "Identités queer et monde numérique",
+    "startPage": 41,
+    "endPage": 46,
+    "summary": "Analyse de l'homophobie, des stéréotypes liés à l'homosexualité et de la socialisation numérique, incluant les cyberviolences et les rapports de pouvoir en ligne.",
+    "estimatedQuestionCount": 30
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon le document, quelle est la fonction principale des insultes en relation avec le genre et la sexualité ?",
+      "choices": [
+        "Elles fonctionnent comme des rappels à l'ordre du genre et de la sexualité.",
+        "Elles servent à exprimer une opposition radicale aux normes établies.",
+        "Elles sont des indicateurs de la disparition progressive des repères sociaux.",
+        "Elles contribuent à l'émancipation individuelle face aux pressions collectives.",
+        "Elles reflètent un processus d'acceptation graduelle des diverses identités."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique explicitement que 'Ces insultes fonctionnent comme des rappels à l'ordre du genre et de la sexualité' (page 41)."
+    },
+    {
+      "id": "q2",
+      "prompt": "Comment était encadrée la sexualité 'avant' la période actuelle, selon l'analyse du texte ?",
+      "choices": [
+        "Elle était encadrée par des contrôles externes provenant de la famille, de la religion, de la communauté et de la morale publique.",
+        "Elle était principalement régulée par des choix individuels et une éthique personnelle intériorisée.",
+        "Elle relevait d'une absence quasi totale de régulation, favorisant une liberté d'expérimentation sans limite.",
+        "Elle était soumise à des législations étatiques rigides et des sanctions pénales sévères.",
+        "Elle dépendait des dynamiques de groupes de pairs et de la popularité des comportements jugés 'normaux'."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise qu''Avant: sexualité encadrée par des contrôles externes (famille, religion, communauté, morale publique)' (page 41)."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel est le principe fondamental de la régulation actuelle de la sexualité, d'après le document ?",
+      "choices": [
+        "Elle est basée sur des disciplines internes, où l'individu intériorise les normes et devient responsable de son propre comportement.",
+        "Elle est principalement définie par des lois étatiques et des politiques publiques de santé sexuelle.",
+        "Elle découle de l'influence prépondérante des médias et des célébrités sur les jeunes générations.",
+        "Elle se caractérise par une dérégulation complète et un abandon de toute forme de norme.",
+        "Elle est imposée par des institutions religieuses et familiales traditionnelles qui conservent leur autorité."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique qu''Ajd: régulation basée sur des disciplines internes : l'individu intériorise les normes et devient responsable de son propre comportement' (page 41)."
+    },
+    {
+      "id": "q4",
+      "prompt": "Comment le texte décrit-il le phénomène de l'individualisation des normes en matière de sexualité ?",
+      "choices": [
+        "Ce n'est pas un effacement des normes, mais leur individualisation, une adaptation personnelle des directives.",
+        "Il s'agit d'une disparition totale des normes, conduisant à une absence de repères collectifs clairs.",
+        "Il représente une tentative de réimposer des normes traditionnelles sous une forme déguisée et insidieuse.",
+        "Il signifie que les normes sont désormais dictées par des instances internationales et des organisations supranationales.",
+        "Il correspond à un renforcement des contrôles externes exercés par la famille et la communauté."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le document affirme que 'Ce n'est pas un effacement des normes mais leur individualisation' (page 41)."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelles sont les principales caractéristiques de la prolifération des normes mentionnées par le texte ?",
+      "choices": [
+        "Elle se manifeste par une pluralité de messages, parfois contradictoires, entre lesquels les individus doivent se frayer un chemin.",
+        "Elle est synonyme d'une uniformisation mondiale des codes de conduite sexuelle et relationnelle.",
+        "Elle conduit à un consensus social croissant sur les valeurs morales et éthiques partagées.",
+        "Elle est le résultat direct d'une régulation étatique plus stricte et centralisée des comportements.",
+        "Elle traduit une réticence collective à l'innovation et à la diversité des pratiques personnelles."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte décrit la prolifération des normes comme une 'Pluralité de messages', 'Parfois contradictoires', 'Entre lesquels les individus doivent se frayer un chemin' (page 41)."
+    },
+    {
+      "id": "q6",
+      "prompt": "Concernant les nouvelles sources normatives, quel est le sort des institutions traditionnelles selon le document ?",
+      "choices": [
+        "Les institutions traditionnelles comme la religion et la famille ont perdu leur pouvoir d'imposition.",
+        "Elles ont renforcé leur autorité, adaptant leurs méthodes pour maintenir leur influence dominante.",
+        "Elles ont fusionné avec les nouvelles sources normatives, créant un système hybride de régulation.",
+        "Elles ont été complètement remplacées par des acteurs politiques et économiques globaux.",
+        "Elles sont devenues des figures emblématiques de la résistance face aux changements sociaux."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte stipule que 'Alors que les institutions traditionnelles ont perdu leur pouvoir d'imposition (religion, famille, organisation sociale du mariage) ...' (page 41)."
+    },
+    {
+      "id": "q7",
+      "prompt": "Comment le genre est-il présenté en relation avec les sexualités et conjugalités queer ?",
+      "choices": [
+        "Il demeure un rapport social et un système de significations qui traverse ces sexualités et conjugalités.",
+        "Il a complètement disparu en tant que facteur pertinent dans la compréhension des relations queer.",
+        "Il est réinventé comme un simple accessoire, sans incidence profonde sur les dynamiques relationnelles.",
+        "Il est perçu comme une construction entièrement artificielle, sans ancrage dans la réalité sociale.",
+        "Il représente un idéal à atteindre, une utopie d'égalité parfaite des sexes et des identités."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte affirme que 'Les sexualités et conjugalités gaies, lesbiennes, trans ou queer demeurent traversées par le genre comme rapport social et système de significations' (page 41)."
+    },
+    {
+      "id": "q8",
+      "prompt": "Dans quel contexte global les sexualités et conjugalités queer se développent-elles, d'après le texte ?",
+      "choices": [
+        "Elles se développent dans un contexte homophobe et transphobe qui découle en partie du sexisme.",
+        "Elles émergent dans un environnement de tolérance universelle et d'acceptation inconditionnelle des différences.",
+        "Elles sont le produit d'une révolution numérique qui efface toutes les anciennes catégories de pensée.",
+        "Elles trouvent leur origine dans des mouvements politiques radicaux qui rejettent toute forme de norme.",
+        "Elles prospèrent dans des sociétés où les inégalités de genre ont été entièrement abolies."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que 'Elles se développent dans un contexte homophobe et transphobe qui découle en partie du sexisme' (page 41)."
+    },
+    {
+      "id": "q9",
+      "prompt": "Quelle est la particularité des relations homosexuelles concernant leurs formes, selon le document ?",
+      "choices": [
+        "Elles prennent des formes significativement différentes pour les hommes gais et pour les femmes lesbiennes.",
+        "Elles adoptent systématiquement les mêmes formes que les relations hétérosexuelles cisgenres.",
+        "Elles se caractérisent par une absence totale de formes définies, privilégiant la spontanéité.",
+        "Elles sont entièrement déterminées par les normes imposées par les médias grand public.",
+        "Elles suivent un modèle universel unique, indépendamment du sexe ou du genre des partenaires."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que 'Dans le cas des relations homosexuelles, elles prennent des formes significativement différentes pour les hommes gais et pour les femmes lesbiennes' (page 41)."
+    },
+    {
+      "id": "q10",
+      "prompt": "Concernant la tolérance envers l'homosexualité, quelle est la conclusion générale concernant la différence entre les sexes ?",
+      "choices": [
+        "Les femmes se montrent globalement plus tolérantes envers l'homosexualité que les hommes.",
+        "Les hommes sont nettement plus tolérants envers l'homosexualité que les femmes, surtout les jeunes.",
+        "Il n'y a aucune différence significative de tolérance entre les hommes et les femmes.",
+        "La tolérance envers l'homosexualité diminue avec l'âge, indépendamment du sexe des individus.",
+        "Les deux sexes manifestent une intolérance croissante, exacerbée par les médias sociaux."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte mentionne que 'Les femmes se montrent globalement plus tolérantes enviers l'homosexualité que les hommes' (page 41)."
+    },
+    {
+      "id": "q11",
+      "prompt": "Quel pourcentage de femmes considère l'homosexualité comme 'une sexualité comme une autre' ?",
+      "choices": [
+        "60,2% des femmes pensent que l'homosexualité est 'une sexualité comme une autre'.",
+        "48,6% des femmes partagent cette vision, indiquant une acceptation partielle.",
+        "75% des femmes jeunes affirment que l'homosexualité est une sexualité normale.",
+        "26,5% des femmes seulement considèrent cette sexualité comme équivalente aux autres.",
+        "16,9% des femmes jugent cette forme de sexualité comme une norme sociale dominante."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que '60,2% des femmes pensent que l'homosexualité est “une sexualité comme une autre”' (page 42)."
+    },
+    {
+      "id": "q12",
+      "prompt": "Quel pourcentage d'hommes juge l'homosexualité 'contre nature', d'après les chiffres du document ?",
+      "choices": [
+        "26,5% des hommes la jugent 'contre nature', un chiffre supérieur à celui des femmes.",
+        "16,9% des hommes estiment que cette sexualité est incompatible avec les normes biologiques.",
+        "48,6% des hommes expriment un jugement négatif, la considérant comme une aberration.",
+        "75% des jeunes hommes partagent cette opinion, montrant une forte résistance au changement.",
+        "56,8% des hommes de toutes catégories démographiques la rejettent fermement."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise qu''À l'inverse, 26,5% des hommes la jugent “contre nature” contre 16,9% des femmes' (page 42)."
+    },
+    {
+      "id": "q13",
+      "prompt": "Quel est le niveau de tolérance envers l'homosexualité chez les jeunes femmes (18-24 ans) ?",
+      "choices": [
+        "La tolérance atteint 75% chez les jeunes femmes (18-24 ans), marquant une progression continue.",
+        "Elle est d'environ 56,8%, indiquant un recul par rapport aux générations précédentes.",
+        "Elle se situe autour de 48,6%, reflétant une acceptation moyenne des orientations diverses.",
+        "Elle est inférieure à 20%, suggérant une forte résistance aux idées progressistes.",
+        "Elle est instable, fluctuant constamment en fonction des influences médiatiques et sociales."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte rapporte que 'Chez les jeunes femmes (18-24 ans) : la tolérance atteint 75%' et qu'il y a une 'Progression continue' (page 42)."
+    },
+    {
+      "id": "q14",
+      "prompt": "Comment est décrite la tolérance chez les jeunes hommes envers l'homosexualité ?",
+      "choices": [
+        "Elle est de 56,8% seulement, avec un recul initial avant de remonter ensuite, montrant des contraintes discursives.",
+        "Elle est de 75%, marquant une acceptation stable et en constante augmentation au fil du temps.",
+        "Elle est globalement inférieure à 20%, reflétant une forte persistance de préjugés et d'intolérance.",
+        "Elle est similaire à celle des jeunes femmes, sans distinction significative liée au genre.",
+        "Elle dépend principalement de l'environnement familial, sans influence notable des facteurs sociétaux."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le document indique que 'Chez les jeunes hommes (“”) : 56,8% seulement' et 'Recul (avant de remonter ensuite)' (page 42)."
+    },
+    {
+      "id": "q15",
+      "prompt": "Quel est l'impact du soupçon d'homosexualité sur l'identité masculine ou féminine ?",
+      "choices": [
+        "Le soupçon d'homosexualité menace davantage l'identité masculine que l'identité féminine.",
+        "Il menace de manière égale l'identité masculine et féminine, sans distinction notable.",
+        "Il n'a aucun impact sur l'identité de genre, car elle est intrinsèquement stable.",
+        "Il renforce l'identité féminine, la rendant plus résiliente face aux critiques sociales.",
+        "Il affecte principalement les identités non binaires, les rendant plus vulnérables aux stigmatisations."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte énonce que 'Le soupçon d'homosexualité menace davantage l'identité masculine que l'identité féminine' (page 42)."
+    },
+    {
+      "id": "q16",
+      "prompt": "Comment la masculinité est-elle perçue dans le contexte du soupçon d'homosexualité, selon le document ?",
+      "choices": [
+        "Elle est perçue comme précaire, nécessitant d'être constamment affirmée par des actes et des discours.",
+        "Elle est vue comme intrinsèquement stable et inébranlable, insensible aux jugements extérieurs.",
+        "Elle est considérée comme une construction sociale obsolète, sans pertinence dans le monde moderne.",
+        "Elle est renforcée par le soupçon d'homosexualité, confirmant sa supériorité naturelle.",
+        "Elle est redéfinie comme une identité fluide, capable de s'adapter à toutes les circonstances sans effort."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le document explique que 'Se joue ici une masculinité perçue comme précaire, nécessitant d'être constamment affirmé' (page 42)."
+    },
+    {
+      "id": "q17",
+      "prompt": "Selon la 'première lecture' des stéréotypes de genre, comment sont généralement perçus les hommes homosexuels et les femmes lesbiennes ?",
+      "choices": [
+        "Les hommes homosexuels sont perçus comme moins masculins et les femmes lesbiennes comme moins féminines que leurs homologues hétérosexuels.",
+        "Les hommes homosexuels sont considérés comme plus masculins et les femmes lesbiennes comme plus féminines, en raison de leur autonomie.",
+        "Ils sont perçus sans aucune distinction de genre par rapport aux personnes hétérosexuelles, signe d'égalité absolue.",
+        "Les hommes homosexuels sont vus comme indifférents aux normes de genre, et les femmes lesbiennes comme des pionnières de la fluidité.",
+        "Leur perception est principalement basée sur leur intelligence et leur contribution sociale, plutôt que leur genre."
+      ],
+      "correctIndex": 0,
+      "explanation": "La 'Première lecture' décrit que 'Hommes homosexuels perçus comme moins masculins que les hommes hétérosexuels' et 'Femmes lesbiennes perçues comme moins féminines que les femmes hétérosexuelles' (page 42)."
+    },
+    {
+      "id": "q18",
+      "prompt": "Quelle est l'idée centrale de la 'deuxième lecture' sur l'identité de genre chez les personnes homosexuelles ?",
+      "choices": [
+        "Elle suggère une intensification de l'identité de genre, les lesbiennes étant vues comme plus féminines et les gays comme plus masculins.",
+        "Elle postule une dilution des identités de genre, les rendant indistinctes et interchangeables pour tous.",
+        "Elle affirme que les identités de genre sont entièrement choisies et façonnées indépendamment des attentes sociales.",
+        "Elle met en lumière une rupture totale avec les stéréotypes de genre traditionnels, offrant une libération complète.",
+        "Elle insiste sur le fait que la sexualité n'a aucune influence sur la perception de la masculinité ou de la féminité."
+      ],
+      "correctIndex": 0,
+      "explanation": "La 'Deuxième lecture' concerne l''intensification de l'identité de genre' avec les 'Lesbiennes vues comme plus féminines, gays comme plus masculins' (page 42)."
+    },
+    {
+      "id": "q19",
+      "prompt": "Qu'implique l'adoption d'une 'masculinité pragmatique' par certaines lesbiennes, d'après le texte ?",
+      "choices": [
+        "Elle implique un usage délibéré des postures, gestes et rôles corporels associés au masculin.",
+        "Elle consiste à rejeter catégoriquement toute expression de masculinité pour affirmer une identité féminine renouvelée.",
+        "Elle signifie une conformité totale aux stéréotypes féminins traditionnels pour mieux les subvertir.",
+        "Elle correspond à une fusion harmonieuse entre les codes masculins et féminins, sans effort conscient.",
+        "Elle est le résultat d'une influence inconsciente des normes hétérosexuelles sur leur comportement quotidien."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte explique que la 'masculinité pragmatique' est un 'Usage délibéré des postures, gestes, rôles corporels associés au masculin' (page 42)."
+    },
+    {
+      "id": "q20",
+      "prompt": "Outre la masculinité pragmatique, à quelle autre fin certaines lesbiennes utilisent-elles la masculinité ?",
+      "choices": [
+        "Elles l'utilisent comme stratégie de protection face aux agressions et aux jugements sociaux.",
+        "Elles l'adoptent pour mieux se fondre dans la masse et éviter toute visibilité de leur orientation sexuelle.",
+        "Elles l'emploient pour remettre en question les notions de genre de manière théorique et académique.",
+        "Elles la perçoivent comme une expression esthétique, sans lien avec des enjeux de pouvoir ou de sécurité.",
+        "Elles la cultivent pour attirer des partenaires féminins qui apprécient ces attributs masculins."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le document mentionne que 'D'autre utilisent la masculinité comme stratégie de protection' (page 42)."
+    },
+    {
+      "id": "q21",
+      "prompt": "En plus d'être une alternative au 'féminin imposé', à quoi d'autre la masculinité sert-elle ?",
+      "choices": [
+        "La masculinité sert aussi de 'code identitaire' pour certains individus.",
+        "Elle est exclusivement utilisée comme un moyen de domination et de contrôle social.",
+        "Elle représente une relique du passé, sans véritable fonction dans les sociétés contemporaines.",
+        "Elle est perçue comme une construction totalement aléatoire, dépourvue de signification profonde.",
+        "Elle vise à abolir toutes les distinctions de genre, favorisant une identité neutre et universelle."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que 'La masculinité sert aussi de 'code identitaire'' (page 43)."
+    },
+    {
+      "id": "q22",
+      "prompt": "Quelle polarité sexuelle persiste chez les couples gays, malgré un idéal de réciprocité ?",
+      "choices": [
+        "Une distinction entre partenaires 'actifs' et 'passifs' est observée, héritage de schémas genrés.",
+        "Une différenciation rigide entre un partenaire 'fournisseur' et un partenaire 'receveur' de soins.",
+        "Une hiérarchie claire entre celui qui détient le pouvoir financier et celui qui s'occupe du foyer.",
+        "Une séparation nette entre les rôles émotionnels et les rôles intellectuels au sein du couple.",
+        "Une absence totale de polarité, les rôles étant entièrement fluides et interchangeables."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte parle de la 'Persistance d'une polarité sexuelle: distinction entre partenaires 'actifs” et \"passifs\"' (page 43)."
+    },
+    {
+      "id": "q23",
+      "prompt": "Comment les rôles hérités du genre se manifestent-ils dans les pratiques hors sexualité chez les couples gays ?",
+      "choices": [
+        "Ils se dissocient largement des pratiques hors sexualité, notamment dans le travail domestique, contrairement aux hétérosexuels.",
+        "Ils sont systématiquement reproduits dans toutes les sphères de la vie, y compris le travail domestique et professionnel.",
+        "Ils sont complètement inversés, les partenaires adoptant des rôles opposés à ceux traditionnellement assignés à leur sexe.",
+        "Ils sont ignorés, la répartition des tâches étant basée uniquement sur les compétences individuelles.",
+        "Ils sont une source constante de conflit, empêchant toute harmonie dans le partage des responsabilités."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte affirme que 'Ces rôles peuvent sembler hérités du genre, mais se dissocient largement des pratiques hors sexualité' et 'Pas de prolongement systématique dans le travail domestique, contrairement aux couples hétérosexuels' (page 43)."
+    },
+    {
+      "id": "q24",
+      "prompt": "Quels facteurs influencent davantage la répartition des tâches domestiques chez les couples gays, selon le document ?",
+      "choices": [
+        "Elle est davantage liée au capital économique, culturel ou aux contraintes professionnelles des partenaires.",
+        "Elle est principalement déterminée par les rôles traditionnels de genre que chaque partenaire intériorise.",
+        "Elle dépend entièrement des préférences individuelles, sans influence des facteurs socio-économiques.",
+        "Elle est imposée par des normes sociales externes, similaires à celles des couples hétérosexuels.",
+        "Elle est le résultat d'un tirage au sort aléatoire, sans logique apparente ni structure préétablie."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que la 'Répartition domestiques davantage liée au capital économique, culturel ou aux contraintes professionnelles' (page 43)."
+    },
+    {
+      "id": "q25",
+      "prompt": "Comment la sexualité est-elle décrite dans le contexte des couples gays ?",
+      "choices": [
+        "Elle devient un domaine autonome, où les positions ne s'accompagnent pas nécessairement d'expressions de genre différenciées.",
+        "Elle est intégralement subordonnée aux dynamiques de genre, reproduisant fidèlement les hiérarchies existantes.",
+        "Elle est perçue comme une simple fonction biologique, sans dimension émotionnelle ou sociale.",
+        "Elle est un champ de bataille permanent, où les partenaires luttent pour imposer leur vision des rôles.",
+        "Elle est dictée par des scripts rigides, ne laissant aucune place à l'expérimentation individuelle."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte affirme que 'La sexualité devient un domaine autonome : les positions ne s'accompagnent pas nécessairement d'expressions de genre différenciées' (page 43)."
+    },
+    {
+      "id": "q26",
+      "prompt": "Quelle est l'une des manifestations de l'émancipation partielle des couples gays mentionnée dans le document ?",
+      "choices": [
+        "La forte valorisation des positions pénétrantes dans leurs pratiques sexuelles.",
+        "La suppression complète de toute hiérarchie ou dynamique de pouvoir au sein de la relation.",
+        "L'adoption systématique de modèles de monogamie stricte et exclusive.",
+        "Le rejet total de toute forme de spécialisation sexuelle ou de rôle dans l'intimité.",
+        "La conformité parfaite aux attentes sociales en matière de comportement conjugal."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que 'Forte valorisation des positions pénétrantes' est une facette de l'émancipation partielle (page 43)."
+    },
+    {
+      "id": "q27",
+      "prompt": "Qu'implique le 'double standard de respectabilité' chez les couples gays, selon le document ?",
+      "choices": [
+        "Être 'pénétré' expose davantage au stigmate, surtout avec des partenaires multiples, transposant le double standard hétérosexuel.",
+        "Il signifie que les deux partenaires doivent maintenir une image publique irréprochable pour être acceptés socialement.",
+        "Il conduit à une valorisation exclusive des relations monogames, rejetant toute forme de polyamour.",
+        "Il impose aux couples gays de s'aligner sur des normes de respectabilité définies par la communauté hétérosexuelle dominante.",
+        "Il favorise une égalité parfaite entre les partenaires, où le stigmate est entièrement absent de l'intimité."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte mentionne un 'Double standard de respectabilité : être “pénétré” expose davantage au stigmate, surtout avec partenaires multiples' et une 'Transposition du double standard hétérosexuel' (page 43)."
+    },
+    {
+      "id": "q28",
+      "prompt": "Quelle tendance générale est observée concernant les scripts de genre chez les couples lesbiens ?",
+      "choices": [
+        "Une atténuation des scripts de genre, bien qu'elles développent des pratiques distinctes face à des stéréotypes opposés.",
+        "Un renforcement des scripts de genre, reproduisant fidèlement les modèles hétérosexuels traditionnels.",
+        "Une absence totale de scripts de genre, ces couples étant entièrement déconstruits et libres de toute contrainte.",
+        "Une inversion systématique des rôles de genre, où chaque partenaire adopte le rôle traditionnellement masculin ou féminin.",
+        "Une indifférence complète aux questions de genre, considérées comme non pertinentes pour leur dynamique relationnelle."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte parle des 'Couples lesbiens : atténuation des scripts de genre' (page 43)."
+    },
+    {
+      "id": "q29",
+      "prompt": "Selon les recherches de Gillian Dunne, quels facteurs contribuent à une répartition plus égalitaire des tâches chez les couples lesbiens des classes moyennes ?",
+      "choices": [
+        "L'autosuffisance économique des deux partenaires et leur participation au travail rémunéré sont des facteurs clés.",
+        "La reproduction des rôles de genre traditionnels, où l'un des partenaires assume la majorité des tâches domestiques.",
+        "La dépendance financière d'un des partenaires, encourageant l'autre à prendre en charge les responsabilités domestiques.",
+        "L'absence d'intérêt pour la vie professionnelle, se concentrant exclusivement sur la gestion du foyer.",
+        "L'influence des médias sociaux, qui promeuvent des modèles de répartition des tâches basés sur la visibilité."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte, citant Gillian Dunne, précise que 'L'autosuffisance économique des deux partenaires et leur participation au travail rémunéré contribuent à une répartition plus égalitaire des tâches' (page 43)."
+    },
+    {
+      "id": "q30",
+      "prompt": "Dans quel contexte social particulier l'essor des applications de rencontre s'inscrit-il, selon le document ?",
+      "choices": [
+        "Il s'inscrit dans un contexte social particulier, même si la méditation commerciale pour rencontrer un conjoint n'est pas nouvelle.",
+        "Il est la seule et unique innovation récente en matière de rencontre, marquant une rupture absolue avec le passé.",
+        "Il s'inscrit dans un mouvement global de retour aux traditions matrimoniales et aux unions arrangées.",
+        "Il reflète une disparition totale de la jeunesse sexuelle, les jeunes se mariant de plus en plus tôt.",
+        "Il est le résultat d'une politique gouvernementale visant à réguler les interactions romantiques des citoyens."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que 'Le recours à une méditation commerciale pour rencontrer un.e conjoint n'est pas nouveau, mais l'essor des applications de rencontre s'inscrit dans un contexte social particulier' (page 43)."
+    },
+    {
+      "id": "q31",
+      "prompt": "Comment la 'jeunesse sexuelle' est-elle principalement caractérisée dans le texte ?",
+      "choices": [
+        "C'est une période d'expérimentation et de relations intimes avant l'installation en couple, liée à des facteurs socio-économiques.",
+        "Elle représente un stade de développement où la sexualité est inexistante, précédant l'âge adulte.",
+        "Elle est définie par une absence totale de relations sexuelles ou intimes chez les jeunes adultes.",
+        "Elle est synonyme d'une installation en couple très précoce, juste après l'adolescence.",
+        "Elle se caractérise par une forte contrainte sociale à la monogamie et au mariage dès le plus jeune âge."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte explique que la jeunesse sexuelle est une 'Période d'expérimentation et de relations intimes avant l'installation en couple', et est 'Liée au report de la mise en couple, aux études plus longes et à la précarité sur le marché du travail' (page 44)."
+    },
+    {
+      "id": "q32",
+      "prompt": "Quelle rupture majeure Internet a-t-il introduite dans l'organisation des rencontres ?",
+      "choices": [
+        "Le désencastrement du cadre traditionnel comme le travail, les études, les loisirs et les cercles amicaux.",
+        "Une uniformisation complète des modalités de rencontre, éliminant toute diversité de pratiques.",
+        "Le retour à des formes de rencontres strictement encadrées par les institutions religieuses.",
+        "La disparition de toute possibilité de rencontrer des personnes en dehors de son cercle social immédiat.",
+        "L'obligation de passer par des plateformes numériques pour toutes les interactions sociales."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte mentionne qu''Internet introduit une rupture majeure dans l'organisation des rencontres' par le 'Désencastrement du cadre traditionnel (travail, études, loisirs, cercles amicaux)' (page 44)."
+    },
+    {
+      "id": "q33",
+      "prompt": "Qu'est-ce que les applications de rencontre permettent d'accéder, selon le document ?",
+      "choices": [
+        "Elles permettent l'accès à une 'sexualité pour soi', offrant un espace de liberté, d'exploration et de choix.",
+        "Elles imposent une 'sexualité pour tous', uniformisant les pratiques et les désirs de chacun.",
+        "Elles restreignent l'accès à la sexualité, la rendant plus difficile et soumise à des conditions strictes.",
+        "Elles favorisent une 'sexualité collective', où les choix individuels sont subordonnés au groupe.",
+        "Elles garantissent une 'sexualité altruiste', orientée vers le bien-être de l'autre avant le sien."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le document indique que 'Les applications permettent l'accès à une 'sexualité pour soi' : Espace de liberté, d'exploration et de choix' (page 44)."
+    },
+    {
+      "id": "q34",
+      "prompt": "Quelles sont les caractéristiques des rencontres en ligne concernant la rapidité et la durée des relations ?",
+      "choices": [
+        "Elles deviennent plus rapidement sexuelles, sont souvent de plus courte durée et renforcent la disjonction sexualité/conjugalité.",
+        "Elles sont systématiquement orientées vers des relations de longue durée et des mariages précoces.",
+        "Elles entraînent une diminution de l'activité sexuelle et une augmentation de l'abstinence chez les jeunes.",
+        "Elles conduisent à une fusion complète entre sexualité et conjugalité, sans aucune séparation.",
+        "Elles se caractérisent par une lenteur et une prudence extrêmes, avant toute implication intime."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte explique que les rencontres en ligne 'Deviennent + rapidement sexuelles, sont souvent de + courte durée, renforcent la disjonction sexualité/conjugalité' (page 44)."
+    },
+    {
+      "id": "q35",
+      "prompt": "Comment la privatisation des rencontres en ligne impacte-t-elle l'accès à la sexualité pour les femmes ?",
+      "choices": [
+        "Elle facilite l'accès à la sexualité, notamment pour les femmes, traditionnellement plus exposées à la stigmatisation.",
+        "Elle rend l'accès à la sexualité plus difficile pour les femmes, les soumettant à de nouvelles formes de contrôle.",
+        "Elle n'a aucun impact différencié sur les femmes par rapport aux hommes, l'accès étant égal pour tous.",
+        "Elle conduit à une augmentation de la stigmatisation des femmes qui utilisent ces plateformes de rencontre.",
+        "Elle supprime complètement la notion de stigmatisation dans les interactions sexuelles des femmes."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le document précise que 'La privatisation facilite l'accès à la sexualité, notamment pour les femmes, traditionnellement plus exposées à la stigmatisation' (page 44)."
+    },
+    {
+      "id": "q36",
+      "prompt": "Comment les échanges en ligne sont-ils liés aux rapports de pouvoir, selon la socialisation numérique ?",
+      "choices": [
+        "Ils ne peuvent être compris sans les rapports de pouvoir qui structurent aussi les interactions hors ligne, les dynamiques se renforçant mutuellement.",
+        "Ils abolissent complètement les rapports de pouvoir, créant un espace d'égalité parfaite et de liberté totale pour tous les utilisateurs.",
+        "Ils créent de nouveaux rapports de pouvoir qui sont entièrement déconnectés des dynamiques de pouvoir existantes hors ligne.",
+        "Ils sont le reflet d'une absence totale de pouvoir, où chaque individu est son propre maître et ne subit aucune influence.",
+        "Ils inversent systématiquement les rapports de pouvoir, les dominés en ligne devenant les dominants dans la vie réelle."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte affirme que 'Les échanges en ligne ne peuvent être compris sans les rapports de pouvoir qui structurent aussi les interactions hors ligne' et que 'Les dynamiques \"en ligne\" et \"hors ligne\" se renforcent mutuellement' (page 45)."
+    },
+    {
+      "id": "q37",
+      "prompt": "Quel est le rôle des groupes de pairs concernant les normes de genre et la conformité dans le contexte numérique ?",
+      "choices": [
+        "Les groupes de pairs valorisent la conformité aux normes de genre, et ceux qui s'en éloignent subissent des formes d'oppression.",
+        "Les groupes de pairs encouragent activement la déconstruction des normes de genre, promouvant l'individualité sans contrainte.",
+        "Les groupes de pairs sont indifférents aux normes de genre, leur intérêt étant principalement centré sur les performances académiques.",
+        "Les groupes de pairs imposent une homogénéité totale des comportements, sans laisser de place à la diversité des identités.",
+        "Les groupes de pairs agissent comme des agents de libération, affranchissant les individus de toute attente normative."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que 'Les groupes de pairs valorisent la conformité aux normes de genre' et que 'Ceux et celles qui s'en éloignent subissent des formes d'oppression -> violences de genre' (page 45)."
+    },
+    {
+      "id": "q38",
+      "prompt": "Quels sont les individus les plus visés par les formes d'oppression et de violence liées aux normes de genre dans le monde numérique ?",
+      "choices": [
+        "Ceux qui s'éloignent des idéaux de masculinité ou de féminité hétérosexuelle partagés par le groupe.",
+        "Ceux qui adhèrent strictement aux normes de genre traditionnelles, devenant la cible de critiques.",
+        "Les individus qui ne participent pas du tout aux plateformes de socialisation numérique.",
+        "Ceux qui se conforment parfaitement aux attentes de leur groupe de pairs, sans aucune déviation.",
+        "Les personnes qui occupent des positions de pouvoir et d'influence au sein des communautés en ligne."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que 'Les individus les plus visés sont ceux qui s'éloignent des idéaux de masculinité ou de féminité hétérosexuelle partagés par le groupe' (page 45)."
+    },
+    {
+      "id": "q39",
+      "prompt": "Comment se déroule l'apprentissage des normes de genre pour les garçons, d'après le document ?",
+      "choices": [
+        "Il passe par les discours sur le sexe, les avances sexuelles, les insultes, les menaces et le harcèlement sexuel.",
+        "Il se fait principalement par l'observation silencieuse des comportements des adultes et des figures d'autorité.",
+        "Il est le résultat d'une éducation formelle et structurée, dispensée par les parents et les éducateurs.",
+        "Il implique un rejet systématique de toutes les formes de violence et de comportements sexistes.",
+        "Il est caractérisé par une absence totale de pressions sociales, permettant une construction libre de l'identité."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte décrit que l''Apprentissages des normes passent par les discours sur le sexe, avances sexuelles, insultes sexuelles, menaces, harcèlement sexuel, etc.' (page 46)."
+    },
+    {
+      "id": "q40",
+      "prompt": "Parmi les options suivantes, laquelle décrit une caractéristique clé des cyberviolences selon le document ?",
+      "choices": [
+        "La diffusion rapide et incontrôlable de contenus (images, textes) souvent sans consentement.",
+        "L'obligation pour les auteurs d'être identifiés publiquement et de faire face à leurs victimes.",
+        "L'absence totale de conséquences pour les victimes, qui sont rapidement protégées par les plateformes.",
+        "La possibilité de supprimer instantanément tout contenu violent avant qu'il ne se propage.",
+        "Une régulation stricte et efficace des interactions en ligne, prévenant toute forme d'abus."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte mentionne comme caractéristique des cyberviolences la 'Diffusion rapide et incontrôlable de contenus (images, textes) souvent sans consentement' (page 46)."
+    }
+  ],
+  "course": "Sociologie du Genre"
+}
