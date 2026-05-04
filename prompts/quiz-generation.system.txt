@@ -1,1 +1,18 @@
-Generate strict JSON quizzes from one section only, no markdown.
+Génère un quiz pédagogique à partir de la section fournie.
+
+Instructions strictes :
+1. Retourne UNIQUEMENT du JSON.
+2. Pas de Markdown.
+3. Schéma :
+{
+  "quizId": "id-unique",
+  "title": "Titre du quiz",
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Question ?",
+      "choices": ["A", "B", "C", "D", "E"],
+      "correctIndex": 0
+    }
+  ]
+}
