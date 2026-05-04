@@ -1,0 +1,598 @@
+{
+  "quizId": "modern-contemporary-history-exam-examples",
+  "title": "Exemples de questions d'examen - Histoire Moderne et Contemporaine",
+  "section": {
+    "id": "exemples-questions-examen",
+    "title": "Exemples de questions d'examen",
+    "startPage": 127,
+    "endPage": 151,
+    "summary": "Série de questions à choix multiples (QCM) types issues d'examens précédents sur l'ensemble de la matière."
+  },
+  "questions": [
+    {
+      "id": "ex-q1",
+      "prompt": "La première convention de Genève :",
+      "choices": [
+        "Vise principalement à la limitation des stocks d'armement.",
+        "A été signée en 1899 lors de la conférence de la paix.",
+        "Est le premier traité multilatéral de l'histoire de l'humanité.",
+        "Résulte d'une conférence internationale réunie à l'initiative de la Croix-Rouge.",
+        "Concerne exclusivement le traitement des prisonniers de guerre en mer."
+      ],
+      "correctIndex": 3,
+      "explanation": "La convention de 1864 naît de l'élan humanitaire impulsé par Henri Dunant et la création de la Croix-Rouge."
+    },
+    {
+      "id": "ex-q2",
+      "prompt": "Qui, parmi ces personnages historiques, ne saurait être qualifié de persécuteur des protestants ?",
+      "choices": [
+        "Guillaume d'Orange",
+        "Henri de Guise",
+        "Le roi de France Charles IX",
+        "Le duc d'Albe",
+        "Philippe II d'Espagne"
+      ],
+      "correctIndex": 0,
+      "explanation": "Guillaume d'Orange est le leader de la révolte des Pays-Bas contre la domination espagnole et la répression des protestants."
+    },
+    {
+      "id": "ex-q3",
+      "prompt": "La « course aux colonies » de la fin du 19e siècle :",
+      "choices": [
+        "Est le résultat d'un partage du monde entre puissances européennes lors de la conférence de Berlin de 1885.",
+        "Offre principalement aux Britanniques et aux Français de nouvelles colonies en Amérique.",
+        "Aboutit à la constitution d'un empire colonial allemand uniquement en Extrême-Orient.",
+        "Est essentiellement justifiée par des motifs religieux de conversion au bouddhisme.",
+        "Exclut totalement la Belgique des partages territoriaux en Afrique."
+      ],
+      "correctIndex": 0,
+      "explanation": "La conférence de Berlin (1884-1885) a défini les règles de la colonisation de l'Afrique pour éviter les conflits."
+    },
+    {
+      "id": "ex-q4",
+      "prompt": "La « Restauration » en France au 19e siècle :",
+      "choices": [
+        "Est marquée par le rétablissement de Louis XVI sur le trône.",
+        "Est accompagnée de l'exécution systématique de 20 000 officiers républicains.",
+        "N'empêche pas le maintien de l'essentiel du système administratif et judiciaire développé sous la République et l'Empire.",
+        "Est accueillie avec un enthousiasme sans réserve par tous les courants politiques.",
+        "Supprime immédiatement le Code Civil imposé par Napoléon."
+      ],
+      "correctIndex": 2,
+      "explanation": "La Restauration intègre les acquis administratifs et sociaux de la période révolutionnaire et impériale."
+    },
+    {
+      "id": "ex-q5",
+      "prompt": "Concernant l'Allemagne au 20e siècle, quelle affirmation est correcte ?",
+      "choices": [
+        "Elle a combattu le Japon et l'Italie durant la Première Guerre mondiale, et a été leur alliée durant la Seconde.",
+        "Elle a combattu aux côtés de l'Italie durant les deux Guerres mondiales.",
+        "Elle a combattu aux côtés du Japon durant les deux Guerres mondiales.",
+        "Elle est restée neutre durant la totalité de la Seconde Guerre mondiale.",
+        "Elle n'a jamais signé le traité de Versailles en 1919."
+      ],
+      "correctIndex": 0,
+      "explanation": "Pendant la Grande Guerre, l'Italie et le Japon étaient dans le camp des Alliés contre l'Allemagne."
+    },
+    {
+      "id": "ex-q6",
+      "prompt": "En 1689, le Bill of Rights britannique permet notamment d'affirmer qu' :",
+      "choices": [
+        "Il limite les interférences du roi sur les juges et les procès.",
+        "Il clôture définitivement le suffrage universel en Angleterre.",
+        "Il clôture un siècle de conflits entre la Couronne et le Parlement en faveur de ce dernier.",
+        "Il établit une république sans monarque dirigée par Guillaume d'Orange.",
+        "Il interdit toute pratique religieuse autre que l'anglicanisme."
+      ],
+      "correctIndex": 2,
+      "explanation": "Le Bill of Rights formalise la victoire du Parlement sur l'absolutisme royal après la Glorieuse Révolution."
+    },
+    {
+      "id": "ex-q7",
+      "prompt": "L'année 1949 est marquée par lequel de ces événements majeurs ?",
+      "choices": [
+        "La signature des Accords de Munich.",
+        "La prise du pouvoir par Mao Zedong en Chine.",
+        "La création de la Société des Nations (SDN).",
+        "L'assassinat de l'archiduc François-Ferdinand à Sarajevo.",
+        "La chute du mur de Berlin."
+      ],
+      "correctIndex": 1,
+      "explanation": "1949 voit la naissance de la République populaire de Chine ainsi que la création des deux Allemagnes (RFA et RDA)."
+    },
+    {
+      "id": "ex-q8",
+      "prompt": "La « Révolution d'Octobre » de 1917 :",
+      "choices": [
+        "Se déroule intégralement après la fin de la Première Guerre mondiale.",
+        "Renverse immédiatement le régime impérial tsariste de Nicolas II.",
+        "Débouche sur plusieurs années de guerre civile en Russie.",
+        "A été organisée selon les conditions révolutionnaires exactes théorisées par Marx.",
+        "Aboutit à une alliance immédiate avec l'Allemagne contre la France."
+      ],
+      "correctIndex": 2,
+      "explanation": "La révolution bolchevique de novembre (octobre selon le vieux calendrier) déclenche une violente guerre civile qui dure jusqu'en 1921."
+    },
+    {
+      "id": "ex-q9",
+      "prompt": "Le télégraphe électrique, innovation majeure du 19e siècle :",
+      "choices": [
+        "Est inventé par Samuel Morse en 1838.",
+        "Relie les grandes villes européennes dès les années 1815.",
+        "A permis d'annoncer à Paris la défaite de Napoléon à Waterloo le jour même.",
+        "N'a aucun impact sur la vitesse de transmission des informations de presse.",
+        "Permet l'envoi d'un premier message transatlantique dès 1840."
+      ],
+      "correctIndex": 0,
+      "explanation": "L'invention date de 1838 et la première ligne transatlantique fonctionnelle date de 1858."
+    },
+    {
+      "id": "ex-q10",
+      "prompt": "Le Tribunal militaire international de Nuremberg :",
+      "choices": [
+        "A jugé Adolf Hitler par contumace.",
+        "Constitue la première expérience de juridiction pénale internationale.",
+        "Était composé uniquement de juges américains et britanniques.",
+        "N'a prononcé aucune peine de mort.",
+        "A refusé de traiter le chef d'accusation de 'crimes contre l'humanité'."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nuremberg pose les bases du droit pénal international moderne en jugeant les hauts dignitaires nazis survivants."
+    },
+    {
+      "id": "ex-q11",
+      "prompt": "La transition démographique se caractérise par :",
+      "choices": [
+        "Une hausse de la natalité suivie d'une baisse de la mortalité.",
+        "Une baisse de la mortalité suivie, après un décalage, d'une baisse de la natalité.",
+        "Une baisse de la natalité suivie d'une hausse de la mortalité.",
+        "Une stagnation simultanée des taux de natalité et de mortalité.",
+        "Un dépeuplement massif immédiat dès le début du processus."
+      ],
+      "correctIndex": 1,
+      "explanation": "L'amélioration de l'hygiène fait baisser la mortalité d'abord, créant une forte croissance avant que la natalité ne s'ajuste."
+    },
+    {
+      "id": "ex-q12",
+      "prompt": "Le premier « Ghetto » institué à Venise en 1516 :",
+      "choices": [
+        "Est situé sur une île de la ville pour isoler la communauté juive.",
+        "Était un lieu de résidence obligatoire pour les marchands turcs.",
+        "Permettait aux juifs de posséder librement des biens immobiliers partout en ville.",
+        "A été créé en réaction directe à la découverte de l'Amérique.",
+        "Interdisait formellement aux juifs de pratiquer le prêt d'argent."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le ghetto de Venise visait à contrôler la population juive tout en utilisant ses services financiers."
+    },
+    {
+      "id": "ex-q13",
+      "prompt": "Lequel de ces acteurs fut le premier ministre de Victor-Emmanuel II lors du Risorgimento ?",
+      "choices": [
+        "Giuseppe Garibaldi",
+        "Giuseppe Mazzini",
+        "Camillo Benso, comte de Cavour",
+        "Giuseppe Verdi",
+        "Silvio Pellico"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cavour est le grand architecte politique de l'unification italienne autour du royaume de Piémont-Sardaigne."
+    },
+    {
+      "id": "ex-q14",
+      "prompt": "En 1699, la création de la colonie de Louisiane par la France favorise :",
+      "choices": [
+        "La création d'une société métisse et des alliances avec les natifs.",
+        "L'avancée massive des colons anglais vers les Rocheuses.",
+        "La production exclusive de café pour la cour de Versailles.",
+        "L'évangélisation immédiate de tout le continent nord-américain.",
+        "La fin des conflits maritimes avec l'Espagne."
+      ],
+      "correctIndex": 0,
+      "explanation": "La présence française, moins dense démographiquement que l'anglaise, s'appuyait sur des réseaux d'alliances et de métissage."
+    },
+    {
+      "id": "ex-q15",
+      "prompt": "Quel obstacle structurel empêchait le pape et son entourage de réformer l'Église au 15e siècle ?",
+      "choices": [
+        "Le manque d'idées de réformes au sein du clergé.",
+        "Un système financier reposant sur la confusion entre pouvoir spirituel et temporel (indulgences).",
+        "L'absence d'imprimerie pour diffuser les nouveaux dogmes.",
+        "La domination totale de l'Empire Ottoman sur l'Italie.",
+        "Le refus systématique des paysans de payer la dîme."
+      ],
+      "correctIndex": 1,
+      "explanation": "La dépendance financière de la papauté vis-à-vis des indulgences et des bénéfices ecclésiastiques bloquait toute remise en question."
+    },
+    {
+      "id": "ex-q16",
+      "prompt": "L'Association internationale des Travailleurs (AIT) est créée :",
+      "choices": [
+        "À Paris en 1848 après la révolution.",
+        "À Londres en 1864.",
+        "À Vienne en 1815 lors du Congrès.",
+        "À Versailles en 1919.",
+        "À Moscou en 1917 par Lénine."
+      ],
+      "correctIndex": 1,
+      "explanation": "Aussi appelée Première Internationale, elle visait à coordonner le mouvement ouvrier à l'échelle européenne."
+    },
+    {
+      "id": "ex-q17",
+      "prompt": "Selon les Mémoires du Cardinal de Retz, le cardinal de Richelieu :",
+      "choices": [
+        "A instauré une tyrannie au profit de l'autorité royale.",
+        "A restauré la domination catholique en Angleterre.",
+        "Était un fervent partisan de la démocratie parlementaire.",
+        "A profité de la défaite des Suédois pour affaiblir la France.",
+        "A favorisé l'alphabétisation des paysans pour limiter son pouvoir."
+      ],
+      "correctIndex": 0,
+      "explanation": "De Retz critique l'œuvre de Richelieu qui a posé les bases de l'absolutisme monarchique en affaiblissant les grands nobles."
+    },
+    {
+      "id": "ex-q18",
+      "prompt": "Le massacre de Katyn (1940) désigne l'exécution de 20 000 officiers par :",
+      "choices": [
+        "L'Allemagne nazie en territoire polonais.",
+        "L'URSS sous les ordres de Staline.",
+        "Le gouvernement polonais en exil.",
+        "L'armée japonaise en Mandchourie.",
+        "Les Alliés lors de la libération."
+      ],
+      "correctIndex": 1,
+      "explanation": "Longtemps attribué aux nazis par la propagande soviétique, ce crime de guerre fut perpétré par le NKVD."
+    },
+    {
+      "id": "ex-q19",
+      "prompt": "Laquelle de ces figures n'est pas une référence philosophique directe du mouvement révolutionnaire français ?",
+      "choices": [
+        "René Descartes",
+        "John Locke",
+        "Jean-Jacques Rousseau",
+        "Thomas Hobbes",
+        "Olympe de Gouges"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bien que père du rationalisme, Descartes (17e) n'est pas un théoricien politique du contrat social comme les autres."
+    },
+    {
+      "id": "ex-q20",
+      "prompt": "La « perestroïka » (restructuration) et la « glasnost » (transparence) furent initiées par :",
+      "choices": [
+        "Léonid Brejnev",
+        "Mikhaïl Gorbatchev",
+        "Nikita Khrouchtchev",
+        "Boris Eltsine",
+        "Joseph Staline"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ces réformes visaient à moderniser l'URSS mais ont finalement précipité sa chute entre 1985 et 1991."
+    },
+    {
+      "id": "ex-q21",
+      "prompt": "Quel État a le plus bénéficié territorialement et politiquement des guerres de Succession d'Autriche et de Sept Ans ?",
+      "choices": [
+        "La France",
+        "L'Autriche",
+        "La Prusse",
+        "L'Espagne",
+        "La Russie"
+      ],
+      "correctIndex": 2,
+      "explanation": "La Prusse de Frédéric II s'affirme alors comme une puissance européenne majeure en s'emparant de la Silésie."
+    },
+    {
+      "id": "ex-q22",
+      "prompt": "Les empires extra-européens (Ottoman, Moghol) qui résistent efficacement au 16e siècle partagent :",
+      "choices": [
+        "Une supériorité technologique navale absolue.",
+        "Une forte capacité militaire alliée à une structure impériale centralisée.",
+        "L'absence totale de commerce avec les Européens.",
+        "L'utilisation exclusive de mercenaires chrétiens.",
+        "Une organisation démocratique de type parlementaire."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ces empires disposaient d'administrations solides et d'armées permanentes puissantes capables de tenir tête aux puissances ibériques."
+    },
+    {
+      "id": "ex-q23",
+      "prompt": "La Confédération germanique regroupant 38 États est créée en :",
+      "choices": [
+        "1806 par Napoléon.",
+        "1871 par Bismarck.",
+        "1815 au Congrès de Vienne.",
+        "1919 au Traité de Versailles.",
+        "1945 à la conférence de Potsdam."
+      ],
+      "correctIndex": 2,
+      "explanation": "Elle remplace le Saint-Empire romain germanique et vise à maintenir un équilibre en Europe centrale."
+    },
+    {
+      "id": "ex-q24",
+      "prompt": "La déclaration royale de 1710 prélevant le dixième du revenu des sujets illustre :",
+      "choices": [
+        "La naissance d'une fiscalité d'État centralisée sous la monarchie absolue.",
+        "La générosité de Louis XIV envers les paysans les plus pauvres.",
+        "La fin des privilèges fiscaux du clergé et de la noblesse.",
+        "Une décision imposée par le Parlement de Paris contre le roi.",
+        "L'adoption du modèle économique libéral anglais."
+      ],
+      "correctIndex": 0,
+      "explanation": "C'est une étape cruciale du renforcement de l'État royal qui cherche des revenus pour financer ses guerres."
+    },
+    {
+      "id": "ex-q25",
+      "prompt": "Parmi ces artistes, qui est l'intrus par rapport au mouvement de la Renaissance ?",
+      "choices": [
+        "Charles Le Brun",
+        "Albrecht Dürer",
+        "Hans Holbein",
+        "Giorgione",
+        "Jan Van Eyck"
+      ],
+      "correctIndex": 0,
+      "explanation": "Charles Le Brun est le grand peintre du règne de Louis XIV (classicisme/baroque du 17e siècle)."
+    },
+    {
+      "id": "ex-q26",
+      "prompt": "Concernant l'Allemagne nazie durant la Seconde Guerre mondiale, il est vrai qu'elle :",
+      "choices": [
+        "S'est alliée à des nations qui étaient ses ennemis lors de la Première Guerre mondiale.",
+        "N'a procédé à aucune annexion territoriale avant le déclenchement officiel du conflit.",
+        "A signé un pacte de non-agression durable et respecté avec l'URSS.",
+        "A refusé toute forme de collaboration avec l'Italie de Mussolini.",
+        "A été la première puissance à utiliser l'arme atomique."
+      ],
+      "correctIndex": 0,
+      "explanation": "L'Allemagne s'est alliée avec l'Italie et le Japon, qui étaient ses adversaires en 1914-1918."
+    },
+    {
+      "id": "ex-q27",
+      "prompt": "Le « Printemps des Peuples » de 1848 désigne :",
+      "choices": [
+        "Une vague de révolutions libérales et nationales à travers toute l'Europe.",
+        "Le début de la colonisation intensive de l'Afrique par la France.",
+        "Le retour de Napoléon au pouvoir pendant cent jours.",
+        "La signature du traité mettant fin à la guerre de Crimée.",
+        "L'invention de l'agriculture moderne en Angleterre."
+      ],
+      "correctIndex": 0,
+      "explanation": "Cette flambée révolutionnaire a ébranlé les monarchies restaurées après 1815, de Paris à Vienne et Berlin."
+    },
+    {
+      "id": "ex-q28",
+      "prompt": "Qui a affirmé en 1534 : « Ma messe, la voici c'est la Bible, et je n'en veux pas d'autre ! » ?",
+      "choices": [
+        "Martin Luther",
+        "Jean Calvin",
+        "Charles Quint",
+        "Henri VIII",
+        "Ignace de Loyola"
+      ],
+      "correctIndex": 1,
+      "explanation": "Calvin insiste sur la 'Sola Scriptura' (l'Écriture seule) comme fondement unique de la foi protestante."
+    },
+    {
+      "id": "ex-q29",
+      "prompt": "Vers 1900, quelles puissances européennes possèdent un empire colonial en Afrique ?",
+      "choices": [
+        "Royaume-Uni, France, Allemagne et Belgique.",
+        "Royaume-Uni, France, Autriche-Hongrie et Russie.",
+        "Seuls le Royaume-Uni et la France.",
+        "Espagne, Portugal, Suède et Danemark.",
+        "Royaume-Uni, France, Italie et Empire Ottoman."
+      ],
+      "correctIndex": 0,
+      "explanation": "L'Afrique était presque entièrement partagée entre ces puissances (plus l'Italie, le Portugal et l'Espagne)."
+    },
+    {
+      "id": "ex-q30",
+      "prompt": "Laquelle de ces crises ne frappe pas le bloc soviétique dans les années 1980 ?",
+      "choices": [
+        "L'essor du syndicat Solidarnosc en Pologne.",
+        "L'enlisement militaire en Afghanistan.",
+        "La catastrophe nucléaire de Tchernobyl.",
+        "Le blocus terrestre de Berlin-Ouest par Staline.",
+        "L'essoufflement économique et industriel."
+      ],
+      "correctIndex": 3,
+      "explanation": "Le blocus de Berlin date de 1948-1949, au tout début de la Guerre froide."
+    },
+    {
+      "id": "ex-q31",
+      "prompt": "Après 1918, quels territoires sont créés ou recréés au détriment de l'ancien empire russe ?",
+      "choices": [
+        "La Pologne, la Finlande et les États baltes.",
+        "L'Alsace et la Lorraine.",
+        "La Tchécoslovaquie et la Yougoslavie.",
+        "Le Mexique et Cuba.",
+        "Le Vietnam et le Cambodge."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le traité de Brest-Litovsk puis les traités de paix de 1919 actent l'indépendance de ces marches de l'ancien empire tsariste."
+    },
+    {
+      "id": "ex-q32",
+      "prompt": "Pendant son règne à la tête de l'URSS, Joseph Staline a instauré :",
+      "choices": [
+        "Un culte de la personnalité et un régime de terreur.",
+        "Une économie de marché décentralisée.",
+        "Le suffrage universel pluraliste.",
+        "Une alliance permanente avec les démocraties occidentales.",
+        "La liberté totale de culte et de religion."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le stalinisme se définit par la collectivisation forcée, les purges et une propagande centrée sur le chef."
+    },
+    {
+      "id": "ex-q33",
+      "prompt": "La lettre du Cardinal Bessarion en 1468 illustre :",
+      "choices": [
+        "L'intérêt des humanistes pour la sauvegarde des textes de l'Antiquité grecque.",
+        "L'opposition farouche de l'Église à l'imprimerie.",
+        "Le refus des Vénitiens d'accueillir des savants byzantins.",
+        "La supériorité militaire des Turcs sur l'Europe occidentale.",
+        "La fin programmée de la langue latine comme langue de savoir."
+      ],
+      "correctIndex": 0,
+      "explanation": "Bessarion craignait la disparition de la culture grecque après la chute de Constantinople et a légué sa collection de manuscrits à Venise."
+    },
+    {
+      "id": "ex-q34",
+      "prompt": "La guerre de Quatre-Vingts Ans (1568-1648) :",
+      "choices": [
+        "Est un conflit purement colonial entre l'Espagne et le Portugal.",
+        "Aboutit à la reconnaissance de l'indépendance des Provinces-Unies.",
+        "Se termine par la victoire totale de Philippe II d'Espagne.",
+        "Ravale uniquement les territoires de l'actuelle Angleterre.",
+        "Est déclenchée par l'invasion française des Pays-Bas."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ce conflit marque la sécession des provinces du Nord (actuels Pays-Bas) de la tutelle espagnole."
+    },
+    {
+      "id": "ex-q35",
+      "prompt": "L'Anthropocène se traduit notamment par une accélération de la concentration de CO2 dès :",
+      "choices": [
+        "Le milieu du 20e siècle (environ 1950).",
+        "La chute de l'Empire romain en 476.",
+        "Le début du 18e siècle avec la découverte de la Louisiane.",
+        "Le protocole de Kyoto en 1997.",
+        "L'année 2024 uniquement."
+      ],
+      "correctIndex": 0,
+      "explanation": "C'est la 'Grande Accélération' de l'après-guerre qui marque l'impact massif de l'activité humaine sur le climat."
+    },
+    {
+      "id": "ex-q36",
+      "prompt": "L'Empire safavide (1501-1722) était situé :",
+      "choices": [
+        "En Perse (actuel Iran).",
+        "Dans la péninsule indienne.",
+        "En Afrique du Nord.",
+        "Dans la vallée du Nil.",
+        "En Anatolie centrale."
+      ],
+      "correctIndex": 0,
+      "explanation": "Cet empire a imposé le chiisme comme religion d'État en Perse et fut un grand rival des Ottomans."
+    },
+    {
+      "id": "ex-q37",
+      "prompt": "L'Empire moghol a été fondé en Inde par :",
+      "choices": [
+        "Babur en 1530.",
+        "Akbar en 1605.",
+        "Mehmed II en 1453.",
+        "Shah Abbas en 1600.",
+        "Isma'il Ier en 1500."
+      ],
+      "correctIndex": 0,
+      "explanation": "Babur, prince venu d'Asie centrale, fonde la dynastie qui unifiera une grande partie de l'Inde."
+    },
+    {
+      "id": "ex-q38",
+      "prompt": "Le traité de Tordesillas (1494) :",
+      "choices": [
+        "Partage les zones d'influence dans le monde entre l'Espagne et le Portugal.",
+        "Met fin à la guerre de Cent Ans entre la France et l'Angleterre.",
+        "Organise le commerce des esclaves entre l'Afrique et l'Asie.",
+        "Interdit la navigation dans l'océan Indien aux navires européens.",
+        "Établit les frontières définitives de l'Empire Ottoman."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sous l'arbitrage du pape, une ligne de démarcation est tracée dans l'Atlantique pour séparer les futures conquêtes ibériques."
+    },
+    {
+      "id": "ex-q39",
+      "prompt": "Le système de l'encomienda dans l'empire espagnol consistait à :",
+      "choices": [
+        "Confier des autochtones à un colon pour les évangéliser en échange de leur travail forcé.",
+        "Créer des ports francs réservés uniquement au commerce anglais.",
+        "Établir des ambassades permanentes auprès des empereurs incas.",
+        "Interdire tout mélange racial entre colons et populations locales.",
+        "Supprimer totalement l'autorité religieuse du pape en Amérique."
+      ],
+      "correctIndex": 0,
+      "explanation": "C'était un système d'exploitation brutal qui masquait mal l'asservissement des populations indigènes."
+    },
+    {
+      "id": "ex-q40",
+      "prompt": "Le « Code Noir » (1685) sous Louis XIV visait à :",
+      "choices": [
+        "Réglementer la condition des esclaves dans les colonies françaises.",
+        "Interdire l'entrée des populations africaines sur le sol français.",
+        "Supprimer les privilèges de la noblesse d'épée.",
+        "Organiser l'armée française pour la guerre de Succession d'Espagne.",
+        "Établir la liberté de culte pour les juifs marranes."
+      ],
+      "correctIndex": 0,
+      "explanation": "Ce texte définissait l'esclave comme un 'bien meuble' tout en imposant certains devoirs religieux aux maîtres."
+    },
+    {
+      "id": "ex-q41",
+      "prompt": "La Glorieuse Révolution de 1688-1689 en Angleterre voit :",
+      "choices": [
+        "L'accession au trône de Guillaume III d'Orange et Marie II Stuart.",
+        "L'exécution du roi Charles Ier par Oliver Cromwell.",
+        "Le rétablissement définitif de l'absolutisme catholique.",
+        "La défaite navale de l'Angleterre face à la France.",
+        "L'indépendance des treize colonies américaines."
+      ],
+      "correctIndex": 0,
+      "explanation": "C'est une révolution quasi sans effusion de sang qui instaure une monarchie constitutionnelle."
+    },
+    {
+      "id": "ex-q42",
+      "prompt": "John Locke, dans son ouvrage 'Traités du gouvernement civil' (1690), défend :",
+      "choices": [
+        "Les droits naturels inaliénables de l'individu (liberté, propriété).",
+        "Le droit divin des rois à régner sans partage.",
+        "La nécessité d'une dictature pour éviter la guerre civile.",
+        "Le retour au système féodal médiéval.",
+        "L'interdiction formelle du droit de résistance à l'oppression."
+      ],
+      "correctIndex": 0,
+      "explanation": "Locke est le père du libéralisme politique et influence grandement les révolutions américaine et française."
+    },
+    {
+      "id": "ex-q43",
+      "prompt": "L'Encyclopédie de Diderot et d'Alembert (1751-1772) avait pour but de :",
+      "choices": [
+        "Rassembler et diffuser les connaissances humaines à la lumière de la raison.",
+        "Prouver scientifiquement l'existence de Dieu et la hiérarchie des anges.",
+        "Soutenir la politique coloniale de Louis XV.",
+        "Recenser uniquement les techniques de guerre médiévales.",
+        "Remplacer la Bible par un dictionnaire des arts libéraux."
+      ],
+      "correctIndex": 0,
+      "explanation": "C'est l'œuvre emblématique des Lumières, visant à émanciper l'esprit humain par le savoir."
+    },
+    {
+      "id": "ex-q44",
+      "prompt": "La bataille de Lépante en 1571 est :",
+      "choices": [
+        "Une victoire navale de la Sainte-Ligue contre la flotte ottomane.",
+        "La première défaite des conquistadors espagnols face aux Aztèques.",
+        "Le siège de Vienne par Soliman le Magnifique.",
+        "La fin de la présence musulmane en Espagne.",
+        "Une victoire des protestants français contre les armées du Roi."
+      ],
+      "correctIndex": 0,
+      "explanation": "Cette victoire marque le coup d'arrêt de l'expansion maritime ottomane en Méditerranée occidentale."
+    },
+    {
+      "id": "ex-q45",
+      "prompt": "L'édit de Fontainebleau (1685) signé par Louis XIV a pour conséquence :",
+      "choices": [
+        "La révocation de l'édit de Nantes et l'exode des protestants français.",
+        "L'instauration de la liberté de conscience totale en France.",
+        "La reconnaissance de l'indépendance de la Belgique.",
+        "La fin de l'Inquisition en Espagne.",
+        "Le couronnement de Napoléon Ier."
+      ],
+      "correctIndex": 0,
+      "explanation": "En révoquant l'édit de Nantes, Louis XIV impose le catholicisme comme seule religion autorisée, forçant des milliers de huguenots à l'exil."
+    }
+  ]
+}
