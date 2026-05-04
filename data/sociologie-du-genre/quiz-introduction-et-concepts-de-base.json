@@ -1,0 +1,495 @@
+{
+  "quizId": "introduction-et-concepts-de-base",
+  "title": "Introduction et concepts de base",
+  "section": {
+    "id": "introduction-et-concepts-de-base",
+    "title": "Introduction et concepts de base",
+    "startPage": 6,
+    "endPage": 14,
+    "summary": "Introduction à la sociologie du genre, distinction entre sexe et genre, débat nature/culture, critique du déterminisme biologique et analyse du genre comme principe organisateur du social.",
+    "estimatedQuestionCount": 40
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon le préambule, quelle est la caractéristique principale des études du genre dès leur origine ?",
+      "choices": [
+        "Elles s'appuient exclusivement sur une approche sociologique",
+        "Elles sont pluridisciplinaires et mobilisent plusieurs disciplines",
+        "Elles se concentrent uniquement sur l'analyse de l'humour",
+        "Elles rejettent les apports des sciences biologiques",
+        "Elles sont nées d'une volonté purement académique sans militantisme"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q2",
+      "prompt": "Pourquoi la sociologie des débuts était-elle qualifiée de « science des hommes faite par les hommes » ?",
+      "choices": [
+        "Parce que les femmes refusaient de participer aux enquêtes",
+        "En raison de l'invisibilisation des travaux des femmes précurseurs",
+        "Parce que les thématiques de recherche étaient uniquement religieuses",
+        "À cause de l'absence totale de femmes dans la société civile",
+        "Parce que les hommes considéraient la sociologie comme une science dure"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel domaine de recherche était historiquement le seul où les femmes étaient étudiées ?",
+      "choices": [
+        "Le monde du travail industriel",
+        "La sphère des activités politiques",
+        "La sphère familiale et domestique",
+        "Les processus de stratification sociale",
+        "Les institutions éducatives supérieures"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel facteur historique a limité la présence des femmes aux débuts de la sociologie ?",
+      "choices": [
+        "L'interdiction de publier des ouvrages scientifiques",
+        "Leur manque d'intérêt pour les questions sociales",
+        "Le fait qu'elles n'avaient pas accès à l'université",
+        "Une préférence pour les études de psychologie",
+        "L'absence de statut légal pour les femmes mariées"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q5",
+      "prompt": "Pourquoi le travail domestique a-t-il été longtemps ignoré par la sociologie ?",
+      "choices": [
+        "Parce qu'il était considéré comme un loisir",
+        "Parce qu'il n'était pas considéré comme un travail",
+        "En raison de la difficulté à mesurer sa productivité",
+        "Parce qu'il concernait également les hommes",
+        "À cause du manque de données statistiques fiables"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelle critique est adressée aux études de stratification sociale mentionnées en exemple ?",
+      "choices": [
+        "L'utilisation de méthodes quantitatives obsolètes",
+        "Le fait de considérer les épouses d'ouvriers comme ouvrières par défaut",
+        "L'absence de prise en compte du niveau de diplôme",
+        "La généralisation de résultats féminins à toute la population",
+        "Le refus d'étudier les classes sociales favorisées"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q7",
+      "prompt": "Dans quel champ disciplinaire et à quelle période le concept de « genre » est-il né ?",
+      "choices": [
+        "En sociologie en France dans les années 1960",
+        "En psychologie aux USA dans les années 1970",
+        "En anthropologie au Royaume-Uni en 1950",
+        "En biologie en Allemagne au 19ème siècle",
+        "En sciences politiques en Italie en 1980"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q8",
+      "prompt": "Quelle distinction Anne Oakley établit-elle entre le sexe et le genre ?",
+      "choices": [
+        "Le sexe est social et le genre est biologique",
+        "Le sexe est renvoyé au biologique et le genre au culturel",
+        "Le sexe est une variable et le genre est une constante",
+        "Le sexe est individuel et le genre est institutionnel",
+        "Le sexe est fixe et le genre est métaphysique"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q9",
+      "prompt": "Quelle expression était préférentiellement utilisée en français avant l'adoption du terme « genre » ?",
+      "choices": [
+        "Différence de nature",
+        "Rapports sociaux au sexe",
+        "Dualité anatomique",
+        "Construction identitaire sexuelle",
+        "Condition féminine universelle"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q10",
+      "prompt": "Comment est défini le « genre » dans le cadre du rejet du déterminisme biologique ?",
+      "choices": [
+        "Comme un ensemble de gènes spécifiques au comportement",
+        "Comme la résultante de productions sociales",
+        "Comme une donnée psychologique innée",
+        "Comme un instinct de survie différencié",
+        "Comme une évolution naturelle de l'espèce"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q11",
+      "prompt": "Quelle est la preuve de l'origine sociale du genre selon le texte ?",
+      "choices": [
+        "Sa stabilité à travers les différentes époques",
+        "Sa variabilité dans le temps et l'espace",
+        "Son lien direct avec les capacités reproductives",
+        "Sa codification dans les textes religieux anciens",
+        "Son absence dans les sociétés dites primitives"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q12",
+      "prompt": "Selon Judith Butler, quel est l'effet de l'idée que le sexe est une donnée biologique « vraie » ?",
+      "choices": [
+        "Cela permet une meilleure prise en charge médicale",
+        "Cela renforce l'idée que cette séparation crée des comportements définitifs",
+        "Cela simplifie l'organisation des structures sportives",
+        "Cela favorise l'égalité entre les hommes et les femmes",
+        "Cela réduit les conflits sociaux liés à l'identité"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q13",
+      "prompt": "Selon Thomas Laqueur, comment était perçue la différence sexuelle dans le modèle antique ?",
+      "choices": [
+        "Comme deux natures totalement incommensurables",
+        "Comme un continuum où le féminin est un masculin non abouti",
+        "Comme une égalité parfaite entre les deux sexes",
+        "Comme une invention sociale sans base anatomique",
+        "Comme une supériorité biologique de la femme"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q14",
+      "prompt": "À quel siècle le modèle actuel de la différence des sexes (natures distinctes) se développe-t-il ?",
+      "choices": [
+        "Au 15ème siècle",
+        "Au 16ème siècle",
+        "Au 18ème siècle",
+        "Au 19ème siècle",
+        "Au 20ème siècle"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q15",
+      "prompt": "Que signifie la « synecdoque anatomique » dans la définition du sexe ?",
+      "choices": [
+        "L'étude des tissus cellulaires sexuels",
+        "Le fait que le génital (une partie) définit l'ensemble de la personne",
+        "La comparaison entre le cerveau et les organes génitaux",
+        "Le processus de reproduction cellulaire",
+        "L'influence des hormones sur le comportement"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q16",
+      "prompt": "Lequel de ces éléments n'est PAS cité comme critère de détermination du « vrai sexe » ?",
+      "choices": [
+        "Les gonades",
+        "L'organisation du cerveau",
+        "Les hormones",
+        "La force physique brute",
+        "L'ADN"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q17",
+      "prompt": "Dans le domaine du sport, sur qui portent majoritairement les tests de féminité ?",
+      "choices": [
+        "Sur les sportifs masculins uniquement",
+        "Surtout, voire que sur les femmes",
+        "De manière égale sur les deux sexes",
+        "Uniquement sur les athlètes de haut niveau intersexes",
+        "Sur les entraîneurs et le staff médical"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q18",
+      "prompt": "Lors de l'assignation de sexe pour un enfant intersexe (XY), quel critère est souvent privilégié ?",
+      "choices": [
+        "La capacité de reproduction future",
+        "La taille du pénis évaluée aux normes de sociabilité masculine",
+        "La structure chromosomique stricte",
+        "La préférence déclarée des parents",
+        "Le taux de testostérone dans le sang"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q19",
+      "prompt": "Selon Stevi Jackson, qu'est-ce qui donne une signification sociale aux différences anatomiques ?",
+      "choices": [
+        "L'évolution biologique naturelle",
+        "La hiérarchie sociale",
+        "Le progrès de la médecine moderne",
+        "L'instinct de reproduction",
+        "La structure génétique de l'individu"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q20",
+      "prompt": "Comment le texte définit-il l'acte des biologistes pour déterminer le sexe de quelqu'un ?",
+      "choices": [
+        "Une observation neutre et objective",
+        "Un travail de réduction et un acte social",
+        "Une procédure purement statistique",
+        "Une découverte fortuite de marqueurs naturels",
+        "Un processus de validation génétique invariable"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q21",
+      "prompt": "Quelle est la conclusion du texte concernant le rapport entre biologie et social ?",
+      "choices": [
+        "La biologie n'a aucune influence sur le corps",
+        "Le biologique ne prend son sens que dans et par le social",
+        "Les lois naturelles prédisent parfaitement les comportements",
+        "Le genre est secondaire par rapport au sexe biologique",
+        "La couleur de la peau est plus importante que le sexe"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q22",
+      "prompt": "Quel est l'objectif du « projet politique » lié à la démarche genre ?",
+      "choices": [
+        "Remplacer les hommes par les femmes au pouvoir",
+        "Identifier les éléments pour réduire et supprimer les inégalités",
+        "Supprimer toute forme de distinction biologique",
+        "Financer uniquement des recherches sur les femmes",
+        "Imposer un quota strict dans tous les secteurs"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q23",
+      "prompt": "Qu'entraîne le constat des différences entre les rôles des hommes et des femmes ?",
+      "choices": [
+        "Une harmonie sociale naturelle",
+        "Une hiérarchisation des places et une inégalité de pouvoir",
+        "Une spécialisation efficace des tâches économiques",
+        "Une disparition progressive des stéréotypes",
+        "Un renforcement de la solidarité familiale"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q24",
+      "prompt": "Quelle dimension du 'Gender Equality Index' est notée comme jouant en défaveur des hommes ?",
+      "choices": [
+        "Le travail",
+        "Le pouvoir politique",
+        "La santé (espérance de vie)",
+        "L'accès au savoir",
+        "La gestion du temps"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q25",
+      "prompt": "Quel est le score global de l'Union Européenne au 'Gender Equality Index' selon le texte ?",
+      "choices": [
+        "50.5",
+        "60.0",
+        "70.2",
+        "76.0",
+        "82.4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q26",
+      "prompt": "Quels sont les deux domaines identifiés comme les plus inégaux en Belgique ?",
+      "choices": [
+        "Travail et Argent",
+        "Santé et Savoir",
+        "Pouvoir et Temps",
+        "Violence et Travail",
+        "Savoir et Argent"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q27",
+      "prompt": "Que signifie le concept de « doing gender » ?",
+      "choices": [
+        "Le genre est un état fixe et biologique",
+        "Le genre est un processus continuellement produit et reproduit",
+        "Le genre est une activité sportive spécifique",
+        "Le genre est une obligation législative",
+        "Le genre est une étude purement théorique"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q28",
+      "prompt": "À quel niveau d'étude le genre organise-t-il notre vision de nous-même et de nos comportements ?",
+      "choices": [
+        "L'approche institutionnelle",
+        "L'approche individualiste (micro)",
+        "L'approche interactionnelle",
+        "L'approche macro-structurelle",
+        "L'approche globale européenne"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q29",
+      "prompt": "Pourquoi l'identification genrée est-elle centrale dans l'approche interactionnelle ?",
+      "choices": [
+        "Elle permet de définir les salaires",
+        "Elle facilite les interactions (besoin de connaître le genre pour interagir)",
+        "Elle empêche les conflits de voisinage",
+        "Elle est imposée par les règles de politesse médiévales",
+        "Elle limite le nombre de participants à une discussion"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q30",
+      "prompt": "Qu'organise l'approche institutionnelle (macro structurelle) du genre ?",
+      "choices": [
+        "Uniquement les relations de couple",
+        "Les institutions sociales (éducation, travail, famille...) qui véhiculent le genre",
+        "Les données statistiques de l'Union Européenne",
+        "Le fonctionnement interne du cerveau humain",
+        "Les rituels religieux ancestraux uniquement"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q31",
+      "prompt": "Selon Bourdieu, comment fonctionnent les catégories du masculin et du féminin ?",
+      "choices": [
+        "Comme des données biologiques immuables",
+        "Comme un opérateur symbolique produisant normes et sens",
+        "Comme des concepts purement linguistiques sans effet social",
+        "Comme des barrières infranchissables pour le progrès",
+        "Comme des outils de mesure de la performance physique"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q32",
+      "prompt": "Quel type d'aliments est symboliquement associé à l'homme selon les travaux cités ?",
+      "choices": [
+        "Aliments doux et fades",
+        "Aliments bouillis",
+        "Aliments chauds, forts et rôtis",
+        "Aliments sucrés et délicats",
+        "Aliments crus et végétaux"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q33",
+      "prompt": "Quelle association symbolique fondamentale correspond au couple femme/homme ?",
+      "choices": [
+        "Dessus / Dessous",
+        "Dehors / Dedans",
+        "Dedans / Dehors",
+        "Vitesse / Lenteur",
+        "Bruit / Silence"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q34",
+      "prompt": "Pourquoi les fluides corporels féminins (menstruations) sont-ils perçus négativement selon le texte ?",
+      "choices": [
+        "À cause d'une dangerosité biologique réelle",
+        "Parce qu'ils sont culturellement cachés et associés à l'humide",
+        "En raison de leur coût économique élevé",
+        "Parce qu'ils empêchent les femmes de travailler",
+        "À cause de leur lien avec les maladies infectieuses"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q35",
+      "prompt": "Quelle est la définition de la « valence différentielle des sexes » selon Françoise Héritier ?",
+      "choices": [
+        "L'égalité parfaite des droits civiques",
+        "Un rapport conceptuel orienté, sinon toujours hiérarchique, entre masculin et féminin",
+        "La différence de poids corporel moyen entre les sexes",
+        "L'alternance du pouvoir politique entre hommes et femmes",
+        "La capacité de reproduction différenciée selon l'âge"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q36",
+      "prompt": "Selon le modèle archaïque de pensée, quel type de travail est associé à la femme ?",
+      "choices": [
+        "Le travail technique",
+        "Le travail politique",
+        "Le travail domestique",
+        "Le travail intellectuel",
+        "Le travail guerrier"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q37",
+      "prompt": "Quelle interdiction historique concernant les femmes en préhistoire est mentionnée ?",
+      "choices": [
+        "L'interdiction de cueillir des fruits",
+        "L'interdiction de tuer les animaux en faisant couler le sang",
+        "L'interdiction de peindre sur les parois des grottes",
+        "L'interdiction de s'occuper des enfants mâles",
+        "L'interdiction de porter des vêtements en peau"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q38",
+      "prompt": "Où renvoie-t-on traditionnellement les femmes dans les visions genrées de la société ?",
+      "choices": [
+        "Vers l'espace public et la rue",
+        "Vers la sphère de l'intime, du privé et de la maison",
+        "Vers les institutions de haute technologie",
+        "Vers les champs de bataille et la chasse",
+        "Vers les centres de décision financière"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q39",
+      "prompt": "Dans l'exemple du discours médical sur la fécondation, comment est décrit l'ovule ?",
+      "choices": [
+        "Comme un élément actif et conquérant",
+        "Comme un trophée passif où la femme ne joue aucun rôle",
+        "Comme une cellule intelligente guidant le processus",
+        "Comme un moteur chimique puissant",
+        "Comme un partenaire égal du spermatozoïde"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q40",
+      "prompt": "Quelle métaphore est utilisée pour décrire le spermatozoïde dans les documentaires médicaux ?",
+      "choices": [
+        "Un voyageur égaré",
+        "Un conquérant fort qui va gagner la conquête",
+        "Une particule élémentaire aléatoire",
+        "Un serviteur de la vie cellulaire",
+        "Une simple donnée génétique"
+      ],
+      "correctIndex": 1
+    }
+  ],
+  "course": "Sociologie du Genre"
+}
