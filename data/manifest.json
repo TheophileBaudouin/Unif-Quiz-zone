@@ -1,6 +1,6 @@
 {
   "documentTitle": "Sociologie du Genre",
-  "generatedAt": "2026-05-04T22:56:41.814Z",
+  "generatedAt": "2026-05-09T16:03:29.027Z",
   "sourcePdf": "Sociologie du Genre (1).pdf",
   "quizzes": [
     {
@@ -13,15 +13,6 @@
       "course": "Sociologie du Genre"
     },
     {
-      "id": "affirmation-absolutisme",
-      "title": "Quiz - L'absolutisme",
-      "file": "histoire/quiz-affirmation-absolutisme.json",
-      "questionCount": 40,
-      "pageStart": 45,
-      "pageEnd": 55,
-      "course": "histoire"
-    },
-    {
       "id": "apple-broken-promises-vocabulary",
       "title": "Apple's Broken Promises Vocabulary",
       "file": "anglais/quiz-apple-broken-promises-vocabulary.json",
@@ -29,15 +20,6 @@
       "pageStart": 10,
       "pageEnd": 11,
       "course": "anglais"
-    },
-    {
-      "id": "capitalisme-globalise-anthropocene",
-      "title": "Quiz - Le capitalisme globalisé et les défis mondiaux",
-      "file": "histoire/quiz-capitalisme-globalise-anthropocene.json",
-      "questionCount": 50,
-      "pageStart": 118,
-      "pageEnd": 126,
-      "course": "histoire"
     },
     {
       "id": "childhood-obesity-vocabulary-quiz",
@@ -67,15 +49,6 @@
       "course": "Sociologie du Genre"
     },
     {
-      "id": "empires-mondialisation-modernes",
-      "title": "Quiz - Empires et mondialisation aux temps modernes",
-      "file": "histoire/quiz-empires-mondialisation-modernes.json",
-      "questionCount": 50,
-      "pageStart": 2,
-      "pageEnd": 20,
-      "course": "histoire"
-    },
-    {
       "id": "genre-travail-et-humour",
       "title": "Genre, travail et humour",
       "file": "sociologie-du-genre/quiz-genre-travail-et-humour.json",
@@ -85,24 +58,6 @@
       "course": "Sociologie du Genre"
     },
     {
-      "id": "guerres-et-societes-quiz",
-      "title": "Quiz - Guerres et sociétés aux temps modernes",
-      "file": "histoire/quiz-guerres-et-societes.json",
-      "questionCount": 41,
-      "pageStart": 56,
-      "pageEnd": 64,
-      "course": "histoire"
-    },
-    {
-      "id": "humanisme-et-reformes",
-      "title": "Quiz - Humanisme et Réformes",
-      "file": "histoire/quiz-humanisme-et-reformes.json",
-      "questionCount": 40,
-      "pageStart": 21,
-      "pageEnd": 29,
-      "course": "histoire"
-    },
-    {
       "id": "identites-queer-et-monde-numerique",
       "title": "Identités queer et monde numérique",
       "file": "sociologie-du-genre/quiz-identites-queer-et-monde-numerique.json",
@@ -110,15 +65,6 @@
       "pageStart": 41,
       "pageEnd": 46,
       "course": "Sociologie du Genre"
-    },
-    {
-      "id": "ideologies-politiques-masses",
-      "title": "Quiz - Régimes et idéologies politiques à l'ère des masses",
-      "file": "histoire/quiz-ideologies-politiques-masses.json",
-      "questionCount": 40,
-      "pageStart": 88,
-      "pageEnd": 97,
-      "course": "histoire"
     },
     {
       "id": "intro-philosophy-foundations",
@@ -139,15 +85,6 @@
       "course": "Sociologie du Genre"
     },
     {
-      "id": "introduction-temps-modernes",
-      "title": "Quiz - Les temps modernes : Introduction",
-      "file": "histoire/quiz-introduction-temps-modernes.json",
-      "questionCount": 40,
-      "pageStart": 1,
-      "pageEnd": 2,
-      "course": "histoire"
-    },
-    {
       "id": "irregular-verbs-reference",
       "title": "Irregular Verbs",
       "file": "anglais/quiz-irregular-verbs-reference.json",
@@ -166,15 +103,6 @@
       "course": "philosophie"
     },
     {
-      "id": "lumieres-et-revolutions",
-      "title": "Quiz - Révolutions et Lumières au XVIIIe siècle",
-      "file": "histoire/quiz-lumieres-et-revolutions.json",
-      "questionCount": 40,
-      "pageStart": 30,
-      "pageEnd": 36,
-      "course": "histoire"
-    },
-    {
       "id": "metropolis-london-vocabulary",
       "title": "Metropolis: London Vocabulary",
       "file": "anglais/quiz-metropolis-london-vocabulary.json",
@@ -182,24 +110,6 @@
       "pageStart": 4,
       "pageEnd": 5,
       "course": "anglais"
-    },
-    {
-      "id": "modern-contemporary-history-exam-examples",
-      "title": "Exemples de questions d'examen - Histoire Moderne et Contemporaine",
-      "file": "histoire/quiz-exemples-questions-examen.json",
-      "questionCount": 45,
-      "pageStart": 127,
-      "pageEnd": 151,
-      "course": "histoire"
-    },
-    {
-      "id": "mondialisation-industrielle",
-      "title": "Quiz - Mondialisation industrielle, bourgeoise et capitaliste",
-      "file": "histoire/quiz-mondialisation-industrielle.json",
-      "questionCount": 40,
-      "pageStart": 66,
-      "pageEnd": 77,
-      "course": "histoire"
     },
     {
       "id": "non-binarite-et-presentation-de-soi",
@@ -274,24 +184,6 @@
       "course": "anglais"
     },
     {
-      "id": "quiz-conflits-mondiaux",
-      "title": "Quiz - Les Guerres Mondiales et le Droit International",
-      "file": "histoire/quiz-conflits-mondiaux.json",
-      "questionCount": 45,
-      "pageStart": 98,
-      "pageEnd": 107,
-      "course": "histoire"
-    },
-    {
-      "id": "quiz-guerre-froide",
-      "title": "Quiz sur la Guerre froide",
-      "file": "histoire/quiz-guerre-froide.json",
-      "questionCount": 40,
-      "pageStart": 108,
-      "pageEnd": 117,
-      "course": "histoire"
-    },
-    {
       "id": "regimes-d-inegalite-dans-les-organisations",
       "title": "Régimes d'inégalité dans les organisations",
       "file": "sociologie-du-genre/quiz-regimes-d-inegalite-dans-les-organisations.json",
@@ -301,15 +193,6 @@
       "course": "Sociologie du Genre"
     },
     {
-      "id": "renaissance-culture-art",
-      "title": "Quiz - La Renaissance",
-      "file": "histoire/quiz-renaissance-artistique-humanisme.json",
-      "questionCount": 40,
-      "pageStart": 37,
-      "pageEnd": 44,
-      "course": "histoire"
-    },
-    {
       "id": "resistances-et-inegalites-d-orientation",
       "title": "Résistances et inégalités d'orientation",
       "file": "sociologie-du-genre/quiz-resistances-et-inegalites-d-orientation.json",
@@ -317,15 +200,6 @@
       "pageStart": 53,
       "pageEnd": 65,
       "course": "Sociologie du Genre"
-    },
-    {
-      "id": "restauration-nationalisme-liberalisme",
-      "title": "Quiz - Restauration, nationalisme et libéralisme",
-      "file": "histoire/quiz-restauration-nationalisme-liberalisme.json",
-      "questionCount": 42,
-      "pageStart": 78,
-      "pageEnd": 87,
-      "course": "histoire"
     },
     {
       "id": "scripts-de-la-sexualite",
