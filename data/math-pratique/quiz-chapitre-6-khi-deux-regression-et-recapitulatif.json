@@ -1,0 +1,495 @@
+{
+  "quizId": "chapitre-6-khi-deux-regression-et-recapitulatif",
+  "title": "Chapitre 6 — Test du Khi-deux, Régression et Récapitulatif",
+  "section": {
+    "id": "chapitre-6-khi-deux-regression-et-recapitulatif",
+    "title": "Chapitre 6 — Test du Khi-deux, Régression et Récapitulatif",
+    "startPage": 7,
+    "endPage": 9,
+    "summary": "Analyse de la relation entre variables : test d'indépendance du Khi-deux pour les variables qualitatives, corrélation de Pearson et régression linéaire simple pour les variables quantitatives. Inclut un guide d'utilisation des tables et un tableau récapitulatif.",
+    "estimatedQuestionCount": 30
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon la source, quelle est la définition exacte d'un intervalle de confiance ?",
+      "choices": [
+        "Un intervalle calculé à partir de données de l'échantillon où l'on affirme avec confiance que le paramètre s'y trouve",
+        "Une plage de valeurs fixes dans la population qui détermine avec certitude la valeur de la moyenne observée",
+        "Une mesure de l'erreur systématique lors de la collecte des données pour garantir la validité du paramètre",
+        "Un écart-type ajusté par la taille de l'échantillon pour corriger les biais de sélection de la population",
+        "La probabilité exacte qu'une observation individuelle se situe à moins de deux écarts-types de la moyenne"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Quelle est la relation mathématique entre le niveau de confiance et le seuil de signification alpha ?",
+      "choices": [
+        "Niveau de confiance = 1 - alpha",
+        "Niveau de confiance = 1 + alpha",
+        "Niveau de confiance = alpha / 2",
+        "Niveau de confiance = racine(alpha)",
+        "Niveau de confiance = 1 / alpha"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q3",
+      "prompt": "Dans la formule de l'intervalle de confiance pour la moyenne, que représente la variable 'E' ?",
+      "choices": [
+        "La marge d'erreur calculée",
+        "L'espérance mathématique",
+        "L'erreur de type deux (beta)",
+        "L'écart-type de la population",
+        "L'effectif total de l'échantillon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q4",
+      "prompt": "Quelle est la valeur critique z pour un niveau de confiance de 95% selon les valeurs courantes fournies ?",
+      "choices": [
+        "z = 1.960",
+        "z = 1.645",
+        "z = 2.576",
+        "z = 1.282",
+        "z = 2.326"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q5",
+      "prompt": "Comment est défini l'écart-type des moyennes d'échantillon (erreur standard) par rapport à l'écart-type individuel sigma ?",
+      "choices": [
+        "Erreur standard = sigma / racine(n)",
+        "Erreur standard = sigma x racine(n)",
+        "Erreur standard = sigma² / n",
+        "Erreur standard = racine(sigma / n)",
+        "Erreur standard = sigma / n"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelle est l'interprétation correcte d'un intervalle de confiance à 95% selon la source ?",
+      "choices": [
+        "95% des intervalles ainsi construits contiendraient le vrai paramètre si l'on répétait l'expérience",
+        "Il y a 95% de chances que la moyenne de la population soit exactement égale à la moyenne de l'échantillon",
+        "L'expérience a 95% de chances de ne pas contenir d'erreur de mesure lors de la sélection des individus",
+        "On est certain à 95% qu'aucune valeur individuelle de l'échantillon ne sort des bornes calculées",
+        "Seulement 5% des données de la population se trouvent en dehors de l'intervalle de confiance calculé"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q7",
+      "prompt": "Quelle est la première étape immuable de la procédure d'un test d'hypothèse ?",
+      "choices": [
+        "Formuler H0 (hypothèse nulle) et H1 (hypothèse alternative)",
+        "Choisir le seuil de signification alpha (0.05 ou 0.01)",
+        "Calculer la statistique de test appropriée (z ou t)",
+        "Déterminer la valeur critique dans la table statistique",
+        "Comparer la statistique de test à la valeur critique lue"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q8",
+      "prompt": "Que représente l'hypothèse nulle (H0) dans un test statistique ?",
+      "choices": [
+        "L'hypothèse de 'statu quo' ou d'absence d'effet",
+        "Ce que le chercheur veut démontrer ou prouver",
+        "La probabilité de commettre une erreur de type II",
+        "L'écart maximal toléré entre deux moyennes",
+        "Le résultat certain obtenu après l'échantillonnage"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q9",
+      "prompt": "Quelle affirmation concernant la conclusion d'un test d'hypothèse est exacte ?",
+      "choices": [
+        "On ne peut que 'rejeter H0' ou 'ne pas rejeter H0'",
+        "On peut prouver que H1 est absolument vraie",
+        "On doit accepter H0 si la statistique est nulle",
+        "On prouve que H0 est fausse avec une certitude totale",
+        "On accepte H1 dès que l'échantillon est représentatif"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q10",
+      "prompt": "Quelle est la statistique de test Z utilisée pour tester une moyenne avec sigma connu ?",
+      "choices": [
+        "Z = (x̄ - µ_0) / (σ / racine(n))",
+        "Z = (x̄ - µ_0) / racine(σ / n)",
+        "Z = (x̄ + µ_0) / (σ / n)",
+        "Z = (x̄ - µ_0) / (σ² / n)",
+        "Z = (x̄ - µ_0) / racine(n)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q11",
+      "prompt": "Pour un test bilatéral avec alpha = 0.05, quelle est la règle de décision concernant H0 ?",
+      "choices": [
+        "Rejeter H0 si la valeur absolue de Z est supérieure à 1.96",
+        "Rejeter H0 si la valeur absolue de Z est inférieure à 1.96",
+        "Rejeter H0 si Z est exactement égal à la valeur de sigma",
+        "Rejeter H0 si l'écart-type est plus grand que la moyenne",
+        "Ne pas rejeter H0 si la statistique Z est positive"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q12",
+      "prompt": "Comment définit-on l'erreur de type I dans un test d'hypothèse ?",
+      "choices": [
+        "Rejeter H0 alors que H0 est en réalité vraie",
+        "Ne pas rejeter H0 alors que H1 est en réalité vraie",
+        "Accepter H1 alors que l'échantillon est trop petit",
+        "Choisir un seuil alpha trop élevé pour l'expérience",
+        "Utiliser une table de loi normale au lieu d'un test T"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q13",
+      "prompt": "Quelle est la conséquence de la diminution du seuil alpha (ex: de 0.05 à 0.01) ?",
+      "choices": [
+        "Cela réduit l'erreur I mais augmente l'erreur II",
+        "Cela réduit l'erreur II mais augmente l'erreur I",
+        "Cela réduit simultanément les erreurs de type I et II",
+        "Cela n'a aucun impact sur la probabilité de type II",
+        "Cela augmente la puissance du test de façon linéaire"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q14",
+      "prompt": "Quelles sont les conditions nécessaires pour effectuer un test Z sur une proportion ?",
+      "choices": [
+        "n x p_0 > 5, n x q_0 > 5 et n >= 30",
+        "n x p_0 < 5, n x q_0 < 5 et n < 30",
+        "n > 100 et la variance doit être connue",
+        "p_0 doit être égal à 0.50 pour la symétrie",
+        "L'échantillon doit suivre une loi de Poisson"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q15",
+      "prompt": "Que teste spécifiquement le test du Khi-deux d'indépendance ?",
+      "choices": [
+        "L'existence d'une association entre deux variables qualitatives",
+        "La relation linéaire entre deux variables quantitatives",
+        "La différence entre deux moyennes de populations normales",
+        "L'égalité des variances entre plusieurs groupes d'étude",
+        "La validité d'une régression simple sur des petits échantillons"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q16",
+      "prompt": "Comment calcule-t-on un effectif théorique (Tij) dans un tableau de contingence ?",
+      "choices": [
+        "(total ligne i x total colonne j) / total général",
+        "(total ligne i + total colonne j) / total général",
+        "somme des effectifs observés / nombre de cellules",
+        "total général / (nombre de lignes x nombre de colonnes)",
+        "(effectif observé - total ligne) / total colonne"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q17",
+      "prompt": "Quelle condition doit être vérifiée sur les effectifs théoriques pour appliquer le Khi-deux ?",
+      "choices": [
+        "Tous les effectifs théoriques Tij doivent être >= 5",
+        "Tous les effectifs observés Oij doivent être >= 5",
+        "La somme des effectifs théoriques doit dépasser 100",
+        "Au moins un effectif théorique doit être égal à zéro",
+        "Les effectifs théoriques doivent être des nombres entiers"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q18",
+      "prompt": "Quelle est la formule de la statistique du Khi-deux (chi²) ?",
+      "choices": [
+        "somme[(Oij - Tij)² / Tij]",
+        "somme[(Oij + Tij)² / Oij]",
+        "somme[(Oij - Tij) / Tij²]",
+        "somme[(Oij / Tij) - 1]",
+        "racine(somme[(Oij - Tij)²])"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q19",
+      "prompt": "Comment calcule-t-on les degrés de liberté (dl) pour un test du Khi-deux ?",
+      "choices": [
+        "dl = (nombre de lignes - 1) x (nombre de colonnes - 1)",
+        "dl = nombre de lignes + nombre de colonnes - 2",
+        "dl = nombre total d'observations (N) - 1",
+        "dl = nombre de cellules dans le tableau - 1",
+        "dl = (nombre de lignes) x (nombre de colonnes)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q20",
+      "prompt": "Si chi²_calculé > chi²_critique, quelle est la conclusion statistique ?",
+      "choices": [
+        "Rejeter H0 (association significative)",
+        "Ne pas rejeter H0 (indépendance conservée)",
+        "Accepter que les variables sont indépendantes",
+        "Conclure que le test n'est pas applicable",
+        "Refaire le calcul avec un alpha plus petit"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q21",
+      "prompt": "Que mesure le coefficient de corrélation de Pearson (r) ?",
+      "choices": [
+        "La force et la direction de la relation linéaire entre variables quantitatives",
+        "La probabilité que deux variables qualitatives soient indépendantes",
+        "La pente exacte de la droite de régression passant par l'origine",
+        "L'écart moyen entre les valeurs observées et les valeurs théoriques",
+        "Le nombre d'observations nécessaires pour valider un modèle linéaire"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q22",
+      "prompt": "Quelle est la plage de valeurs possible pour le coefficient de corrélation r ?",
+      "choices": [
+        "Entre -1 et +1",
+        "Entre 0 et +1",
+        "Entre -infini et +infini",
+        "Entre 0 et 100",
+        "Toute valeur positive uniquement"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q23",
+      "prompt": "Quelle est l'interprétation d'un coefficient de corrélation r proche de 0 ?",
+      "choices": [
+        "Absence de relation linéaire",
+        "Relation linéaire positive forte",
+        "Relation linéaire négative parfaite",
+        "Erreur de calcul systématique",
+        "Indépendance totale des variables qualitatives"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q24",
+      "prompt": "D'après la mise en garde de la source, que signifie 'CORRÉLATION ≠ CAUSALITÉ' ?",
+      "choices": [
+        "Deux variables peuvent être corrélées sans que l'une cause l'autre",
+        "Le coefficient r ne peut pas être utilisé pour prédire des valeurs",
+        "Une corrélation négative indique toujours une erreur de mesure",
+        "La causalité ne peut être prouvée que par un test de Khi-deux",
+        "Le coefficient de corrélation est inutile si r est inférieur à 0.5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q25",
+      "prompt": "Quel est l'objectif principal de la régression linéaire simple ?",
+      "choices": [
+        "Ajuster une droite qui minimise les écarts au carré entre valeurs observées et prédites",
+        "Calculer la probabilité d'occurrence d'un événement rare dans le temps",
+        "Comparer les moyennes de trois groupes ou plus de variables indépendantes",
+        "Transformer des variables qualitatives en variables quantitatives continues",
+        "Éliminer les valeurs aberrantes d'un nuage de points pour stabiliser la variance"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q26",
+      "prompt": "Dans l'équation de régression ŷ = a + bx, que représente le coefficient 'b' ?",
+      "choices": [
+        "La pente de la droite",
+        "L'ordonnée à l'origine",
+        "Le coefficient de détermination",
+        "L'erreur standard de l'estimation",
+        "La moyenne de la variable x"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q27",
+      "prompt": "Comment interprète-t-on une pente b > 0 dans un modèle de régression ?",
+      "choices": [
+        "Quand x augmente d'une unité, y augmente de b unités en moyenne",
+        "Quand x augmente d'une unité, y diminue de b unités en moyenne",
+        "La valeur de y est toujours égale à b multiplié par l'ordonnée",
+        "Il n'existe aucune relation statistique significative entre x et y",
+        "La droite de régression ne coupe jamais l'axe des ordonnées"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q28",
+      "prompt": "Qu'est-ce que le coefficient de détermination R² ?",
+      "choices": [
+        "Le carré du coefficient de corrélation (r²)",
+        "La racine carrée de la pente du modèle (b)",
+        "Le rapport entre la moyenne de x et celle de y",
+        "La probabilité de rejeter H0 par erreur",
+        "L'inverse du coefficient de corrélation de Pearson"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q29",
+      "prompt": "Quelle est l'interprétation correcte de R² = 0.72 ?",
+      "choices": [
+        "72% de la variance de y est expliquée par x",
+        "La corrélation entre les deux variables est de 0.36",
+        "Le modèle est erroné dans 72% des prédictions effectuées",
+        "La pente de la droite est égale à 0.72 unités",
+        "Il y a 72% de chances que la relation soit causale"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q30",
+      "prompt": "Quelle est la première étape conseillée pour résumer une démarche de régression ?",
+      "choices": [
+        "Faire un nuage de points pour visualiser",
+        "Calculer immédiatement le coefficient R²",
+        "Estimer les paramètres a et b par calcul",
+        "Interpréter la pente dans le contexte réel",
+        "Vérifier la normalité des résidus du modèle"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q31",
+      "prompt": "Que donne la table de la loi Normale Centrée Réduite N(0,1) ?",
+      "choices": [
+        "La probabilité cumulée à gauche d'une valeur z",
+        "La probabilité exacte d'obtenir une valeur ponctuelle",
+        "La valeur critique pour un test de Khi-deux",
+        "L'écart-type d'un échantillon de taille n < 30",
+        "La moyenne attendue d'une distribution binomiale"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q32",
+      "prompt": "Dans quel cas utilise-t-on la table de la loi Binomiale B(n, p) ?",
+      "choices": [
+        "Pour un nombre de succès en n épreuves indépendantes",
+        "Pour modéliser des événements rares par unité de temps",
+        "Pour comparer les moyennes de deux populations normales",
+        "Pour transformer une variable qualitative en quantitative",
+        "Pour calculer la pente d'une droite de régression linéaire"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q33",
+      "prompt": "Quelle table doit-on consulter pour une variable représentant un nombre d'événements rares par unité d'espace ?",
+      "choices": [
+        "Table de Poisson Po(lambda)",
+        "Table Normale Centrée Réduite",
+        "Table du Khi-deux (chi²)",
+        "Table Binomiale B(n, p)",
+        "Table de corrélation de Pearson"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q34",
+      "prompt": "Selon le tableau récapitulatif, quel outil est approprié pour décrire une variable qualitative ?",
+      "choices": [
+        "Tableau de fréquences, diagramme en barres / circulaire",
+        "Moyenne, médiane, écart-type et histogramme",
+        "Coefficient de variation et boxplots superposés",
+        "Intervalle de confiance basé sur le TCL",
+        "Test de corrélation r et régression linéaire"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q35",
+      "prompt": "Quelle méthode est suggérée pour comparer des distributions de variables d'unités différentes ?",
+      "choices": [
+        "CV (Coefficient de variation) et boxplots superposés",
+        "Calcul de la moyenne arithmétique simple",
+        "Utilisation de la loi de Poisson Po(lambda)",
+        "Test de Khi-deux sur les effectifs cumulés",
+        "Régression linéaire simple passant par l'origine"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q36",
+      "prompt": "Quel outil statistique est utilisé pour estimer un paramètre de population selon le TCL ?",
+      "choices": [
+        "Intervalle de confiance",
+        "Test de Khi-deux",
+        "Coefficient de Pearson",
+        "Diagramme circulaire",
+        "Loi Binomiale B(n,p)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q37",
+      "prompt": "Quel test utilise-t-on pour analyser le lien entre deux variables QUALITATIVES ?",
+      "choices": [
+        "Test du Khi-deux d'indépendance",
+        "Corrélation r de Pearson",
+        "Régression linéaire simple",
+        "Test Z pour une moyenne",
+        "Loi Normale Centrée Réduite"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q38",
+      "prompt": "Quel test utilise-t-on pour analyser le lien entre deux variables QUANTITATIVES ?",
+      "choices": [
+        "Corrélation r et régression linéaire",
+        "Test du Khi-deux d'indépendance",
+        "Loi de Poisson et Binomiale",
+        "Tableau de fréquences croisées",
+        "Test Z sur une proportion"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q39",
+      "prompt": "D'après le rappel fondamental, que signifie 'rejeter H0' ?",
+      "choices": [
+        "L'écart observé est statistiquement peu probable sous H0",
+        "Il est absolument certain que H0 est une hypothèse fausse",
+        "Les données récoltées ne sont pas représentatives",
+        "L'hypothèse H1 a été mathématiquement prouvée",
+        "Le seuil de signification alpha était mal choisi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q40",
+      "prompt": "Quelle est l'erreur fréquente lors du calcul des degrés de liberté du Khi-deux ?",
+      "choices": [
+        "Calculer r x c au lieu de (r-1)(c-1)",
+        "Oublier de multiplier par le total général",
+        "Utiliser les effectifs théoriques au lieu des lignes",
+        "Confondre alpha avec le nombre de colonnes",
+        "Diviser par la variance de la population connue"
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "course": "Math Pratique"
+}
