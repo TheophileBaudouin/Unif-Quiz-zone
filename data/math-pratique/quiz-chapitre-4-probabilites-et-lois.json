@@ -1,0 +1,495 @@
+{
+  "quizId": "chapitre-4-probabilites-et-lois",
+  "title": "Chapitre 4 — Probabilités et Lois de Probabilités",
+  "section": {
+    "id": "chapitre-4-probabilites-et-lois",
+    "title": "Chapitre 4 — Probabilités et Lois de Probabilités",
+    "startPage": 5,
+    "endPage": 6,
+    "summary": "Règles de calcul des probabilités, probabilité conditionnelle, indépendance et théorème de Bayes. Étude des lois de probabilités discrètes (Binomiale, Poisson) et de la loi Normale (standardisation, lecture de table).",
+    "estimatedQuestionCount": 40
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quelle est la définition exacte d'une expérience aléatoire selon le texte ?",
+      "choices": [
+        "Une expérience dont l'issue est incertaine",
+        "Une expérience dont le résultat est prévisible",
+        "Une série d'épreuves aux résultats constants",
+        "Une observation de données déjà collectées",
+        "Un processus dont l'issue est toujours nulle"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Qu'est-ce que l'espace échantillonnal (oméga) dans le calcul des probabilités ?",
+      "choices": [
+        "L'ensemble de toutes les issues possibles",
+        "Un sous-ensemble de résultats spécifiques",
+        "La somme des probabilités des événements",
+        "La probabilité d'un événement complémentaire",
+        "Le nombre de cas favorables à une expérience"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q3",
+      "prompt": "Quelle est la règle de valeur pour la probabilité d'un événement A, notée P(A) ?",
+      "choices": [
+        "C'est un nombre obligatoirement entre 0 et 1",
+        "C'est un nombre entier positif ou négatif",
+        "C'est une valeur toujours égale à la moyenne",
+        "C'est un rapport entre l'écart-type et n",
+        "C'est une valeur comprise entre -1 et 1"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q4",
+      "prompt": "Selon les propriétés fondamentales, quelle est la probabilité de l'événement certain P(oméga) ?",
+      "choices": [
+        "La probabilité est exactement égale à 1",
+        "La probabilité est exactement égale à 0",
+        "La probabilité est comprise entre 0.5 et 1",
+        "La probabilité dépend du nombre d'épreuves",
+        "La probabilité est égale à la variance totale"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q5",
+      "prompt": "Comment se calcule la probabilité de l'événement complémentaire P(non-A) ?",
+      "choices": [
+        "En faisant le calcul suivant : 1 - P(A)",
+        "En faisant le calcul suivant : 1 + P(A)",
+        "En multipliant P(A) par l'espace oméga",
+        "En divisant 1 par le nombre total de cas",
+        "En soustrayant P(A) de la moyenne globale"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q6",
+      "prompt": "Dans une situation d'équiprobabilité, comment calcule-t-on la probabilité classique P(A) ?",
+      "choices": [
+        "Nombre de cas favorables / nombre de cas totaux",
+        "Nombre de cas totaux / nombre de cas favorables",
+        "Somme des cas favorables multipliée par P(A)",
+        "Racine carrée du nombre de cas favorables",
+        "Écart entre les cas favorables et les cas totaux"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q7",
+      "prompt": "Quelle est la formule générale de la probabilité d'une union P(A union B) ?",
+      "choices": [
+        "P(A) + P(B) - P(A inter B)",
+        "P(A) + P(B) + P(A inter B)",
+        "P(A) x P(B) / P(A inter B)",
+        "P(A) - P(B) + P(A inter B)",
+        "P(A) x P(B) - P(A inter B)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q8",
+      "prompt": "Si deux événements A et B sont mutuellement exclusifs (incompatibles), que vaut P(A inter B) ?",
+      "choices": [
+        "La valeur est exactement égale à 0",
+        "La valeur est exactement égale à 1",
+        "La valeur est égale au produit P(A) x P(B)",
+        "La valeur est égale à la somme P(A) + P(B)",
+        "La valeur est égale au rapport P(A) / P(B)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q9",
+      "prompt": "Quelle est la définition de la probabilité conditionnelle P(A|B) ?",
+      "choices": [
+        "Probabilité de A sachant que B est réalisé",
+        "Probabilité de B sachant que A est réalisé",
+        "Probabilité que A et B ne se réalisent pas",
+        "Probabilité de l'union de A et B sachant B",
+        "Probabilité de A divisée par la variance de B"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q10",
+      "prompt": "Quelle opération effectue-t-on sur l'espace échantillonnal lors d'un calcul de P(A|B) ?",
+      "choices": [
+        "On restreint l'espace aux cas où B est vrai",
+        "On élargit l'espace à tous les événements",
+        "On ignore les cas où B est réalisé",
+        "On multiplie l'espace par la probabilité de A",
+        "On divise l'espace par l'écart-type de B"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q11",
+      "prompt": "Quelle est la formule de la règle de multiplication pour P(A inter B) ?",
+      "choices": [
+        "P(B) x P(A|B)",
+        "P(B) / P(A|B)",
+        "P(B) + P(A|B)",
+        "P(B) - P(A|B)",
+        "P(A) / P(B|A)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q12",
+      "prompt": "À quelle condition deux événements A et B sont-ils considérés comme indépendants ?",
+      "choices": [
+        "Si P(A|B) = P(A)",
+        "Si P(A|B) = P(B)",
+        "Si P(A|B) = 0",
+        "Si P(A|B) = 1",
+        "Si P(A|B) = P(A) + P(B)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q13",
+      "prompt": "Quelle égalité définit l'indépendance de manière équivalente à P(A|B) = P(A) ?",
+      "choices": [
+        "P(A inter B) = P(A) x P(B)",
+        "P(A inter B) = P(A) + P(B)",
+        "P(A inter B) = P(A) / P(B)",
+        "P(A inter B) = P(A) - P(B)",
+        "P(A inter B) = P(A|B) / P(B)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q14",
+      "prompt": "Quelle est l'utilité principale du théorème de Bayes selon le cours ?",
+      "choices": [
+        "Permettre d'inverser le conditionnement",
+        "Calculer la moyenne d'une loi normale",
+        "Déterminer si deux variables sont corrélées",
+        "Calculer l'écart-type d'une loi binomiale",
+        "Sommer les probabilités de branches d'arbre"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q15",
+      "prompt": "Quelle est la formule du théorème de Bayes pour P(A|B) ?",
+      "choices": [
+        "[P(A) x P(B|A)] / P(B)",
+        "[P(B) x P(A|B)] / P(A)",
+        "[P(A) + P(B|A)] / P(B)",
+        "P(A) x P(B) / P(A inter B)",
+        "P(B|A) / [P(A) x P(B)]"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q16",
+      "prompt": "Comment peut-on calculer P(B) via la formule des probabilités totales ?",
+      "choices": [
+        "P(A) x P(B|A) + P(non-A) x P(B|non-A)",
+        "P(A) + P(B|A) + P(non-A) + P(B|non-A)",
+        "P(A) x P(B) + P(non-A) x P(non-B)",
+        "P(A) / P(B|A) + P(non-A) / P(B|non-A)",
+        "P(A) x P(B|A) - P(non-A) x P(B|non-A)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q17",
+      "prompt": "Dans la méthode du diagramme en arbre, que doivent faire les probabilités d'un même niveau de branches ?",
+      "choices": [
+        "Elles doivent sommer à 1",
+        "Elles doivent être égales à 0.5",
+        "Elles doivent être multipliées entre elles",
+        "Elles doivent être égales à la racine de n",
+        "Elles doivent être supérieures à la moyenne"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q18",
+      "prompt": "Dans un diagramme en arbre, que représentent les feuilles terminales ?",
+      "choices": [
+        "Elles donnent les probabilités jointes",
+        "Elles donnent les probabilités marginales",
+        "Elles donnent les espérances mathématiques",
+        "Elles donnent les variances conditionnelles",
+        "Elles donnent les tailles d'échantillons"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q19",
+      "prompt": "Qu'est-ce qu'une variable aléatoire (VA) ?",
+      "choices": [
+        "Une variable dont la valeur dépend d'une expérience",
+        "Une constante définie par un échantillon large",
+        "Une valeur fixe déterminée avant l'expérience",
+        "Un paramètre stable de la population totale",
+        "Un résultat dont la probabilité est toujours 1"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q20",
+      "prompt": "Que donne la distribution de probabilité d'une variable aléatoire X ?",
+      "choices": [
+        "P(X=x) pour chaque valeur possible x",
+        "La moyenne arithmétique des valeurs de X",
+        "L'écart entre la valeur x et la moyenne",
+        "La somme de toutes les valeurs possibles de x",
+        "Le nombre total d'épreuves effectuées"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q21",
+      "prompt": "Quelle est la formule de l'espérance E(X) d'une VA discrète ?",
+      "choices": [
+        "Somme des [x x f(x)]",
+        "Produit des [x x f(x)]",
+        "Somme des [x / f(x)]",
+        "Racine carrée de la somme des f(x)",
+        "Moyenne des x divisée par n"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q22",
+      "prompt": "Que modélise la loi binomiale B(n ; p) ?",
+      "choices": [
+        "Le nombre de succès dans n épreuves indépendantes",
+        "Le temps entre deux événements rares successifs",
+        "La distribution de la moyenne d'un échantillon",
+        "Le nombre d'échecs avant le premier succès obtenu",
+        "La probabilité d'un événement dans un intervalle fixe"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q23",
+      "prompt": "Quelles sont les conditions nécessaires pour appliquer une loi binomiale ?",
+      "choices": [
+        "n épreuves indépendantes, 2 issues, p constant",
+        "n épreuves dépendantes, 3 issues, p variable",
+        "n épreuves indépendantes, issues multiples, p fixe",
+        "n épreuves de Bernoulli, p variant à chaque fois",
+        "n épreuves continues, issues infinies, p inconnu"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q24",
+      "prompt": "Quelle est la formule de l'espérance pour une loi binomiale X ~ B(n ; p) ?",
+      "choices": [
+        "E(X) = n x p",
+        "E(X) = n / p",
+        "E(X) = n x p x q",
+        "E(X) = racine(n x p)",
+        "E(X) = n + p"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q25",
+      "prompt": "Quelle est la formule de l'écart-type pour une loi binomiale ?",
+      "choices": [
+        "Racine carrée de (n x p x q)",
+        "Produit de (n x p x q)",
+        "Somme de (n + p + q)",
+        "Rapport de (n x p) sur q",
+        "Carré de (n x p x q)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q26",
+      "prompt": "Que modélise la loi de Poisson Po(lambda) ?",
+      "choices": [
+        "Le nombre d'événements rares dans un intervalle",
+        "Le nombre de succès dans un tirage avec remise",
+        "La probabilité d'un échec après n tentatives",
+        "La distribution symétrique autour de la moyenne",
+        "Le rapport entre deux variances de populations"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q27",
+      "prompt": "Quelles sont les conditions d'application de la loi de Poisson ?",
+      "choices": [
+        "Événements indépendants, taux constant, probabilité faible",
+        "Événements dépendants, taux variable, probabilité élevée",
+        "Intervalle de temps variable, taux nul, issues multiples",
+        "Épreuves de Bernoulli dépendantes, intervalle infini",
+        "Population finie, tirage sans remise, taux instable"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q28",
+      "prompt": "Quelle est l'espérance d'une loi de Poisson Po(lambda) ?",
+      "choices": [
+        "L'espérance est égale à lambda",
+        "L'espérance est égale à lambda au carré",
+        "L'espérance est égale à la racine de lambda",
+        "L'espérance est égale à 1 moins lambda",
+        "L'espérance est égale à lambda divisé par n"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q29",
+      "prompt": "Sous quelles conditions peut-on approcher une loi Binomiale par une loi de Poisson ?",
+      "choices": [
+        "Si n >= 30 et np < 5",
+        "Si n < 30 et np > 5",
+        "Si n >= 100 et p > 0.5",
+        "Si np = 5 et nq = 5",
+        "Si n est petit et p est grand"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q30",
+      "prompt": "Comment définit-on la forme de la loi normale N(mu ; sigma^2) ?",
+      "choices": [
+        "Distribution continue en forme de cloche symétrique",
+        "Distribution discrète asymétrique vers la droite",
+        "Distribution constante sur un intervalle donné",
+        "Distribution en forme de U centrée sur zéro",
+        "Distribution bimodale avec deux moyennes distinctes"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q31",
+      "prompt": "Quelle formule permet de standardiser une variable X pour obtenir un z-score ?",
+      "choices": [
+        "Z = (X - mu) / sigma",
+        "Z = (X + mu) * sigma",
+        "Z = sigma / (X - mu)",
+        "Z = (X - mu) / sigma au carré",
+        "Z = (mu - X) / sigma"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q32",
+      "prompt": "Selon les propriétés de la loi normale, quel pourcentage de valeurs se trouve dans [mu - sigma ; mu + sigma] ?",
+      "choices": [
+        "Environ 68% des valeurs",
+        "Environ 95% des valeurs",
+        "Environ 99.7% des valeurs",
+        "Environ 50% des valeurs",
+        "Environ 75% des valeurs"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q33",
+      "prompt": "Comment calcule-t-on P(Z > z) en utilisant une table de loi normale standard ?",
+      "choices": [
+        "En calculant 1 - P(Z <= z)",
+        "En calculant P(Z <= -z) + 1",
+        "En prenant directement la valeur lue",
+        "En multipliant P(Z <= z) par deux",
+        "En divisant P(Z <= z) par la moyenne"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q34",
+      "prompt": "Quelle est l'astuce de symétrie pour P(Z <= -z) dans une loi normale ?",
+      "choices": [
+        "P(Z <= -z) = 1 - P(Z <= z)",
+        "P(Z <= -z) = P(Z <= z)",
+        "P(Z <= -z) = -P(Z <= z)",
+        "P(Z <= -z) = 1 / P(Z <= z)",
+        "P(Z <= -z) = P(Z >= 0)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q35",
+      "prompt": "Qu'est-ce que la distribution d'échantillonnage de la moyenne selon le TCL ?",
+      "choices": [
+        "La distribution des moyennes calculées sur de nombreux échantillons",
+        "La distribution des valeurs individuelles de la population",
+        "La distribution des écarts-types de chaque échantillon tiré",
+        "La somme des probabilités de chaque individu sélectionné",
+        "La différence entre la moyenne pop. et la moyenne échantillon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q36",
+      "prompt": "Quelle est l'espérance de la moyenne d'échantillon (mu_x_barre) selon le TCL ?",
+      "choices": [
+        "Elle est égale à la moyenne de la population (mu)",
+        "Elle est égale à mu divisé par la racine de n",
+        "Elle est égale à l'écart-type de la population",
+        "Elle est égale à la variance de l'échantillon",
+        "Elle est égale à mu multiplié par la taille n"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q37",
+      "prompt": "Comment calcule-t-on l'écart-type de la moyenne d'échantillon (erreur standard) ?",
+      "choices": [
+        "sigma / racine(n)",
+        "sigma * racine(n)",
+        "sigma / n",
+        "sigma au carré / n",
+        "racine(sigma / n)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q38",
+      "prompt": "À partir de quelle taille d'échantillon n le TCL considère-t-il la distribution comme approximativement normale ?",
+      "choices": [
+        "Si n est supérieur ou égal à 30",
+        "Si n est supérieur ou égal à 10",
+        "Si n est supérieur ou égal à 100",
+        "Si n est exactement égal à 50",
+        "Quelle que soit la taille de n"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q39",
+      "prompt": "Quelle loi suit la proportion d'échantillon p-chapeau selon le TCL ?",
+      "choices": [
+        "Une loi normale N(p ; pq/n)",
+        "Une loi binomiale B(n ; p)",
+        "Une loi de Poisson Po(np)",
+        "Une loi normale N(0 ; 1)",
+        "Une loi uniforme sur [0 ; 1]"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q40",
+      "prompt": "Quelles conditions doivent être remplies pour appliquer le TCL à une proportion ?",
+      "choices": [
+        "np > 5, nq > 5 et n >= 30",
+        "np < 5, nq < 5 et n < 30",
+        "p = 0.5 et n > 100",
+        "np > 10 et nq > 10 seulement",
+        "n > 30 sans conditions sur p"
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "course": "Math Pratique"
+}
