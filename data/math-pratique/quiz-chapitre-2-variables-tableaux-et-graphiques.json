@@ -1,0 +1,535 @@
+{
+  "quizId": "chapitre-2-variables-tableaux-et-graphiques",
+  "title": "Chapitre 2 — Variables, Tableaux et Graphiques",
+  "section": {
+    "id": "chapitre-2-variables-tableaux-et-graphiques",
+    "title": "Chapitre 2 — Variables, Tableaux et Graphiques",
+    "startPage": 2,
+    "endPage": 3,
+    "summary": "Définition du vocabulaire fondamental (population, échantillon, variable) et classification des types de variables. Présentation des tableaux de fréquences, de contingence et des représentations graphiques (histogrammes, boxplots, nuages de points).",
+    "estimatedQuestionCount": 20
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon la définition statistique du chapitre 2, qu'est-ce que la population ?",
+      "choices": [
+        "L'ensemble complet des individus ou unités que l'on souhaite étudier",
+        "Un sous-ensemble de l'univers choisi spécifiquement pour une étude",
+        "Le nombre total de données numériques recueillies lors d'une enquête",
+        "Le groupe d'individus ayant accepté de répondre à un questionnaire",
+        "L'entité élémentaire sur laquelle on effectue une mesure précise"
+      ],
+      "correctIndex": 0,
+      "explanation": "La population est définie comme l'ensemble COMPLET des individus ou unités faisant l'objet de l'étude."
+    },
+    {
+      "id": "q2",
+      "prompt": "Comment est défini un échantillon par rapport à la population ?",
+      "choices": [
+        "Comme un sous-ensemble de la population, choisi pour être étudié",
+        "Comme la somme totale des unités statistiques d'un territoire donné",
+        "Comme la caractéristique mesurée sur chaque unité de l'ensemble",
+        "Comme la valeur la plus fréquente observée dans une distribution",
+        "Comme le regroupement de plusieurs populations distinctes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Un échantillon est un SOUS-ENSEMBLE de la population, sélectionné pour l'analyse."
+    },
+    {
+      "id": "q3",
+      "prompt": "Qu'est-ce qu'une unité statistique (ou individu) ?",
+      "choices": [
+        "L'entité élémentaire sur laquelle on recueille l'information",
+        "La valeur numérique affectée à une observation spécifique",
+        "Le résultat d'un calcul de moyenne sur un groupe d'étude",
+        "Le nombre total de modalités possibles pour une variable",
+        "L'outil de mesure utilisé pour quantifier une caractéristique"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'unité statistique est l'individu ou l'entité (ménage, pays, personne) sur laquelle porte la mesure."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quelle est la définition exacte d'une variable en statistique descriptive ?",
+      "choices": [
+        "La caractéristique mesurée sur chaque unité statistique",
+        "Le changement de valeur entre deux mesures successives",
+        "L'écart type observé au sein d'un échantillon restreint",
+        "Le nombre d'individus composant l'échantillon final",
+        "La modalité la plus représentative d'une population"
+      ],
+      "correctIndex": 0,
+      "explanation": "Une variable est la caractéristique (âge, sexe, revenu) que l'on mesure pour chaque unité."
+    },
+    {
+      "id": "q5",
+      "prompt": "Que représentent les modalités (ou valeurs) d'une variable ?",
+      "choices": [
+        "Les différentes valeurs que peut prendre la variable",
+        "Le nombre de fois qu'une observation est répétée",
+        "La moyenne arithmétique des données collectées",
+        "Le pourcentage de l'échantillon pour une catégorie",
+        "L'intervalle entre la valeur minimale et maximale"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les modalités sont les différentes formes ou valeurs (ex: homme/femme) que la variable peut revêtir."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelle est la caractéristique principale d'une variable qualitative (catégorielle) ?",
+      "choices": [
+        "Elle prend des valeurs qui sont des catégories non numériques",
+        "Elle est obligatoirement exprimée par des nombres entiers",
+        "Elle permet de réaliser des calculs de moyenne arithmétique",
+        "Elle ne peut posséder que deux modalités exactement",
+        "Elle est toujours issue d'un processus de comptage"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les variables qualitatives désignent des catégories qui ne sont pas numériques par nature."
+    },
+    {
+      "id": "q7",
+      "prompt": "Qu'est-ce qui distingue une variable qualitative nominale ?",
+      "choices": [
+        "Les catégories n'ont pas d'ordre naturel",
+        "Les catégories suivent une hiérarchie stricte",
+        "L'écart entre les catégories est quantifiable",
+        "Elle ne s'applique qu'aux variables numériques",
+        "Elle est toujours mesurée sur une échelle de 1 à 5"
+      ],
+      "correctIndex": 0,
+      "explanation": "Une variable nominale est une variable qualitative dont les catégories n'ont pas d'ordre (ex: sexe, nationalité)."
+    },
+    {
+      "id": "q8",
+      "prompt": "Comment définit-on une variable qualitative ordinale ?",
+      "choices": [
+        "Les catégories ont un ordre naturel sans écart quantifiable",
+        "Les catégories sont classées selon leur fréquence d'apparition",
+        "Les valeurs sont numériques et peuvent être additionnées",
+        "Il n'existe aucune hiérarchie entre les différentes modalités",
+        "Elle représente uniquement des données binaires (vrai/faux)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Une variable ordinale présente un ordre naturel (ex: niveau de satisfaction) mais sans distance chiffrable entre les paliers."
+    },
+    {
+      "id": "q9",
+      "prompt": "Qu'est-ce qu'une variable quantitative (numérique) ?",
+      "choices": [
+        "Une variable dont les valeurs numériques permettent des opérations arithmétiques",
+        "Une variable qui classe les individus selon des étiquettes textuelles",
+        "Une mesure qui n'accepte que des ordres de grandeur subjectifs",
+        "Une caractéristique qui ne varie jamais au sein de l'échantillon",
+        "Le regroupement de modalités qualitatives en classes d'âges"
+      ],
+      "correctIndex": 0,
+      "explanation": "Une variable quantitative prend des valeurs numériques sur lesquelles les calculs (moyenne, etc.) font sens."
+    },
+    {
+      "id": "q10",
+      "prompt": "Quelle est la particularité d'une variable quantitative discrète ?",
+      "choices": [
+        "Elle prend des valeurs entières sans valeur possible entre deux entiers consécutifs",
+        "Elle peut prendre théoriquement n'importe quelle valeur dans un intervalle",
+        "Elle est limitée à une échelle de valeurs comprises entre 0 et 1",
+        "Elle ne concerne que les variables qualitatives mises en ordre",
+        "Elle nécessite obligatoirement un regroupement en classes continues"
+      ],
+      "correctIndex": 0,
+      "explanation": "Une variable discrète prend des valeurs comptables, généralement des entiers (ex: nombre d'enfants)."
+    },
+    {
+      "id": "q11",
+      "prompt": "Quelle est la définition d'une variable quantitative continue ?",
+      "choices": [
+        "Elle peut prendre théoriquement n'importe quelle valeur dans un intervalle",
+        "Elle ne peut prendre que des valeurs entières positives",
+        "Elle est toujours exprimée sous forme de catégories ordonnées",
+        "Elle représente la somme des fréquences d'un tableau",
+        "Elle est utilisée uniquement pour les variables nominales"
+      ],
+      "correctIndex": 0,
+      "explanation": "Une variable continue peut prendre une infinité de valeurs dans un intervalle donné (ex: taille, température)."
+    },
+    {
+      "id": "q12",
+      "prompt": "Selon l'attention signalée dans le texte, de quoi peut dépendre le type de variable ?",
+      "choices": [
+        "Du contexte et de la manière dont la mesure est effectuée",
+        "Uniquement du nombre total d'individus dans la population",
+        "De la langue utilisée pour rédiger le questionnaire d'étude",
+        "De la moyenne arithmétique calculée lors de la phase préliminaire",
+        "Du type de graphique choisi pour représenter les données"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que le type (ex: âge discret ou continu) dépend du contexte de mesure."
+    },
+    {
+      "id": "q13",
+      "prompt": "Qu'est-ce qu'un tableau de fréquences ?",
+      "choices": [
+        "Un tableau résumant la distribution en listant modalités et effectifs/proportions",
+        "Un graphique représentant la relation entre deux variables continues",
+        "Une liste exhaustive de toutes les unités statistiques de la population",
+        "Un calcul permettant de déterminer la médiane d'une série",
+        "Un outil servant exclusivement à croiser deux variables qualitatives"
+      ],
+      "correctIndex": 0,
+      "explanation": "Il liste les modalités/classes avec leur effectif (ni) et leur fréquence relative (fi)."
+    },
+    {
+      "id": "q14",
+      "prompt": "Dans un tableau de fréquences, que représente l'effectif (ni) ?",
+      "choices": [
+        "Le nombre brut d'observations dans une catégorie donnée",
+        "Le pourcentage de la population totale pour une modalité",
+        "La division de la fréquence relative par le nombre d'individus",
+        "L'addition de toutes les valeurs de la variable quantitative",
+        "Le rang d'une modalité dans un classement par ordre croissant"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'effectif ni est le nombre brut d'observations comptées dans une catégorie."
+    },
+    {
+      "id": "q15",
+      "prompt": "Quelle est la formule de la fréquence relative (fi) ?",
+      "choices": [
+        "fi = ni / N (où N est l'effectif total)",
+        "fi = ni * 100",
+        "fi = somme des ni de toutes les catégories",
+        "fi = N / ni",
+        "fi = ni + N"
+      ],
+      "correctIndex": 0,
+      "explanation": "La fréquence relative est la proportion de l'effectif de la modalité sur l'effectif total."
+    },
+    {
+      "id": "q16",
+      "prompt": "Quelle est la propriété fondamentale de la somme des fréquences relatives (fi) ?",
+      "choices": [
+        "La somme de toutes les fi doit être égale à 1",
+        "La somme des fi est égale au nombre total d'individus N",
+        "La somme des fi varie selon le type de variable étudiée",
+        "La somme des fi doit être égale à 100 dans tous les cas",
+        "La somme des fi correspond à la moyenne de la distribution"
+      ],
+      "correctIndex": 0,
+      "explanation": "Par définition, la somme des proportions (fi) d'une distribution complète est égale à 1."
+    },
+    {
+      "id": "q17",
+      "prompt": "À quoi sert principalement la fréquence cumulée ?",
+      "choices": [
+        "À lire les quartiles et les centiles d'une distribution",
+        "À déterminer le mode d'une variable qualitative nominale",
+        "À calculer la moyenne arithmétique des données groupées",
+        "À vérifier que l'échantillon est bien représentatif de la population",
+        "À croiser deux variables pour observer leurs effectifs conjoints"
+      ],
+      "correctIndex": 0,
+      "explanation": "La fréquence cumulée est utile pour identifier les positions comme les quartiles."
+    },
+    {
+      "id": "q18",
+      "prompt": "Qu'est-ce qu'un tableau de contingence ?",
+      "choices": [
+        "Un tableau qui croise deux variables qualitatives et montre les effectifs conjoints",
+        "Un outil permettant de classer les variables par ordre d'importance",
+        "Un résumé des fréquences cumulées pour une variable quantitative",
+        "Une représentation graphique de la dispersion des données",
+        "Un index listant toutes les unités statistiques sans regroupement"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le tableau de contingence sert au croisement de deux variables (analyse bivariée)."
+    },
+    {
+      "id": "q19",
+      "prompt": "Comment définit-on les fréquences jointes dans un tableau de contingence ?",
+      "choices": [
+        "Comme le rapport : effectif(A et B) / N total",
+        "Comme le total des effectifs d'une ligne ou d'une colonne",
+        "Comme la proportion d'une modalité au sein d'une sous-population",
+        "Comme la somme des fréquences marginales divisée par deux",
+        "Comme la valeur maximale observée à l'intersection des axes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les fréquences jointes P(A inter B) correspondent à la proportion de l'échantillon total présentant les deux caractéristiques."
+    },
+    {
+      "id": "q20",
+      "prompt": "Que représentent les fréquences marginales ?",
+      "choices": [
+        "Les totaux en ligne ou en colonne d'un tableau de contingence",
+        "Les valeurs situées uniquement aux extrémités de la distribution",
+        "Les données exclues de l'analyse pour cause d'aberration",
+        "La proportion d'individus ne répondant qu'à un seul critère",
+        "Le calcul de la variance au sein de chaque sous-groupe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les marges du tableau donnent les effectifs ou fréquences pour une seule variable, indépendamment de l'autre."
+    },
+    {
+      "id": "q21",
+      "prompt": "Quelle est la définition d'une fréquence conditionnelle ?",
+      "choices": [
+        "C'est la proportion observée au sein d'une sous-population spécifique",
+        "C'est la fréquence totale divisée par le nombre de modalités",
+        "C'est le cumul des fréquences relatives jusqu'à un certain seuil",
+        "C'est la probabilité qu'une valeur soit considérée comme aberrante",
+        "C'est le résultat de la multiplication de deux fréquences marginales"
+      ],
+      "correctIndex": 0,
+      "explanation": "Une fréquence conditionnelle restreint l'analyse à un sous-groupe (ex: satisfaction chez les femmes uniquement)."
+    },
+    {
+      "id": "q22",
+      "prompt": "Quel graphique est recommandé pour comparer les effectifs entre catégories de variables QUALITATIVES ?",
+      "choices": [
+        "Le diagramme en barres ou en colonnes",
+        "L'histogramme à barres contiguës",
+        "Le nuage de points (scatter plot)",
+        "La boîte à moustaches (boxplot)",
+        "La courbe des fréquences cumulées (ogive)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le diagramme en barres est l'outil standard pour les variables qualitatives."
+    },
+    {
+      "id": "q23",
+      "prompt": "Quel est l'usage principal du diagramme circulaire (camembert) ?",
+      "choices": [
+        "Montrer la composition d'un tout pour une variable avec peu de modalités",
+        "Comparer précisément la hauteur de nombreuses catégories distinctes",
+        "Visualiser la distribution d'une variable quantitative continue",
+        "Identifier les valeurs aberrantes au sein d'un échantillon large",
+        "Analyser la corrélation entre deux variables numériques"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le camembert montre comment un tout se répartit, mais devient difficile à lire avec trop de catégories."
+    },
+    {
+      "id": "q24",
+      "prompt": "Quelle est la règle cruciale de l'histogramme pour les variables continues ?",
+      "choices": [
+        "C'est la surface de chaque barre qui est proportionnelle à l'effectif",
+        "La hauteur de la barre est la seule mesure de la fréquence",
+        "Il doit obligatoirement y avoir un espace entre chaque barre",
+        "Il ne peut être utilisé que pour les variables qualitatives",
+        "Les classes représentées doivent toutes avoir la même largeur"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dans un histogramme, la surface est l'indicateur de l'effectif, ce qui permet de gérer des classes de largeurs différentes."
+    },
+    {
+      "id": "q25",
+      "prompt": "À quoi sert la courbe des fréquences cumulées (ogive) ?",
+      "choices": [
+        "À lire directement les quartiles et percentiles graphiquement",
+        "À comparer les moyennes de deux populations différentes",
+        "À repérer visuellement la modalité nominale la plus fréquente",
+        "À afficher la relation linéaire entre deux variables",
+        "À supprimer les valeurs extrêmes d'une distribution"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'ogive permet de situer les rangs (25%, 50%, 75%) directement sur l'axe des ordonnées."
+    },
+    {
+      "id": "q26",
+      "prompt": "Que représente la ligne située à l'intérieur de la boîte d'un boxplot (boîte à moustaches) ?",
+      "choices": [
+        "La médiane de la distribution",
+        "La moyenne arithmétique simple",
+        "Le premier quartile (Q1)",
+        "La valeur maximale non aberrante",
+        "L'écart type de l'échantillon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dans un boxplot, la barre centrale de la boîte est toujours la médiane."
+    },
+    {
+      "id": "q27",
+      "prompt": "Quel est l'usage principal d'un nuage de points ?",
+      "choices": [
+        "Visualiser la relation entre deux variables QUANTITATIVES",
+        "Comparer les fréquences de variables qualitatives ordinales",
+        "Représenter la distribution d'une seule variable continue",
+        "Afficher l'évolution d'une moyenne au cours du temps",
+        "Identifier la proportion de données manquantes dans l'étude"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le nuage de points (xi, yi) sert à explorer la corrélation entre deux variables numériques."
+    },
+    {
+      "id": "q28",
+      "prompt": "Quel piège fréquent concernant l'histogramme est mentionné dans le texte ?",
+      "choices": [
+        "Il ne faut jamais l'utiliser pour une variable qualitative",
+        "Il ne doit jamais afficher plus de cinq classes distinctes",
+        "Les barres ne doivent jamais se toucher entre elles",
+        "Il est interdit de l'utiliser pour des données continues",
+        "La surface des barres ne doit pas être prise en compte"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'histogramme est réservé aux variables quantitatives continues (classes contiguës)."
+    },
+    {
+      "id": "q29",
+      "prompt": "Comment distingue-t-on les mesures de tendance centrale des mesures de dispersion ?",
+      "choices": [
+        "Les premières indiquent où les données se concentrent, les secondes comment elles sont réparties",
+        "Les premières concernent les variables qualitatives, les secondes les quantitatives",
+        "Les premières utilisent des graphiques, les secondes uniquement des tableaux",
+        "Les premières sont basées sur l'échantillon, les secondes sur la population entière",
+        "Les premières sont calculées sur les effectifs, les secondes sur les fréquences"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tendance centrale = centre de la distribution ; Dispersion = étalement autour du centre."
+    },
+    {
+      "id": "q30",
+      "prompt": "Quelle est la définition théorique de la moyenne arithmétique ?",
+      "choices": [
+        "La somme de toutes les valeurs divisée par le nombre d'observations",
+        "La valeur qui se trouve exactement au milieu de la série triée",
+        "La modalité qui présente l'effectif le plus élevé dans le tableau",
+        "La différence entre la valeur maximale et la valeur minimale",
+        "Le produit des fréquences relatives par l'effectif total"
+      ],
+      "correctIndex": 0,
+      "explanation": "La moyenne est la somme des observations (xi) divisée par N (ou n)."
+    },
+    {
+      "id": "q31",
+      "prompt": "Dans le cas de données groupées en classes, comment calcule-t-on la moyenne ?",
+      "choices": [
+        "En faisant la somme des produits (milieu de classe * fréquence relative)",
+        "En prenant la moyenne des bornes de la classe la plus peuplée",
+        "En additionnant uniquement les fréquences relatives de chaque classe",
+        "En divisant l'effectif total par le nombre de classes existantes",
+        "En multipliant la médiane par le coefficient de variation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pour les classes, on utilise le milieu de classe (mi) pondéré par sa fréquence (fi)."
+    },
+    {
+      "id": "q32",
+      "prompt": "Quel est le principal défaut de la moyenne mentionné dans le texte ?",
+      "choices": [
+        "Elle est très sensible aux valeurs extrêmes (outliers)",
+        "Elle ne peut pas être calculée sur de petits échantillons",
+        "Elle est toujours égale à la médiane dans une série",
+        "Elle ne peut pas être utilisée pour les variables continues",
+        "Elle nécessite que les données soient triées par ordre croissant"
+      ],
+      "correctIndex": 0,
+      "explanation": "Une seule valeur très élevée (outlier) peut tirer la moyenne vers le haut et fausser l'interprétation."
+    },
+    {
+      "id": "q33",
+      "prompt": "Quelle est la définition de la médiane ?",
+      "choices": [
+        "La valeur qui partage la distribution en deux moitiés égales",
+        "La valeur la plus fréquente au sein de l'échantillon",
+        "La moyenne entre la valeur minimale et la valeur maximale",
+        "Le point où la courbe de fréquence atteint son maximum",
+        "La somme des fréquences cumulées divisée par deux"
+      ],
+      "correctIndex": 0,
+      "explanation": "La médiane assure que 50% des données sont inférieures ou égales et 50% supérieures ou égales."
+    },
+    {
+      "id": "q34",
+      "prompt": "Quelle est la première étape indispensable pour calculer la médiane ?",
+      "choices": [
+        "Trier les valeurs par ordre croissant",
+        "Calculer la moyenne de la série entière",
+        "Regrouper les données en classes de même largeur",
+        "Identifier la valeur qui apparaît le plus souvent",
+        "Diviser l'effectif total par l'écart type"
+      ],
+      "correctIndex": 0,
+      "explanation": "On ne peut déterminer la position centrale qu'après avoir ordonné les données."
+    },
+    {
+      "id": "q35",
+      "prompt": "Si l'effectif n d'une série est IMPAIR, comment trouve-t-on la position de la médiane ?",
+      "choices": [
+        "La médiane est la valeur en position (n+1)/2",
+        "La médiane est la moyenne des deux valeurs centrales",
+        "La médiane correspond à la valeur n/2 exactement",
+        "La médiane est située à la position n-1",
+        "La médiane est la valeur de la dernière observation"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pour un n impair, il existe une valeur centrale unique à la position (n+1)/2."
+    },
+    {
+      "id": "q36",
+      "prompt": "Que se passe-t-il pour le calcul de la médiane si l'effectif n est PAIR ?",
+      "choices": [
+        "La médiane est la moyenne entre les deux valeurs centrales",
+        "La médiane est égale à la valeur située en position n/2",
+        "On doit supprimer la valeur la plus haute pour rendre n impair",
+        "La médiane ne peut pas être déterminée précisément",
+        "On utilise la valeur qui a la plus grande fréquence"
+      ],
+      "correctIndex": 0,
+      "explanation": "Si n est pair, il n'y a pas de valeur centrale unique ; on fait la moyenne des deux valeurs du milieu."
+    },
+    {
+      "id": "q37",
+      "prompt": "Dans quel cas la médiane est-elle jugée plus 'représentative' que la moyenne ?",
+      "choices": [
+        "Lorsqu'il y a des valeurs extrêmes qui tirent la moyenne",
+        "Lorsque la population étudiée est extrêmement large",
+        "Lorsque toutes les valeurs de la série sont identiques",
+        "Lorsqu'on utilise un diagramme circulaire au lieu d'un histogramme",
+        "Lorsque les données sont qualitatives nominales"
+      ],
+      "correctIndex": 0,
+      "explanation": "La médiane est robuste face aux outliers, contrairement à la moyenne."
+    },
+    {
+      "id": "q38",
+      "prompt": "Comment appelle-t-on le concept de 'centre de gravité' de la distribution ?",
+      "choices": [
+        "La moyenne arithmétique",
+        "La médiane",
+        "L'écart type",
+        "Le mode",
+        "Le troisième quartile"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte définit explicitement la moyenne arithmétique comme le 'centre de gravité'."
+    },
+    {
+      "id": "q39",
+      "prompt": "Qu'indique une fréquence en pourcentage (%) dans un tableau ?",
+      "choices": [
+        "La fréquence relative multipliée par 100",
+        "L'effectif brut divisé par 100",
+        "La somme des fréquences cumulées",
+        "Le nombre de modalités au carré",
+        "La probabilité d'erreur de la mesure"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le passage de la proportion (fi) au pourcentage se fait par multiplication par 100."
+    },
+    {
+      "id": "q40",
+      "prompt": "Dans un boxplot, que représentent les 'moustaches' ?",
+      "choices": [
+        "L'étendue des données non aberrantes",
+        "L'écart entre la moyenne et la médiane",
+        "La distance entre le premier et le troisième quartile",
+        "Le pourcentage de données manquantes",
+        "L'intervalle de confiance à 95%"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les moustaches s'étendent jusqu'aux valeurs extrêmes qui ne sont pas considérées comme aberrantes."
+    }
+  ],
+  "course": "Math Pratique"
+}
