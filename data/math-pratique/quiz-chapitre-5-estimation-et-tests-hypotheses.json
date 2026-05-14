@@ -1,0 +1,495 @@
+{
+  "quizId": "chapitre-5-estimation-et-tests-hypotheses",
+  "title": "Chapitre 5 — Estimation et Tests d'Hypothèses",
+  "section": {
+    "id": "chapitre-5-estimation-et-tests-hypotheses",
+    "title": "Chapitre 5 — Estimation et Tests d'Hypothèses",
+    "startPage": 6,
+    "endPage": 7,
+    "summary": "Introduction à l'inférence statistique via le Théorème Central Limite (TCL). Construction des intervalles de confiance et méthodologie des tests d'hypothèses en 5 étapes pour les moyennes et les proportions.",
+    "estimatedQuestionCount": 30
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon la source, quelle condition sur 'n' permet d'approcher une loi Binomiale par une loi de Poisson ?",
+      "choices": [
+        "Un nombre d'épreuves n supérieur ou égal à 30",
+        "Un nombre d'épreuves n inférieur ou égal à 30",
+        "Un nombre d'épreuves n supérieur ou égal à 10",
+        "Un nombre d'épreuves n strictement égal à 100",
+        "Un nombre d'épreuves n compris entre 5 et 15"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Quelle condition sur la probabilité 'p' est nécessaire pour l'approximation de Poisson ?",
+      "choices": [
+        "Le produit np doit être inférieur à 5",
+        "Le produit np doit être supérieur à 5",
+        "La probabilité p doit être supérieure à 0.5",
+        "La probabilité p doit être égale à 0.05",
+        "Le produit n(1-p) doit être inférieur à 5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q3",
+      "prompt": "Comment est défini le paramètre lambda (λ) lors de l'approximation d'une loi Binomiale par une loi de Poisson ?",
+      "choices": [
+        "Le produit du nombre d'épreuves n par la probabilité p",
+        "Le rapport de la probabilité p sur le nombre d'épreuves n",
+        "La racine carrée du produit n par p par (1-p)",
+        "La somme du nombre d'épreuves n et de la probabilité p",
+        "L'inverse de la probabilité de succès individuelle p"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q4",
+      "prompt": "Quelle est la caractéristique géométrique principale de la loi normale selon le texte ?",
+      "choices": [
+        "Une distribution continue en forme de cloche symétrique",
+        "Une distribution discrète en forme d'escalier croissant",
+        "Une courbe asymétrique décalée vers les valeurs positives",
+        "Une ligne droite horizontale représentant une probabilité uniforme",
+        "Une forme bimodal présentant deux sommets distincts"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q5",
+      "prompt": "Quels sont les deux paramètres qui définissent entièrement une loi normale ?",
+      "choices": [
+        "La moyenne mu (µ) et la variance sigma au carré (σ²)",
+        "L'espérance mathématique E(X) et le taux lambda (λ)",
+        "Le nombre d'épreuves n et la probabilité de succès p",
+        "La valeur médiane et l'étendue interquartile du segment",
+        "Le mode de la distribution et l'écart-type de l'échantillon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelle opération permet de transformer une loi normale quelconque en loi normale centrée réduite N(0;1) ?",
+      "choices": [
+        "La standardisation par la formule Z = (X - µ) / σ",
+        "La linéarisation par la formule Z = (X + µ) * σ",
+        "La normalisation par la formule Z = (X / µ) - σ",
+        "La pondération par la formule Z = X / (µ * σ)",
+        "L'agrégation par la formule Z = (X - σ) / µ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q7",
+      "prompt": "Selon les propriétés clés de la loi normale, quel pourcentage de valeurs se trouve dans l'intervalle [µ - σ ; µ + σ] ?",
+      "choices": [
+        "Environ 68% des valeurs de la distribution",
+        "Environ 95% des valeurs de la distribution",
+        "Environ 99.7% des valeurs de la distribution",
+        "Exactement 50% des valeurs de la distribution",
+        "Environ 75% des valeurs de la distribution"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q8",
+      "prompt": "Quel pourcentage de valeurs est contenu dans l'intervalle [µ - 2σ ; µ + 2σ] pour une loi normale ?",
+      "choices": [
+        "Environ 95% des valeurs de la distribution",
+        "Environ 68% des valeurs de la distribution",
+        "Environ 99.7% des valeurs de la distribution",
+        "Environ 90% des valeurs de la distribution",
+        "Environ 85% des valeurs de la distribution"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q9",
+      "prompt": "Selon le texte, que représente la valeur F(z) lue dans la table de la loi normale centrée réduite ?",
+      "choices": [
+        "La probabilité cumulée jusqu'à z, soit P(Z <= z)",
+        "La probabilité ponctuelle exacte de la valeur z",
+        "La probabilité complémentaire supérieure, soit P(Z > z)",
+        "L'écart-type résiduel après standardisation de la donnée",
+        "La moyenne arithmétique de la distribution échantillonnale"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q10",
+      "prompt": "Quelle astuce de calcul utilise la symétrie de la loi normale pour trouver P(Z <= -z) ?",
+      "choices": [
+        "Appliquer la formule 1 - P(Z <= z)",
+        "Multiplier la probabilité P(Z <= z) par -1",
+        "Diviser la probabilité P(Z <= z) par deux",
+        "Calculer l'inverse de la probabilité cumulée P(Z <= z)",
+        "Soustraire la valeur de z à la moyenne théorique"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q11",
+      "prompt": "Quel est l'objectif principal de l'inférence statistique décrit au Chapitre 5 ?",
+      "choices": [
+        "Passer de la description d'un échantillon à des conclusions sur la population",
+        "Calculer uniquement les paramètres descriptifs d'un échantillon fini",
+        "Éliminer les erreurs de mesure lors de la collecte des données brutes",
+        "Transformer des variables qualitatives en variables quantitatives continues",
+        "Réduire la taille de la population pour simplifier les calculs de variance"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q12",
+      "prompt": "Qu'est-ce que la 'distribution d'échantillonnage de la moyenne' ?",
+      "choices": [
+        "La distribution formée par les moyennes de nombreux échantillons d'une population",
+        "La liste exhaustive de toutes les valeurs individuelles d'une population donnée",
+        "Le calcul de la moyenne globale de tous les individus d'un seul échantillon",
+        "La dispersion des écarts-types individuels au sein d'un groupe de contrôle",
+        "La répartition des probabilités de succès dans une loi de Bernoulli simple"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q13",
+      "prompt": "Selon le TCL, quelle est l'espérance (µ_x̄) de la distribution d'échantillonnage de la moyenne ?",
+      "choices": [
+        "Elle est égale à la moyenne µ de la population initiale",
+        "Elle est égale à la moyenne µ divisée par la taille n",
+        "Elle est égale à l'écart-type σ de la population d'origine",
+        "Elle est égale à zéro par définition de la standardisation",
+        "Elle est égale à la racine carrée de la moyenne de l'échantillon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q14",
+      "prompt": "Quelle est la formule de l'écart-type de la distribution d'échantillonnage de la moyenne (erreur standard) ?",
+      "choices": [
+        "σ divisé par la racine carrée de n",
+        "σ multiplié par la racine carrée de n",
+        "La variance σ² divisée par la taille n",
+        "L'écart-type σ moins la moyenne µ de l'échantillon",
+        "La racine carrée de la probabilité de succès p"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q15",
+      "prompt": "Sous quelle condition majeure la distribution de la moyenne est-elle approximativement normale selon le TCL ?",
+      "choices": [
+        "Si la taille de l'échantillon n est supérieure ou égale à 30",
+        "Uniquement si la population initiale suit une loi normale",
+        "Si la variance de la population est strictement égale à 1",
+        "Si la taille de l'échantillon n est inférieure à 10 pour limiter l'erreur",
+        "Si la probabilité de succès p est exactement égale à 0.5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q16",
+      "prompt": "Comment se comporte la distribution de la moyenne si n >= 30 mais que la population initiale n'est pas normale ?",
+      "choices": [
+        "Elle est approximativement normale quelle que soit la distribution initiale",
+        "Elle reste identique à la distribution de la population initiale",
+        "Elle devient une loi de Poisson de paramètre lambda inconnu",
+        "Elle perd toute symétrie et devient asymétrique positive",
+        "Il est impossible de définir sa forme sans paramètres supplémentaires"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q17",
+      "prompt": "Quelle est la distribution d'échantillonnage de la proportion (p-chapeau) selon le TCL ?",
+      "choices": [
+        "Une loi normale N(p ; pq/n)",
+        "Une loi de Poisson Po(np)",
+        "Une loi binomiale B(n, p)",
+        "Une loi normale N(p ; p/n)",
+        "Une loi normale centrée réduite N(0 ; 1)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q18",
+      "prompt": "Quelles sont les trois conditions d'application du TCL à une proportion ?",
+      "choices": [
+        "np > 5, nq > 5 et n >= 30",
+        "np < 5, nq < 5 et n < 30",
+        "n > 100, p = 0.5 et q = 0.5",
+        "np > 30, nq > 30 et n > 100",
+        "np = nq et n est un nombre pair"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q19",
+      "prompt": "Quelle est la différence entre σ et l'erreur standard selon le conseil méthodologique du texte ?",
+      "choices": [
+        "σ concerne les valeurs individuelles, l'erreur standard concerne les moyennes",
+        "σ concerne les échantillons, l'erreur standard concerne la population totale",
+        "σ est toujours plus petite que l'erreur standard pour n > 1",
+        "σ et l'erreur standard sont des synonymes interchangeables en statistique",
+        "σ s'applique aux proportions alors que l'erreur standard s'applique aux moyennes"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q20",
+      "prompt": "Quel est l'effet de l'augmentation de la taille de l'échantillon 'n' sur les moyennes d'échantillon ?",
+      "choices": [
+        "Les moyennes sont de plus en plus concentrées autour de µ",
+        "Les moyennes se dispersent davantage loin de la valeur µ",
+        "La moyenne de la distribution d'échantillonnage augmente proportionnellement",
+        "L'erreur standard augmente pour compenser le volume de données",
+        "La distribution d'échantillonnage perd sa forme normale"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q21",
+      "prompt": "Quelle est la définition d'un intervalle de confiance ?",
+      "choices": [
+        "Un intervalle calculé où l'on affirme avec un certain niveau que µ ou p s'y trouve",
+        "Une zone de probabilité où 100% des données individuelles sont regroupées",
+        "L'écart fixe entre la valeur minimale et maximale d'un échantillon de test",
+        "La probabilité exacte qu'une hypothèse nulle soit acceptée sans erreur",
+        "L'intervalle de temps nécessaire pour collecter des données significatives"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q22",
+      "prompt": "Comment est calculé le niveau de confiance dans la construction d'un intervalle ?",
+      "choices": [
+        "Par la formule 1 - alpha",
+        "Par la somme de alpha et de la moyenne",
+        "Par le produit de alpha et de l'écart-type",
+        "Par le rapport de alpha sur la taille n",
+        "Par la racine carrée de alpha"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q23",
+      "prompt": "Quelle est la formule de la marge d'erreur 'E' pour un intervalle de confiance de la moyenne ?",
+      "choices": [
+        "E = z_alpha/2 * (σ / racine(n))",
+        "E = z_alpha * (σ * racine(n))",
+        "E = (x̄ - µ) / (σ / racine(n))",
+        "E = z_alpha/2 + (σ / n)",
+        "E = racine(p * q / n)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q24",
+      "prompt": "Quelle est la valeur critique 'z' pour un niveau de confiance de 95% (alpha = 0.05) ?",
+      "choices": [
+        "1.960",
+        "1.645",
+        "2.576",
+        "1.282",
+        "3.000"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q25",
+      "prompt": "Quelle est la valeur critique 'z' pour un niveau de confiance de 90% (alpha = 0.10) ?",
+      "choices": [
+        "1.645",
+        "1.960",
+        "2.576",
+        "1.000",
+        "1.282"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q26",
+      "prompt": "Quelle est la valeur critique 'z' pour un niveau de confiance de 99% (alpha = 0.01) ?",
+      "choices": [
+        "2.576",
+        "1.960",
+        "1.645",
+        "2.333",
+        "1.990"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q27",
+      "prompt": "Quelle est l'interprétation correcte d'un IC à 95% selon le 'piège fréquent' mentionné ?",
+      "choices": [
+        "95% des intervalles construits par répétition contiendraient le vrai µ",
+        "Il y a 95% de chances que µ soit exactement égal à la moyenne calculée",
+        "95% des données de l'échantillon sont comprises dans cet intervalle",
+        "On est sûr à 95% que l'expérience ne contient aucune erreur de mesure",
+        "L'intervalle contient 95% de la population totale étudiée"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q28",
+      "prompt": "Quelle est la première étape immuable d'un test d'hypothèse ?",
+      "choices": [
+        "Formuler H0 (hypothèse nulle) et H1 (hypothèse alternative)",
+        "Choisir le seuil de signification alpha",
+        "Calculer la statistique de test z ou t",
+        "Déterminer la valeur critique dans la table",
+        "Comparer les résultats et conclure le test"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q29",
+      "prompt": "Qu'est-ce que l'hypothèse H0 (hypothèse nulle) représente généralement ?",
+      "choices": [
+        "Le 'statu quo' ou l'absence d'effet",
+        "Ce que le chercheur veut démontrer",
+        "L'erreur maximale acceptable du test",
+        "La probabilité de commettre une erreur de type II",
+        "La valeur de la moyenne observée dans l'échantillon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q30",
+      "prompt": "Que signifie 'ne pas rejeter H0' à la fin d'un test d'hypothèse ?",
+      "choices": [
+        "Qu'il n'y a pas assez de preuves pour rejeter le statu quo",
+        "Que l'on a prouvé avec certitude que H0 est vraie",
+        "Que l'hypothèse H1 a été démontrée par défaut",
+        "Que le test est invalide car la valeur z est négative",
+        "Que l'échantillon est trop petit pour être utilisé"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q31",
+      "prompt": "Quelle est la statistique de test Z pour une moyenne lorsque sigma est connu ?",
+      "choices": [
+        "Z = (x̄ - µ_0) / (σ / racine(n))",
+        "Z = (x̄ + µ_0) * (σ / n)",
+        "Z = (µ_0 - x̄) / (σ * racine(n))",
+        "Z = x̄ / (σ / racine(µ_0))",
+        "Z = (x̄ - µ_0) / σ²"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q32",
+      "prompt": "Pour un test bilatéral avec alpha = 0.05, quelle est la règle de décision ?",
+      "choices": [
+        "Rejeter H0 si la valeur absolue de Z est supérieure à 1.96",
+        "Rejeter H0 si la valeur de Z est exactement égale à 0",
+        "Accepter H1 si la valeur de Z est comprise entre -1.96 et 1.96",
+        "Rejeter H0 si la valeur de Z est supérieure à 0.05",
+        "Accepter H0 si la valeur de Z est égale à l'écart-type"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q33",
+      "prompt": "Dans un test sur la différence de deux moyennes, quelle est l'hypothèse H0 classique ?",
+      "choices": [
+        "H0 : µ_1 - µ_2 = 0 (les deux moyennes sont égales)",
+        "H0 : µ_1 + µ_2 = 1 (les moyennes sont complémentaires)",
+        "H0 : µ_1 / µ_2 = 0 (le rapport des moyennes est nul)",
+        "H0 : µ_1 - µ_2 > 0 (la première moyenne est supérieure)",
+        "H0 : µ_1 * µ_2 = σ² (le produit égale la variance)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q34",
+      "prompt": "Quelle est la formule de l'écart-type pour le test de différence de deux moyennes ?",
+      "choices": [
+        "racine(σ_1² / n_1 + σ_2² / n_2)",
+        "racine(σ_1 / n_1 + σ_2 / n_2)",
+        "(σ_1² / n_1) + (σ_2² / n_2)",
+        "racine(σ_1² + σ_2²) / (n_1 + n_2)",
+        "σ_1 / racine(n_1) - σ_2 / racine(n_2)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q35",
+      "prompt": "Quelle est la statistique de test Z pour une proportion ?",
+      "choices": [
+        "Z = (p-chapeau - p_0) / racine(p_0 * q_0 / n)",
+        "Z = (p-chapeau - p_0) * racine(n / p_0)",
+        "Z = (p_0 - p-chapeau) / (p-chapeau * q-chapeau)",
+        "Z = p-chapeau / racine(p_0 * q_0 * n)",
+        "Z = (p-chapeau - p_0) / σ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q36",
+      "prompt": "Qu'est-ce qu'une erreur de type I (alpha) ?",
+      "choices": [
+        "Rejeter H0 alors qu'elle est en réalité vraie",
+        "Ne pas rejeter H0 alors qu'elle est en réalité fausse",
+        "Accepter H1 alors que l'échantillon est biaisé",
+        "Utiliser une loi normale au lieu d'une loi de Poisson",
+        "Se tromper dans le calcul de la racine carrée de n"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q37",
+      "prompt": "Qu'est-ce qu'une erreur de type II (beta) ?",
+      "choices": [
+        "Ne pas rejeter H0 alors que H1 est vraie (faux négatif)",
+        "Rejeter H0 alors que H0 est vraie (faux positif)",
+        "Choisir un seuil alpha trop grand comme 0.10",
+        "Calculer une statistique Z supérieure à la valeur critique",
+        "Confondre la moyenne de l'échantillon avec celle de la population"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q38",
+      "prompt": "Quel est l'impact de la diminution du seuil alpha (ex: passer de 0.05 à 0.01) ?",
+      "choices": [
+        "Cela réduit l'erreur I mais augmente l'erreur II",
+        "Cela augmente l'erreur I et réduit l'erreur II",
+        "Cela réduit simultanément les erreurs de type I et II",
+        "Cela n'a aucun impact sur la probabilité de l'erreur II",
+        "Cela rend le test moins rigoureux et plus facile à valider"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q39",
+      "prompt": "Selon l'introduction du Chapitre 6, que teste le test du Khi-deux ?",
+      "choices": [
+        "L'indépendance entre deux variables qualitatives",
+        "La relation linéaire entre deux variables quantitatives",
+        "L'égalité des moyennes de trois populations ou plus",
+        "La normalité de la distribution d'un échantillon unique",
+        "L'évolution temporelle d'une variable aléatoire continue"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q40",
+      "prompt": "Quelle est la définition de H0 pour un test du Khi-deux d'indépendance ?",
+      "choices": [
+        "Les deux variables étudiées sont indépendantes",
+        "Il existe une association forte entre les variables",
+        "La pente de la droite de régression est nulle",
+        "Les moyennes des deux groupes sont strictement égales",
+        "La variance des deux variables est identique"
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "course": "Math Pratique"
+}
