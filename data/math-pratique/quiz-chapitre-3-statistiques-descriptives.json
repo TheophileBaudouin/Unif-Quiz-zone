@@ -1,0 +1,495 @@
+{
+  "quizId": "chapitre-3-statistiques-descriptives",
+  "title": "Chapitre 3 — Statistiques Descriptives",
+  "section": {
+    "id": "chapitre-3-statistiques-descriptives",
+    "title": "Chapitre 3 — Statistiques Descriptives",
+    "startPage": 3,
+    "endPage": 5,
+    "summary": "Étude des mesures de tendance centrale (moyenne, médiane, mode) et de dispersion (variance, écart-type, CV, z-score). Utilisation des quantiles (quartiles, déciles, centiles) et de l'écart interquartile.",
+    "estimatedQuestionCount": 30
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon le texte, quel est l'objectif principal des statistiques descriptives ?",
+      "choices": [
+        "Résumer et caractériser une distribution de données",
+        "Prédire l'évolution future d'une variable aléatoire",
+        "Démontrer un lien de causalité entre deux facteurs",
+        "Calculer la probabilité d'occurrence d'un événement",
+        "Généraliser les résultats d'un échantillon au hasard"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Comment est définie la moyenne arithmétique dans le document ?",
+      "choices": [
+        "La valeur qui divise la distribution en deux moitiés",
+        "La somme des valeurs divisée par le nombre d'observations",
+        "La valeur la plus fréquemment observée dans la série",
+        "La racine carrée de la somme des carrés des écarts",
+        "L'écart entre la valeur maximale et la valeur minimale"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q3",
+      "prompt": "Quelle métaphore est utilisée pour désigner la moyenne dans une distribution ?",
+      "choices": [
+        "Le point d'ancrage de la série statistique",
+        "Le sommet de la courbe de distribution normale",
+        "Le centre de gravité de la distribution étudiée",
+        "L'indicateur de dispersion centrale des données",
+        "La valeur de référence pour l'écart-type relatif"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q4",
+      "prompt": "Pour des données groupées en classes, quelle est la formule de la moyenne (x̄) ?",
+      "choices": [
+        "x̄ = somme(mi x fi) où mi est le milieu de la classe i",
+        "x̄ = somme(ni) / N où ni est l'effectif de la catégorie",
+        "x̄ = (valeur max - valeur min) / nombre de classes",
+        "x̄ = racine_carree(somme(mi²) / effectif total de N)",
+        "x̄ = somme(fi / mi) où fi est la fréquence relative"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q5",
+      "prompt": "Quel est le principal défaut de la moyenne mentionné dans l'encadré 'Attention' ?",
+      "choices": [
+        "Elle est impossible à calculer pour les variables continues",
+        "Elle ne peut pas être utilisée pour les échantillons pairs",
+        "Elle est très sensible aux valeurs extrêmes (outliers)",
+        "Elle ne permet pas de calculer l'écart-type de la série",
+        "Elle est systématiquement inférieure à la valeur médiane"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelle est la définition exacte de la médiane selon le texte ?",
+      "choices": [
+        "La moyenne entre la plus petite et la plus grande valeur",
+        "La valeur qui apparaît le plus fréquemment dans la série",
+        "La valeur qui partage la distribution en deux moitiés égales",
+        "La somme des observations pondérées par leurs fréquences",
+        "L'écart moyen entre chaque observation et la moyenne brute"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q7",
+      "prompt": "Quelle est la première étape indispensable pour calculer la médiane ?",
+      "choices": [
+        "Calculer la moyenne arithmétique de la distribution",
+        "Trier les valeurs de la série par ordre croissant",
+        "Déterminer la variance pour identifier les outliers",
+        "Multiplier chaque modalité par sa fréquence relative",
+        "Diviser l'échantillon total par l'écart interquartile"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q8",
+      "prompt": "Si n (taille de l'échantillon) est impair, comment trouve-t-on la médiane ?",
+      "choices": [
+        "C'est la moyenne des deux valeurs centrales de la série",
+        "C'est la valeur située exactement à la position (n+1)/2",
+        "C'est la valeur dont la fréquence relative est égale à 0.5",
+        "C'est la somme des valeurs divisée par le nombre impair n",
+        "C'est la valeur située à la position n/2 arrondie au bas"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q9",
+      "prompt": "Si n (taille de l'échantillon) est pair, comment calcule-t-on la médiane ?",
+      "choices": [
+        "En prenant la valeur de la position n/2 uniquement",
+        "En prenant la valeur de la position (n/2)+1 uniquement",
+        "En faisant la moyenne des valeurs en positions n/2 et (n/2)+1",
+        "En calculant la racine carrée du produit des deux milieux",
+        "En arrondissant systématiquement à l'entier supérieur de n/2"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q10",
+      "prompt": "Comment le texte définit-il le mode d'une distribution ?",
+      "choices": [
+        "La différence entre le troisième et le premier quartile",
+        "La valeur qui apparaît le plus fréquemment dans la série",
+        "Le rapport entre l'écart-type et la moyenne de l'échantillon",
+        "La valeur centrale après avoir éliminé 10% des extrêmes",
+        "Le carré de la moyenne arithmétique de la distribution"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q11",
+      "prompt": "Quelle mesure de tendance centrale est la seule applicable aux variables nominales ?",
+      "choices": [
+        "La moyenne arithmétique simple",
+        "La médiane de la distribution",
+        "Le mode de la distribution",
+        "L'écart-type de la population",
+        "Le coefficient de variation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q12",
+      "prompt": "Que recommandent les conseils du document si la distribution est asymétrique ?",
+      "choices": [
+        "Privilégier l'utilisation de la moyenne arithmétique",
+        "Utiliser la médiane comme mesure de tendance centrale",
+        "Se baser exclusivement sur le mode pour toute analyse",
+        "Calculer le Z-score pour corriger l'asymétrie constatée",
+        "Multiplier la variance par le coefficient de variation"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q13",
+      "prompt": "Que mesurent précisément les mesures de dispersion ?",
+      "choices": [
+        "Le point où se concentrent majoritairement les données",
+        "À quel point les valeurs sont étalées autour du centre",
+        "La probabilité qu'une valeur soit égale à la moyenne",
+        "Le nombre de modalités différentes au sein de la série",
+        "La corrélation entre deux variables quantitatives distinctes"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q14",
+      "prompt": "Comment est définie la variance dans le chapitre 3 ?",
+      "choices": [
+        "La racine carrée de la moyenne des écarts à la moyenne",
+        "La moyenne des carrés des écarts à la moyenne",
+        "L'écart moyen absolu entre chaque valeur et la médiane",
+        "Le rapport entre l'écart-type et la moyenne exprimé en %",
+        "La différence entre le maximum et le minimum de la série"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q15",
+      "prompt": "Pourquoi divise-t-on par (n-1) dans la formule de la variance échantillon (s²) ?",
+      "choices": [
+        "Pour simplifier le calcul manuel des racines carrées",
+        "Pour corriger le biais statistique dans un échantillon",
+        "Pour obtenir une unité de mesure identique aux données",
+        "Pour permettre la comparaison avec la moyenne populationnelle",
+        "Pour réduire l'impact des valeurs extrêmes sur le résultat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q16",
+      "prompt": "Quel est le principal inconvénient de la variance pour l'interprétation ?",
+      "choices": [
+        "Elle est toujours égale à zéro pour les séries symétriques",
+        "Elle ne peut pas être calculée pour de grands échantillons",
+        "Elle s'exprime en unités au carré (ex: euros²), peu intuitives",
+        "Elle est systématiquement plus petite que l'écart-type",
+        "Elle dépend trop du choix de la mesure de tendance centrale"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q17",
+      "prompt": "Quelle est la définition de l'écart-type (Standard Deviation) ?",
+      "choices": [
+        "C'est la racine carrée de la variance de la distribution",
+        "C'est le double de la variance calculée sur l'échantillon",
+        "C'est l'inverse du coefficient de variation de la population",
+        "C'est la somme des écarts à la moyenne divisée par N",
+        "C'est la distance entre le premier quartile et le troisième"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q18",
+      "prompt": "Quelle est la caractéristique principale du Coefficient de Variation (CV) ?",
+      "choices": [
+        "Il est exprimé dans la même unité que les données de base",
+        "Il est sans unité, ce qui permet de comparer des distributions",
+        "Il est toujours compris entre -1 et 1 dans toute distribution",
+        "Il représente la valeur moyenne du carré des écarts-types",
+        "Il indique la position exacte de la médiane dans la série"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q19",
+      "prompt": "Comment interprète-t-on un Coefficient de Variation (CV) élevé ?",
+      "choices": [
+        "La distribution est très homogène par rapport à sa moyenne",
+        "La distribution est hétérogène (dispersée par rapport à la moyenne)",
+        "La moyenne est très proche de la valeur de l'écart-type",
+        "L'échantillon utilisé est trop petit pour être représentatif",
+        "La plupart des observations sont concentrées autour du mode"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q20",
+      "prompt": "Que mesure le Z-score (score standardisé) pour une valeur xi ?",
+      "choices": [
+        "La probabilité que la valeur xi soit l'unique mode de la série",
+        "La distance entre xi et la moyenne exprimée en écarts-types",
+        "Le pourcentage de valeurs qui sont inférieures à la valeur xi",
+        "Le rapport entre la valeur xi et l'écart interquartile de la série",
+        "Le nombre de fois que la valeur xi apparaît dans l'échantillon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q21",
+      "prompt": "Quelle est l'interprétation d'un Z-score égal à 2 ?",
+      "choices": [
+        "La valeur est égale à deux fois la moyenne de la distribution",
+        "La valeur est à 2 écarts-types au-dessus de la moyenne",
+        "La valeur est à 2 écarts-types en-dessous de la moyenne",
+        "La valeur représente le deuxième quartile de la distribution",
+        "La valeur est deux fois plus fréquente que la moyenne observée"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q22",
+      "prompt": "D'après l'exemple du texte, qu'indique un Z-score de 2.37 pour un ménage ?",
+      "choices": [
+        "Le ménage possède environ 2.37 voitures en moyenne annuelle",
+        "Le ménage se situe exactement à la médiane de la population",
+        "Le ménage a une valeur très atypique (loin au-dessus de la moyenne)",
+        "Le ménage fait partie des 2.37% les plus bas de la distribution",
+        "Le ménage dépense 2.37 fois plus que l'écart-type de sa catégorie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q23",
+      "prompt": "Qu'est-ce qu'un quantile dans une distribution ordonnée ?",
+      "choices": [
+        "Une valeur qui divise la distribution en sous-groupes égaux",
+        "Le carré de l'écart-type divisé par le nombre de groupes",
+        "La différence entre la valeur maximale et le mode calculé",
+        "Une mesure de la symétrie de la courbe de distribution",
+        "Le rapport entre le nombre d'observations et de modalités"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q24",
+      "prompt": "Comment appelle-t-on les quantiles divisant la distribution en 10 groupes ?",
+      "choices": [
+        "Les quartiles",
+        "Les centiles",
+        "Les quintiles",
+        "Les déciles",
+        "Les percentiles"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q25",
+      "prompt": "Pour calculer le rang d'un quartile Qk, quelle formule utilise-t-on ?",
+      "choices": [
+        "rang = k x n / 10",
+        "rang = k x n / 4",
+        "rang = k x n / 100",
+        "rang = k x (n+1) / 2",
+        "rang = k x n / 5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q26",
+      "prompt": "Quelle affirmation sur les quartiles est correcte selon le texte ?",
+      "choices": [
+        "Q1 correspond à 75% des valeurs inférieures ou égales",
+        "Q2 est strictement équivalent à la moyenne arithmétique",
+        "Q3 correspond à 75% des valeurs inférieures ou égales",
+        "Q1 est égal à la somme des déciles D1 et D2 de la série",
+        "Q2 est toujours supérieur au mode dans toute distribution"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q27",
+      "prompt": "Qu'est-ce que l'écart interquartile (EIQ) ?",
+      "choices": [
+        "La somme de Q1 et Q3 divisée par deux",
+        "La différence entre Q3 et Q1 (étendue de la moitié centrale)",
+        "La racine carrée de la différence entre Q3 et Q1",
+        "La distance entre le mode et la médiane de la distribution",
+        "Le rapport entre le troisième quartile et la moyenne totale"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q28",
+      "prompt": "Pourquoi l'écart interquartile est-il considéré comme robuste ?",
+      "choices": [
+        "Parce qu'il utilise toutes les données de l'échantillon",
+        "Parce qu'il est insensible aux valeurs extrêmes (outliers)",
+        "Parce qu'il est toujours égal à l'écart-type de la population",
+        "Parce qu'il permet de calculer la moyenne de façon précise",
+        "Parce qu'il est indépendant de l'ordre de tri des données"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q29",
+      "prompt": "Selon le critère de Tukey (boxplot), quand une valeur est-elle aberrante ?",
+      "choices": [
+        "Si elle est supérieure à Q3 + 1.5xEIQ ou inférieure à Q1 - 1.5xEIQ",
+        "Si elle est supérieure à la moyenne + 2 fois l'écart-type",
+        "Si elle est située au-delà des moustaches de la boîte",
+        "Si son Z-score est supérieur à 1.5 de manière absolue",
+        "Si elle est égale à zéro alors que la médiane est positive"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q30",
+      "prompt": "Dans un boxplot, que représente la ligne située à l'intérieur de la boîte ?",
+      "choices": [
+        "La moyenne arithmétique",
+        "Le mode de la distribution",
+        "La médiane (ou Q2)",
+        "Le premier quartile (Q1)",
+        "L'écart-type échantillonnal"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q31",
+      "prompt": "Quelle est la définition d'un événement en probabilités ?",
+      "choices": [
+        "L'ensemble de toutes les issues possibles d'une expérience",
+        "Un sous-ensemble de l'espace échantillonnal (oméga)",
+        "La probabilité qu'une variable aléatoire soit continue",
+        "Une expérience dont l'issue est parfaitement prévisible",
+        "Le résultat numérique moyen d'une série de tirages"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q32",
+      "prompt": "Quelle est la probabilité de l'événement impossible (vide) ?",
+      "choices": [
+        "P(vide) = -1",
+        "P(vide) = 0",
+        "P(vide) = 0.5",
+        "P(vide) = 1",
+        "P(vide) est indéfinie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q33",
+      "prompt": "Selon la règle d'addition, que vaut P(A union B) ?",
+      "choices": [
+        "P(A) + P(B)",
+        "P(A) x P(B)",
+        "P(A) + P(B) - P(A inter B)",
+        "P(A) / P(B) si les événements sont liés",
+        "P(A inter B) / P(A) selon le théorème"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q34",
+      "prompt": "Quand deux événements A et B sont-ils dits mutuellement exclusifs ?",
+      "choices": [
+        "Quand la probabilité de l'un dépend de la réalisation de l'autre",
+        "Quand leur intersection est vide (P(A inter B) = 0)",
+        "Quand la somme de leurs probabilités est égale à 1",
+        "Quand ils appartiennent à deux espaces échantillonnaux différents",
+        "Quand l'un est forcément le complémentaire de l'autre"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q35",
+      "prompt": "Comment est définie la probabilité conditionnelle P(A|B) ?",
+      "choices": [
+        "La probabilité de B sachant que A est déjà réalisé",
+        "Le produit des probabilités de A et de B au carré",
+        "La probabilité de A sachant que B est réalisé",
+        "La différence entre P(A) et P(B) divisée par P(B)",
+        "Le rapport entre P(A) et la somme de P(A) et P(B)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q36",
+      "prompt": "Quelle est la condition pour que deux événements A et B soient indépendants ?",
+      "choices": [
+        "P(A inter B) = P(A) + P(B)",
+        "P(A|B) = P(A)",
+        "P(A union B) = P(A) x P(B)",
+        "L'un des deux événements doit être certain (P=1)",
+        "Ils ne peuvent jamais se produire en même temps"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q37",
+      "prompt": "Quelle est l'utilité principale du théorème de Bayes ?",
+      "choices": [
+        "Calculer la moyenne d'une variable aléatoire discrète",
+        "Inverser le conditionnement (calculer P(A|B) connaissant P(B|A))",
+        "Démontrer que deux variables sont corrélées linéairement",
+        "Déterminer la taille optimale d'un échantillon statistique",
+        "Calculer l'écart-type d'une loi de probabilité normale"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q38",
+      "prompt": "Qu'est-ce qu'une variable aléatoire X ?",
+      "choices": [
+        "Une constante utilisée pour normaliser les données",
+        "Une variable dont la valeur dépend d'une expérience aléatoire",
+        "Le résultat du calcul de la variance sur une population",
+        "Une mesure fixe de la dispersion au sein d'un groupe",
+        "L'identifiant unique de chaque observation dans un tableau"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q39",
+      "prompt": "Que modélise la loi binomiale B(n ; p) ?",
+      "choices": [
+        "Le temps d'attente entre deux événements rares successifs",
+        "Le nombre de succès dans n épreuves indépendantes à 2 issues",
+        "La distribution des tailles au sein d'une population humaine",
+        "La relation entre une variable qualitative et une quantitative",
+        "La fréquence d'apparition de plusieurs modalités nominales"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q40",
+      "prompt": "Quelle est la formule de l'espérance E(X) pour une loi binomiale ?",
+      "choices": [
+        "E(X) = n + p",
+        "E(X) = n x p",
+        "E(X) = racine_carree(n x p x q)",
+        "E(X) = p / n",
+        "E(X) = n x p x (1-p)"
+      ],
+      "correctIndex": 1
+    }
+  ],
+  "course": "Math Pratique"
+}
