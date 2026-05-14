@@ -1,7 +1,7 @@
 {
-  "documentTitle": "Sociologie du Genre",
-  "generatedAt": "2026-05-09T16:03:29.027Z",
-  "sourcePdf": "Sociologie du Genre (1).pdf",
+  "documentTitle": "Mathématiques et Statistiques pour les Sciences Sociales - LESPO1130",
+  "generatedAt": "2026-05-14T15:24:43.337Z",
+  "sourcePdf": "TP synthese.pdf",
   "quizzes": [
     {
       "id": "adolescence-sexualite-normes",
@@ -20,6 +20,60 @@
       "pageStart": 10,
       "pageEnd": 11,
       "course": "anglais"
+    },
+    {
+      "id": "chapitre-1-mathematiques-de-base",
+      "title": "Chapitre 1 — Mathématiques de base",
+      "file": "math-pratique/quiz-chapitre-1-mathematiques-de-base.json",
+      "questionCount": 40,
+      "pageStart": 1,
+      "pageEnd": 2,
+      "course": "Math Pratique"
+    },
+    {
+      "id": "chapitre-2-variables-tableaux-et-graphiques",
+      "title": "Chapitre 2 — Variables, Tableaux et Graphiques",
+      "file": "math-pratique/quiz-chapitre-2-variables-tableaux-et-graphiques.json",
+      "questionCount": 40,
+      "pageStart": 2,
+      "pageEnd": 3,
+      "course": "Math Pratique"
+    },
+    {
+      "id": "chapitre-3-statistiques-descriptives",
+      "title": "Chapitre 3 — Statistiques Descriptives",
+      "file": "math-pratique/quiz-chapitre-3-statistiques-descriptives.json",
+      "questionCount": 40,
+      "pageStart": 3,
+      "pageEnd": 5,
+      "course": "Math Pratique"
+    },
+    {
+      "id": "chapitre-4-probabilites-et-lois",
+      "title": "Chapitre 4 — Probabilités et Lois de Probabilités",
+      "file": "math-pratique/quiz-chapitre-4-probabilites-et-lois.json",
+      "questionCount": 40,
+      "pageStart": 5,
+      "pageEnd": 6,
+      "course": "Math Pratique"
+    },
+    {
+      "id": "chapitre-5-estimation-et-tests-hypotheses",
+      "title": "Chapitre 5 — Estimation et Tests d'Hypothèses",
+      "file": "math-pratique/quiz-chapitre-5-estimation-et-tests-hypotheses.json",
+      "questionCount": 40,
+      "pageStart": 6,
+      "pageEnd": 7,
+      "course": "Math Pratique"
+    },
+    {
+      "id": "chapitre-6-khi-deux-regression-et-recapitulatif",
+      "title": "Chapitre 6 — Test du Khi-deux, Régression et Récapitulatif",
+      "file": "math-pratique/quiz-chapitre-6-khi-deux-regression-et-recapitulatif.json",
+      "questionCount": 40,
+      "pageStart": 7,
+      "pageEnd": 9,
+      "course": "Math Pratique"
     },
     {
       "id": "childhood-obesity-vocabulary-quiz",
