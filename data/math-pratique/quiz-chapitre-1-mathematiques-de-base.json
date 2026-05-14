@@ -1,0 +1,495 @@
+{
+  "quizId": "chapitre-1-mathematiques-de-base",
+  "title": "Chapitre 1 — Mathématiques de base",
+  "section": {
+    "id": "chapitre-1-mathematiques-de-base",
+    "title": "Chapitre 1 — Mathématiques de base",
+    "startPage": 1,
+    "endPage": 2,
+    "summary": "Introduction aux bases logiques et mathématiques : connecteurs logiques, tables de vérité, théorie des ensembles, relations binaires et analyse combinatoire (permutations, arrangements, combinaisons).",
+    "estimatedQuestionCount": 25
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon la définition du cours, qu'est-ce qu'une proposition logique ?",
+      "choices": [
+        "Un énoncé qui est soit VRAI (V), soit FAUX (F)",
+        "Une phrase complexe contenant plusieurs verbes",
+        "Une hypothèse statistique non encore vérifiée",
+        "Une question posée lors d'un sondage d'opinion",
+        "Un ensemble de données collectées sur le terrain"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Comment note-t-on généralement une proposition logique dans le cours ?",
+      "choices": [
+        "Par une lettre majuscule comme A, B ou C",
+        "Par une lettre grecque minuscule comme alpha",
+        "Par un chiffre romain entre parenthèses",
+        "Par un symbole mathématique spécial tel que ∑",
+        "Par une abréviation en minuscules comme 'prop'"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel est l'effet du connecteur logique de négation (non A) ?",
+      "choices": [
+        "Il inverse systématiquement la valeur de vérité de A",
+        "Il rend la proposition A toujours fausse",
+        "Il rend la proposition A toujours vraie",
+        "Il n'affecte la valeur de A que si A est déjà faux",
+        "Il multiplie par deux la valeur numérique de A"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q4",
+      "prompt": "À quelle condition une conjonction (A et B) est-elle considérée comme VRAIE ?",
+      "choices": [
+        "SEULEMENT si A et B sont tous les deux vrais",
+        "Si au moins l'une des deux propositions est vraie",
+        "Si la proposition A est vraie, peu importe B",
+        "Si les deux propositions ont des valeurs opposées",
+        "Seulement si A est vrai et que B est faux"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q5",
+      "prompt": "À quelle condition une disjonction (A ou B) est-elle considérée comme VRAIE ?",
+      "choices": [
+        "Si au MOINS l'un des deux est vrai (ou les deux)",
+        "Uniquement si les deux propositions sont vraies",
+        "Seulement si une seule des deux est vraie",
+        "Si la première proposition A est strictement vraie",
+        "Si les deux propositions sont strictement fausses"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q6",
+      "prompt": "Dans quel cas unique l'implication (A implique B) est-elle fausse ?",
+      "choices": [
+        "Uniquement si A est VRAI et B est FAUX",
+        "Uniquement si A est FAUX et B est VRAI",
+        "Si les deux propositions A et B sont fausses",
+        "Si les deux propositions A et B sont vraies",
+        "Dès que la proposition B est déclarée fausse"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q7",
+      "prompt": "Que se passe-t-il pour l'implication (A => B) si la proposition A est fausse ?",
+      "choices": [
+        "L'implication est toujours vraie, quel que soit B",
+        "L'implication devient automatiquement fausse",
+        "L'implication dépend alors uniquement de la valeur de B",
+        "L'implication est considérée comme indéterminée",
+        "L'implication s'annule car la condition initiale manque"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q8",
+      "prompt": "Quand une équivalence (A <=> B) est-elle considérée comme VRAIE ?",
+      "choices": [
+        "Si A et B ont la même valeur de vérité",
+        "Si A est vrai et que B est obligatoirement faux",
+        "Dès que l'une des deux propositions est vraie",
+        "Seulement si les deux propositions sont vraies",
+        "Si A implique B sans que B n'implique A"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q9",
+      "prompt": "Selon le cours, l'équivalence A <=> B est identique à quelle expression ?",
+      "choices": [
+        "(A => B) ET (B => A)",
+        "(A OU B) ET (non A)",
+        "(A => B) OU (B => A)",
+        "(A ET B) => (A OU B)",
+        "non (A ET B) <=> (non A OU non B)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q10",
+      "prompt": "Combien de lignes contient une table de vérité avec 2 propositions de base (A, B) ?",
+      "choices": [
+        "4 lignes (2²)",
+        "2 lignes (2¹)",
+        "8 lignes (2³)",
+        "6 lignes (2 x 3)",
+        "16 lignes (2⁴)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q11",
+      "prompt": "Combien de lignes contient une table de vérité avec 3 propositions de base (A, B, C) ?",
+      "choices": [
+        "8 lignes (2³)",
+        "6 lignes (3²)",
+        "4 lignes (2²)",
+        "9 lignes (3³)",
+        "12 lignes (3 x 4)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q12",
+      "prompt": "Quelle est la méthode recommandée pour traiter une expression complexe en table de vérité ?",
+      "choices": [
+        "Décomposer l'expression en sous-expressions",
+        "Calculer directement le résultat final de tête",
+        "Ignorer les parenthèses pour simplifier le calcul",
+        "Ne remplir que les lignes où A est vrai",
+        "Utiliser une seule colonne pour toute l'expression"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q13",
+      "prompt": "Comment définit-on un ensemble mathématique ?",
+      "choices": [
+        "C'est une collection d'éléments distincts",
+        "C'est une suite ordonnée de chiffres pairs",
+        "C'est une opération entre deux variables",
+        "C'est une liste de fonctions algébriques",
+        "C'est un groupement de tables de vérité"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q14",
+      "prompt": "Quel symbole utilise-t-on pour désigner l'ensemble vide ?",
+      "choices": [
+        "Ø",
+        "∈",
+        "⊂",
+        "∩",
+        "∪"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q15",
+      "prompt": "Que signifie la notation x ∈ E ?",
+      "choices": [
+        "x est un élément de l'ensemble E",
+        "x est un sous-ensemble de l'ensemble E",
+        "x est égal à l'ensemble E tout entier",
+        "x est strictement supérieur à l'ensemble E",
+        "x n'appartient pas du tout à l'ensemble E"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q16",
+      "prompt": "Quelle est la définition de l'inclusion (E ⊂ F) ?",
+      "choices": [
+        "Tout élément de E est aussi présent dans F",
+        "E et F possèdent les mêmes éléments exacts",
+        "E contient des éléments qui ne sont pas dans F",
+        "F est plus petit que l'ensemble E",
+        "E et F n'ont aucun élément en commun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q17",
+      "prompt": "Qu'est-ce que l'intersection de deux ensembles E et F ?",
+      "choices": [
+        "Les éléments qui sont à la fois dans E ET dans F",
+        "Les éléments qui sont dans E OU dans F",
+        "Les éléments de E qui ne sont pas dans F",
+        "Le produit des éléments de E et de F",
+        "La somme totale des éléments des deux ensembles"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q18",
+      "prompt": "Qu'est-ce que l'union de deux ensembles E et F ?",
+      "choices": [
+        "Les éléments qui sont dans E OU dans F (ou les deux)",
+        "Les éléments qui appartiennent exclusivement à E",
+        "Le nombre total d'éléments sans doublons",
+        "Uniquement les éléments communs aux deux",
+        "L'ensemble des couples formés par E et F"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q19",
+      "prompt": "Que représente le complémentaire (non-E ou Eᶜ) ?",
+      "choices": [
+        "Tous les éléments de l'univers qui ne sont PAS dans E",
+        "Tous les éléments qui sont à l'intérieur de E",
+        "L'ensemble vide associé à l'ensemble E",
+        "L'inverse numérique des éléments de E",
+        "L'union de E avec l'ensemble vide"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q20",
+      "prompt": "Combien de sous-ensembles possède un ensemble de n éléments ?",
+      "choices": [
+        "Exactement 2ⁿ sous-ensembles",
+        "Exactement n² sous-ensembles",
+        "Exactement n! sous-ensembles",
+        "Exactement 2n sous-ensembles",
+        "Exactement n+1 sous-ensembles"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q21",
+      "prompt": "Qu'inclut le décompte des 2ⁿ sous-ensembles d'un ensemble ?",
+      "choices": [
+        "L'ensemble vide et l'ensemble lui-même",
+        "Uniquement les éléments pris individuellement",
+        "Seulement les paires d'éléments possibles",
+        "Tous les éléments sauf l'ensemble vide",
+        "Uniquement les sous-ensembles de taille n-1"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q22",
+      "prompt": "Qu'est-ce qu'une relation binaire R sur un ensemble E ?",
+      "choices": [
+        "Elle associe des paires d'éléments (a, b)",
+        "Elle divise l'ensemble E en deux parties égales",
+        "Elle multiplie chaque élément par la valeur 2",
+        "Elle ne contient que les chiffres 0 et 1",
+        "Elle transforme un ensemble en une table de vérité"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q23",
+      "prompt": "Quand dit-on qu'une relation binaire est réflexive ?",
+      "choices": [
+        "Si tout élément est en relation avec lui-même",
+        "Si (a, b) implique que (b, a) est vrai",
+        "Si (a, b) et (b, a) implique que a égale b",
+        "Si l'élément ne peut être en relation qu'avec un autre",
+        "Si la relation ne contient aucun élément de E"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q24",
+      "prompt": "Quelle est la définition d'une relation symétrique ?",
+      "choices": [
+        "Si (a, b) est dans R, alors (b, a) est aussi dans R",
+        "Si (a, b) est dans R, alors (a, a) est dans R",
+        "Si (a, b) et (b, c) sont dans R, alors (a, c) y est",
+        "Si (a, b) est dans R, alors a doit être égal à b",
+        "Si a est en relation avec b, b ne peut l'être avec a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q25",
+      "prompt": "Quand une relation binaire est-elle dite antisymétrique ?",
+      "choices": [
+        "Si (a, b) et (b, a) sont dans R, alors a = b",
+        "Si (a, b) est dans R, alors (b, a) ne l'est jamais",
+        "Si aucun élément n'est en relation avec lui-même",
+        "Si la relation est l'opposée d'une relation symétrique",
+        "Si (a, b) implique que (a, c) est impossible"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q26",
+      "prompt": "Quelle propriété définit la transitivité d'une relation ?",
+      "choices": [
+        "Si (a, b) et (b, c) sont dans R, alors (a, c) est dans R",
+        "Si (a, b) est dans R, alors (b, c) ne peut pas l'être",
+        "Si (a, a) est dans R, alors (b, b) doit l'être aussi",
+        "Si (a, b) est dans R, alors (b, a) est dans R",
+        "Si a est en relation avec b, alors b égale c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q27",
+      "prompt": "Quel est l'objectif principal de l'analyse combinatoire ?",
+      "choices": [
+        "Compter le nombre de façons d'arranger ou choisir des éléments",
+        "Calculer la moyenne et l'écart-type d'un échantillon",
+        "Résoudre des équations différentielles complexes",
+        "Représenter des données sous forme de graphiques",
+        "Déterminer si une proposition logique est vraie ou fausse"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q28",
+      "prompt": "Comment définit-on la factorielle de n (notée n!) ?",
+      "choices": [
+        "Le produit de tous les entiers de 1 à n",
+        "La somme de tous les entiers de 0 à n",
+        "La puissance n du chiffre 2 (2 à la puissance n)",
+        "Le résultat de n divisé par l'entier précédent",
+        "Le carré de l'entier n (n multiplié par n)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q29",
+      "prompt": "Par convention, quelle est la valeur de 0! (factorielle zéro) ?",
+      "choices": [
+        "1",
+        "0",
+        "Indéterminé",
+        "-1",
+        "L'infini"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q30",
+      "prompt": "Qu'est-ce qu'une permutation de n éléments ?",
+      "choices": [
+        "Un arrangement ordonné de n éléments distincts",
+        "Un choix de r éléments parmi n sans ordre",
+        "L'ensemble de tous les sous-ensembles possibles",
+        "La division de n éléments en deux groupes",
+        "Le mélange aléatoire sans structure définie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q31",
+      "prompt": "Quelle est la formule des arrangements A(n, r) ?",
+      "choices": [
+        "n! / (n - r)!",
+        "n! / (r! * (n - r)!)",
+        "n! / r!",
+        "r! / (n - r)!",
+        "n! * r!"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q32",
+      "prompt": "Quelle est la formule des combinaisons C(n, r) ?",
+      "choices": [
+        "n! / (r! * (n - r)!)",
+        "n! / (n - r)!",
+        "n! / r!",
+        "(n - r)! / n!",
+        "n * r / n!"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q33",
+      "prompt": "Quelle est la distinction cruciale entre un arrangement et une combinaison ?",
+      "choices": [
+        "L'ordre compte dans l'arrangement, mais pas dans la combinaison",
+        "La combinaison est toujours plus grande que l'arrangement",
+        "L'arrangement ne concerne que les chiffres, la combinaison les lettres",
+        "On utilise l'arrangement uniquement pour l'ensemble vide",
+        "L'ordre n'a d'importance pour aucune des deux notions"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q34",
+      "prompt": "Si un énoncé parle de 'choisir un président et un vice-président', de quoi s'agit-il ?",
+      "choices": [
+        "D'un arrangement (l'ordre et les rôles comptent)",
+        "D'une combinaison (seul le groupe final compte)",
+        "D'une simple négation logique",
+        "D'une intersection d'ensembles",
+        "D'une relation binaire symétrique"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q35",
+      "prompt": "Si un énoncé parle de 'former un comité' sans rôles spécifiques, de quoi s'agit-il ?",
+      "choices": [
+        "D'une combinaison (l'ordre n'importe pas)",
+        "D'une permutation de tous les éléments",
+        "D'un arrangement ordonné",
+        "D'une implication logique stricte",
+        "D'une variable qualitative nominale"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q36",
+      "prompt": "Dans le vocabulaire de base, qu'est-ce que la population ?",
+      "choices": [
+        "L'ensemble COMPLET des individus que l'on souhaite étudier",
+        "Un sous-groupe réduit choisi pour une enquête",
+        "L'unité minimale sur laquelle on prend une mesure",
+        "La liste des modalités d'une variable spécifique",
+        "Le résultat numérique final d'un test statistique"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q37",
+      "prompt": "Comment définit-on un échantillon par rapport à la population ?",
+      "choices": [
+        "C'est un SOUS-ENSEMBLE de la population choisi pour être étudié",
+        "C'est l'ensemble de toutes les variables mesurées",
+        "C'est le nombre total de personnes dans un pays",
+        "C'est la valeur moyenne calculée sur la population",
+        "C'est une unité statistique isolée et unique"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q38",
+      "prompt": "Qu'est-ce qu'une unité statistique (ou individu) ?",
+      "choices": [
+        "L'entité élémentaire sur laquelle on recueille l'information",
+        "Le nombre total de lignes dans une table de vérité",
+        "La valeur maximale que peut prendre une variable",
+        "Un groupe de personnes partageant la même modalité",
+        "Le symbole majuscule utilisé pour noter un ensemble"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q39",
+      "prompt": "Qu'appelle-t-on une 'Variable' en statistiques ?",
+      "choices": [
+        "La caractéristique mesurée sur chaque unité statistique",
+        "Une proposition qui peut être soit vraie soit fausse",
+        "Le nom donné à l'échantillon de l'étude",
+        "Un ensemble ne contenant aucun élément",
+        "Le résultat d'un calcul de factorielle"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q40",
+      "prompt": "Que désignent les 'Modalités' ou 'Valeurs' d'une variable ?",
+      "choices": [
+        "Les différentes valeurs que peut prendre la variable",
+        "Le nombre total d'individus dans l'échantillon",
+        "Le type de graphique utilisé pour les données",
+        "Le connecteur logique liant deux propositions",
+        "La méthode de sélection de l'échantillon"
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "course": "Math Pratique"
+}
