@@ -1,0 +1,615 @@
+{
+  "quizId": "entre-deux-guerres-et-2gm",
+  "title": "L’entre-deux-guerres et la Seconde Guerre mondiale",
+  "section": {
+    "id": "entre-deux-guerres-et-2gm",
+    "title": "L’entre-deux-guerres et la Seconde Guerre mondiale",
+    "startPage": 75,
+    "endPage": 88,
+    "summary": "Révolutions russes (1917) et régime stalinien. Montée des fascismes en Italie et en Allemagne. Déroulement de la Seconde Guerre mondiale, Shoah, résistance et mise en place de l'État-Providence et de l'ONU.",
+    "estimatedQuestionCount": 50
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quelles sont les trois forces politiques majeures qui s'affrontent dans le monde occidental durant l'entre-deux-guerres ?",
+      "choices": [
+        "Le pôle démocratique, le pôle de l'extrême-gauche et le pôle de l'extrême-droite",
+        "Le pôle monarchiste, le pôle socialiste et le pôle des empires centraux",
+        "Le pôle colonialiste, le pôle isolationniste et le pôle communiste",
+        "Le pôle républicain, le pôle anarchiste et le pôle militariste",
+        "Le pôle libéral, le pôle théocratique et le pôle des dictatures militaires"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Quelle était la situation économique de la Russie juste avant 1914 selon la source ?",
+      "choices": [
+        "Un pays sous-développé au plan économique malgré un début de révolution industrielle",
+        "Une puissance industrielle majeure dépassant les nations de l'Europe de l'Ouest",
+        "Une économie exclusivement basée sur le commerce maritime international",
+        "Un État en pleine stagnation démographique et économique sans industrie",
+        "Une nation ayant achevé sa transition vers une économie de services moderne"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q3",
+      "prompt": "Quelle proportion de la population russe représentait la classe ouvrière avant la révolution ?",
+      "choices": [
+        "Environ 2% de la population totale",
+        "Environ 15% de la population totale",
+        "Environ 25% de la population totale",
+        "Environ 40% de la population totale",
+        "Environ 55% de la population totale"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q4",
+      "prompt": "Qui est placé à la tête du gouvernement provisoire russe après la chute du tsarisme en février 1917 ?",
+      "choices": [
+        "Le prince Gueorgui Lvov",
+        "Le révolutionnaire Léon Trotski",
+        "Le maréchal Hindenburg",
+        "Le général mutiné Kornilov",
+        "Le dirigeant bolchévique Lénine"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q5",
+      "prompt": "Pourquoi les mencheviks et les bolcheviks refusent-ils initialement d'entrer dans le gouvernement provisoire ?",
+      "choices": [
+        "Parce qu'ils refusent catégoriquement toute alliance avec les bourgeois",
+        "Parce qu'ils souhaitent le retour immédiat du tsar Nicolas II au pouvoir",
+        "Parce qu'ils exigent la continuation immédiate de la guerre contre l'Allemagne",
+        "Parce qu'ils réclament l'indépendance immédiate de toutes les colonies russes",
+        "Parce qu'ils considèrent le gouvernement comme trop radicalement socialiste"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q6",
+      "prompt": "Qu'est-ce que les « soviets » créés par les bolcheviks dès février 1917 ?",
+      "choices": [
+        "Des conseils de soldats et d'ouvriers formant un pouvoir officieux",
+        "Des unités de police secrète chargées d'éliminer les opposants",
+        "Des banques centrales destinées à financer l'effort de guerre",
+        "Des assemblées religieuses chargées de réformer l'Église orthodoxe",
+        "Des comités de censure pour contrôler la presse de l'opposition"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q7",
+      "prompt": "Quelle promesse phare Lénine fait-il dans la Pravda pour attirer les paysans ?",
+      "choices": [
+        "La paix immédiate et le partage des terres",
+        "Le maintien du tsar et l'industrialisation lourde",
+        "L'alliance avec la France et la baisse des impôts",
+        "Le suffrage universel masculin et la liberté de culte",
+        "L'annexion de la Pologne et la fin du servage rural"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q8",
+      "prompt": "Quelle est la particularité du coup d'État bolchévique d'octobre 1917 selon le document ?",
+      "choices": [
+        "Il a lieu pratiquement sans effusion de sang",
+        "Il nécessite trois mois de sièges militaires intenses",
+        "Il est déclenché par une invasion étrangère alliée",
+        "Il se termine par l'exécution immédiate de la famille royale",
+        "Il échoue initialement à prendre le contrôle de Moscou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q9",
+      "prompt": "Quel traité marque la sortie de la Russie de la Première Guerre mondiale en mars 1918 ?",
+      "choices": [
+        "Le traité de Brest-Litovsk",
+        "Le traité de Versailles",
+        "Le traité de Saint-Germain-en-Laye",
+        "Le traité du Latran",
+        "Le traité de Trianon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q10",
+      "prompt": "Comment appelle-t-on la période de 1917 à 1921 où l'armée rouge combat pour sauver la révolution ?",
+      "choices": [
+        "Le communisme de guerre",
+        "La nouvelle politique économique",
+        "Le grand bond en avant",
+        "La terreur stalinienne",
+        "La période de la NEP"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q11",
+      "prompt": "Quel événement de 1921 pousse Lénine à annoncer une pause dans l'établissement du communisme ?",
+      "choices": [
+        "La révolte des marins de Kronstadt",
+        "L'assassinat de l'archiduc François-Ferdinand",
+        "Le putsch manqué de la Brasserie à Munich",
+        "La signature des accords de Locarno",
+        "La mort prématurée de Léon Trotski"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q12",
+      "prompt": "Quel est l'objectif principal de la NEP (1922-1928) lancée par Lénine ?",
+      "choices": [
+        "Réintroduire du capitalisme pour relancer une économie à terre",
+        "Interdire toute forme de propriété privée dans les campagnes",
+        "Lancer immédiatement une guerre de conquête vers l'Europe",
+        "Supprimer totalement l'usage de la monnaie dans les échanges",
+        "Éliminer physiquement tous les anciens cadres du tsarisme"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q13",
+      "prompt": "Selon la source, quel avantage majeur possédait Staline sur Trotski lors de la lutte pour la succession ?",
+      "choices": [
+        "Il avait grandi dans le parti et en connaissait tous les rouages",
+        "Il était un grand intellectuel polyglotte reconnu par l'Occident",
+        "Il commandait directement l'armée rouge durant la guerre civile",
+        "Il était le successeur désigné officiellement par le testament de Lénine",
+        "Il disposait du soutien financier des puissances capitalistes étrangères"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q14",
+      "prompt": "Quelle mesure radicale Staline prend-il dans les campagnes après 1928 ?",
+      "choices": [
+        "La collectivisation des campagnes",
+        "Le retour à la petite propriété privée",
+        "L'importation massive de blé américain",
+        "La suppression des impôts sur les récoltes",
+        "L'abandon total des zones rurales pour les villes"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q15",
+      "prompt": "Quelle innovation économique planifiée sur 5 ans Staline invente-t-il pour renforcer l'URSS ?",
+      "choices": [
+        "Les plans quinquennaux",
+        "Les programmes de New Deal",
+        "Les réformes de libre-échange",
+        "Les accords de Bretton Woods",
+        "Le plan Marshall soviétique"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q16",
+      "prompt": "Quel événement de 1934 sert de prétexte à Staline pour lancer la Grande Épuration ?",
+      "choices": [
+        "L'assassinat de Kirov",
+        "L'invasion de la Mandchourie",
+        "L'incendie du Reichstag",
+        "La mort de Nicolas II",
+        "La grève des mineurs du Donbass"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q17",
+      "prompt": "Qu'est-ce que le Goulag au sein du système policier soviétique (NKVD) ?",
+      "choices": [
+        "La branche chargée des arrestations et des déportations en camps",
+        "Le service de propagande culturelle à destination de l'étranger",
+        "Le ministère chargé de la planification industrielle lourde",
+        "L'académie militaire formant les officiers de l'armée rouge",
+        "L'organisation internationale des partis communistes mondiaux"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q18",
+      "prompt": "Pourquoi les communistes occidentaux sont-ils temporairement déstabilisés en 1939 ?",
+      "choices": [
+        "À cause du pacte de non-agression germano-soviétique",
+        "À cause de la défaite de l'URSS face à la Finlande",
+        "À cause de l'entrée de l'URSS dans la Société des Nations",
+        "À cause du rétablissement de la monarchie en Russie",
+        "À cause de la suppression du Komintern par Moscou"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q19",
+      "prompt": "Quelle expression D'Annunzio utilise-t-il pour décrire la situation de l'Italie après la 1GM ?",
+      "choices": [
+        "La victoire mutilée",
+        "Le désastre national",
+        "Le triomphe amer",
+        "La gloire perdue",
+        "L'illusion impériale"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q20",
+      "prompt": "À quoi le terme « fascisme » fait-il référence originellement ?",
+      "choices": [
+        "Aux faisceaux impériaux de la Rome de l'Antiquité",
+        "Aux organisations syndicales ouvrières du Nord",
+        "Aux groupes de soldats mutinés durant la guerre",
+        "Aux symboles de la révolution française de 1789",
+        "Aux bannières de la monarchie de la Maison de Savoie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q21",
+      "prompt": "Quel événement marque la prise de pouvoir de Mussolini en octobre 1922 ?",
+      "choices": [
+        "La marche sur Rome",
+        "Le putsch de la Brasserie",
+        "L'insurrection de Milan",
+        "Le plébiscite national",
+        "Le coup d'État du Quirinal"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q22",
+      "prompt": "Quelle était la position de Mussolini concernant l'individu au sein de l'État ?",
+      "choices": [
+        "L'État prend l'homme à la naissance et ne le rend qu'à sa mort",
+        "L'individu doit être totalement libre de ses choix économiques",
+        "Le citoyen est au-dessus des lois édictées par le parti unique",
+        "L'État n'intervient que pour garantir les libertés religieuses",
+        "Chaque citoyen possède un droit de veto sur les décisions locales"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q23",
+      "prompt": "Quel système économique Mussolini met-il en place pour viser l'autosuffisance ?",
+      "choices": [
+        "Le corporatisme vers une économie autarcique",
+        "Le libéralisme sauvage sans intervention étatique",
+        "Le collectivisme agraire calqué sur le modèle russe",
+        "Le mercantilisme basé sur l'exportation massive",
+        "Le keynésianisme axé uniquement sur la consommation"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q24",
+      "prompt": "Quelle est la principale différence entre le fascisme et la droite conservatrice selon la source ?",
+      "choices": [
+        "Le chef fasciste ne doit rien à personne, contrairement au conservateur",
+        "Les fascistes refusent le réarmement alors que les conservateurs le prônent",
+        "La droite conservatrice rejette l'ordre alors que le fascisme le glorifie",
+        "Le fascisme soutient la monarchie absolue de droit divin par principe",
+        "La droite conservatrice veut supprimer les frontières nationales"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q25",
+      "prompt": "Quels accords de 1929 règlent la « question romaine » entre l'Italie et le Vatican ?",
+      "choices": [
+        "Les accords du Latran",
+        "Le traité de Versailles",
+        "Le concordat de Munich",
+        "Les protocoles de Rome",
+        "Le pacte d'Acier"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q26",
+      "prompt": "Quel surnom est donné au traité de Versailles par les Allemands ?",
+      "choices": [
+        "Le diktat de Versailles",
+        "La paix des braves",
+        "L'accord du siècle",
+        "Le pacte de l'infamie",
+        "La honte de Paris"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q27",
+      "prompt": "Qui sont les « Freikorps » (corps-francs) dans l'Allemagne d'après-guerre ?",
+      "choices": [
+        "Des soldats furieux de la défaite vouant un culte à la violence",
+        "Des milices communistes cherchant à renverser la république",
+        "Des fonctionnaires chargés de la reconstruction de la Ruhr",
+        "Des diplomates négociant la réduction des dettes de guerre",
+        "Des organisations d'étudiants pacifistes et libéraux"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q28",
+      "prompt": "Comment Hitler arrive-t-il au poste de chancelier en 1933 ?",
+      "choices": [
+        "Il est nommé par Hindenburg malgré son échec électoral relatif",
+        "Il prend le pouvoir par un coup d'État militaire violent",
+        "Il est élu au suffrage universel avec 95% des voix",
+        "Il succède automatiquement à son père selon la constitution",
+        "Il est imposé par une coalition des puissances alliées"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q29",
+      "prompt": "Quel événement de juin 1934 voit l'élimination de la SA par la SS ?",
+      "choices": [
+        "La nuit des longs couteaux",
+        "La nuit de cristal",
+        "L'incendie du Reichstag",
+        "Le putsch de Munich",
+        "L'opération Barbarossa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q30",
+      "prompt": "Quel but ultime différencie le fascisme allemand du fascisme italien selon le document ?",
+      "choices": [
+        "Le fascisme allemand est au service d'une politique raciste",
+        "Le fascisme allemand rejette totalement le militarisme",
+        "Le fascisme allemand prône la décentralisation de l'État",
+        "Le fascisme allemand refuse l'embrigadement de la jeunesse",
+        "Le fascisme allemand est favorable au maintien de la SDN"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q31",
+      "prompt": "Quelle mesure antisémite est prise par le régime nazi en 1935 ?",
+      "choices": [
+        "Les lois de Nuremberg",
+        "Le boycott des magasins juifs",
+        "La déportation vers Auschwitz",
+        "La confiscation des biens immobiliers",
+        "L'obligation du port de l'étoile jaune"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q32",
+      "prompt": "Quelle est la cause fondamentale de l'instabilité de l'Europe danubienne dans les années 20 ?",
+      "choices": [
+        "La création de nouveaux États sur l'idée fragile « une nation = un État »",
+        "Le retour massif des monarchies absolues dans les Balkans",
+        "L'invasion permanente par les troupes de l'Union Soviétique",
+        "Le manque total de ressources naturelles dans ces régions",
+        "La domination coloniale exercée par la France et l'Italie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q33",
+      "prompt": "Quel pays l'Italie de Mussolini envahit-elle en 1935, provoquant la condamnation de la SDN ?",
+      "choices": [
+        "L'Éthiopie",
+        "La Libye",
+        "L'Albanie",
+        "La Grèce",
+        "L'Égypte"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q34",
+      "prompt": "Quel camp sort victorieux de la guerre d'Espagne (1936-1939) ?",
+      "choices": [
+        "Franco et les nationalistes soutenus par les régimes fascistes",
+        "Le gouvernement républicain soutenu par les démocraties",
+        "Les anarchistes catalans aidés par les Brigades internationales",
+        "La monarchie espagnole restaurée par les forces britanniques",
+        "Le cartel des gauches après une médiation de la SDN"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q35",
+      "prompt": "Quelle région de Tchécoslovaquie Hitler exige-t-il d'annexer en 1938 ?",
+      "choices": [
+        "Les Sudètes",
+        "La Bohême-Moravie",
+        "La Silésie",
+        "Le corridor de Dantzig",
+        "La Rhénanie"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q36",
+      "prompt": "Pourquoi Staline est-il furieux lors de la conférence de Munich en 1938 ?",
+      "choices": [
+        "Parce que l'URSS n'y a pas été invitée",
+        "Parce qu'il voulait la guerre immédiate contre la France",
+        "Parce que l'Allemagne a refusé de lui céder la Pologne",
+        "Parce que l'Italie a pris le contrôle de la Méditerranée",
+        "Parce que la Tchécoslovaquie a rejoint l'axe Rome-Berlin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q37",
+      "prompt": "À quelle date l'Allemagne envahit-elle la Pologne, déclenchant le conflit ?",
+      "choices": [
+        "Le 1er septembre 1939",
+        "Le 11 novembre 1938",
+        "Le 18 juin 1940",
+        "Le 7 décembre 1941",
+        "Le 6 juin 1944"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q38",
+      "prompt": "Quel régime est mis en place en France après l'effondrement de la IIIe République en juin 1940 ?",
+      "choices": [
+        "Le régime de Vichy",
+        "La IVe République",
+        "Le gouvernement de la France libre",
+        "Le protectorat allemand direct",
+        "Le directoire de défense nationale"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q39",
+      "prompt": "Quelle opération marque l'attaque de l'URSS par l'Allemagne en juin 1941 ?",
+      "choices": [
+        "L'opération Barbarossa",
+        "L'opération Overlord",
+        "L'opération Sea Lion",
+        "L'opération Torch",
+        "L'opération Market Garden"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q40",
+      "prompt": "Quel événement fait basculer la guerre dans une dimension réellement mondiale en décembre 1941 ?",
+      "choices": [
+        "L'attaque de Pearl Harbor par le Japon",
+        "Le débarquement en Normandie par les Alliés",
+        "La capitulation de l'Italie face aux Britanniques",
+        "L'entrée en guerre de la Chine contre l'URSS",
+        "La signature de la Charte de l'Atlantique"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q41",
+      "prompt": "Quelle innovation logistique a été nécessaire pour le débarquement de Normandie ?",
+      "choices": [
+        "La construction de deux ports flottants",
+        "L'utilisation de tunnels sous la Manche",
+        "L'emploi exclusif de porte-avions géants",
+        "La création d'un pont aérien depuis Berlin",
+        "L'intervention de sous-marins nucléaires"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q42",
+      "prompt": "À quelles dates les bombes atomiques sont-elles lancées sur le Japon ?",
+      "choices": [
+        "Les 6 et 9 août 1945",
+        "Les 8 et 11 mai 1945",
+        "Les 1er et 4 septembre 1945",
+        "Les 20 et 23 juin 1944",
+        "Les 14 et 17 juillet 1945"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q43",
+      "prompt": "Quel réseau de résistance belge sauvait les aviateurs anglais tombés ?",
+      "choices": [
+        "Le réseau Comète",
+        "Le réseau Clarance",
+        "Le réseau Zéro",
+        "Le réseau Luc-Marc",
+        "Le réseau l'Espion"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q44",
+      "prompt": "Quelle forme de résistance était la plus prisée par les communistes ?",
+      "choices": [
+        "La résistance armée",
+        "La presse clandestine",
+        "Le renseignement économique",
+        "Le sabotage administratif",
+        "L'évasion de prisonniers"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q45",
+      "prompt": "Que signifie le titre de « Justes parmi les nations » cité dans le texte ?",
+      "choices": [
+        "Des personnes ayant caché des juifs pour éviter les déportations",
+        "Les juges du tribunal de Nuremberg ayant condamné les nazis",
+        "Les soldats alliés ayant libéré les camps de concentration",
+        "Les signataires de la déclaration universelle des droits de l'homme",
+        "Les résistants ayant exécuté des officiers allemands de haut rang"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q46",
+      "prompt": "Quelle conférence de janvier 1942 organise la « Solution finale » ?",
+      "choices": [
+        "La conférence de Wannsee",
+        "La conférence de Yalta",
+        "La conférence de Potsdam",
+        "La conférence de Téhéran",
+        "La conférence de Casablanca"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q47",
+      "prompt": "Combien de morts l'URSS a-t-elle dû déplorer durant la Seconde Guerre mondiale ?",
+      "choices": [
+        "Pratiquement 20 millions de morts",
+        "Environ 2 millions de morts",
+        "Environ 5 millions de morts",
+        "Environ 10 millions de morts",
+        "Environ 35 millions de morts"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q48",
+      "prompt": "Qu'incarne le procès de Nuremberg selon la source ?",
+      "choices": [
+        "La victoire du droit international et la dignité rendue aux victimes",
+        "La vengeance aveugle des pays vainqueurs contre le peuple allemand",
+        "L'incapacité des Alliés à s'entendre sur le sort de l'Allemagne",
+        "Le début de la guerre froide entre les États-Unis et l'URSS",
+        "La réhabilitation secrète des anciens cadres du parti nazi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q49",
+      "prompt": "Quel modèle social et économique émerge après la guerre pour remplacer l'État libéral ?",
+      "choices": [
+        "L'État-Providence",
+        "L'économie de marché pure",
+        "Le socialisme autogéré",
+        "Le corporatisme chrétien",
+        "Le fédéralisme européen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q50",
+      "prompt": "Quels sont les 5 grands pays membres permanents de l'O.N.U. cités ?",
+      "choices": [
+        "URSS, Chine, USA, UK et France",
+        "USA, URSS, Allemagne, Japon et Italie",
+        "France, UK, USA, Canada et Australie",
+        "URSS, Chine, Inde, USA et Brésil",
+        "USA, UK, France, Espagne et Belgique"
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "course": "Histoire"
+}
