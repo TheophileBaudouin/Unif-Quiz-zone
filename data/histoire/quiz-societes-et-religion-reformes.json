@@ -1,0 +1,535 @@
+{
+  "quizId": "societes-et-religion-reformes",
+  "title": "Sociétés et religion : Réformes et Contre-Réforme",
+  "section": {
+    "id": "societes-et-religion-reformes",
+    "title": "Sociétés et religion : Réformes et Contre-Réforme",
+    "startPage": 29,
+    "endPage": 36,
+    "summary": "Rupture de l'unité chrétienne au XVIe siècle. Étude des réformes de Luther, Calvin et de l'anglicanisme, suivie de la réaction catholique (Concile de Trente) et des conséquences politiques et sociales.",
+    "estimatedQuestionCount": 30
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "En quelle année se produit la rupture de l'unité confessionnelle chrétienne en Europe occidentale selon le texte ?",
+      "choices": [
+        "En 1455 lors de l'impression de la Bible",
+        "En 1509 avec l'Éloge de la Folie",
+        "À partir de l'année 1517",
+        "En 1555 lors de la paix d'Augsbourg",
+        "En 1598 avec l'Édit de Nantes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le texte indique qu'à partir de 1517, une rupture majeure de l'unité confessionnelle chrétienne survient en Europe occidentale."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quelle conséquence militaire majeure est attribuée à cette rupture religieuse ?",
+      "choices": [
+        "Une guerre d'indépendance de dix ans",
+        "Presque deux siècles de guerres de religion",
+        "La fin immédiate des conflits en Europe",
+        "Une croisade unique contre l'Empire ottoman",
+        "Une alliance militaire entre princes catholiques"
+      ],
+      "correctIndex": 1,
+      "explanation": "La rupture confessionnelle entraîne presque deux siècles de guerres de religion motivées par le combat contre les hérétiques."
+    },
+    {
+      "id": "q3",
+      "prompt": "Selon la vision catholique décrite, quel élément est indispensable pour le salut de l'âme ?",
+      "choices": [
+        "Le rapport direct et exclusif à la Bible",
+        "La pratique stricte de la prédestination",
+        "La médiation indispensable du clergé",
+        "Le refus systématique des sacrements",
+        "La lecture individuelle des textes grecs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pour les catholiques, la médiation du clergé via les sacrements et les bonnes œuvres est indispensable pour le salut."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel concept protestant s'oppose à l'idée que les 'bonnes œuvres' assurent le salut ?",
+      "choices": [
+        "L'infaillibilité pontificale",
+        "La gratuité du salut (Sola Gratia)",
+        "L'obligation de la dîme foncière",
+        "Le système collégial des pasteurs",
+        "La hiérarchie des pouvoirs temporels"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les protestants prônent la gratuité du salut, considérant les bonnes œuvres comme absurdes et inutiles pour l'obtention du paradis."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle évolution politique majeure émerge de la réflexion sur la conscience individuelle au XVIe siècle ?",
+      "choices": [
+        "L'abolition totale de toute autorité royale",
+        "Le renforcement du pouvoir spirituel du Pape",
+        "Le développement du droit de résister au tyran",
+        "L'interdiction de toute pratique religieuse",
+        "La fusion des pouvoirs législatif et exécutif"
+      ],
+      "correctIndex": 2,
+      "explanation": "La réflexion sur la conscience mène à la réclamation du droit de résister au nom de sa conscience, théorisant un droit de résistance au tyran."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quel pape incarne la papauté conquérante au début du XVIe siècle (1503-1513) ?",
+      "choices": [
+        "Le pape Paul III",
+        "Le pape Clément VII",
+        "Le pape Jules II",
+        "Le pape Léon X",
+        "Le pape Pie V"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jules II est cité comme l'exemple de la papauté conquérante voulant faire de Rome la capitale du monde."
+    },
+    {
+      "id": "q7",
+      "prompt": "Dans le système financier de l'Église romaine, qu'est-ce qu'une indulgence ?",
+      "choices": [
+        "Une dispense pour ne pas payer la dîme",
+        "Le droit de cumuler plusieurs évêchés",
+        "Le paiement pour réduire ses années au purgatoire",
+        "Une autorisation de se marier entre cousins",
+        "L'accès gratuit aux textes bibliques traduits"
+      ],
+      "correctIndex": 2,
+      "explanation": "Les indulgences consistaient à payer pour réduire ou annuler ses années au purgatoire afin d'assurer sa place au Paradis."
+    },
+    {
+      "id": "q8",
+      "prompt": "Quelle était la règle théorique concernant les 'bénéfices' ecclésiastiques ?",
+      "choices": [
+        "Chaque membre ne peut avoir qu'une seule activité",
+        "Le cumul des charges est obligatoire pour tous",
+        "Les bénéfices sont redistribués aux paysans",
+        "Seul le pape peut percevoir un salaire fixe",
+        "L'argent des bénéfices doit rester localement"
+      ],
+      "correctIndex": 0,
+      "explanation": "Théoriquement, un membre de l'Église ne devait avoir qu'une seule charge (bénéfice). Le cumul était une exception nécessitant une dispense."
+    },
+    {
+      "id": "q9",
+      "prompt": "Comment Desiderius Erasmus applique-t-il la philologie aux textes bibliques ?",
+      "choices": [
+        "En prouvant que chaque mot est d'origine divine",
+        "En étudiant l'évolution historique des textes",
+        "En interdisant la traduction en langue vulgaire",
+        "En justifiant le pouvoir temporel du Vatican",
+        "En créant un nouveau dogme sur les saints"
+      ],
+      "correctIndex": 1,
+      "explanation": "Érasme utilise la philologie pour distinguer l'inspiration divine de l'évolution historique humaine des textes, questionnant l'autorité de l'Église."
+    },
+    {
+      "id": "q10",
+      "prompt": "En quelle année environ Johannes Gutenberg réalise-t-il la première impression de la Bible en latin ?",
+      "choices": [
+        "En 1492 à Madrid",
+        "En 1517 à Wittenberg",
+        "En 1455 à Mayence",
+        "En 1509 à Rotterdam",
+        "En 1534 à Londres"
+      ],
+      "correctIndex": 2,
+      "explanation": "C'est vers 1455 à Mayence que Gutenberg réalise la première impression de la Bible en latin grâce aux caractères mobiles."
+    },
+    {
+      "id": "q11",
+      "prompt": "Quel slogan résume le principe protestant du salut par la foi et la grâce seule ?",
+      "choices": [
+        "Cuius regio, eius religio",
+        "Eloge de la folie et raison",
+        "Sola Scriptura, solus Christus, sola gratis, sola aide",
+        "Fides et Ratio au service de Rome",
+        "Veni, Vidi, Vici en terre sainte"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cette formule souligne que l'on se sauve par la Bible, le Christ, la grâce et la foi, refusant les œuvres mises en avant par Rome."
+    },
+    {
+      "id": "q12",
+      "prompt": "Pourquoi Albert de Brandebourg s'endette-t-il auprès des banquiers Fugger ?",
+      "choices": [
+        "Pour construire une flotte de guerre",
+        "Pour payer la dispense liée au cumul de bénéfices",
+        "Pour financer la traduction de la Bible",
+        "Pour racheter les terres des monastères",
+        "Pour organiser un concile œcuménique"
+      ],
+      "correctIndex": 1,
+      "explanation": "Albert Hohenzollern s'endette (29k ducats) pour payer à Rome la dispense lui permettant de cumuler plusieurs charges ecclésiastiques."
+    },
+    {
+      "id": "q13",
+      "prompt": "Quelle part des revenus des indulgences collectées par Albert de Brandebourg était destinée à la fabrique de St. Pierre à Rome ?",
+      "choices": [
+        "La totalité des revenus collectés",
+        "Uniquement les intérêts de la dette",
+        "La moitié des revenus",
+        "Un tiers des revenus anglais",
+        "Le dixième des bénéfices nets"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le texte mentionne que la moitié des revenus issus de cette campagne d'indulgences aurait été destinée à la fabrique de St. Pierre."
+    },
+    {
+      "id": "q14",
+      "prompt": "Quelle est l'action initiale de Martin Luther en 1517 à Wittenberg ?",
+      "choices": [
+        "Il se fait couronner empereur d'Allemagne",
+        "Il publie 95 thèses sur l'efficacité des indulgences",
+        "Il traduit le Nouveau Testament en français",
+        "Il fonde l'ordre des Jésuites",
+        "Il signe un traité de paix avec Charles Quint"
+      ],
+      "correctIndex": 1,
+      "explanation": "En 1517, Martin Luther affiche ses 95 thèses à Wittenberg, remettant en cause la possibilité d'acheter le salut via les indulgences."
+    },
+    {
+      "id": "q15",
+      "prompt": "Pourquoi de nombreux princes allemands soutiennent-ils Luther face à Charles Quint ?",
+      "choices": [
+        "Pour affaiblir le pouvoir de l'Empereur devenu trop fort",
+        "Pour s'allier militairement avec la France et les Turcs",
+        "Pour rétablir l'autorité du Pape en Allemagne",
+        "Pour instaurer une démocratie parlementaire",
+        "Pour forcer Luther à devenir le nouveau Pape"
+      ],
+      "correctIndex": 0,
+      "explanation": "Soutenir Luther était un moyen politique pour les princes de s'opposer au pouvoir croissant de Charles Quint."
+    },
+    {
+      "id": "q16",
+      "prompt": "Quelle conséquence foncière le soutien à la Réforme a-t-il pour les princes ?",
+      "choices": [
+        "Une perte massive de territoires agricoles",
+        "L'obligation de donner leurs terres aux pauvres",
+        "Un contrôle accru sur les terres des monastères abolis",
+        "La cession des terres à l'administration impériale",
+        "L'achat de terres dans le Nouveau Monde"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'abolition des monastères permet aux princes de récupérer et de contrôler les terres abandonnées."
+    },
+    {
+      "id": "q17",
+      "prompt": "Qu'arrive-t-il à Luther lors de la Diète de Worms en 1521 ?",
+      "choices": [
+        "Il est nommé archevêque de Mayence",
+        "Il est déclaré hérétique et mis au ban de l'Empire",
+        "Il est élu conseiller privé de Charles Quint",
+        "Il reçoit les pleins pouvoirs religieux à Rome",
+        "Il est banni d'Allemagne vers l'Angleterre"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lors de la Diète de Worms, Luther est condamné comme hérétique et mis au ban de l'Empire, bien qu'il soit protégé par Frédéric III."
+    },
+    {
+      "id": "q18",
+      "prompt": "Quelle innovation liturgique Luther introduit-il dans les églises ?",
+      "choices": [
+        "L'interdiction totale de chanter des psaumes",
+        "Le maintien exclusif du latin pour la messe",
+        "La lecture de l'Évangile en allemand",
+        "L'obligation de célébrer les indulgences",
+        "La suppression du baptême des enfants"
+      ],
+      "correctIndex": 2,
+      "explanation": "Luther prône la lecture de l'Évangile en langue vernaculaire (allemand) pour que chaque chrétien ait un accès direct au texte."
+    },
+    {
+      "id": "q19",
+      "prompt": "Quel est l'objectif principal de Charles Quint face à la Réforme ?",
+      "choices": [
+        "Démanteler totalement l'Empire pour créer des cités-États",
+        "Sauvegarder l'unité religieuse et politique de l'Empire",
+        "Convertir l'Empire à l'islam pour plaire aux Turcs",
+        "Établir une alliance secrète avec Martin Luther",
+        "Transférer la capitale de l'Empire à Jérusalem"
+      ],
+      "correctIndex": 1,
+      "explanation": "Charles Quint souhaite maintenir l'unité de son Empire pour lutter efficacement contre ses ennemis (France et Turcs)."
+    },
+    {
+      "id": "q20",
+      "prompt": "Quel traité de 1555 reconnaît officiellement le droit d'existence de la réforme luthérienne ?",
+      "choices": [
+        "L'Édit de Nantes",
+        "La Paix de Westphalie",
+        "La Paix d'Augsbourg",
+        "Le Traité de Worms",
+        "Le Concordat de Bologne"
+      ],
+      "correctIndex": 2,
+      "explanation": "La Paix d'Augsbourg en 1555 reconnaît qu'il existe deux manières d'être chrétien et accorde un droit d'existence au luthéranisme."
+    },
+    {
+      "id": "q21",
+      "prompt": "Que signifie le principe 'Cuius regio, eius religio' ?",
+      "choices": [
+        "Chaque citoyen est libre de choisir sa religion",
+        "Celui qui possède le territoire détermine la religion",
+        "La religion du Pape s'impose à tous les rois",
+        "Seuls les évêques peuvent choisir leur confession",
+        "Une alternance annuelle entre catholicisme et protestantisme"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ce principe signifie que la religion du prince s'impose à ses sujets sur son territoire, ce qui n'est pas une mesure de tolérance individuelle."
+    },
+    {
+      "id": "q22",
+      "prompt": "Comment Martin Luther réagit-il au soulèvement de 'l'homme commun' (1524-1526) ?",
+      "choices": [
+        "Il soutient activement la révolte paysanne",
+        "Il appelle à une répartition équitable des richesses",
+        "Il soutient la répression menée par les princes",
+        "Il reste neutre et se retire dans un monastère",
+        "Il demande l'aide du Pape pour calmer les foules"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bien que la révolte s'appuie sur des arguments évangéliques, Luther soutient la réaction violente des princes contre les paysans."
+    },
+    {
+      "id": "q23",
+      "prompt": "Quelle branche de la Réforme est qualifiée de 'Réforme radicale' dans le texte ?",
+      "choices": [
+        "Le luthéranisme d'État",
+        "L'anglicanisme d'Henri VIII",
+        "L'anabaptisme",
+        "Le presbytérianisme écossais",
+        "Le calvinisme genevois"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le texte classe l'anabaptisme sous la catégorie de la 'Réforme radicale'."
+    },
+    {
+      "id": "q24",
+      "prompt": "Dans quelle ville Jean Calvin instaure-t-il sa réforme à partir de 1536 ?",
+      "choices": [
+        "Wittenberg",
+        "Zurich",
+        "Genève",
+        "Canterbury",
+        "Strasbourg"
+      ],
+      "correctIndex": 2,
+      "explanation": "Jean Calvin développe sa réforme à Genève, instaurant un système collégial et une coïncidence entre communauté civile et religieuse."
+    },
+    {
+      "id": "q25",
+      "prompt": "Quelle est la particularité géographique du luthéranisme à la fin du XVIe siècle ?",
+      "choices": [
+        "Il domine l'Italie et l'Espagne",
+        "Il est présent majoritairement en Russie",
+        "Il se situe au Nord-Est de l'Allemagne et en Scandinavie",
+        "Il est limité aux îles britanniques",
+        "Il s'étend sur tout l'Empire ottoman"
+      ],
+      "correctIndex": 2,
+      "explanation": "Selon la carte confessionnelle, les luthériens se trouvent principalement au Nord-Est de l'Allemagne, au Danemark et en Scandinavie."
+    },
+    {
+      "id": "q26",
+      "prompt": "Qu'est-ce que le 'consistoire' dans l'organisation calviniste de Genève ?",
+      "choices": [
+        "Un tribunal secret chargé de punir les rois",
+        "Un organe de 6 pasteurs et 12 anciens gérant la ville et l'Église",
+        "Une école de théologie réservée aux nobles",
+        "Une armée de mercenaires protégeant les baptisés",
+        "Une assemblée de femmes s'occupant des pauvres"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le consistoire est l'organe de gouvernance à Genève, composé de pasteurs et d'anciens veillant aux mœurs et à l'administration."
+    },
+    {
+      "id": "q27",
+      "prompt": "Quelle est la vision politique de l'Église anglicane selon le texte ?",
+      "choices": [
+        "Une séparation totale entre l'État et l'Église",
+        "Une Église d'État dont le chef est le souverain",
+        "Une soumission du roi aux décisions des évêques romains",
+        "Un refus de toute collaboration avec les politiques",
+        "Une direction assurée par un conseil de citoyens tirés au sort"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'anglicanisme définit une Église d'État où le souverain (le roi ou la reine) occupe la place de chef suprême."
+    },
+    {
+      "id": "q28",
+      "prompt": "Quel souverain anglais instaure le schisme avec Rome par l'Acte de suprématie en 1534 ?",
+      "choices": [
+        "Édouard VI",
+        "Marie la Catholique",
+        "Henri VIII",
+        "Élisabeth Ière",
+        "Jacques Ier"
+      ],
+      "correctIndex": 2,
+      "explanation": "Henri VIII rompt avec Rome en 1534 en se proclamant chef suprême de l'Église d'Angleterre."
+    },
+    {
+      "id": "q29",
+      "prompt": "Quel est le résultat religieux sous le règne d'Élisabeth Ière ?",
+      "choices": [
+        "Un retour strict au catholicisme romain",
+        "Une église nationale à structure catholique et théologie protestante",
+        "L'interdiction de toute forme de hiérarchie ecclésiastique",
+        "La conversion massive de l'Angleterre au calvinisme",
+        "La fusion de l'Église anglicane avec l'Église orthodoxe"
+      ],
+      "correctIndex": 1,
+      "explanation": "Élisabeth Ière stabilise l'Église anglicane en maintenant une structure hiérarchique proche du catholicisme tout en adoptant une théologie protestante."
+    },
+    {
+      "id": "q30",
+      "prompt": "En 1553, que stipule l'Acte d'uniformité en Angleterre ?",
+      "choices": [
+        "Le droit pour chaque sujet de pratiquer la religion de son choix",
+        "L'imposition des pratiques anglicanes à tous les sujets",
+        "Le rétablissement du célibat des prêtres",
+        "La reconnaissance de sept sacrements obligatoires",
+        "L'obligation de parler latin dans les lieux publics"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'Acte d'uniformité de 1553 impose les pratiques anglicanes à tous, n'autorisant que deux sacrements (baptême et eucharistie)."
+    },
+    {
+      "id": "q31",
+      "prompt": "Quel tribunal est institué par la papauté en 1542 pour contrer l'avancée de la Réforme ?",
+      "choices": [
+        "Le Tribunal de la Rote",
+        "L'Inquisition Romaine",
+        "Le Conseil des Dix",
+        "La Chambre Ardente",
+        "Le Parlement de Paris"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le pape Paul III institue le tribunal de l'Inquisition Romaine en 1542 pour contrôler et réprimer les hérésies."
+    },
+    {
+      "id": "q32",
+      "prompt": "Quelle a été la durée du Concile de Trente ?",
+      "choices": [
+        "De 1500 à 1517",
+        "De 1545 à 1563",
+        "De 1598 à 1610",
+        "De 1521 à 1530",
+        "Uniquement durant l'année 1555"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Concile de Trente, moment clé de la Contre-Réforme, s'est tenu entre 1545 et 1563."
+    },
+    {
+      "id": "q33",
+      "prompt": "Concernant la doctrine, qu'affirme le Concile de Trente sur la Révélation ?",
+      "choices": [
+        "Elle repose uniquement sur la Bible (Sola Scriptura)",
+        "Elle repose sur la Bible et la tradition",
+        "Elle est désormais close et ne peut plus être étudiée",
+        "Elle est accessible uniquement via les visions mystiques",
+        "Elle doit être validée par les princes séculiers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Contrairement aux protestants, le Concile de Trente réaffirme que la Révélation provient de la Bible ET de la tradition de l'Église."
+    },
+    {
+      "id": "q34",
+      "prompt": "Quelle réforme le Concile de Trente impose-t-il aux évêques pour restaurer la crédibilité du clergé ?",
+      "choices": [
+        "L'obligation de vivre à Rome auprès du Pape",
+        "La résidence obligatoire dans leur diocèse",
+        "Le droit de déléguer toutes leurs fonctions à des laïcs",
+        "L'interdiction de visiter les paroisses rurales",
+        "L'obligation d'avoir une activité commerciale annexe"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pour lutter contre l'absentéisme, les évêques ont désormais l'obligation de résider dans leur diocèse et d'effectuer des visites pastorales."
+    },
+    {
+      "id": "q35",
+      "prompt": "Quel élément de la piété populaire est réaffirmé par le Concile de Trente contre les critiques protestantes ?",
+      "choices": [
+        "Le refus de toute image religieuse",
+        "La médiation par les images, la Vierge et les saints",
+        "L'abolition de la vénération des reliques",
+        "La suppression des pèlerinages",
+        "Le mariage des prêtres de paroisse"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Concile maintient l'importance de la médiation par les images et le culte de la Vierge et des saints, rejetés par les réformés."
+    },
+    {
+      "id": "q36",
+      "prompt": "Quelle est la position du Concile de Trente sur les 'bénéfices' ?",
+      "choices": [
+        "Il encourage le cumul pour financer les guerres",
+        "Il interdit le cumul des bénéfices",
+        "Il rend les bénéfices héréditaires",
+        "Il supprime totalement la notion de salaire ecclésiastique",
+        "Il permet de vendre les bénéfices aux banquiers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dans son effort de réforme interne, l'Église interdit le cumul des bénéfices (charges payées)."
+    },
+    {
+      "id": "q37",
+      "prompt": "Selon la conclusion du texte, quelle question devient centrale en théologie politique au XVIe siècle ?",
+      "choices": [
+        "La hiérarchie entre le pouvoir temporel et le pouvoir spirituel",
+        "L'invention de nouvelles monnaies internationales",
+        "La découverte de routes maritimes vers l'Asie",
+        "Le remplacement des rois par des philosophes",
+        "L'unification des langues européennes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Catholiques et protestants s'interrogent sur l'obéissance qui doit primer en cas de conflit entre le roi (temporel) et Dieu/l'Église (spirituel)."
+    },
+    {
+      "id": "q38",
+      "prompt": "Comment Galilée (1609) participe-t-il à la mise en cause du principe d'autorité ?",
+      "choices": [
+        "En traduisant la Bible en italien dialectal",
+        "En opposant l'observation scientifique à l'interprétation littérale de la Bible",
+        "En devenant le conseiller principal du Pape Paul III",
+        "En prouvant que la Terre est le centre de l'univers",
+        "En rédigeant un nouveau code de droit canonique"
+      ],
+      "correctIndex": 1,
+      "explanation": "Galilée utilise la lunette astronomique pour prouver l'héliocentrisme, défiant l'interprétation littérale des textes sacrés."
+    },
+    {
+      "id": "q39",
+      "prompt": "Quel auteur est associé à la théorie des droits individuels et du contrat social en 1690 ?",
+      "choices": [
+        "René Descartes",
+        "Isaac Newton",
+        "John Locke",
+        "Galileo Galilei",
+        "Erasme"
+      ],
+      "correctIndex": 2,
+      "explanation": "John Locke publie ses 'Traités du gouvernement' en 1690, posant les bases des droits individuels et du contrat social."
+    },
+    {
+      "id": "q40",
+      "prompt": "Quelle méthode René Descartes introduit-il en 1636 pour la recherche scientifique ?",
+      "choices": [
+        "L'obéissance absolue aux textes anciens",
+        "Le doute méthodique",
+        "L'analyse philologique des textes grecs",
+        "La divination par les astres",
+        "Le rejet systématique de toute forme de mathématiques"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dans le 'Discours de la méthode', Descartes instaure le doute méthodique comme règle de recherche scientifique."
+    }
+  ],
+  "course": "Histoire"
+}
