@@ -1,0 +1,535 @@
+{
+  "quizId": "revolutions-et-lumieres",
+  "title": "Révolutions et Lumières au XVIIIe siècle",
+  "section": {
+    "id": "revolutions-et-lumieres",
+    "title": "Révolutions et Lumières au XVIIIe siècle",
+    "startPage": 48,
+    "endPage": 55,
+    "summary": "Mouvement des idées et révolution scientifique (Galilée, Descartes, Newton). Analyse de la Glorieuse Révolution britannique, de l'indépendance américaine et des phases de la Révolution française.",
+    "estimatedQuestionCount": 35
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quels sont les trois éléments fondamentaux marquant le changement d'époque au XVIIIe siècle selon le texte ?",
+      "choices": [
+        "Fin de l'Église, essor industriel et colonisation massive des Amériques",
+        "Remise en cause des pouvoirs absolus, question de la représentativité et changement d'échelle vers les masses",
+        "Disparition des monarchies, invention de l'imprimerie et fin du servage en Europe",
+        "Sécularisation totale, égalité homme-femme et développement du commerce avec l'Asie",
+        "Révolution agricole, chute de l'Empire espagnol et instauration du suffrage universel"
+      ],
+      "correctIndex": 1,
+      "explanation": "La source cite spécifiquement la remise en cause des pouvoirs absolus, la question de la représentativité et l'entrée des masses en révolution comme éléments fondamentaux."
+    },
+    {
+      "id": "q2",
+      "prompt": "Comment le changement d'échelle des phénomènes révolutionnaires est-il décrit par rapport aux temps modernes ?",
+      "choices": [
+        "Il s'agit désormais d'une histoire de petits groupes intellectuels isolés",
+        "Le changement repose sur l'intervention exclusive des armées professionnelles",
+        "Ce n'est plus une histoire de petits groupes mais une histoire de masse d'individus qui agissent",
+        "Le changement est marqué par le passage d'une révolution urbaine à une révolution rurale",
+        "L'échelle change car les révolutions deviennent uniquement technologiques et non sociales"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le texte souligne que l'entrée des masses d'individus agissant collectivement (rues, protestations) marque la différence avec les époques précédentes."
+    },
+    {
+      "id": "q3",
+      "prompt": "Dans le cadre de l'humanisme chrétien, qu'est-ce que la philologie appliquée au texte biblique a permis de remettre en cause ?",
+      "choices": [
+        "Le dogme de la trinité et l'existence historique du Christ",
+        "L'autorité de l'Ancien Testament face au Nouveau Testament",
+        "Les interdits d'interprétation imposés par l'autorité absolue de l'Église",
+        "La nécessité de traduire la Bible en langues vernaculaires",
+        "Le rôle des saints dans la liturgie catholique romaine"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'humanisme chrétien, par la philologie, refuse les interdits d'interprétation de l'Église, constituant un premier mouvement de désobéissance."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel concept central les réformes protestantes ont-elles introduit concernant l'autorité ?",
+      "choices": [
+        "L'idée que l'autorité religieuse doit être supérieure à l'autorité civile",
+        "La conviction que seule l'autorité du Pape est infaillible en matière de morale",
+        "La conscience individuelle comme autorité imposant parfois de désobéir",
+        "L'obligation de soumission aveugle au souverain, même tyrannique",
+        "Le rejet total de toute forme de hiérarchie au sein de la société civile"
+      ],
+      "correctIndex": 2,
+      "explanation": "La réforme théorise le devoir de désobéissance en posant la conscience individuelle comme une autorité légitime face au pouvoir."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle a été la contribution majeure de Galilée en 1609 à la révolution scientifique ?",
+      "choices": [
+        "La découverte de la circulation sanguine par la dissection",
+        "L'invention du calcul intégral pour expliquer le mouvement",
+        "L'utilisation de la lunette astronomique et l'observation de l'héliocentrisme",
+        "La rédaction du Discours de la méthode sur la rationalité",
+        "La démonstration de la loi de la gravitation universelle"
+      ],
+      "correctIndex": 2,
+      "explanation": "Galilée utilise la lunette astronomique pour observer le ciel et confirmer l'héliocentrisme, remettant en cause les interprétations littérales de la Bible."
+    },
+    {
+      "id": "q6",
+      "prompt": "Que signifie le concept de 'Tabula rasa' chez René Descartes dans son Discours de la méthode (1637) ?",
+      "choices": [
+        "Accepter les traditions anciennes comme base de la science",
+        "Tout mettre de côté, notamment les croyances, pour reconstruire sur la réalité",
+        "Conserver uniquement les dogmes religieux compatibles avec la raison",
+        "S'appuyer exclusivement sur les sens pour comprendre le monde",
+        "Refuser toute forme de mathématisation de la nature"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pour Descartes, la 'tabula rasa' consiste à faire table rase des croyances pour fonder une vision du monde sur la réalité et le doute méthodique."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quelle innovation Newton (1687) apporte-t-il pour expliquer le mouvement des planètes ?",
+      "choices": [
+        "L'usage exclusif de la théologie naturelle et de la révélation",
+        "Le rejet des observations de Galilée au profit de la métaphysique",
+        "L'alliance de l'expérience et du langage mathématique",
+        "La théorie de la génération spontanée appliquée à l'astronomie",
+        "Le développement de la lunette astronomique à double foyer"
+      ],
+      "correctIndex": 2,
+      "explanation": "Newton utilise l'expérience combinée au langage mathématique pour expliquer l'héliocentrisme et le mouvement des corps célestes."
+    },
+    {
+      "id": "q8",
+      "prompt": "Selon Thomas Hobbes dans le Léviathan (1651), quelle est la condition naturelle des hommes sans pouvoir commun ?",
+      "choices": [
+        "Un état de coopération naturelle et de paix universelle",
+        "Une vie organisée autour du respect mutuel des libertés",
+        "Une condition de guerre de chacun contre chacun",
+        "Un système de troc fondé sur la justice distributive",
+        "Une démocratie directe régie par la loi du plus sage"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hobbes décrit l'état de nature comme une guerre de chacun contre chacun, nécessitant un pouvoir commun fort pour contenir la violence."
+    },
+    {
+      "id": "q9",
+      "prompt": "Quelle est la définition de la 'Loi de nature' selon John Locke dans ses Traités du gouvernement civil (1690) ?",
+      "choices": [
+        "L'obligation pour le sujet de se soumettre inconditionnellement au monarque",
+        "Le droit du plus fort d'imposer sa volonté à la communauté",
+        "Les libertés inaliénables (propriété, religion, égalité face à la loi, opinion)",
+        "Le système de régulation biologique des espèces animales appliqué à l'homme",
+        "La règle dictée par l'Église pour le salut des âmes dans la cité"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chez Locke, la loi de nature correspond aux libertés inaliénables de l'individu que l'État doit faire respecter."
+    },
+    {
+      "id": "q10",
+      "prompt": "Quelle différence majeure existe entre Hobbes et Locke concernant le contrat social ?",
+      "choices": [
+        "Hobbes prône la démocratie directe tandis que Locke veut une oligarchie",
+        "Hobbes exige de renoncer à sa liberté pour la paix, Locke veut garantir les libertés par le contrat",
+        "Locke défend la monarchie de droit divin alors que Hobbes la rejette totalement",
+        "Hobbes refuse toute notion de contrat social contrairement à Locke",
+        "Il n'y a aucune différence, les deux auteurs justifient l'absolutisme royal"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pour Hobbes, on renonce à la liberté pour sortir de la violence ; pour Locke, le contrat social doit protéger les droits fondamentaux."
+    },
+    {
+      "id": "q11",
+      "prompt": "Pourquoi la révolution de 1689 en Angleterre est-elle qualifiée de 'Glorieuse' ?",
+      "choices": [
+        "Parce qu'elle a permis la conquête de nouveaux territoires coloniaux",
+        "Parce qu'elle a duré plus de cinquante ans sans aucune interruption",
+        "Parce qu'elle n'a pas employé la violence pour changer de système",
+        "Parce qu'elle a rétabli le catholicisme comme religion d'État",
+        "Parce qu'elle a été menée par les plus grands généraux de l'époque"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le terme 'Glorieuse' signifie ici l'absence de violence lors du changement de système politique."
+    },
+    {
+      "id": "q12",
+      "prompt": "Pour quelle raison principale le Parlement propose-t-il le trône à Guillaume III d'Orange en 1689 ?",
+      "choices": [
+        "Pour ses talents exceptionnels de diplomate avec la France",
+        "Pour respecter le critère dynastique via sa femme Marie Stuart",
+        "Parce qu'il était le seul candidat catholique disponible en Europe",
+        "Parce qu'il promettait de supprimer définitivement le Parlement",
+        "Pour sa volonté d'instaurer une république sur le modèle hollandais"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le choix de Guillaume III s'est fait principalement pour respecter la légitimité dynastique, son épouse étant la fille de Jacques II."
+    },
+    {
+      "id": "q13",
+      "prompt": "Selon le Bill of Rights (1689), quelle action est interdite au roi sans l'approbation du Parlement ?",
+      "choices": [
+        "Se marier avec une princesse étrangère ou voyager hors du royaume",
+        "Établir des impôts, garder une armée en temps de paix ou abolir des lois",
+        "Nommer des ministres ou choisir les membres de sa cour personnelle",
+        "Prononcer des discours publics ou assister aux offices religieux",
+        "Vendre des terres appartenant au domaine royal privé"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Bill of Rights limite le pouvoir royal en interdisant notamment la levée d'impôts ou d'armée sans l'accord parlementaire."
+    },
+    {
+      "id": "q14",
+      "prompt": "Quel droit spécifique est accordé aux sujets britanniques par le Bill of Rights de 1689 ?",
+      "choices": [
+        "Le droit de vote universel masculin et féminin",
+        "Le droit de ne payer aucun impôt à vie",
+        "Le droit de parole, de porter les armes et d'adresser des pétitions au roi",
+        "Le droit de choisir librement leur propre monarque chaque année",
+        "Le droit à une éducation gratuite et obligatoire pour tous"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le texte mentionne le droit de parole, le port d'armes et le droit de pétition comme des garanties pour les sujets."
+    },
+    {
+      "id": "q15",
+      "prompt": "En quelle année la censure a-t-elle été abolie au Royaume-Uni ?",
+      "choices": [
+        "1648",
+        "1660",
+        "1689",
+        "1695",
+        "1707"
+      ],
+      "correctIndex": 3,
+      "explanation": "La source indique explicitement que l'abolition de la censure a eu lieu en 1695."
+    },
+    {
+      "id": "q16",
+      "prompt": "Qu'est-ce que le 'jusnaturalisme' mentionné dans l'étude des Lumières ?",
+      "choices": [
+        "Un mouvement artistique prônant le retour à la nature sauvage",
+        "L'idée que les lois dépendent de la nature des êtres humains",
+        "Une doctrine économique favorisant l'agriculture sur l'industrie",
+        "Le refus systématique de toute forme de progrès technologique",
+        "Une théorie religieuse affirmant que Dieu est présent dans chaque plante"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le jusnaturalisme définit les lois comme dépendant de la nature intrinsèque des êtres humains (droits naturels inaliénables)."
+    },
+    {
+      "id": "q17",
+      "prompt": "Comment Emmanuel Kant définit-il la 'minorité' dans son texte de 1784 sur l'Aufklärung ?",
+      "choices": [
+        "Le fait d'avoir moins de 21 ans selon les lois civiles du royaume",
+        "L'incapacité d'employer son entendement sans être guidé par autrui",
+        "L'appartenance à un groupe social numériquement faible",
+        "Le manque d'éducation scolaire fournie par les institutions d'État",
+        "Le refus de participer aux élections législatives du pays"
+      ],
+      "correctIndex": 1,
+      "explanation": "Selon Kant, la minorité est l'incapacité de se servir de son propre entendement de façon autonome."
+    },
+    {
+      "id": "q18",
+      "prompt": "Quelle est la devise de l'Aufklärung selon Kant ?",
+      "choices": [
+        "Liberté, Égalité, Fraternité",
+        "Veni, Vidi, Vici",
+        "Sapere aude ! (Aie le courage de te servir de ton propre entendement !)",
+        "Tabula rasa et Cogito ergo sum",
+        "Dieu et mon droit"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kant termine son explication par la devise 'Sapere aude !', encourageant l'autonomie de la pensée."
+    },
+    {
+      "id": "q19",
+      "prompt": "Sur quel principe repose la question de la représentativité à la fin des temps modernes ?",
+      "choices": [
+        "Le droit pour tout citoyen de devenir roi par tirage au sort",
+        "L'obligation de renoncer à toute liberté sans contrepartie institutionnelle",
+        "Le droit d'être représenté légitimement si l'on renonce à une partie de ses libertés",
+        "Le maintien des privilèges de la noblesse pour représenter le peuple",
+        "La suppression de toute institution politique au profit de l'Église"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le texte lie le contrat social (renoncement partiel aux libertés pour le bien commun) au droit d'être représenté."
+    },
+    {
+      "id": "q20",
+      "prompt": "Selon la pensée révolutionnaire, que présuppose le respect des libertés ?",
+      "choices": [
+        "Un pouvoir absolu et centralisé garantissant la sécurité",
+        "Un pouvoir partagé avec un contrôle réciproque (division des pouvoirs)",
+        "L'absence totale de lois pour laisser libre cours à la nature humaine",
+        "La soumission de la sphère politique à la sphère économique",
+        "Le retour au système féodal fondé sur les liens de vassalité"
+      ],
+      "correctIndex": 1,
+      "explanation": "La séparation des pouvoirs est présentée comme la condition nécessaire au respect des libertés par le contrôle mutuel."
+    },
+    {
+      "id": "q21",
+      "prompt": "Quels acteurs remplacent les Portugais et les Espagnols dans le commerce international à partir de la mi-XVIIe siècle ?",
+      "choices": [
+        "Les Italiens et les Allemands",
+        "Les Russes et les Ottomans",
+        "Les Français et les Anglais",
+        "Les Américains et les Chinois",
+        "Les Hollandais et les Belges"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le texte indique un changement d'acteurs principaux au profit des Français et des Anglais à partir de la mi-XVIIe."
+    },
+    {
+      "id": "q22",
+      "prompt": "Dans le commerce triangulaire, que fournit principalement l'Afrique (Sénégal et Mozambique) ?",
+      "choices": [
+        "De l'or, des diamants et de l'ivoire",
+        "Des épices rares et du thé de haute qualité",
+        "Des déportés réduits en esclavage",
+        "Des tissus de coton et des produits en métal",
+        "Du café, du sucre et du tabac"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le schéma du commerce triangulaire spécifie que l'Afrique fournit des déportés réduits en esclavage."
+    },
+    {
+      "id": "q23",
+      "prompt": "Quel rôle les 'cafés' jouent-ils au Royaume-Uni à partir de la fin du XVIIe siècle ?",
+      "choices": [
+        "Des lieux de culte secrets pour les minorités religieuses",
+        "Des espaces publics de socialisation et d'échange d'informations",
+        "Des centres de recrutement exclusifs pour l'armée royale",
+        "Des bureaux de perception des taxes sur le thé et le tabac",
+        "Des institutions de charité pour les plus démunis"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les cafés sont décrits comme des espaces fondamentaux où l'on discute librement, accède à la presse et échange des idées."
+    },
+    {
+      "id": "q24",
+      "prompt": "En quoi consistent les 'enclosures' (1700-1810) au Royaume-Uni ?",
+      "choices": [
+        "La fermeture des frontières pour empêcher l'exportation de blé",
+        "Le confinement des populations urbaines lors des épidémies",
+        "L'extension des terres en propriétés de grands propriétaires",
+        "L'obligation de construire des murs autour des villes industrielles",
+        "Le regroupement forcé des esclaves dans des camps de travail"
+      ],
+      "correctIndex": 2,
+      "explanation": "Les 'enclosure acts' ont permis d'importantes extensions de terres au profit de grands propriétaires, augmentant la productivité."
+    },
+    {
+      "id": "q25",
+      "prompt": "Qui est cité comme exemple de figure clé liée à la première révolution industrielle (textile) ?",
+      "choices": [
+        "Isaac Newton",
+        "James Watt",
+        "Benjamin Franklin",
+        "John Locke",
+        "Thomas Jefferson"
+      ],
+      "correctIndex": 1,
+      "explanation": "James Watt (1736-1819) est l'exemple cité dans le cadre de la révolution industrielle."
+    },
+    {
+      "id": "q26",
+      "prompt": "Quelle était la croissance démographique dans les colonies nord-américaines entre 1750 et 1775 ?",
+      "choices": [
+        "De 500 000 à 1 million d'habitants",
+        "De 1,2 million à 2,5 millions d'habitants",
+        "De 3 millions à 10 millions d'habitants",
+        "La population est restée stable en raison des guerres",
+        "Elle a diminué de moitié à cause des famines"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le texte précise que la population est passée de 1,2Mo à 2,5Mo durant cette période."
+    },
+    {
+      "id": "q27",
+      "prompt": "Quelle figure des Lumières américaines est l'auteur de la Déclaration d'indépendance ?",
+      "choices": [
+        "John Adams",
+        "Benjamin Franklin",
+        "Thomas Jefferson",
+        "George Washington",
+        "Alexander Hamilton"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thomas Jefferson est cité comme l'avocat ayant rédigé la Déclaration d'indépendance."
+    },
+    {
+      "id": "q28",
+      "prompt": "À quelle date le Congrès adopte-t-il la Déclaration d'indépendance des 13 colonies ?",
+      "choices": [
+        "14 juillet 1789",
+        "4 juillet 1776",
+        "17 septembre 1787",
+        "1er janvier 1800",
+        "11 novembre 1783"
+      ],
+      "correctIndex": 1,
+      "explanation": "La déclaration unanime des 13 États Unis d'Amérique a été adoptée le 4 juillet 1776."
+    },
+    {
+      "id": "q29",
+      "prompt": "Qu'est-ce que le 'Stamp Act' dans le contexte de la révolution américaine ?",
+      "choices": [
+        "Une loi autorisant l'achat de terres indiennes par les colons",
+        "Une taxation sur les transactions commerciales et la presse",
+        "L'obligation de marquer le bétail avec un sceau royal",
+        "Un traité de paix signé entre les colons et les natifs",
+        "L'interdiction de cultiver du tabac dans les colonies du Sud"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Stamp Act est un exemple de taxe imposée sans négociation, touchant les actes commerciaux et les journaux."
+    },
+    {
+      "id": "q30",
+      "prompt": "Quelle mesure de 1763 a provoqué un sentiment d'injustice chez les colons américains ?",
+      "choices": [
+        "L'obligation d'héberger les soldats français dans les maisons",
+        "L'interdiction d'achat de terres indiennes par les colons",
+        "La fermeture de tous les ports de la côte Est aux navires anglais",
+        "La suppression totale du droit de vote pour les propriétaires terriens",
+        "La proclamation de l'esclavage comme crime contre l'humanité"
+      ],
+      "correctIndex": 1,
+      "explanation": "La proclamation royale de 1763 interdisait aux colons d'acheter des terres indiennes, créant une tension avec la couronne."
+    },
+    {
+      "id": "q31",
+      "prompt": "Quelle est la cause directe du Boston Tea Party en 1773 ?",
+      "choices": [
+        "Une pénurie mondiale de thé due à une mauvaise récolte en Chine",
+        "Le monopole du commerce du thé accordé à la Compagnie des Indes orientales",
+        "L'empoisonnement d'une cargaison de thé par les troupes britanniques",
+        "L'augmentation du prix du café au profit du thé de mauvaise qualité",
+        "Le refus des colons de boire du thé par solidarité avec les esclaves"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'action violente de 1773 visait le monopole accordé à la Compagnie des Indes orientales, menaçant les marchands américains."
+    },
+    {
+      "id": "q32",
+      "prompt": "Comment le processus démocratique américain se concrétise-t-il en 1787 ?",
+      "choices": [
+        "Par la signature du traité de Paix de Paris avec le roi de France",
+        "Par le retour volontaire des 13 colonies sous l'autorité britannique",
+        "Par la rédaction d'une Constitution unique avec séparation des pouvoirs",
+        "Par l'élection de George Washington comme roi constitutionnel",
+        "Par l'annexion immédiate des territoires du Mexique et du Canada"
+      ],
+      "correctIndex": 2,
+      "explanation": "En 1787, une Constitution unique est établie, séparant notamment le pouvoir législatif (Chambre) et exécutif (Président)."
+    },
+    {
+      "id": "q33",
+      "prompt": "Qui est Charles Alexandre de Calonne dans le contexte de la Révolution française ?",
+      "choices": [
+        "Le chef des armées révolutionnaires lors de la prise de la Bastille",
+        "Le ministre des finances proposant la fin des privilèges fiscaux",
+        "L'auteur du pamphlet 'Qu'est-ce que le Tiers-État ?'",
+        "Le représentant du clergé aux États généraux de 1789",
+        "Le successeur de Robespierre après le coup d'État de juillet"
+      ],
+      "correctIndex": 1,
+      "explanation": "Calonne, ministre des finances, a proposé un plan de réforme libéral incluant la fin des privilèges fiscaux pour la noblesse et le clergé."
+    },
+    {
+      "id": "q34",
+      "prompt": "Quelle proportion de la population française le Tiers état représentait-il en 1789 ?",
+      "choices": [
+        "25%",
+        "50%",
+        "75%",
+        "98%",
+        "10%"
+      ],
+      "correctIndex": 3,
+      "explanation": "Le texte indique que le Tiers état représentait 98% de la population française."
+    },
+    {
+      "id": "q35",
+      "prompt": "Quelle thèse majeure Emmanuel Joseph Sieyès défend-il dans son pamphlet de 1789 ?",
+      "choices": [
+        "Le Tiers-État est une classe dangereuse qu'il faut supprimer",
+        "Le Tiers-État = Nation, composée d'hommes libres et égaux",
+        "La noblesse seule doit détenir le pouvoir législatif par tradition",
+        "Le vote par ordre est le seul garant d'une réelle représentativité",
+        "L'Église doit diriger l'assemblée nationale pour assurer l'ordre"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sieyès affirme que le Tiers-État constitue la Nation et que la liberté est un droit individuel, non lié aux ordres."
+    },
+    {
+      "id": "q36",
+      "prompt": "Quel événement de 1789 marque la création d'une force pour défendre la révolution et garantir l'ordre ?",
+      "choices": [
+        "La création de la Garde Nationale",
+        "La proclamation de la République",
+        "Le coup d'État militaire de Napoléon",
+        "La signature du traité avec l'Autriche",
+        "L'exécution du ministre Calonne"
+      ],
+      "correctIndex": 0,
+      "explanation": "La Garde Nationale est créée en 1789 spécifiquement pour défendre la révolution et maintenir l'ordre."
+    },
+    {
+      "id": "q37",
+      "prompt": "Que se passe-t-il à Saint-Domingue en 1791 en lien avec la Révolution française ?",
+      "choices": [
+        "La plantation massive de canne à sucre pour financer la France",
+        "Une insurrection pour les droits de l'homme et contre le système esclavagiste",
+        "La signature d'un accord commercial exclusif avec les États-Unis",
+        "La reddition totale de l'île aux forces navales britanniques",
+        "La nomination de Robespierre comme gouverneur de la colonie"
+      ],
+      "correctIndex": 1,
+      "explanation": "En 1791, une insurrection éclate à Saint-Domingue, invoquant les droits de l'homme contre l'esclavage."
+    },
+    {
+      "id": "q38",
+      "prompt": "Quelle période correspond à 'l'ère Robespierre' et à la Terreur ?",
+      "choices": [
+        "1789-1791",
+        "Juillet 1792 - Juillet 1794",
+        "1799-1804",
+        "1815-1830",
+        "1775-1783"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le texte situe l'ère Robespierre et la Terreur entre juillet 1792 et le coup d'État de juillet 1794."
+    },
+    {
+      "id": "q39",
+      "prompt": "Quelle condition la France a-t-elle imposée en 1825 pour reconnaître l'indépendance d'Haïti ?",
+      "choices": [
+        "Le retour au système esclavagiste sur toute l'île",
+        "L'annexion d'une partie du territoire par les États-Unis",
+        "Un dédommagement de 150Mo francs-or aux propriétaires d'esclaves",
+        "L'obligation de parler exclusivement le français dans les écoles",
+        "Le maintien d'une garnison militaire française permanente à Port-au-Prince"
+      ],
+      "correctIndex": 2,
+      "explanation": "La France a exigé 150 millions de francs-or pour indemniser les anciens colons propriétaires d'esclaves."
+    },
+    {
+      "id": "q40",
+      "prompt": "Qui étaient les principaux acteurs des révolutions en Amérique latine (Mexique à Argentine) au XIXe siècle ?",
+      "choices": [
+        "Les esclaves révoltés sans aucun encadrement militaire",
+        "Les élites créoles (propriétaires fonciers) et des militaires comme Bolívar",
+        "Les rois d'Espagne cherchant à se libérer de l'influence de Madrid",
+        "Les missionnaires jésuites souhaitant créer des États théocratiques",
+        "Les commerçants chinois installés sur la côte pacifique"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les acteurs étaient les élites créoles (propriétaires de plantations) et des militaires tels que Simón Bolívar et José de San Martín."
+    }
+  ],
+  "course": "Histoire"
+}
