@@ -1,0 +1,555 @@
+{
+  "quizId": "empires-et-mondialisation",
+  "title": "Empires et mondialisation aux temps modernes (XVe-XVIIIe)",
+  "section": {
+    "id": "empires-et-mondialisation",
+    "title": "Empires et mondialisation aux temps modernes (XVe-XVIIIe)",
+    "startPage": 4,
+    "endPage": 17,
+    "summary": "Analyse du système d'empires euro-asiatiques (Ottoman, Moghol, Safavide) et de l'expansion des empires ibériques. Couvre le traité de Tordesillas, le colonialisme aux Amériques, l'esclavagisme et la racialisation des sociétés.",
+    "estimatedQuestionCount": 45
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon la source, quel événement de 1453 marque un changement majeur en Méditerranée orientale ?",
+      "choices": [
+        "La prise de Constantinople par les Ottomans",
+        "La fin de la Reconquête dans la péninsule ibérique",
+        "L'invention de l'imprimerie par Gutenberg",
+        "Le premier voyage de Christophe Colomb",
+        "La signature du traité de Tordesillas"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Comment le voyage de Colomb en 1492 est-il qualifié dans une perspective critique de l'histoire ?",
+      "choices": [
+        "Le début de la colonisation territoriale massive",
+        "Une simple expédition commerciale sans lendemain",
+        "Un premier voyage extra-européen plutôt qu'une découverte",
+        "Le point de départ de l'empire continental espagnol",
+        "Une mission d'évangélisation ordonnée par le Pape"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q3",
+      "prompt": "Que signifie le terme \"système\" dans l'expression \"système d'empires\" appliquée à l'espace euro-asiatique ?",
+      "choices": [
+        "Une alliance militaire formelle contre l'Europe",
+        "L'existence d'interactions où les actes de l'un affectent les autres",
+        "Une uniformité religieuse imposée à travers tout le continent",
+        "L'absence totale de conflits entre les grandes puissances",
+        "La domination d'une seule monnaie sur tout le territoire"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q4",
+      "prompt": "Lequel de ces empires est décrit comme ne pratiquant pas de colonisation externe, se contentant de la proximité ?",
+      "choices": [
+        "L'Empire Ottoman",
+        "L'Empire Portugais",
+        "L'Empire Espagnol",
+        "L'Empire Russe",
+        "L'Empire Safavide"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle caractéristique définit les \"Gunpowder Empires\" selon le document ?",
+      "choices": [
+        "L'interdiction stricte des armes à feu pour les civils",
+        "Le monopole mondial de la production de salpêtre",
+        "La maîtrise de la poudre permettant de faire la guerre à distance",
+        "L'utilisation exclusive de mercenaires européens",
+        "Le refus d'utiliser l'artillerie lors des sièges maritimes"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelle est la définition structurelle d'un empire selon les caractéristiques générales citées ?",
+      "choices": [
+        "Une nation homogène dirigée par un président élu",
+        "Une construction pluriséculaire maîtrisant l'hétérogénéité",
+        "Un petit territoire maritime sans force administrative",
+        "Une démocratie parlementaire basée sur le plurilinguisme",
+        "Un ensemble de cités-États indépendantes et sans hiérarchie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q7",
+      "prompt": "Dans un empire, comment est géré le plurilinguisme ?",
+      "choices": [
+        "Toutes les langues sont traitées sur un pied d'égalité absolue",
+        "Chaque province choisit librement sa langue officielle",
+        "Il existe une hiérarchie avec un langage hégémonique du pouvoir",
+        "Les langues locales sont systématiquement interdites",
+        "Seul le latin est autorisé pour l'administration impériale"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q8",
+      "prompt": "Quel sentiment anime l'esprit de croisade dans la péninsule ibérique à la fin du Moyen Âge ?",
+      "choices": [
+        "Le désir de découvrir de nouvelles espèces végétales",
+        "Le sentiment de devoir défendre la \"vraie foi\" par les armes",
+        "La volonté de créer un marché commun avec le monde arabe",
+        "L'aspiration à une laïcisation complète de la société",
+        "Le refus catégorique de toute expansion territoriale"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q9",
+      "prompt": "Quelle période marque la résistance de l'émirat de Grenade avant sa chute finale ?",
+      "choices": [
+        "1099-1187",
+        "1453-1571",
+        "1238-1492",
+        "1516-1663",
+        "1415-1460"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q10",
+      "prompt": "Quel souverain est le premier à pouvoir se dire officiellement \"roi d'Espagne\" ?",
+      "choices": [
+        "Ferdinand d'Aragon",
+        "Charles Quint",
+        "Jean II de Portugal",
+        "Philippe II",
+        "Henri le Navigateur"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q11",
+      "prompt": "Sur le Monument aux Découvertes de Lisbonne, quel personnage est représenté tout à l'avant ?",
+      "choices": [
+        "Vasco de Gama",
+        "Le Prince Henri le Navigateur",
+        "Christophe Colomb",
+        "Le Pape Alexandre VI",
+        "Jean II le Fort"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q12",
+      "prompt": "Quel problème socio-économique interne pousse le Portugal vers l'expansion au XVe siècle ?",
+      "choices": [
+        "Une surproduction massive de blé et de céréales",
+        "Une pénurie alimentaire et une agriculture en souffrance",
+        "L'absence totale de noblesse guerrière sur son territoire",
+        "Le refus des marchands de s'engager dans le commerce maritime",
+        "Une alliance trop contraignante avec l'Empire Ottoman"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q13",
+      "prompt": "Pourquoi les Portugais cherchent-ils de nouveaux itinéraires vers les épices dès la mi-XVe siècle ?",
+      "choices": [
+        "Parce que le poivre n'est plus consommé en Europe",
+        "Pour rompre le monopole de Venise et la médiation arabe",
+        "Pour éviter les tempêtes trop fréquentes dans l'Atlantique",
+        "Parce que le Pape a interdit le passage par la mer Rouge",
+        "Pour concurrencer directement les exportations russes"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q14",
+      "prompt": "Quelle innovation technique portugaise est jugée supérieure à la galère pour les voyages océaniques ?",
+      "choices": [
+        "Le drakkar",
+        "La caravelle",
+        "Le galion",
+        "Le paquebot",
+        "Le canoë"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q15",
+      "prompt": "Quelle est la principale différence de nature entre l'empire portugais et l'empire espagnol au XVIe siècle ?",
+      "choices": [
+        "Le Portugal conquiert des terres, l'Espagne des comptoirs",
+        "Le Portugal est un empire commercial, l'Espagne un empire territorial",
+        "Le Portugal refuse l'esclavage, l'Espagne le favorise",
+        "Le Portugal est dirigé par le Pape, l'Espagne par un Sultan",
+        "Le Portugal utilise la poudre, l'Espagne uniquement l'épée"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q16",
+      "prompt": "Qu'est-ce que la \"Casa da India\" établie à Lisbonne ?",
+      "choices": [
+        "Un palais pour accueillir les ambassadeurs moghols",
+        "Une institution gérant le monopole et les taxes sur les marchandises",
+        "Une école de conversion forcée pour les marins juifs",
+        "Le siège de l'Inquisition pour les colonies d'Afrique",
+        "Un entrepôt gratuit pour les marchands vénitiens"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q17",
+      "prompt": "Quel souverain portugais conquiert Ceuta en 1415 ?",
+      "choices": [
+        "Jean II",
+        "Henri le Navigateur",
+        "Jean Ier",
+        "Manuel Ier",
+        "Alphonse V"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q18",
+      "prompt": "Quelle est la particularité de la politique de l'empereur moghol Akbar (mort en 1605) ?",
+      "choices": [
+        "L'expulsion systématique de tous les hindous de l'administration",
+        "L'unité politique par l'inclusion et la tolérance religieuse",
+        "L'interdiction stricte du commerce avec les Portugais",
+        "Le refus d'utiliser la poudre à feu contre ses ennemis",
+        "La conversion forcée de l'ensemble du subcontinent à l'islam chiite"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q19",
+      "prompt": "Sur quelle route commerciale majeure l'Empire Safavide occupe-t-il une position stratégique ?",
+      "choices": [
+        "La route de l'ambre",
+        "La route du sel",
+        "La route de la soie",
+        "La route du fer",
+        "La route du coton"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q20",
+      "prompt": "Dans la vision géopolitique ottomane du XVIe siècle, comment le sultan est-il perçu vis-à-vis des dirigeants européens ?",
+      "choices": [
+        "Comme un vassal du roi de France",
+        "Comme le père des dirigeants européens",
+        "Comme un ennemi sans aucun contact diplomatique",
+        "Comme un simple marchand de soie",
+        "Comme le successeur de l'empereur de Chine"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q21",
+      "prompt": "Quel groupe religieux, bien que toléré, ne peut pas participer à l'armée dans l'Empire Ottoman ?",
+      "choices": [
+        "Les musulmans sunnites",
+        "Les musulmans chiites",
+        "Les chrétiens et les juifs",
+        "Les janissaires convertis",
+        "Les membres de la cour du Sultan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q22",
+      "prompt": "Qu'est-ce que le \"Devechirmé\" (ou récolte) dans le système ottoman ?",
+      "choices": [
+        "Un impôt agricole sur la production de blé",
+        "Le prélèvement d'enfants chrétiens pour devenir janissaires",
+        "La vente annuelle d'esclaves africains sur les marchés",
+        "Une fête religieuse célébrant la fin du ramadan",
+        "Le processus de sélection des épouses du Sultan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q23",
+      "prompt": "Quelle est la principale faiblesse du système féodal ottoman mentionnée dans le texte ?",
+      "choices": [
+        "Le manque d'armes à feu modernes",
+        "L'absence de motivation des paysans qui ne possèdent pas la terre",
+        "L'absence de hiérarchie religieuse claire",
+        "La domination excessive de la marine sur l'armée de terre",
+        "Le refus de commercer avec la ville de Venise"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q24",
+      "prompt": "Quelle bataille navale de 1571 marque la fin de l'avancée ottomane en Europe ?",
+      "choices": [
+        "La bataille de Lépante",
+        "La bataille de Diu",
+        "La bataille de Panipat",
+        "La bataille de Chaldiran",
+        "La bataille de Mohács"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q25",
+      "prompt": "Quel pape partage les mers et les terres entre Portugais et Espagnols en 1493 ?",
+      "choices": [
+        "Jules II",
+        "Léon X",
+        "Alexandre VI",
+        "Clément VII",
+        "Paul III"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q26",
+      "prompt": "Quelle est la teneur de l'accord conclu par le traité de Tordesillas en 1494 ?",
+      "choices": [
+        "Une alliance militaire contre l'Empire Ottoman",
+        "La division du monde en deux zones d'influence (Est/Ouest)",
+        "L'interdiction totale de la traite négrière",
+        "La création d'une monnaie commune ibérique",
+        "Le mariage entre les familles royales d'Aragon et de Castille"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q27",
+      "prompt": "Quelle technique les Espagnols utilisent-ils pour soumettre les empires précolombiens ?",
+      "choices": [
+        "Leur offrir des terres en Europe en échange de l'or",
+        "Profiter des rivalités internes et s'allier aux populations soumises",
+        "Attendre que les empires s'effondrent naturellement par la famine",
+        "Utiliser uniquement la diplomatie religieuse sans armes",
+        "Signer des traités d'égalité parfaite avec les chefs aztèques"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q28",
+      "prompt": "Quelle institution est créée à Séville en 1503 pour contrôler le commerce avec les Amériques ?",
+      "choices": [
+        "Le Conseil des Indes",
+        "La Casa de Contratación",
+        "L'Inquisition coloniale",
+        "La Real Audiencia",
+        "Le Tribunal des Mines"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q29",
+      "prompt": "Qu'est-ce que l'encomienda dans le contexte de l'Amérique espagnole ?",
+      "choices": [
+        "Une technique de navigation en haute mer",
+        "L'octroi temporaire de villages et de leurs habitants à un conquistador",
+        "Un contrat de mariage entre Espagnols et élites indigènes",
+        "Une taxe sur les exportations d'argent vers la Chine",
+        "Un navire de guerre léger utilisé dans les Antilles"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q30",
+      "prompt": "Quelle ville minière de l'actuelle Bolivie est célèbre pour son extraction massive d'argent ?",
+      "choices": [
+        "Tenochtitlan",
+        "Cuzco",
+        "Potosí",
+        "Lima",
+        "Bogotá"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q31",
+      "prompt": "À quoi est principalement dû l'effondrement démographique des populations indigènes aux Amériques ?",
+      "choices": [
+        "À des guerres civiles entre tribus encouragées par les jésuites",
+        "Au choc microbien (maladies apportées par les Européens)",
+        "À une émigration massive vers l'Europe du Sud",
+        "À un changement climatique soudain sur le continent",
+        "À l'interdiction de l'agriculture traditionnelle par les colons"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q32",
+      "prompt": "Sous Charles Quint, quelle est la conséquence économique de l'afflux d'argent des colonies pour l'Espagne ?",
+      "choices": [
+        "Un développement industriel fulgurant dans toute la péninsule",
+        "Un sous-développement ibérique car l'Espagne achète tout à l'extérieur",
+        "L'annulation totale de la dette publique espagnole",
+        "La création d'une banque centrale mondiale à Madrid",
+        "La fin des importations en provenance de France et d'Angleterre"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q33",
+      "prompt": "Quel délai est accordé aux Juifs d'Espagne en 1492 pour se convertir avant l'expulsion ?",
+      "choices": [
+        "Un an",
+        "Six mois",
+        "Trois mois",
+        "Un mois",
+        "Une semaine"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q34",
+      "prompt": "Quelle est l'origine du terme \"marranes\" ?",
+      "choices": [
+        "Les juifs ayant fui vers l'Empire Ottoman",
+        "Les crypto-juifs convertis de force mais restés suspects",
+        "Les banquiers allemands finançant la couronne",
+        "Les marchands vénitiens installés à Séville",
+        "Les esclaves africains libérés par l'Inquisition"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q35",
+      "prompt": "En quelle année le premier \"Ghetto\" est-il créé à Venise ?",
+      "choices": [
+        "1492",
+        "1502",
+        "1516",
+        "1571",
+        "1620"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q36",
+      "prompt": "Pourquoi les Juifs étaient-ils sollicités pour le prêt d'argent en Europe ?",
+      "choices": [
+        "Parce qu'ils possédaient toutes les mines d'or d'Europe",
+        "À cause des interdits bibliques empêchant les chrétiens de prêter à intérêt",
+        "Parce qu'ils étaient les seuls à savoir compter selon le texte",
+        "À cause d'un contrat secret signé avec le Pape Alexandre VI",
+        "Parce que le prêt était considéré comme une activité sacrée"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q37",
+      "prompt": "Quelle minorité religieuse arrive en Amérique du Nord à bord du Mayflower en 1620 ?",
+      "choices": [
+        "Les jésuites français",
+        "Les familles puritaines",
+        "Les quakers de Pennsylvanie",
+        "Les catholiques du Maryland",
+        "Les marchands hollandais"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q38",
+      "prompt": "Quelle était la principale ressource exploitée par les Français en \"Nouvelle France\" (Canada) ?",
+      "choices": [
+        "L'or et les pierres précieuses",
+        "Les fourrures et le feutre",
+        "Le coton et le tabac",
+        "Le sucre de canne",
+        "Le charbon de terre"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q39",
+      "prompt": "Quel territoire était considéré comme la colonie privée de Louis XIII ?",
+      "choices": [
+        "Le Québec",
+        "La Louisiane",
+        "La Guadeloupe",
+        "La Martinique",
+        "Saint-Domingue"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q40",
+      "prompt": "Quel souverain délivre en 1518 la première licence pour la déportation directe d'Africains ?",
+      "choices": [
+        "François Ier",
+        "Charles Quint",
+        "Henri VIII",
+        "Jean II de Portugal",
+        "Louis XIV"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q41",
+      "prompt": "Quelle puissance européenne a transporté le plus grand pourcentage de déportés (39%) ?",
+      "choices": [
+        "La Grande-Bretagne",
+        "La France",
+        "Le Portugal",
+        "Les Pays-Bas",
+        "L'Espagne"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q42",
+      "prompt": "Quelle est la mortalité moyenne estimée durant la traversée de l'Atlantique sur les navires négriers ?",
+      "choices": [
+        "2%",
+        "5%",
+        "15%",
+        "50%",
+        "70%"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q43",
+      "prompt": "Selon le texte, quand la racialisation systématique de la société commence-t-elle à s'imposer ?",
+      "choices": [
+        "Dès le début du XVe siècle avec la chute de Ceuta",
+        "À partir de la seconde moitié du XVIIe siècle",
+        "Seulement après la Révolution française",
+        "Lors de la signature du traité de Tordesillas",
+        "Avec l'invention de l'imprimerie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q44",
+      "prompt": "Quelle association de sens apparait dans les dictionnaires du XVIIe siècle pour le mot \"blanc\" ?",
+      "choices": [
+        "Une personne d'origine exclusivement européenne",
+        "Une personne capable d'être claire dans sa vie morale",
+        "Un individu possédant des terres agricoles",
+        "Un citoyen libre n'ayant aucune dette",
+        "Un soldat appartenant à la garde royale"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q45",
+      "prompt": "Quel document juridique est rédigé par les colonies pour fixer les pratiques de discrimination ?",
+      "choices": [
+        "L'Encyclopédie",
+        "Le Code Noir",
+        "Le Traité de Westphalie",
+        "La Déclaration des Droits",
+        "Le Code Justinien"
+      ],
+      "correctIndex": 1
+    }
+  ],
+  "course": "Histoire"
+}
