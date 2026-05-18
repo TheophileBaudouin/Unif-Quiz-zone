@@ -1,0 +1,535 @@
+{
+  "quizId": "absolutisme-et-despotisme-eclaire",
+  "title": "L’absolutisme et le Despotisme éclairé",
+  "section": {
+    "id": "absolutisme-et-despotisme-eclaire",
+    "title": "L’absolutisme et le Despotisme éclairé",
+    "startPage": 37,
+    "endPage": 42,
+    "summary": "Théories du pouvoir royal (Machiavel, Bodin, Hobbes, Bossuet). Analyse du modèle français sous Louis XIV (Versailles) et des réformes rationnelles des despotes éclairés (Frédéric II, Catherine II).",
+    "estimatedQuestionCount": 25
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon le rapport de Michel Suriano en 1546, quelle est la source de l'autorité absolue du roi de France ?",
+      "choices": [
+        "Le droit naturel et une tradition millénaire",
+        "L'élection par une assemblée de magistrats",
+        "La force militaire et la conquête territoriale",
+        "Le consentement explicite des grands seigneurs",
+        "Un pacte social révocable avec les corporations"
+      ],
+      "correctIndex": 0,
+      "explanation": "Suriano affirme que le roi est prince par droit naturel car cette forme de gouvernement dure depuis mille ans."
+    },
+    {
+      "id": "q2",
+      "prompt": "Entre 1500 et 1750, quels domaines de pouvoir sont concentrés entre les mains du souverain ?",
+      "choices": [
+        "La justice, les finances et l'administration",
+        "Le commerce, la religion et l'enseignement",
+        "La diplomatie, la culture et l'agriculture",
+        "La philosophie, les arts et l'urbanisme",
+        "La marine, l'industrie et la recherche"
+      ],
+      "correctIndex": 0,
+      "explanation": "La source mentionne explicitement la concentration des pouvoirs de justice, de finance et d'administration."
+    },
+    {
+      "id": "q3",
+      "prompt": "Quelle est la position de Bossuet concernant la responsabilité du prince ?",
+      "choices": [
+        "Il ne doit rendre compte à personne de ses ordres",
+        "Il doit consulter un conseil de sages ministres",
+        "Il est responsable devant une assemblée d'élus",
+        "Il doit soumettre ses décrets au Pape de Rome",
+        "Il est révocable si le peuple exprime son mécontentement"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bossuet énonce que le prince ne doit rendre compte à personne de ce qu'il ordonne."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quelle équivalence sémantique Bossuet établit-il pour qualifier une révolte contre le roi ?",
+      "choices": [
+        "Une rébellion directe contre Dieu lui-même",
+        "Un crime de lèse-majesté purement civil",
+        "Une erreur politique sans conséquence morale",
+        "Un manquement aux obligations féodales",
+        "Une rupture nécessaire du contrat social"
+      ],
+      "correctIndex": 0,
+      "explanation": "Pour Bossuet, toute révolte contre le roi est une rébellion contre Dieu car le roi est son ministre."
+    },
+    {
+      "id": "q5",
+      "prompt": "À quoi est liée la redécouverte du droit romain au XVIe siècle selon le texte ?",
+      "choices": [
+        "À la vogue de l'Antiquité et l'idée d'un prince héros",
+        "À la nécessité de codifier les lois de navigation",
+        "À l'influence croissante des républiques marchandes",
+        "À la volonté de limiter le pouvoir législatif royal",
+        "À la réforme protestante et l'étude des textes anciens"
+      ],
+      "correctIndex": 0,
+      "explanation": "La redécouverte du droit romain favorise l'idée d'un prince absolu dominateur avec la virtù antique."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelle est la maxime politique célèbre attribuée à Nicolas Machiavel (1469-1527) ?",
+      "choices": [
+        "Il vaut mieux être craint qu'être aimé",
+        "La loi est l'expression de la volonté générale",
+        "Le roi doit régner mais ne pas gouverner",
+        "L'obéissance aveugle est la vertu du sujet",
+        "La liberté est le droit de faire ce que la loi permet"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte cite explicitement cette maxime de Machiavel dans le cadre de la Renaissance italienne."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quel terme Jean Bodin utilise-t-il pour désigner la 'République' ?",
+      "choices": [
+        "L'État",
+        "La Nation",
+        "Le Royaume",
+        "La Cité",
+        "La Couronne"
+      ],
+      "correctIndex": 0,
+      "explanation": "Jean Bodin utilise le mot 'État' pour parler de la République dans ses écrits théoriques."
+    },
+    {
+      "id": "q8",
+      "prompt": "Comment Hobbes définit-il l'état naturel de l'humanité sans pouvoir commun ?",
+      "choices": [
+        "Une guerre de chacun contre chacun",
+        "Une harmonie primitive et fraternelle",
+        "Une organisation démocratique spontanée",
+        "Une stagnation économique et sociale",
+        "Une compétition pacifique pour les ressources"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dans le Léviathan, Hobbes décrit l'absence de pouvoir comme une condition de guerre généralisée."
+    },
+    {
+      "id": "q9",
+      "prompt": "Sur la couverture du 'Léviathan', que représentent les écailles du monstre ?",
+      "choices": [
+        "Les sujets composant la multitude unie",
+        "Les lois fondamentales du royaume",
+        "Les différents péchés capitaux de l'homme",
+        "Les armées permanentes du souverain",
+        "Les richesses accumulées par l'impôt"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'iconographie montre que les écailles sont en réalité les sujets du souverain."
+    },
+    {
+      "id": "q10",
+      "prompt": "Quels sont les deux attributs de pouvoir tenus par l'homme sur la couverture du 'Léviathan' ?",
+      "choices": [
+        "Une épée et une crosse d'évêque",
+        "Un sceptre et une main de justice",
+        "Un globe terrestre et un glaive",
+        "Un livre de lois et une balance",
+        "Une couronne et un bouclier armorié"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'épée symbolise la coercition et la crosse l'attribut religieux, réunis dans le souverain."
+    },
+    {
+      "id": "q11",
+      "prompt": "Selon Hobbes, quelle est la finalité d'ériger un 'pouvoir commun' ?",
+      "choices": [
+        "Réduire toutes les volontés en une seule",
+        "Permettre l'expression de la diversité d'opinions",
+        "Décentraliser la gestion des provinces",
+        "Favoriser la compétition entre les citoyens",
+        "Limiter l'influence des lois de la nature"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hobbes affirme que le seul moyen est de confier tout le pouvoir à un seul homme pour unifier les volontés."
+    },
+    {
+      "id": "q12",
+      "prompt": "Outre l'ordre interne, quel facteur impose la nécessité d'un pouvoir fort ?",
+      "choices": [
+        "La lutte entre les nations pour la prépondérance",
+        "L'augmentation des découvertes archéologiques",
+        "La baisse démographique dans les campagnes",
+        "Le déclin des études humanistes classiques",
+        "L'unification des monnaies européennes"
+      ],
+      "correctIndex": 0,
+      "explanation": "La lutte entre les nations (guerres territoriales et économiques) impose l'absolutisme."
+    },
+    {
+      "id": "q13",
+      "prompt": "Dans quel but les nations comme la France et l'Angleterre se livrent-elles des guerres économiques ?",
+      "choices": [
+        "Acquérir les marchés mondiaux et le monopole",
+        "Convertir les colonies à leur religion",
+        "Établir des traités de paix durables",
+        "Réduire le nombre de navires de guerre",
+        "Partager équitablement les ressources minières"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ces guerres visent la prépondérance économique et le monopole sur le commerce mondial."
+    },
+    {
+      "id": "q14",
+      "prompt": "Quelle injonction Machiavel adressait-il à Laurent de Médicis ?",
+      "choices": [
+        "Prendre l'Italie et la délivrer des barbares",
+        "Instaurer une démocratie directe à Florence",
+        "Négocier une alliance avec le royaume de France",
+        "Vendre les possessions artistiques de la famille",
+        "Réduire les impôts pour favoriser le commerce"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte cite cette exhortation de Machiavel comme preuve de patriotisme naissant."
+    },
+    {
+      "id": "q15",
+      "prompt": "Comment Jean Bodin justifie-t-il le caractère sacré du prince dans 'De la république' ?",
+      "choices": [
+        "Par analogie avec l'amour dû au père",
+        "Par l'élection divine directe sans intermédiaire",
+        "Par la supériorité de ses connaissances juridiques",
+        "Par le serment d'allégeance des seigneurs",
+        "Par la protection qu'il offre contre les famines"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bodin utilise l'exemple du fils envers le père pour illustrer l'obéissance due au prince."
+    },
+    {
+      "id": "q16",
+      "prompt": "Pourquoi Jean Bodin exclut-il le tyrannicide dans sa théorie ?",
+      "choices": [
+        "Parce que le régicide est assimilé à un parricide",
+        "Parce que le tyran est toujours désigné par le peuple",
+        "Parce que la loi civile interdit toute mise à mort",
+        "Parce que la violence est inefficace politiquement",
+        "Parce que seul le Pape peut juger un monarque"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le prince étant le 'père de la patrie', le tuer revient à commettre un parricide, ce qui est exclu."
+    },
+    {
+      "id": "q17",
+      "prompt": "Quel obstacle technique tempérait l'absolutisme de François Ier ou Philippe II ?",
+      "choices": [
+        "Le manque de moyens et l'inertie de l'espace",
+        "L'interdiction papale de lever des impôts",
+        "L'obligation de réunir les États Généraux",
+        "La concurrence des parlements régionaux élus",
+        "Le droit de veto des guildes de marchands"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'absolutisme était tempéré en pratique par la difficulté de contrôler un territoire vaste avec peu de moyens."
+    },
+    {
+      "id": "q18",
+      "prompt": "En 1505, quelle était la proportion d'officiers par rapport à la population en France ?",
+      "choices": [
+        "1 officier pour 1250 habitants",
+        "1 officier pour 100 habitants",
+        "1 officier pour 5000 habitants",
+        "1 officier pour 10 000 habitants",
+        "1 officier pour 250 habitants"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise qu'il y avait 12 000 officiers pour 15 millions d'habitants."
+    },
+    {
+      "id": "q19",
+      "prompt": "Quel souverain incarne le modèle achevé de l'absolutisme en France ?",
+      "choices": [
+        "Louis XIV",
+        "Henri IV",
+        "François Ier",
+        "Louis XIII",
+        "Charles IX"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que c'est sous Louis XIV que le modèle de l'absolutisme se réalise pleinement."
+    },
+    {
+      "id": "q20",
+      "prompt": "D'où provient l'huile sacrée utilisée pour le sacre des rois de France à Reims ?",
+      "choices": [
+        "Elle aurait été apportée par le Saint Esprit à Clovis",
+        "Elle a été rapportée des Croisades par Saint Louis",
+        "Elle est produite par les moines de l'abbaye de Cluny",
+        "Elle est un don diplomatique de l'Empereur d'Orient",
+        "Elle provient des oliviers du jardin de Gethsémani"
+      ],
+      "correctIndex": 0,
+      "explanation": "La tradition prétend qu'une huile mystérieuse a été apportée à Clovis par le Saint Esprit."
+    },
+    {
+      "id": "q21",
+      "prompt": "Quel terme qualifie le roi de France capable de guérir les écrouelles ?",
+      "choices": [
+        "Thaumaturge",
+        "Héliocentrique",
+        "Législateur",
+        "Pontife",
+        "Magnat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le roi est considéré comme thaumaturge car on le croit capable de guérir par le toucher."
+    },
+    {
+      "id": "q22",
+      "prompt": "Quelle image astronomique Louis XIV utilise-t-il pour justifier sa centralité ?",
+      "choices": [
+        "Le soleil qui éclaire et donne la vie",
+        "La lune qui reflète la lumière de Dieu",
+        "L'étoile polaire qui guide les marins",
+        "La comète qui annonce les grands changements",
+        "Jupiter qui domine les autres planètes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Louis XIV adopte le symbole du soleil, reprenant l'idée de l'héliocentrisme."
+    },
+    {
+      "id": "q23",
+      "prompt": "Quel événement de l'enfance de Louis XIV a motivé la création de Versailles ?",
+      "choices": [
+        "La Fronde (révolte contre l'autorité royale)",
+        "La mort prématurée de son père Louis XIII",
+        "Le sacre de son rival l'Empereur d'Autriche",
+        "La famine de 1661 dans les campagnes françaises",
+        "L'invasion des troupes espagnoles à Paris"
+      ],
+      "correctIndex": 0,
+      "explanation": "Marqué par la Fronde, Louis XIV a voulu créer Versailles pour s'éloigner de Paris et contrôler la noblesse."
+    },
+    {
+      "id": "q24",
+      "prompt": "Comment Louis XIV utilise-t-il la Cour pour contrôler l'aristocratie ?",
+      "choices": [
+        "En transformant les aristocrates en courtisans dévots",
+        "En les obligeant à servir dans l'infanterie de marine",
+        "En leur confiant la gestion directe des manufactures",
+        "En les exilant systématiquement dans leurs provinces",
+        "En supprimant totalement leurs titres de noblesse"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte parle de la 'domestication de la noblesse' par le biais de la vie de cour à Versailles."
+    },
+    {
+      "id": "q25",
+      "prompt": "Quelle était la réponse de Louis XIV à ceux qui venaient rarement à la Cour ?",
+      "choices": [
+        "C’est un homme que je ne vois jamais",
+        "Qu'il reste dans ses terres et m'oublie",
+        "Sa fidélité m'est suspecte et dangereuse",
+        "Le royaume n'a pas besoin de paresseux",
+        "Dieu le punira pour son absence"
+      ],
+      "correctIndex": 0,
+      "explanation": "Selon Saint-Simon, Louis XIV marquait son mécontentement par cette phrase irrévocable."
+    },
+    {
+      "id": "q26",
+      "prompt": "Dans quel nouveau domaine l'État commence-t-il à intervenir sous Louis XIV ?",
+      "choices": [
+        "L'économie",
+        "La théologie",
+        "La cartographie",
+        "La poésie lyrique",
+        "La mode vestimentaire"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'intervention de l'État s'étend désormais à tous les domaines, notamment l'économie (mercantilisme)."
+    },
+    {
+      "id": "q27",
+      "prompt": "Que se passe-t-il en 1685 concernant la liberté religieuse en France ?",
+      "choices": [
+        "Révocation de l’édit de Nantes",
+        "Signature du Concordat avec le Pape",
+        "Interdiction de la Compagnie de Jésus",
+        "Autorisation des cultes luthériens",
+        "Création de l'Église Anglicane"
+      ],
+      "correctIndex": 1,
+      "explanation": "Louis XIV révoque l'édit de Nantes en 1685, mettant fin à la liberté de culte des protestants."
+    },
+    {
+      "id": "q28",
+      "prompt": "Quelle ordonnance de 1539 a imposé l'usage de la langue française ?",
+      "choices": [
+        "L’ordonnance de Villers-Cotterêts",
+        "L'édit de Fontainebleau",
+        "Le traité des Pyrénées",
+        "L'ordonnance de Colbert",
+        "La déclaration du clergé de France"
+      ],
+      "correctIndex": 0,
+      "explanation": "François Ier a imposé que tous les actes solennels soient écrits en français dès 1539."
+    },
+    {
+      "id": "q29",
+      "prompt": "Quel est le rôle des 'intendants' envoyés dans les provinces ?",
+      "choices": [
+        "Fonctionnaires chargés de la justice, police et finances",
+        "Diplomates chargés des relations avec les pays voisins",
+        "Ingénieurs chargés de la construction des routes",
+        "Évêques chargés de surveiller la moralité du clergé",
+        "Généraux chargés de lever des armées locales"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les intendants sont les représentants permanents du roi assurant ces trois fonctions régaliennes."
+    },
+    {
+      "id": "q30",
+      "prompt": "Qu'est-ce que la 'lettre de cachet' permettait au roi de faire ?",
+      "choices": [
+        "Emprisonner n’importe lequel de ses sujets",
+        "Anoblir un bourgeois pour services rendus",
+        "Déclarer la guerre sans l'avis du Conseil",
+        "Saisir les biens des protestants en fuite",
+        "Nommer un nouvel archevêque à Reims"
+      ],
+      "correctIndex": 0,
+      "explanation": "La lettre de cachet permettait une incarcération immédiate sur ordre du roi."
+    },
+    {
+      "id": "q31",
+      "prompt": "Quelle politique économique vise à favoriser le commerce en créant des manufactures ?",
+      "choices": [
+        "Le mercantilisme (ou colbertisme)",
+        "Le libéralisme économique",
+        "Le socialisme utopique",
+        "Le protectionnisme agricole",
+        "La physiocratie rurale"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le colbertisme encourage les exportations et crée des manufactures royales (Saint-Gobain, Gobelins)."
+    },
+    {
+      "id": "q32",
+      "prompt": "Quel droit permettait aux Parlements de retarder l'enregistrement des lois ?",
+      "choices": [
+        "Le droit de remontrance",
+        "Le droit de veto universel",
+        "Le droit d'opposition divine",
+        "Le privilège de juridiction",
+        "Le droit d'amendement populaire"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les Parlements pouvaient émettre des critiques et retarder les lois via le droit de remontrance."
+    },
+    {
+      "id": "q33",
+      "prompt": "De quel impôt direct la noblesse et le clergé étaient-ils exemptés ?",
+      "choices": [
+        "La taille",
+        "La gabelle",
+        "La dîme",
+        "Le cens",
+        "Le champart"
+      ],
+      "correctIndex": 0,
+      "explanation": "La noblesse et le clergé échappaient à la taille, laissant le fardeau fiscal au reste de la population."
+    },
+    {
+      "id": "q34",
+      "prompt": "Selon les philosophes des Lumières, d'où doit venir le changement politique ?",
+      "choices": [
+        "D’en haut (le souverain éclairé)",
+        "De la base (révolte populaire)",
+        "Du clergé (réforme morale)",
+        "Des universités (recherche pure)",
+        "Des tribunaux (jurisprudence)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les philosophes pensent que le changement doit être impulsé par un monarque rationnel."
+    },
+    {
+      "id": "q35",
+      "prompt": "Sur quoi les 'despotes éclairés' fondent-ils leur pouvoir ?",
+      "choices": [
+        "La raison et l’utilité sociale",
+        "La révélation divine et les miracles",
+        "L'hérédité pure sans justification",
+        "La volonté du peuple souverain",
+        "L'ancienneté des familles nobles"
+      ],
+      "correctIndex": 0,
+      "explanation": "Contrairement aux monarques absolus classiques, ils se fondent sur la rationalité."
+    },
+    {
+      "id": "q36",
+      "prompt": "Citez un exemple de souverain considéré comme un 'despote éclairé'.",
+      "choices": [
+        "Frédéric II de Prusse",
+        "Louis XV de France",
+        "Charles Ier d'Angleterre",
+        "Philippe II d'Espagne",
+        "Henri VIII d'Angleterre"
+      ],
+      "correctIndex": 0,
+      "explanation": "Frédéric II de Prusse est cité aux côtés de Catherine II et Joseph II."
+    },
+    {
+      "id": "q37",
+      "prompt": "Quelle mesure de Joseph II illustre la tolérance religieuse ?",
+      "choices": [
+        "La reconnaissance des cultes luthériens et calvinistes",
+        "L'interdiction de toute pratique religieuse publique",
+        "L'obligation de se convertir au catholicisme",
+        "La destruction des églises orthodoxes russes",
+        "Le bannissement définitif des communautés juives"
+      ],
+      "correctIndex": 0,
+      "explanation": "Joseph II reconnaît les cultes dissidents et suspend les mesures discriminatoires contre les juifs."
+    },
+    {
+      "id": "q38",
+      "prompt": "Quel était l'objectif principal de la rationalisation de l'appareil d'État par les despotes ?",
+      "choices": [
+        "Se doter d’armées performantes",
+        "Réduire la taille des frontières nationales",
+        "Supprimer totalement la hiérarchie militaire",
+        "Favoriser les loisirs de la paysannerie",
+        "Préparer une transition vers la démocratie"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'efficacité recherchée visait souvent des retombées militaires immédiates."
+    },
+    {
+      "id": "q39",
+      "prompt": "Pourquoi le changement socio-économique est-il resté limité sous les despotes éclairés ?",
+      "choices": [
+        "À cause du maintien des privilèges de la noblesse",
+        "À cause de l'opposition systématique des paysans",
+        "À cause d'un manque de connaissances scientifiques",
+        "À cause de l'influence trop grande de l'Angleterre",
+        "À cause de la suppression des impôts fonciers"
+      ],
+      "correctIndex": 0,
+      "explanation": "On maintenait la structure sociale malgré la volonté de moderniser l'État."
+    },
+    {
+      "id": "q40",
+      "prompt": "Quelle phrase de Montesquieu souligne le lien entre monarchie et noblesse ?",
+      "choices": [
+        "Pas de monarchie, pas de noblesse ; pas de noblesse, pas de monarchie",
+        "Le roi est le premier serviteur de l'État",
+        "La noblesse est le fardeau inutile de la couronne",
+        "Une monarchie sans noblesse est une tyrannie pure",
+        "Le sang noble est la seule source du pouvoir légitime"
+      ],
+      "correctIndex": 0,
+      "explanation": "Montesquieu exprime ici l'interdépendance structurelle entre le roi et son aristocratie."
+    }
+  ],
+  "course": "Histoire"
+}
