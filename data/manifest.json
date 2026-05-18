@@ -1,8 +1,17 @@
 {
-  "documentTitle": "Mathématiques et Statistiques pour les Sciences Sociales - LESPO1130",
-  "generatedAt": "2026-05-14T15:31:33.275Z",
-  "sourcePdf": "TP synthese.pdf",
+  "documentTitle": "LESPO1104 - Histoire moderne et contemporaine",
+  "generatedAt": "2026-05-18T15:06:25.824Z",
+  "sourcePdf": "Histoire Moderne Synthèse 2025-2026.pdf",
   "quizzes": [
+    {
+      "id": "absolutisme-et-despotisme-eclaire",
+      "title": "L’absolutisme et le Despotisme éclairé",
+      "file": "histoire/quiz-absolutisme-et-despotisme-eclaire.json",
+      "questionCount": 40,
+      "pageStart": 37,
+      "pageEnd": 42,
+      "course": "Histoire"
+    },
     {
       "id": "adolescence-sexualite-normes",
       "title": "Adolescence, Sexualité et Normes de Genre",
@@ -94,6 +103,33 @@
       "course": "anglais"
     },
     {
+      "id": "congres-de-vienne",
+      "title": "Le Congrès de Vienne (1814-1815)",
+      "file": "histoire/quiz-congres-de-vienne.json",
+      "questionCount": 40,
+      "pageStart": 56,
+      "pageEnd": 58,
+      "course": "Histoire"
+    },
+    {
+      "id": "courants-pensee-politique-xixe",
+      "title": "Les grands courants de la pensée politique au XIXe",
+      "file": "histoire/quiz-courants-pensee-politique-xixe.json",
+      "questionCount": 40,
+      "pageStart": 59,
+      "pageEnd": 62,
+      "course": "Histoire"
+    },
+    {
+      "id": "developpements-economiques-et-sociaux",
+      "title": "Les Révolutions Industrielles",
+      "file": "histoire/quiz-developpements-economiques-et-sociaux.json",
+      "questionCount": 40,
+      "pageStart": 65,
+      "pageEnd": 68,
+      "course": "Histoire"
+    },
+    {
       "id": "ecole-pairs-et-adolescence",
       "title": "L'école, les pairs et l'adolescence",
       "file": "sociologie-du-genre/quiz-ecole-pairs-et-adolescence.json",
@@ -103,6 +139,24 @@
       "course": "Sociologie du Genre"
     },
     {
+      "id": "empires-et-mondialisation",
+      "title": "Empires et mondialisation aux temps modernes (XVe-XVIIIe)",
+      "file": "histoire/quiz-empires-et-mondialisation.json",
+      "questionCount": 45,
+      "pageStart": 4,
+      "pageEnd": 17,
+      "course": "Histoire"
+    },
+    {
+      "id": "entre-deux-guerres-et-2gm",
+      "title": "L’entre-deux-guerres et la Seconde Guerre mondiale",
+      "file": "histoire/quiz-entre-deux-guerres-et-2gm.json",
+      "questionCount": 50,
+      "pageStart": 75,
+      "pageEnd": 88,
+      "course": "Histoire"
+    },
+    {
       "id": "genre-travail-et-humour",
       "title": "Genre, travail et humour",
       "file": "sociologie-du-genre/quiz-genre-travail-et-humour.json",
@@ -110,6 +164,15 @@
       "pageStart": 80,
       "pageEnd": 94,
       "course": "Sociologie du Genre"
+    },
+    {
+      "id": "guerre-et-societe",
+      "title": "Guerre et société : La Révolution Militaire",
+      "file": "histoire/quiz-guerre-et-societe.json",
+      "questionCount": 40,
+      "pageStart": 43,
+      "pageEnd": 47,
+      "course": "Histoire"
     },
     {
       "id": "identites-queer-et-monde-numerique",
@@ -137,6 +200,15 @@
       "pageStart": 6,
       "pageEnd": 14,
       "course": "Sociologie du Genre"
+    },
+    {
+      "id": "introduction-generale",
+      "title": "Introduction au cours",
+      "file": "histoire/quiz-introduction-generale.json",
+      "questionCount": 40,
+      "pageStart": 3,
+      "pageEnd": 3,
+      "course": "Histoire"
     },
     {
       "id": "irregular-verbs-reference",
@@ -229,6 +301,15 @@
       "course": "anglais"
     },
     {
+      "id": "premiere-guerre-mondiale",
+      "title": "La Première Guerre mondiale",
+      "file": "histoire/quiz-premiere-guerre-mondiale.json",
+      "questionCount": 40,
+      "pageStart": 69,
+      "pageEnd": 74,
+      "course": "Histoire"
+    },
+    {
       "id": "problems-and-questions-vocabulary",
       "title": "Problems and Questions Submitted by Learners of English",
       "file": "anglais/quiz-problems-and-questions-vocabulary.json",
@@ -247,6 +328,15 @@
       "course": "Sociologie du Genre"
     },
     {
+      "id": "renaissance-et-humanisme",
+      "title": "La Renaissance et l'Humanisme",
+      "file": "histoire/quiz-renaissance-et-humanisme.json",
+      "questionCount": 40,
+      "pageStart": 18,
+      "pageEnd": 28,
+      "course": "Histoire"
+    },
+    {
       "id": "resistances-et-inegalites-d-orientation",
       "title": "Résistances et inégalités d'orientation",
       "file": "sociologie-du-genre/quiz-resistances-et-inegalites-d-orientation.json",
@@ -254,6 +344,24 @@
       "pageStart": 53,
       "pageEnd": 65,
       "course": "Sociologie du Genre"
+    },
+    {
+      "id": "revolutions-du-xixe-siecle",
+      "title": "Les vagues révolutionnaires du XIXe siècle",
+      "file": "histoire/quiz-revolutions-du-xixe-siecle.json",
+      "questionCount": 40,
+      "pageStart": 63,
+      "pageEnd": 64,
+      "course": "Histoire"
+    },
+    {
+      "id": "revolutions-et-lumieres",
+      "title": "Révolutions et Lumières au XVIIIe siècle",
+      "file": "histoire/quiz-revolutions-et-lumieres.json",
+      "questionCount": 40,
+      "pageStart": 48,
+      "pageEnd": 55,
+      "course": "Histoire"
     },
     {
       "id": "scripts-de-la-sexualite",
@@ -308,6 +416,15 @@
       "pageStart": 7,
       "pageEnd": 8,
       "course": "Sociologie du Genre"
+    },
+    {
+      "id": "societes-et-religion-reformes",
+      "title": "Sociétés et religion : Réformes et Contre-Réforme",
+      "file": "histoire/quiz-societes-et-religion-reformes.json",
+      "questionCount": 40,
+      "pageStart": 29,
+      "pageEnd": 36,
+      "course": "Histoire"
     },
     {
       "id": "the-walking-dead-vocabulary",
