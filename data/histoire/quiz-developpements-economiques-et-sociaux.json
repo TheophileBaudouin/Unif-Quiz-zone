@@ -1,0 +1,495 @@
+{
+  "quizId": "developpements-economiques-et-sociaux",
+  "title": "Les Révolutions Industrielles",
+  "section": {
+    "id": "developpements-economiques-et-sociaux",
+    "title": "Les Révolutions Industrielles",
+    "startPage": 65,
+    "endPage": 68,
+    "summary": "Passage de la première à la deuxième révolution industrielle. Conséquences sociales (exode rural, urbanisation, condition ouvrière) et mentalité scientiste (Darwinisme social).",
+    "estimatedQuestionCount": 25
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon la source, comment se structurent généralement les phases d'une révolution industrielle ?",
+      "choices": [
+        "Une phase initiale de récession suivie d'une phase d'expansion économique",
+        "Une phase d'innovation technologique suivie d'une phase de récession",
+        "Une phase de croissance démographique suivie d'une phase de déclin rural",
+        "Une phase de stabilité monétaire suivie d'une phase d'inflation majeure",
+        "Une phase d'industrialisation lourde suivie d'une phase de services"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Quelle est la conséquence directe de l'introduction des nouvelles machines sur l'emploi au XIXe siècle ?",
+      "choices": [
+        "Elle favorise la reconversion immédiate des anciens artisans vers l'industrie",
+        "Elle fait disparaître d'anciens métiers et crée des emplois pour de nouvelles personnes",
+        "Elle entraîne une réduction généralisée du temps de travail pour tous les ouvriers",
+        "Elle permet une augmentation instantanée des salaires dans le secteur agricole",
+        "Elle stoppe l'exode rural en mécanisant le travail dans les petites fermes"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q3",
+      "prompt": "Quel facteur démographique a contribué à la convergence permettant la Première Révolution Industrielle ?",
+      "choices": [
+        "La diminution de la population urbaine au profit des zones charbonnières",
+        "La stabilisation de la natalité grâce aux nouveaux progrès de la médecine",
+        "La croissance démographique en Europe apportant une main-d'œuvre abondante",
+        "L'émigration massive des populations européennes vers le continent américain",
+        "Le vieillissement de la population active nécessitant l'emploi des enfants"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel est l'impact de la modernisation de l'agriculture sur le secteur industriel naissant ?",
+      "choices": [
+        "Elle augmente les besoins en main-d'œuvre agricole pour les récoltes",
+        "Elle maintient les populations à la campagne grâce aux hauts rendements",
+        "Elle libère de la main-d'œuvre pour alimenter les industries en ville",
+        "Elle réduit l'utilisation des engrais chimiques au profit du charbon",
+        "Elle limite les investissements financiers dans les entreprises textiles"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q5",
+      "prompt": "Pourquoi l'apparition des Sociétés Anonymes (S.A.) est-elle cruciale pour les nouvelles industries ?",
+      "choices": [
+        "Parce que les capitaux nécessaires dépassent les capacités financières des familles",
+        "Parce qu'elles permettent d'éviter les régulations imposées par l'État libéral",
+        "Parce qu'elles garantissent un salaire minimum aux ouvriers actionnaires",
+        "Parce qu'elles obligent les banques à prêter à des taux d'intérêt nuls",
+        "Parce qu'elles interdisent la revente des parts pour stabiliser le marché"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q6",
+      "prompt": "Quel type de capital est identifié comme étant le plus rentable au début de l'industrialisation ?",
+      "choices": [
+        "Le capital mobilier lié aux actifs financiers et aux parts sociales",
+        "Le capital immobilier lié aux terrains et aux structures physiques",
+        "Le capital humain basé sur la formation technique des ingénieurs",
+        "Le capital naturel fondé sur la possession de mines de fer privées",
+        "Le capital spéculatif basé sur les échanges de devises internationales"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q7",
+      "prompt": "Quelle est la période chronologique exacte de la Première Révolution Industrielle selon le document ?",
+      "choices": [
+        "1770-1840",
+        "1815-1871",
+        "1848-1895",
+        "1871-1914",
+        "1895-1925"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q8",
+      "prompt": "Quelle vitesse moyenne est citée pour illustrer la faiblesse de l'accélération initiale des transports ?",
+      "choices": [
+        "15 km/h",
+        "25 km/h",
+        "35 km/h",
+        "45 km/h",
+        "55 km/h"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q9",
+      "prompt": "Quelle source d'énergie devient primordiale durant la Première Révolution Industrielle ?",
+      "choices": [
+        "L'électricité",
+        "Le pétrole",
+        "Le charbon",
+        "Le gaz naturel",
+        "L'énergie hydraulique"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q10",
+      "prompt": "Quelle innovation technique est spécifiquement mentionnée comme source de motricité pour les bateaux et locomotives ?",
+      "choices": [
+        "La machine à tisser hydraulique",
+        "Le moteur à combustion interne",
+        "La machine à vapeur",
+        "La turbine électrique",
+        "La dynamo magnétique"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q11",
+      "prompt": "Comment évoluent les navires de transport avec les progrès techniques du XIXe siècle ?",
+      "choices": [
+        "Ils passent des galères aux voiliers rapides puis aux paquebots",
+        "Ils passent des voiliers aux steamers puis aux paquebots",
+        "Ils passent des barges aux navires à roues à aubes électriques",
+        "Ils abandonnent totalement les voiles dès l'invention de la vapeur",
+        "Ils se spécialisent uniquement dans le transport du charbon lourd"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q12",
+      "prompt": "En 1850, quelle est la caractéristique du système ferroviaire en France selon l'analyse politique ?",
+      "choices": [
+        "Un maillage décentralisé reliant tous les États régionaux",
+        "Une absence de lignes reliant la capitale aux zones industrielles",
+        "Un État centralisé où toutes les lignes passent par Paris",
+        "Un système géré exclusivement par des compagnies privées anglaises",
+        "Une priorité donnée aux lignes transfrontalières avec l'Allemagne"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q13",
+      "prompt": "Quelle différence majeure présente le réseau ferroviaire allemand par rapport au réseau français en 1850 ?",
+      "choices": [
+        "Il est inexistant car l'Allemagne reste un pays strictement agricole",
+        "Il est centralisé sur Berlin pour renforcer l'unité impériale",
+        "Il forme un maillage entre les États sans passer uniquement par Berlin",
+        "Il se limite aux régions frontalières pour faciliter les exportations",
+        "Il est construit uniquement avec des capitaux publics français"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q14",
+      "prompt": "Quelle conséquence la révolution des transports a-t-elle sur le commerce mondial ?",
+      "choices": [
+        "Elle favorise l'autarcie économique des régions isolées",
+        "Elle entraîne une dispersion des entreprises sur tout le territoire",
+        "Elle permet le désenclavement des régions et dynamise le commerce",
+        "Elle réduit les échanges internationaux au profit des marchés locaux",
+        "Elle stabilise les prix agricoles en empêchant la spécialisation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q15",
+      "prompt": "Selon les statistiques de l'exode rural, quel pourcentage de la population vit à la campagne au début du XXe siècle ?",
+      "choices": [
+        "90 %",
+        "75 %",
+        "50 %",
+        "25 %",
+        "10 %"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "id": "q16",
+      "prompt": "Quel nouveau problème urbain entraîne l'invention de la 'poubelle' comme solution ?",
+      "choices": [
+        "Le bruit incessant des machines",
+        "La criminalité dans les nouveaux quartiers",
+        "Les mauvaises odeurs et la gestion des déchets",
+        "La surpopulation dans les logements ouvriers",
+        "Le manque d'éclairage public dans les rues"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q17",
+      "prompt": "Quelle est la situation de l'agriculture française par rapport aux autres pays d'Europe de l'Ouest au XIXe ?",
+      "choices": [
+        "Elle est la plus mécanisée grâce à l'usage des faucheuses",
+        "Elle reste très rurale avec des rendements plutôt faibles",
+        "Elle domine le marché mondial grâce à l'exportation de blé",
+        "Elle est la première à adopter les moissonneuses-batteuses",
+        "Elle abandonne les archaïsmes dès le début du XVIIIe siècle"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q18",
+      "prompt": "Quelle est la cause principale de la crise économique industrielle de 1846 ?",
+      "choices": [
+        "Une surproduction massive de textiles invendus",
+        "Un manque de capitaux pour les investissements à court terme",
+        "L'interdiction stricte du travail des enfants par l'État",
+        "Une dépréciation brutale de la valeur de l'or mondial",
+        "La fermeture des frontières commerciales avec l'Angleterre"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q19",
+      "prompt": "Qu'est-ce qui permet la relance des échanges économiques mondiaux vers 1850 ?",
+      "choices": [
+        "L'abandon définitif de l'étalon-or par les banques centrales",
+        "La découverte de nouvelles mines d'or en Californie et en Australie",
+        "La signature des premiers traités de libre-échange européens",
+        "L'invention du moteur à explosion par les ingénieurs français",
+        "La fin de la construction des réseaux ferroviaires nationaux"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q20",
+      "prompt": "Sur quel système monétaire les monnaies sont-elles basées jusqu'à la Première Guerre mondiale ?",
+      "choices": [
+        "L'étalon-argent",
+        "Le bimétallisme",
+        "L'étalon-or",
+        "Le système de change flottant",
+        "La monnaie fiduciaire pure"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q21",
+      "prompt": "Comment évolue la population européenne entre 1800 et 1850 ?",
+      "choices": [
+        "Elle stagne à cause des épidémies et des guerres napoléoniennes",
+        "Elle passe de 100 millions à 150 millions d'habitants",
+        "Elle passe de 192 millions à 274 millions d'habitants",
+        "Elle diminue suite aux mauvaises récoltes de 1846",
+        "Elle double grâce à l'immigration venant des colonies"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q22",
+      "prompt": "À partir de quelle décennie observe-t-on un changement psychologique face au deuil des enfants ?",
+      "choices": [
+        "Les années 1820",
+        "Les années 1840",
+        "Les années 1860",
+        "Les années 1880",
+        "Les années 1900"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q23",
+      "prompt": "Quel groupe social compose la 'Moyenne bourgeoisie' au XIXe siècle ?",
+      "choices": [
+        "Les grands banquiers et armateurs ultra-riches",
+        "Les instituteurs de village et petits employés",
+        "Les professions libérales comme les médecins et avocats",
+        "Les aristocrates déchus tentant de rejoindre l'industrie",
+        "Les ouvriers spécialisés ayant réussi à épargner"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q24",
+      "prompt": "Quel type de suffrage est associé à la 'Moyenne bourgeoisie' ?",
+      "choices": [
+        "Le suffrage universel masculin",
+        "Le suffrage censitaire basé sur l'impôt",
+        "Le suffrage capacitaire lié au diplôme ou à la fonction",
+        "Le suffrage héréditaire réservé aux propriétaires",
+        "Le suffrage indirect via les chambres de commerce"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q25",
+      "prompt": "Quelle est la valeur centrale de la bourgeoisie concernant le progrès intergénérationnel ?",
+      "choices": [
+        "La dépense ostentatoire pour affirmer son rang immédiat",
+        "L'attachement à l'argent et la pratique de l'économie (épargne)",
+        "Le refus systématique de l'éducation universitaire des enfants",
+        "Le partage équitable des bénéfices avec la classe ouvrière",
+        "La dépendance totale aux subventions accordées par l'État"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q26",
+      "prompt": "Quelle était la durée habituelle d'une journée de travail pour un ouvrier au XIXe siècle ?",
+      "choices": [
+        "8h à 10h",
+        "10h à 12h",
+        "12h à 14h",
+        "14h à 16h",
+        "16h à 18h"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q27",
+      "prompt": "Qu'est-ce que le 'livret de travail' utilisé par les patrons ?",
+      "choices": [
+        "Un manuel d'instruction pour l'utilisation des machines",
+        "Un document où les patrons inscrivent des commentaires sur l'ouvrier",
+        "Un registre de paie garantissant le salaire minimum légal",
+        "Un contrat d'assurance maladie financé par l'entreprise",
+        "Un titre de propriété permettant d'acheter des actions"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q28",
+      "prompt": "En quelle année d'immenses grèves dues à la misère éclatent-elles en Belgique ?",
+      "choices": [
+        "1848",
+        "1860",
+        "1871",
+        "1886",
+        "1912"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q29",
+      "prompt": "Quelle revendication alimentaire est citée comme symbole des luttes ouvrières des années 1880 ?",
+      "choices": [
+        "L'accès gratuit au pain blanc quotidien",
+        "L'achat d'un morceau de viande une fois par semaine",
+        "La fin du rationnement du sucre industriel",
+        "La baisse du prix de la bière dans les cantines",
+        "La distribution gratuite de lait pour les enfants"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q30",
+      "prompt": "Quelle est la période chronologique de la Deuxième Révolution Industrielle ?",
+      "choices": [
+        "1815-1848",
+        "1848-1871",
+        "1871-1914",
+        "1889-1925",
+        "1895-1914"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q31",
+      "prompt": "Quelle méthode devient 'la méthode par excellence' durant la Deuxième Révolution Industrielle ?",
+      "choices": [
+        "La méthode spéculative",
+        "La méthode expérimentale",
+        "La méthode intuitive",
+        "La méthode dogmatique",
+        "La méthode artisanale"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q32",
+      "prompt": "Quel langage est privilégié pour exprimer les résultats scientifiques à cette époque ?",
+      "choices": [
+        "Le langage philosophique",
+        "Le langage théologique",
+        "Le langage mathématique",
+        "Le langage littéraire",
+        "Le langage juridique"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q33",
+      "prompt": "Qu'est-ce que le 'scientisme' selon la mentalité de la fin du XIXe siècle ?",
+      "choices": [
+        "Une peur irrationnelle des innovations technologiques",
+        "Une foi absolue dans la science pour résoudre les problèmes humains",
+        "Un mouvement religieux prônant le rejet de la médecine",
+        "Une doctrine politique visant à nationaliser les laboratoires",
+        "Une méthode d'enseignement réservée à l'élite aristocratique"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q34",
+      "prompt": "Quelle distinction la source fait-elle sur les capacités de réponse de la science ?",
+      "choices": [
+        "La science répond aux 'pourquoi' mais ignore les 'comment'",
+        "La science répond aux 'comment' et non aux 'pourquoi'",
+        "La science est capable de répondre à toutes les questions existentielles",
+        "La science refuse de s'occuper du concret pour rester théorique",
+        "La science et l'Église répondent exactement aux mêmes questions"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q35",
+      "prompt": "Qui a développé l'idée du 'darwinisme social' appliquée à la société ?",
+      "choices": [
+        "Charles Darwin",
+        "Herbert Spencer",
+        "Louis Pasteur",
+        "Karl Marx",
+        "Auguste Comte"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q36",
+      "prompt": "Quel argument le darwinisme social fournit-il à la bourgeoisie de l'époque ?",
+      "choices": [
+        "Que les ouvriers doivent être protégés par des lois sociales",
+        "Que la domination bourgeoise est naturelle et justifie la colonisation",
+        "Que toutes les classes sociales sont biologiquement égales",
+        "Que la religion doit diriger les choix économiques",
+        "Que l'évolution humaine stagne à cause de l'industrie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q37",
+      "prompt": "Qu'est-ce que le 'néothomisme' mentionné dans le conflit avec l'Église ?",
+      "choices": [
+        "Une interdiction totale de pratiquer les sciences expérimentales",
+        "Une volonté d'articuler la science (les comment) et la foi (les pourquoi)",
+        "Un mouvement de conversion massive des scientifiques au protestantisme",
+        "La création de tribunaux religieux pour juger les inventeurs",
+        "Le rejet définitif de la philosophie de Saint Thomas d'Aquin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q38",
+      "prompt": "Quel est l'effet du Taylorisme sur les ouvriers selon le document ?",
+      "choices": [
+        "Il permet une plus grande autonomie dans les tâches créatives",
+        "Il transforme les ouvriers en machines et crée un désespoir",
+        "Il réduit la cadence de production pour améliorer la sécurité",
+        "Il supprime totalement le besoin de main-d'œuvre humaine",
+        "Il favorise les relations sociales entre les travailleurs à la chaîne"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q39",
+      "prompt": "Quelle loi est citée comme exemple des premières régulations du travail en 1889 ?",
+      "choices": [
+        "La loi sur la création des syndicats obligatoires",
+        "La loi sur le travail des femmes et des enfants",
+        "La loi instaurant les congés payés annuels",
+        "La loi limitant la journée de travail à 8 heures",
+        "La loi sur l'assurance chômage universelle"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q40",
+      "prompt": "Qu'est-ce qui caractérise la 'Belle Époque' (1895-1914) sur le plan social ?",
+      "choices": [
+        "Une récession économique mondiale et une baisse du niveau de vie",
+        "Un enrichissement des bourgeois et une amélioration du niveau de vie ouvrier",
+        "Le retour massif des populations urbaines vers les campagnes",
+        "L'interdiction des Expositions universelles pour raisons de sécurité",
+        "La disparition de la classe ouvrière au profit des employés de bureau"
+      ],
+      "correctIndex": 1
+    }
+  ],
+  "course": "Histoire"
+}
