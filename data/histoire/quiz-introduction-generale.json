@@ -1,0 +1,495 @@
+{
+  "quizId": "introduction-generale",
+  "title": "Introduction au cours",
+  "section": {
+    "id": "introduction-generale",
+    "title": "Introduction au cours",
+    "startPage": 3,
+    "endPage": 3,
+    "summary": "Présentation des professeurs, de la structure chronologique (Temps modernes vs Époque contemporaine), des modalités d'évaluation par QCM et des supports de cours.",
+    "estimatedQuestionCount": 5
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Qui est l'auteure mentionnée en haut du document pour le cours LESPO1104 ?",
+      "choices": [
+        "Laurence van Ypersele",
+        "Silvia Mostaccio",
+        "Laure SINTZOFF",
+        "Gilles Lecuppre",
+        "Marie-Louise Legrand"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q2",
+      "prompt": "Pour quelle année académique ce cours est-il dispensé ?",
+      "choices": [
+        "2023-2024",
+        "2024-2025",
+        "2025-2026",
+        "2026-2027",
+        "2022-2023"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q3",
+      "prompt": "Selon la structure du cours, combien de professeurs interviennent au total ?",
+      "choices": [
+        "Un seul professeur",
+        "Deux professeurs",
+        "Trois professeurs",
+        "Quatre professeurs",
+        "Cinq professeurs"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q4",
+      "prompt": "En combien de grandes périodes chronologiques le cours est-il divisé ?",
+      "choices": [
+        "Une période unique",
+        "Deux périodes",
+        "Trois périodes",
+        "Quatre périodes",
+        "Cinq périodes"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q5",
+      "prompt": "Quels professeurs sont en charge de la partie sur les 'Temps modernes' ?",
+      "choices": [
+        "Laure SINTZOFF et Silvia Mostaccio",
+        "Silvia Mostaccio et Gilles Lecuppre",
+        "Laurence van Ypersele et Gilles Lecuppre",
+        "Gilles Lecuppre uniquement",
+        "Silvia Mostaccio uniquement"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q6",
+      "prompt": "Quel est le premier thème abordé dans la section consacrée aux Temps modernes ?",
+      "choices": [
+        "La Renaissance européenne",
+        "Absolutisme politique",
+        "Empires et mondialisation (I)",
+        "Guerres de religion",
+        "Révolutions et Lumières"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q7",
+      "prompt": "L'étude de la 'Renaissance' fait partie de quelle section du cours ?",
+      "choices": [
+        "Époque contemporaine",
+        "Supports de cours",
+        "Temps modernes",
+        "Petites précisions",
+        "Section d'introduction"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q8",
+      "prompt": "Parmi les thèmes suivants, lequel n'est PAS cité sous la rubrique 'Sociétés et religion' ?",
+      "choices": [
+        "Réforme",
+        "Contreréforme",
+        "Guerres de religion",
+        "Lutte triangulaire",
+        "Sociétés religieuses"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q9",
+      "prompt": "Dans quelle période le concept d'Absolutisme est-il étudié ?",
+      "choices": [
+        "Temps modernes",
+        "Époque contemporaine",
+        "XIXe siècle",
+        "Entre-deux-guerres",
+        "Mondialisation (I)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q10",
+      "prompt": "Le thème 'Guerre et société' est associé à quelle partie du cours ?",
+      "choices": [
+        "La Première Guerre Mondiale",
+        "La Seconde Guerre Mondiale",
+        "L'Époque contemporaine",
+        "Les Temps modernes",
+        "L'Entre-deux-guerres"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q11",
+      "prompt": "Quels sont les deux éléments associés dans le dernier thème des Temps modernes ?",
+      "choices": [
+        "Guerre et société",
+        "Réforme et Contreréforme",
+        "Révolutions et Lumières",
+        "Empires et mondialisation",
+        "Idéologies et révolutions"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q12",
+      "prompt": "Qui est responsable de l'enseignement de l'Époque contemporaine ?",
+      "choices": [
+        "Silvia Mostaccio",
+        "Gilles Lecuppre",
+        "Laure SINTZOFF",
+        "Laurence van Ypersele",
+        "L'équipe pédagogique conjointe"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q13",
+      "prompt": "Quel est le premier sujet listé pour l'Époque contemporaine ?",
+      "choices": [
+        "La 1GM",
+        "Les idéologies",
+        "Les révolutions du XIXe",
+        "Le Congrès de Vienne",
+        "La lutte triangulaire"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q14",
+      "prompt": "À quel siècle les révolutions étudiées en Époque contemporaine appartiennent-elles ?",
+      "choices": [
+        "XVIIIe siècle",
+        "XIXe siècle",
+        "XXe siècle",
+        "XVIIe siècle",
+        "XXIe siècle"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q15",
+      "prompt": "Quels types de développements sont spécifiquement mentionnés pour l'Époque contemporaine ?",
+      "choices": [
+        "Politiques et religieux",
+        "Technologiques et artistiques",
+        "Économiques et sociaux",
+        "Militaires et stratégiques",
+        "Culturels et philosophiques"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q16",
+      "prompt": "Quel conflit mondial majeur est explicitement listé dans le programme ?",
+      "choices": [
+        "La 2GM",
+        "La Guerre Froide",
+        "La 1GM",
+        "La guerre de Trente Ans",
+        "La guerre de Sept Ans"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q17",
+      "prompt": "Quel concept est associé à l'Entre-deux-guerres dans le plan du cours ?",
+      "choices": [
+        "L'absolutisme royal",
+        "La lutte triangulaire",
+        "La mondialisation (I)",
+        "Les Lumières",
+        "La Contreréforme"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q18",
+      "prompt": "Quels sont les deux types de supports de cours mentionnés ?",
+      "choices": [
+        "Livres et Podcasts",
+        "Notes de cours et Moodle",
+        "Vidéos et Articles",
+        "Diaporamas et Syllabus",
+        "Manuels et Travaux dirigés"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q19",
+      "prompt": "Quelle est la modalité d'évaluation prévue pour ce cours ?",
+      "choices": [
+        "Travail écrit à domicile",
+        "Examen oral",
+        "Examen écrit, QCM",
+        "Évaluation continue",
+        "Projet de groupe"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q20",
+      "prompt": "Concernant la partie Époque contemporaine, quel sujet présent dans les diapos est EXCLU de l'examen ?",
+      "choices": [
+        "La 1GM",
+        "Le Congrès de Vienne",
+        "La Guerre froide",
+        "La 2GM",
+        "Les idéologies"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q21",
+      "prompt": "Quelle est la raison invoquée pour l'exclusion de la Guerre froide de la matière d'examen ?",
+      "choices": [
+        "Sujet trop complexe",
+        "Sujet déjà vu en secondaire",
+        "Manque de temps pour le traiter",
+        "Remplacement par la 2GM",
+        "Changement de professeur"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q22",
+      "prompt": "Pour l'époque contemporaine, à partir de quel événement les questions d'examen commencent-elles ?",
+      "choices": [
+        "La Révolution française",
+        "La chute de Napoléon",
+        "Le Congrès de Vienne",
+        "La Révolution industrielle",
+        "L'unification allemande"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q23",
+      "prompt": "Jusqu'à quel événement s'arrêtent les questions d'examen pour la partie contemporaine ?",
+      "choices": [
+        "La chute du mur de Berlin",
+        "La fin de la Guerre froide",
+        "La 2GM",
+        "La 1GM",
+        "Le Traité de Versailles"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q24",
+      "prompt": "Quelle mise en garde l'auteure donne-t-elle concernant ses notes de cours ?",
+      "choices": [
+        "Elles sont incomplètes",
+        "Elles sont trop synthétiques",
+        "Elle prend probablement plus de notes que nécessaire",
+        "Elles ne couvrent que les Temps modernes",
+        "Elles sont basées uniquement sur le manuel"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q25",
+      "prompt": "Sur quelle partie du cours la synthèse est-elle jugée 'assez complète' par l'auteure ?",
+      "choices": [
+        "Uniquement sur les Temps modernes",
+        "Sur l'Époque contemporaine en particulier",
+        "Sur les supports Moodle",
+        "Sur les modalités d'évaluation",
+        "Sur les guerres de religion"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q26",
+      "prompt": "Que conseille l'auteure de consulter pour identifier ce qui est 'vraiment important' ?",
+      "choices": [
+        "Le manuel de référence",
+        "Les diapos",
+        "Les annales d'examen",
+        "Le forum Moodle",
+        "Les fiches de lecture"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q27",
+      "prompt": "Quelle remarque l'auteure fait-elle à propos des abréviations dans ses notes ?",
+      "choices": [
+        "Elles sont standardisées",
+        "Elles sont expliquées en fin de document",
+        "Elles sont parfois très aléatoires",
+        "Il n'y en a pratiquement pas",
+        "Elles sont interdites à l'examen"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q28",
+      "prompt": "Quel message d'encouragement l'auteure adresse-t-elle à la fin de l'introduction ?",
+      "choices": [
+        "Bonne chance pour l'examen",
+        "Bon courage pour le blocus",
+        "Bonne lecture de la synthèse",
+        "À bientôt au cours",
+        "Réussissez tous ce QCM"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q29",
+      "prompt": "Combien de pages compte au total le document dont cette introduction est issue ?",
+      "choices": [
+        "3 pages",
+        "10 pages",
+        "88 pages",
+        "104 pages",
+        "2025 pages"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q30",
+      "prompt": "L'auteure propose-t-elle de préciser ses abréviations si besoin ?",
+      "choices": [
+        "Non, c'est aux étudiants de chercher",
+        "Oui, elle peut les préciser",
+        "Seulement durant l'examen",
+        "Seulement pour la partie Contemporaine",
+        "Non, elles sont explicites"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q31",
+      "prompt": "Quel symbole d'alerte est utilisé pour signaler l'exclusion de la Guerre froide ?",
+      "choices": [
+        "Un astérisque (*)",
+        "Un point d'interrogation (?)",
+        "Un panneau attention (/!\\)",
+        "Un soulignement (___)",
+        "Une mise en gras (B)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q32",
+      "prompt": "Dans le plan des Temps modernes, quel chiffre romain suit le titre 'Empires et mondialisation' ?",
+      "choices": [
+        "(I)",
+        "(II)",
+        "(III)",
+        "(A)",
+        "(1)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q33",
+      "prompt": "Le thème 'Réforme et contreréforme' est classé sous quelle rubrique spécifique ?",
+      "choices": [
+        "Renaissance",
+        "Absolutisme",
+        "Sociétés et religion",
+        "Révolutions",
+        "Idéologies"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q34",
+      "prompt": "L'introduction précise que l'examen est sous forme de QCM. Que signifie QCM ?",
+      "choices": [
+        "Questions de Compréhension Majeure",
+        "Questionnaire à Choix Multiples",
+        "Qualité de Correction Maximale",
+        "Quota de Choix Méthodologiques",
+        "Questionnaire de Culture Moderne"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q35",
+      "prompt": "Quelle est la position de la partie 'Petites précisions' dans le document ?",
+      "choices": [
+        "C'est le point A",
+        "C'est le point B",
+        "C'est le point C",
+        "C'est le point D",
+        "C'est le titre principal"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q36",
+      "prompt": "Qui est responsable de la thématique 'Lutte triangulaire' ?",
+      "choices": [
+        "Gilles Lecuppre",
+        "Silvia Mostaccio",
+        "Laurence van Ypersele",
+        "Laure SINTZOFF",
+        "Le Moodle"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q37",
+      "prompt": "Le thème 'Lumières' est-il étudié dans la partie 'Époque contemporaine' ?",
+      "choices": [
+        "Oui, c'est le point central",
+        "Non, il est dans les Temps modernes",
+        "Seulement via les idéologies",
+        "Il n'est pas mentionné",
+        "Il fait partie des précisions"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q38",
+      "prompt": "Sur quelle page physique du PDF se trouve cette introduction ?",
+      "choices": [
+        "Page 1",
+        "Page 2",
+        "Page 3",
+        "Page 88",
+        "Page 1104"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q39",
+      "prompt": "Quelles guerres sont explicitement groupées avec la Réforme ?",
+      "choices": [
+        "La 1GM",
+        "La 2GM",
+        "Les guerres de religion",
+        "La lutte triangulaire",
+        "Les révolutions du XIXe"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q40",
+      "prompt": "Dans la partie 'Supports de cours', quel élément précède 'Moodle' ?",
+      "choices": [
+        "Syllabus",
+        "Diaporamas",
+        "Notes de cours",
+        "Livres obligatoires",
+        "Vidéos Moodle"
+      ],
+      "correctIndex": 2
+    }
+  ],
+  "course": "Histoire"
+}
