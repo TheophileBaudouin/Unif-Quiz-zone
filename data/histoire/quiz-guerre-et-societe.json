@@ -1,0 +1,495 @@
+{
+  "quizId": "guerre-et-societe",
+  "title": "Guerre et société : La Révolution Militaire",
+  "section": {
+    "id": "guerre-et-societe",
+    "title": "Guerre et société : La Révolution Militaire",
+    "startPage": 43,
+    "endPage": 47,
+    "summary": "Évolution de la puissance de feu, croissance des armées permanentes et impact financier sur l'État. Focus sur la Guerre de Trente Ans et les traités de Westphalie.",
+    "estimatedQuestionCount": 20
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Combien d'hommes Charles VIII mobilise-t-il lors de l'invasion de l'Italie en 1494 ?",
+      "choices": [
+        "12 000 hommes",
+        "18 000 hommes",
+        "25 000 hommes",
+        "32 000 hommes",
+        "40 000 hommes"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q2",
+      "prompt": "Quel est l'effectif de l'armée de François Ier en 1525 selon la source ?",
+      "choices": [
+        "18 000 hommes",
+        "32 000 hommes",
+        "40 000 hommes",
+        "60 000 hommes",
+        "100 000 hommes"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q3",
+      "prompt": "Combien d'hommes sont nécessaires à Henri II pour prendre Metz en 1552 ?",
+      "choices": [
+        "20 000 hommes",
+        "30 000 hommes",
+        "40 000 hommes",
+        "50 000 hommes",
+        "75 000 hommes"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel effectif l'armée française atteint-elle officiellement lors de son intervention en 1635 ?",
+      "choices": [
+        "40 000 hommes",
+        "80 000 hommes",
+        "100 000 hommes",
+        "150 000 hommes",
+        "200 000 hommes"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q5",
+      "prompt": "À combien s'élèvent les troupes françaises à la fin du règne de Louis XIV ?",
+      "choices": [
+        "100 000 hommes",
+        "200 000 hommes",
+        "300 000 hommes",
+        "400 000 hommes",
+        "500 000 hommes"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelle évolution tactique caractérise la 'Révolution militaire' concernant les unités de combat ?",
+      "choices": [
+        "La prépondérance de la cavalerie lourde",
+        "La domination de l'infanterie sur la cavalerie",
+        "L'abandon total des troupes au sol",
+        "L'utilisation exclusive de l'artillerie",
+        "La réduction drastique des effectifs"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q7",
+      "prompt": "Quel équipement s'ajoute au fusil à la fin du XVIIe siècle pour transformer le combat ?",
+      "choices": [
+        "Le cran de mire de précision",
+        "La baïonnette de combat",
+        "La cartouche pré-chargée",
+        "La culasse mobile",
+        "Le silencieux mécanique"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q8",
+      "prompt": "Quel modèle de système de défense fondé sur le bastion s'est généralisé durant cette période ?",
+      "choices": [
+        "Le modèle architectural français",
+        "Le modèle architectural espagnol",
+        "Le modèle architectural italien",
+        "Le modèle architectural prussien",
+        "Le modèle architectural hollandais"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q9",
+      "prompt": "Qui est cité comme le spécialiste de l'assaut et de la défense des places fortes ?",
+      "choices": [
+        "Le maréchal de Turenne",
+        "Le ministre Colbert",
+        "L'ingénieur Vauban",
+        "Le duc de Richelieu",
+        "Le général de Louvois"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q10",
+      "prompt": "Selon l'art de la poliorcétique, quel ratio d'assaillants est requis par rapport aux défenseurs ?",
+      "choices": [
+        "2 fois plus d'assaillants",
+        "3 fois plus d'assaillants",
+        "5 fois plus d'assaillants",
+        "10 fois plus d'assaillants",
+        "20 fois plus d'assaillants"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q11",
+      "prompt": "Quelle technique navale est pratiquée lors de la première guerre anglo-hollandaise (1652-1654) ?",
+      "choices": [
+        "L'abordage systématique",
+        "La bataille navale en ligne",
+        "L'encerclement en croissant",
+        "Le harcèlement par brûlots",
+        "Le blocus portuaire total"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q12",
+      "prompt": "Au début du XVIIIe siècle, quel pourcentage des recettes de la Russie est consacré à la guerre ?",
+      "choices": [
+        "50 % des recettes",
+        "65 % des recettes",
+        "75 % des recettes",
+        "85 % des recettes",
+        "95 % des recettes"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q13",
+      "prompt": "Quel terme désigne la 'novelleté' fiscale perçue par les populations comme une spoliation ?",
+      "choices": [
+        "La décentralisation administrative",
+        "La monétarisation de l'impôt royal",
+        "La privatisation des armées",
+        "L'abolition des privilèges fiscaux",
+        "La réduction des taxes douanières"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q14",
+      "prompt": "Quel événement déclenche les guerres de religion en France en 1562 ?",
+      "choices": [
+        "Le massacre de la Saint-Barthélemy",
+        "L'assassinat du duc de Guise",
+        "Le massacre des huguenots à Wassy",
+        "La signature de l'édit de Nantes",
+        "La conversion d'Henri de Bourbon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q15",
+      "prompt": "Quelles sont les dates exactes du massacre de la Saint-Barthélemy ?",
+      "choices": [
+        "12-13 juillet 1572",
+        "23-24 août 1572",
+        "15-16 septembre 1572",
+        "10-11 octobre 1572",
+        "01-02 novembre 1572"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q16",
+      "prompt": "Quelle famille dirige le parti protestant durant les guerres de religion en France ?",
+      "choices": [
+        "La famille de Guise",
+        "La famille de Montmorency",
+        "La famille de Bourbon",
+        "La famille des Habsbourg",
+        "La famille de Médicis"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q17",
+      "prompt": "Quel acte de 1598 permet d'admettre une minorité religieuse dans la communauté nationale ?",
+      "choices": [
+        "La paix d'Aix-la-Chapelle",
+        "Le traité de Ryswick",
+        "L'édit de Nantes",
+        "Le concordat de Bologne",
+        "Le traité d'Utrecht"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q18",
+      "prompt": "Quelle est la durée officielle de la guerre d'indépendance des Pays-Bas contre l'Espagne ?",
+      "choices": [
+        "Trente ans",
+        "Quarante ans",
+        "Soixante ans",
+        "Quatre-vingts ans",
+        "Cent ans"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q19",
+      "prompt": "Quel personnage mène la répression espagnole aux Pays-Bas entre 1567 et 1572 ?",
+      "choices": [
+        "Le duc d'Anjou",
+        "Le duc d'Albe",
+        "Le prince de Condé",
+        "Le marquis de Spinola",
+        "L'amiral de Coligny"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q20",
+      "prompt": "Comment se nomme l'entité politique calviniste formée par les principautés du Nord ?",
+      "choices": [
+        "Les Pays-Bas du Sud",
+        "La Confédération helvétique",
+        "Les Provinces-Unies",
+        "La Ligue Hanséatique",
+        "Le Palatinat rhénan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q21",
+      "prompt": "Quelles villes la France acquiert-elle lors de la paix d'Aix-la-Chapelle en 1668 ?",
+      "choices": [
+        "Cassel et Valenciennes",
+        "Lille, Tournai et Cambrai",
+        "Strasbourg et Mulhouse",
+        "Metz, Toul et Verdun",
+        "Bordeaux et Bayonne"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q22",
+      "prompt": "Quel terme Vauban utilise-t-il pour désigner sa ligne de places fortes frontalières ?",
+      "choices": [
+        "Le bouclier royal",
+        "La ceinture d'acier",
+        "Le pré carré",
+        "Le mur de défense",
+        "La ligne de crête"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q23",
+      "prompt": "Quel est le résultat territorial de la paix de Ryswick (1697) pour la France ?",
+      "choices": [
+        "Annexion de la Savoie",
+        "Gain de la Belgique",
+        "Aucun gain territorial",
+        "Perte de l'Alsace",
+        "Annexion du Luxembourg"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q24",
+      "prompt": "À qui Charles II d'Espagne lègue-t-il ses possessions en 1700 ?",
+      "choices": [
+        "Charles de Habsbourg",
+        "Philippe d'Anjou",
+        "Louis le Grand Dauphin",
+        "Guillaume d'Orange",
+        "Frédéric de Prusse"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q25",
+      "prompt": "Quelle victoire de 1712 sauve les intérêts français lors de la guerre de Succession d'Espagne ?",
+      "choices": [
+        "Bataille de Rocroi",
+        "Bataille de Fontenoy",
+        "Bataille de Denain",
+        "Bataille de Rossbach",
+        "Bataille de Lützen"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q26",
+      "prompt": "Qui succède à Charles VI en Autriche, provoquant une guerre de succession en 1740 ?",
+      "choices": [
+        "Marie-Thérèse",
+        "Marie-Antoinette",
+        "Élisabeth de Bavière",
+        "Catherine la Grande",
+        "Anne d'Autriche"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q27",
+      "prompt": "Quelle région minière Marie-Thérèse doit-elle céder à la Prusse en 1748 ?",
+      "choices": [
+        "La Bavière",
+        "La Saxe",
+        "La Silésie",
+        "La Bohême",
+        "La Moravie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q28",
+      "prompt": "Pourquoi la guerre de Sept Ans est-elle considérée comme la première guerre mondiale ?",
+      "choices": [
+        "Elle implique toutes les religions",
+        "Elle se déroule sur trois continents",
+        "Elle utilise des armes nucléaires",
+        "Elle dure plus de sept années",
+        "Elle mobilise des millions de civils"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q29",
+      "prompt": "Quel pays est le grand vainqueur sur mer et dans les colonies en 1763 ?",
+      "choices": [
+        "La France",
+        "L'Espagne",
+        "L'Angleterre",
+        "La Prusse",
+        "L'Autriche"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q30",
+      "prompt": "Quel événement marque le début de la guerre de Trente Ans à Prague en 1618 ?",
+      "choices": [
+        "L'incendie du palais royal",
+        "L'assassinat de l'archevêque",
+        "La défenestration des représentants",
+        "Le siège de la vieille ville",
+        "Le couronnement de Ferdinand II"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q31",
+      "prompt": "Quel souverain est surnommé le 'roi d'un hiver' ?",
+      "choices": [
+        "Christian IV",
+        "Gustave Adolphe",
+        "Frédéric V du Palatinat",
+        "Matthias Ier",
+        "Ferdinand de Styrie"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q32",
+      "prompt": "En quelle année se déroule la bataille de la Montagne Blanche ?",
+      "choices": [
+        "1618",
+        "1619",
+        "1620",
+        "1621",
+        "1622"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q33",
+      "prompt": "Quel roi de Suède meurt à la bataille de Lützen en 1632 ?",
+      "choices": [
+        "Charles XII",
+        "Gustave Adolphe",
+        "Frédéric Ier",
+        "Oscar II",
+        "Éric XIV"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q34",
+      "prompt": "Quelle victoire française majeure intervient en 1643 ?",
+      "choices": [
+        "Bataille de Denain",
+        "Bataille de Fontenoy",
+        "Bataille de Rocroi",
+        "Bataille de Rossbach",
+        "Bataille de Wittstock"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q35",
+      "prompt": "Quelle ville protestante subit un sac dévastateur en 1631 ?",
+      "choices": [
+        "Prague",
+        "Munich",
+        "Magdebourg",
+        "Osnabrück",
+        "Münster"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q36",
+      "prompt": "Quelle épidémie ravage l'Europe entre 1634 et 1635 ?",
+      "choices": [
+        "Le choléra",
+        "La variole",
+        "La peste",
+        "La grippe espagnole",
+        "Le typhus"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q37",
+      "prompt": "Quelles sont les deux cités où furent négociés les traités de Westphalie ?",
+      "choices": [
+        "Vienne et Berlin",
+        "Paris et Londres",
+        "Münster et Osnabrück",
+        "Madrid et Lisbonne",
+        "Rome et Venise"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q38",
+      "prompt": "Quelle entité politique obtient sa souveraineté reconnue en 1648 avec les Provinces-Unies ?",
+      "choices": [
+        "La Confédération helvétique",
+        "Le Duché de Savoie",
+        "Le Royaume de Prusse",
+        "La République de Venise",
+        "Le Grand-Duché de Toscane"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q39",
+      "prompt": "Quel historien a défini 'l'ordre westphalien' dans un article de 1948 ?",
+      "choices": [
+        "Günther Franz",
+        "Leo Gross",
+        "Vauban",
+        "Peter Hagendorf",
+        "Hans Christoffel"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q40",
+      "prompt": "Quel changement institutionnel concerne la Bavière après les traités de Westphalie ?",
+      "choices": [
+        "Elle devient une province française",
+        "Elle perd son accès à la mer",
+        "Elle obtient une 8e voix électorale",
+        "Elle devient totalement protestante",
+        "Elle est annexée par la Suède"
+      ],
+      "correctIndex": 2
+    }
+  ],
+  "course": "Histoire"
+}
