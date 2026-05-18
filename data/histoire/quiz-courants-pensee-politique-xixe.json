@@ -1,0 +1,495 @@
+{
+  "quizId": "courants-pensee-politique-xixe",
+  "title": "Les grands courants de la pensée politique au XIXe",
+  "section": {
+    "id": "courants-pensee-politique-xixe",
+    "title": "Les grands courants de la pensée politique au XIXe",
+    "startPage": 59,
+    "endPage": 62,
+    "summary": "Étude comparative du libéralisme (liberté et progrès), du traditionalisme (ordre et association) et du socialisme marxiste (lutte des classes et révolution).",
+    "estimatedQuestionCount": 25
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Comment Raymond Aron définit-il l'idéologie dans le texte ?",
+      "choices": [
+        "Un système global d'interprétation du monde historico-politique",
+        "Un ensemble de directives d'action individuelle et collective",
+        "Une structure de pensée imposée par la classe bourgeoise dominante",
+        "Une théorie purement économique visant la concentration des capitaux",
+        "Un dogme religieux s'opposant aux principes de la raison humaine"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Quelle fonction M. Rodinson attribue-t-il à une idéologie ?",
+      "choices": [
+        "Légitimer le pouvoir du monarque absolu par le droit divin",
+        "Donner des directives d'action individuelle et collective",
+        "Expliquer scientifiquement les lois du marché capitaliste",
+        "Organiser la société selon le modèle de la famille traditionnelle",
+        "Protéger les libertés individuelles contre l'arbitraire de l'État"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q3",
+      "prompt": "Quelles sont les deux valeurs fondamentales associées au Libéralisme au XIXe siècle ?",
+      "choices": [
+        "Ordre et associations professionnelles",
+        "Travail et justice sociale distributive",
+        "Liberté et progrès linéaire",
+        "Tradition et hiérarchie naturelle",
+        "Égalité et dictature du prolétariat"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q4",
+      "prompt": "Quelles valeurs caractérisent le traditionalisme ou conservatisme selon la source ?",
+      "choices": [
+        "L'individualisme et la raison souveraine",
+        "L'ordre et les associations",
+        "La lutte des classes et la révolution",
+        "Le parlementarisme et le libre-échange",
+        "La séparation radicale de l'Église et de l'État"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q5",
+      "prompt": "Quels sont les piliers de l'idéologie du socialisme marxiste ?",
+      "choices": [
+        "Le respect de la propriété foncière et du cens",
+        "La défense des libertés d'opinion et de presse",
+        "Le travail et la justice sociale",
+        "Le maintien des ordres de l'Ancien Régime",
+        "Le dialogue parlementaire et la monarchie constitutionnelle"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelle est l'origine géographique initiale du phénomène libéral ?",
+      "choices": [
+        "C'est un phénomène méditerranéen s'étendant vers le Nord",
+        "C'est un phénomène slave atteignant l'Europe centrale",
+        "C'est un phénomène anglo-saxon atteignant l'Europe et le Japon",
+        "C'est un phénomène exclusivement français né de la Révolution",
+        "C'est un phénomène germanique centré sur l'unité nationale"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q7",
+      "prompt": "Sur quoi repose le libéralisme économique au XIXe siècle ?",
+      "choices": [
+        "Sur la planification étatique des ressources nationales",
+        "Sur la pensée capitaliste régie par l'offre et la demande",
+        "Sur le système des corporations et des maîtrises",
+        "Sur la redistribution des terres à la classe paysanne",
+        "Sur l'interdiction stricte des échanges internationaux"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q8",
+      "prompt": "Quelle est la conséquence de l'encyclique Quanta Cura de 1864 sur les libéraux ?",
+      "choices": [
+        "Elle scelle une alliance durable entre l'Église et la bourgeoisie",
+        "Elle condamne toutes les valeurs du libéralisme",
+        "Elle encourage la création de syndicats catholiques ouvriers",
+        "Elle impose le suffrage universel dans les États pontificaux",
+        "Elle reconnaît la liberté d'enseignement comme droit naturel"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q9",
+      "prompt": "À partir des années 1840-1850, comment évolue l'usage de l'idéologie libérale ?",
+      "choices": [
+        "Elle devient un outil de libération pour les classes ouvrières",
+        "Elle est abandonnée au profit du socialisme utopique",
+        "La bourgeoisie l'accapare pour protéger ses propres libertés",
+        "Elle fusionne avec le traditionalisme pour restaurer les ordres",
+        "Elle est interdite dans toute l'Europe par le Congrès de Vienne"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q10",
+      "prompt": "Quelle vision du progrès le libéralisme prône-t-il (à la manière de Condorcet) ?",
+      "choices": [
+        "Un progrès cyclique basé sur le retour aux sources",
+        "Un progrès linéaire : demain sera mieux qu'aujourd'hui",
+        "Un progrès limité aux domaines spirituels et religieux",
+        "Un progrès uniquement technique sans impact social",
+        "Un progrès destructeur des libertés individuelles"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q11",
+      "prompt": "Dans la 'Doctrine de la raison', quel est le rôle dévolu aux hommes ?",
+      "choices": [
+        "Obéir aveuglément aux traditions séculaires de la nation",
+        "Utiliser leur raison par eux-mêmes pour analyser les choses",
+        "Se soumettre à la raison d'État en toute circonstance",
+        "Suivre les directives morales dictées par le Saint-Siège",
+        "Rejeter tout dialogue pour imposer ses intérêts privés"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q12",
+      "prompt": "Selon le libéralisme politique, que permet le dialogue ?",
+      "choices": [
+        "Dégager les objectifs communs et se défaire des intérêts privés",
+        "Renforcer les privilèges de l'aristocratie foncière",
+        "Imposer la vérité d'un parti unique à la société",
+        "Supprimer définitivement le système parlementaire",
+        "Rétablir l'autorité absolue du monarque de droit divin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q13",
+      "prompt": "Quelle est la place de l'individu dans la pensée libérale ?",
+      "choices": [
+        "L'individu est secondaire face à la raison d'État",
+        "L'individu n'existe qu'à travers sa corporation",
+        "L'individualisme est au-dessus de tout (valeur suprême)",
+        "L'individu doit s'effacer devant la volonté des masses",
+        "L'individu est une abstraction dangereuse sans réalité"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q14",
+      "prompt": "Quelle forme de régime Benjamin Constant prône-t-il ?",
+      "choices": [
+        "La république jacobine centralisée",
+        "La monarchie constitutionnelle soumise à la loi",
+        "Le césarisme basé sur le plébiscite populaire",
+        "La monarchie absolue de type Ancien Régime",
+        "L'anarchie basée sur l'absence totale d'État"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q15",
+      "prompt": "Pourquoi les libéraux se méfient-ils de l'État ?",
+      "choices": [
+        "Parce qu'il refuse de lever l'impôt foncier sur la bourgeoisie",
+        "Parce qu'il aurait tendance à empiéter sur les libertés individuelles",
+        "Parce qu'il est incapable d'assurer la défense nationale",
+        "Parce qu'il favorise systématiquement les classes ouvrières",
+        "Parce qu'il est contrôlé exclusivement par l'Église catholique"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q16",
+      "prompt": "Que souhaitent les libéraux concernant la relation Église-État ?",
+      "choices": [
+        "Le rétablissement du catholicisme comme religion d'État",
+        "Le financement public exclusif des écoles religieuses",
+        "La séparation entre l'Église et l'État",
+        "La soumission du gouvernement aux décrets du Pape",
+        "L'interdiction pure et simple de toute pratique religieuse"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q17",
+      "prompt": "Qu'est-ce que le système censitaire défendu par les libéraux ?",
+      "choices": [
+        "Un vote obligatoire pour tous les citoyens de sexe masculin",
+        "Un impôt calculé sur la propriété foncière donnant accès au pouvoir",
+        "Une taxe sur les produits importés pour protéger l'industrie",
+        "Un recensement obligatoire des membres de la classe ouvrière",
+        "Un système de tirage au sort des représentants politiques"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q18",
+      "prompt": "Quel argument Benjamin Constant utilise-t-il pour justifier le suffrage censitaire ?",
+      "choices": [
+        "Seuls les plus instruits ont le droit divin de diriger",
+        "La propriété permet le loisir nécessaire pour acquérir les lumières",
+        "Les pauvres sont naturellement incapables de payer l'impôt sont naturellement mauvais",
+        "L'État doit être dirigé par ceux qui possèdent les armées",
+        "Le travail manuel développe une intelligence politique supérieure"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q19",
+      "prompt": "Dans l'optique libérale du XIXe, qu'est-ce qu'un 'homme de bien' ?",
+      "choices": [
+        "Un ouvrier qui consacre sa vie au progrès industriel",
+        "Un citoyen qui ne travaille pas et vit de ses rentes",
+        "Un prêtre dévoué au service des plus démunis",
+        "Un militaire garant de l'ordre et de la discipline",
+        "Un philosophe vivant dans le dénuement et la pauvreté"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q20",
+      "prompt": "Comment les traditionalistes conçoivent-ils la société par rapport à l'individu ?",
+      "choices": [
+        "La société est un contrat entre individus souverains",
+        "La société n'est qu'une somme d'intérêts privés",
+        "La société est globale ; l'homme seul n'existe pas",
+        "L'individu doit primer sur l'ordre social établi",
+        "L'État doit être aboli pour libérer l'individu"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q21",
+      "prompt": "Qu'opposent les traditionalistes à la raison abstraite des libéraux ?",
+      "choices": [
+        "Le thème de l'expérience et du concret",
+        "La rigueur des mathématiques pures",
+        "L'intuition irrationnelle et mystique",
+        "Le progrès technologique et scientifique",
+        "La lutte armée et la violence révolutionnaire"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q22",
+      "prompt": "Pourquoi les traditionalistes considèrent-ils la DDHC comme une 'aberration' ?",
+      "choices": [
+        "Parce qu'elle ne mentionne pas le droit de propriété",
+        "Parce qu'elle ne voit que des gens abstraits et non concrets",
+        "Parce qu'elle donne trop de pouvoir au monarque absolu",
+        "Parce qu'elle prône le retour à l'Ancien Régime",
+        "Parce qu'elle est rédigée exclusivement en langue latine"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q23",
+      "prompt": "Dans le modèle traditionaliste, à quoi compare-t-on l'organisation de la société ?",
+      "choices": [
+        "À un marché où chacun échange librement ses services",
+        "À une machine dont les rouages sont les individus",
+        "À une famille traditionnelle (père, aînés, cadets)",
+        "À une armée prête pour la conquête impériale",
+        "À une assemblée délibérante sans chef hiérarchique"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q24",
+      "prompt": "Qui représentent les 'aînés' dans le schéma social traditionaliste ?",
+      "choices": [
+        "Les paysans et les ouvriers des manufactures",
+        "Les élites (aristocratie, économie, science)",
+        "Les enfants mineurs dépourvus de droits civiques",
+        "Le monarque absolu uniquement",
+        "Les révolutionnaires de la classe bourgeoise"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q25",
+      "prompt": "Quelle est la définition de la fraternité pour les conservateurs ?",
+      "choices": [
+        "Une solidarité entre ouvriers contre leurs patrons",
+        "Une fraternité révolutionnaire dans la mort du père",
+        "Une commune vénération du père où l'on se reconnaît frère",
+        "L'égalité absolue de tous les citoyens devant la loi",
+        "L'absence totale de hiérarchie au sein de la nation"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q26",
+      "prompt": "Quel modèle les traditionalistes veulent-ils pour les associations professionnelles ?",
+      "choices": [
+        "Celui des syndicats ouvriers modernes et politisés",
+        "Celui d'un Moyen Âge rêvé (associations corporatistes)",
+        "Celui des entreprises par actions capitalistes",
+        "Celui des coopératives de production socialistes",
+        "Celui de la liberté totale de travail sans association"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q27",
+      "prompt": "Quelle image religieuse est utilisée pour décrire la société traditionaliste ?",
+      "choices": [
+        "Le reflet du corps du Christ (tête, mains, pieds)",
+        "Une église vide où l'homme est seul face à Dieu",
+        "Une tour de Babel vouée à l'effondrement",
+        "Un désert spirituel que seule la raison peut combler",
+        "Une assemblée de saints égaux sans aucune distinction"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q28",
+      "prompt": "Quelle place tient la naissance dans la pensée traditionaliste ?",
+      "choices": [
+        "Elle est un hasard sans aucune importance sociale",
+        "Elle dit ce pour quoi on est fait et les services à rendre",
+        "Elle doit être compensée par le mérite individuel",
+        "Elle détermine uniquement le droit au suffrage universel",
+        "Elle est abolie au profit de l'égalité républicaine"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q29",
+      "prompt": "À quel mouvement le marxisme doit-il énormément selon le texte ?",
+      "choices": [
+        "Au libéralisme économique de Manchester",
+        "Au traditionalisme des hommes du Congrès",
+        "Au socialisme utopiste",
+        "À la pensée contre-révolutionnaire de Burke",
+        "À l'encyclique Quanta Cura du Pape"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q30",
+      "prompt": "Que se passe-t-il lors de la 1ère Internationale Socialiste en 1864 ?",
+      "choices": [
+        "L'alliance définitive entre Marx et les anarchistes",
+        "Le triomphe de la pensée libérale sur le travail",
+        "Un bras de fer entre Marx et Bakounine (anarchiste)",
+        "La dissolution immédiate de tous les partis socialistes",
+        "Le couronnement de Marx comme dirigeant unique de l'Europe"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q31",
+      "prompt": "Quelle est la situation des socialistes lors de la 2e Internationale (1898) ?",
+      "choices": [
+        "Ils sont divisés entre libéraux et traditionalistes",
+        "Ils sont tous marxistes",
+        "Ils rejettent massivement les théories de Marx",
+        "Ils prônent le retour à la monarchie absolue",
+        "Ils se rallient à la doctrine sociale de l'Église"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q32",
+      "prompt": "Quel est le 'moteur des sociétés' selon la conception marxiste ?",
+      "choices": [
+        "Le dialogue parlementaire et le consensus",
+        "L'obéissance aux traditions et au monarque",
+        "La lutte des classes",
+        "L'innovation technologique et le progrès linéaire",
+        "La quête individuelle du salut spirituel"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q33",
+      "prompt": "Que prévoit le marxisme concernant la concentration des capitaux ?",
+      "choices": [
+        "Elle conduira à une harmonie sociale parfaite",
+        "Elle permettra d'investir massivement dans le social",
+        "Elle mènera à une implosion car on ne saura plus où investir",
+        "Elle est impossible dans un système capitaliste pur",
+        "Elle doit être encouragée par l'État pour éviter la crise"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q34",
+      "prompt": "Comment l'État est-il considéré dans le socialisme marxiste ?",
+      "choices": [
+        "Comme un arbitre neutre entre les classes",
+        "Comme une institution divine protectrice",
+        "Comme une superstructure encadrant la machinerie économique",
+        "Comme le garant suprême des libertés individuelles",
+        "Comme une organisation devant être renforcée indéfiniment"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q35",
+      "prompt": "Pourquoi Kautsky et Bebel sont-ils sceptiques quant à une révolution en Russie ?",
+      "choices": [
+        "Parce que le Tsar est trop apprécié par son peuple",
+        "Parce qu'il n'y a pas assez de classe ouvrière",
+        "Parce que l'Allemagne refuse de financer le mouvement",
+        "Parce que la Russie est déjà un pays socialiste",
+        "Parce que l'Église orthodoxe est trop puissante"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q36",
+      "prompt": "Selon Trotski et Luxembourg, pourquoi la révolution est-elle possible en Russie ?",
+      "choices": [
+        "Parce que les paysans possèdent déjà tous les capitaux",
+        "Grâce à une industrialisation tardive mais rapide et localisée",
+        "Grâce au soutien militaire de la bourgeoisie française",
+        "Parce que le Tsar a décidé d'abdiquer volontairement",
+        "Parce que la Russie a rejeté totalement le marxisme"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q37",
+      "prompt": "Quel événement de 1905 brise l'image du Tsar auprès du peuple russe ?",
+      "choices": [
+        "La signature d'un traité de paix humiliant",
+        "Le fait d'avoir laissé tirer sur le peuple",
+        "L'augmentation massive de l'impôt sur le pain",
+        "Le mariage du Tsar avec une princesse allemande",
+        "L'exil volontaire du Tsar en Europe occidentale"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q38",
+      "prompt": "Quelle solution Trotski propose-t-il pour faire triompher la révolution ?",
+      "choices": [
+        "Le retour au système censitaire libéral",
+        "L'appel à la révolution permanente",
+        "L'alliance avec l'aristocratie tsariste",
+        "La suppression de l'Internationale Socialiste",
+        "Le désarmement immédiat du prolétariat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q39",
+      "prompt": "Quelle est la position du SPD allemand face à la révolution marxiste en 1918-1919 ?",
+      "choices": [
+        "Il soutient activement la révolution spartakiste",
+        "Il demande l'aide de Lénine pour prendre le pouvoir",
+        "Il soutient la démocratie contre la révolution marxiste",
+        "Il proclame le retour à la monarchie impériale",
+        "Il fusionne avec le parti de l'extrême gauche"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q40",
+      "prompt": "Quelle particularité Lénine ajoute-t-il à la stratégie révolutionnaire ?",
+      "choices": [
+        "L'exclusion définitive des ouvriers du processus",
+        "L'utilisation des paysans pour lancer la révolution",
+        "Le maintien de l'intérêt propre avant l'intérêt commun",
+        "Le refus de tout changement de la nature humaine",
+        "L'alliance avec le Saint-Siège contre la bourgeoisie"
+      ],
+      "correctIndex": 1
+    }
+  ],
+  "course": "Histoire"
+}
