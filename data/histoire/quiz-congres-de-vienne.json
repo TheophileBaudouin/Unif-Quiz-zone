@@ -1,0 +1,535 @@
+{
+  "quizId": "congres-de-vienne",
+  "title": "Le Congrès de Vienne (1814-1815)",
+  "section": {
+    "id": "congres-de-vienne",
+    "title": "Le Congrès de Vienne (1814-1815)",
+    "startPage": 56,
+    "endPage": 58,
+    "summary": "Réorganisation de l'Europe après Napoléon. Principes de légitimité et d'équilibre européen, création d'États-tampons et naissance des aspirations nationales.",
+    "estimatedQuestionCount": 15
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quel est le statut politique de la ville de Vienne au moment du Congrès de 1814-1815 ?",
+      "choices": [
+        "Capitale de l'empire des Habsbourg",
+        "Siège de la Confédération de l'Est",
+        "Capitale de la Prusse-Orientale",
+        "Ville libre sous protectorat anglais",
+        "Capitale du Premier Empire français"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise explicitement que Vienne est la capitale de l'empire des Habsbourg."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quel était l'objectif principal des puissances réunies au Congrès de Vienne ?",
+      "choices": [
+        "Réorganiser l'Europe post-napoléonienne",
+        "Établir une république européenne unie",
+        "Poursuivre l'expansion coloniale en Asie",
+        "Signer un traité de commerce avec l'Empire",
+        "Organiser l'élection d'un nouvel empereur"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'objectif mentionné est de réorganiser l'Europe après la défaite de Napoléon."
+    },
+    {
+      "id": "q3",
+      "prompt": "Parmi ces pays, lequel fait partie des puissances ayant vaincu Napoléon et siégeant au Congrès ?",
+      "choices": [
+        "L'Autriche",
+        "L'Espagne",
+        "Le Danemark",
+        "Le Portugal",
+        "La Suède"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte cite l'Angleterre, la Prusse, l'Autriche et la Russie comme les puissances victorieuses."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel terme le texte utilise-t-il pour désigner la volonté de reconstruire une Europe d'Ancien Régime ?",
+      "choices": [
+        "La Première Restauration",
+        "Le Grand Renouveau",
+        "La Réaction Absolue",
+        "Le Pacte de Vienne",
+        "L'Ordre Traditionnel"
+      ],
+      "correctIndex": 0,
+      "explanation": "La volonté de reconstruire une Europe traditionnelle d'Ancien Régime conduit à ce que le texte nomme la 'Première Restauration'."
+    },
+    {
+      "id": "q5",
+      "prompt": "Pourquoi un simple retour à l'Ancien Régime est-il jugé impossible après la Révolution ?",
+      "choices": [
+        "L'efficacité des États modernes créés",
+        "Le manque de fonds financiers royaux",
+        "La disparition de la noblesse d'épée",
+        "L'absence de monarques légitimes",
+        "La pression diplomatique américaine"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte souligne que l'efficacité des États modernes créés par la Révolution et l'Empire est sans commune mesure avec les États de l'Ancien Régime."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelle caractéristique définit l'organisation judiciaire des États modernes selon le texte ?",
+      "choices": [
+        "L'irruption du règne de la loi",
+        "La primauté du jugement arbitraire",
+        "Le retour aux tribunaux seigneuriaux",
+        "La nomination des juges par le sang",
+        "L'absence totale de codes écrits"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'organisation judiciaire moderne se caractérise par l'irruption du règne de la loi, placée au-dessus de tout."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quel est le rôle des codes créés sous l'ère moderne par rapport aux juges de l'Ancien Régime ?",
+      "choices": [
+        "Limiter l'arbitraire des juges",
+        "Augmenter le pouvoir discrétionnaire",
+        "Supprimer la fonction de magistrat",
+        "Remplacer les lois par la coutume",
+        "Restaurer les privilèges cléricaux"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les codes sont créés pour limiter l'arbitraire qui caractérisait les juges sous l'Ancien Régime."
+    },
+    {
+      "id": "q8",
+      "prompt": "Pourquoi les grandes puissances veulent-elles obtenir des gains territoriaux après 1814 ?",
+      "choices": [
+        "Pour rentabiliser leurs investissements",
+        "Pour exporter leurs modèles agricoles",
+        "Pour punir les populations civiles",
+        "Pour créer des parcs naturels royaux",
+        "Pour suivre les conseils de Napoléon"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ayant levé des armées coûteuses pour abattre Napoléon, les puissances veulent rentabiliser leurs investissements par des gains territoriaux."
+    },
+    {
+      "id": "q9",
+      "prompt": "En quoi Napoléon est-il décrit comme une figure ambiguë par rapport à la Révolution Française ?",
+      "choices": [
+        "Il la 'vole' tout en étant issu d'elle",
+        "Il la rejette totalement dès le début",
+        "Il est le seul garant de la monarchie",
+        "Il refuse les principes d'égalité",
+        "Il n'utilise jamais les symboles RF"
+      ],
+      "correctIndex": 0,
+      "explanation": "Napoléon est inconcevable sans la RF (liberté, égalité, fraternité) mais il la 'vole' en instaurant un empire autoritaire."
+    },
+    {
+      "id": "q10",
+      "prompt": "Dès 1792, où la Révolution Française doit-elle affronter des contre-révolutionnaires ?",
+      "choices": [
+        "À l'intérieur et à l'extérieur de la France",
+        "Uniquement dans les colonies antillaises",
+        "Exclusivement dans les cours de Russie",
+        "Seulement au sein de l'armée française",
+        "Dans les zones rurales de l'Angleterre"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que dès 1792, la RF fait face à des contre-révolutionnaires à l'intérieur ET à l'extérieur de la France."
+    },
+    {
+      "id": "q11",
+      "prompt": "Quelle est la particularité de l'armée de Napoléon par rapport aux armées précédentes ?",
+      "choices": [
+        "Une armée de conscrits citoyens",
+        "Une armée composée de mercenaires",
+        "Une armée de volontaires étrangers",
+        "Une armée sans hiérarchie officielle",
+        "Une armée financée par l'Église"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'armée de Napoléon est composée de conscrits, c'est-à-dire de citoyens qui portent l'uniforme pour défendre la patrie."
+    },
+    {
+      "id": "q12",
+      "prompt": "Quelle était la motivation principale des mercenaires avant l'ère napoléonienne ?",
+      "choices": [
+        "Le gain financier (l'argent)",
+        "La défense de la patrie nationale",
+        "L'honneur de la famille royale",
+        "La propagation de la foi chrétienne",
+        "Le goût de l'aventure géographique"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte oppose les citoyens-soldats aux mercenaires dont l'objectif unique était l'argent."
+    },
+    {
+      "id": "q13",
+      "prompt": "Quel événement se produit en 1814 concernant la ville de Paris ?",
+      "choices": [
+        "L'entrée des Russes, Prussiens et Anglais",
+        "Le sacre de Napoléon comme empereur",
+        "La signature du traité de Versailles",
+        "L'incendie de la ville par les Français",
+        "La proclamation de la République"
+      ],
+      "correctIndex": 0,
+      "explanation": "En 1814, les Russes, les Prussiens et les Anglais sont présents dans Paris."
+    },
+    {
+      "id": "q14",
+      "prompt": "Comment appelle-t-on la période où Napoléon revient de l'île d'Elbe pour reconstituer son armée ?",
+      "choices": [
+        "Les Cent Jours",
+        "Le Printemps des Peuples",
+        "La Grande Reconquête",
+        "Le Retour de l'Aigle",
+        "La Campagne Ultime"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte mentionne explicitement le terme 'Les Cent Jours' pour désigner ce retour."
+    },
+    {
+      "id": "q15",
+      "prompt": "Quels sont les deux principes fondamentaux de négociation au Congrès de Vienne ?",
+      "choices": [
+        "Légitimité et équilibre européen",
+        "Souveraineté et liberté des cultes",
+        "Fraternité et partage des colonies",
+        "Démocratie et neutralité militaire",
+        "Expansion et hégémonie maritime"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les deux principes d'accord mentionnés sont le principe de légitimité et le principe d'équilibre européen."
+    },
+    {
+      "id": "q16",
+      "prompt": "Selon la typologie citée dans le texte, qu'est-ce que la légitimité traditionnelle ?",
+      "choices": [
+        "Une légitimité transmise par le sang",
+        "Une légitimité basée sur le vote",
+        "Une légitimité issue du génie militaire",
+        "Une légitimité fondée sur la raison",
+        "Une légitimité octroyée par le Pape"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte définit la légitimité traditionnelle comme étant transmise 'par le sang'."
+    },
+    {
+      "id": "q17",
+      "prompt": "Quelle forme de légitimité Weber considère-t-il comme la 'moins mauvaise' ?",
+      "choices": [
+        "La légale-rationnelle",
+        "La charismatique",
+        "La traditionnelle",
+        "La monarchique",
+        "L'héroïque"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que pour Weber, la légitimité légale-rationnelle, fondée sur la loi et la raison, est la moins mauvaise."
+    },
+    {
+      "id": "q18",
+      "prompt": "Quelle légitimité est exclusivement reconnue par les hommes du Congrès de Vienne ?",
+      "choices": [
+        "La légitimité traditionnelle",
+        "La légitimité démocratique",
+        "La légitimité charismatique",
+        "La légitimité républicaine",
+        "La légitimité impériale"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte affirme que les hommes du Congrès ne reconnaissent que la légitimité traditionnelle."
+    },
+    {
+      "id": "q19",
+      "prompt": "Pourquoi Louis XVIII signe-t-il son ordonnance de la '17e année de son règne' en montant sur le trône ?",
+      "choices": [
+        "Pour nier l'existence de la RF",
+        "Pour honorer son frère Louis XVI",
+        "Pour plaire au peuple de Paris",
+        "Pour suivre le calendrier révolutionnaire",
+        "Pour marquer son âge personnel"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'idée est de ne pas tenir compte de la Révolution Française, considérée comme une parenthèse fermée."
+    },
+    {
+      "id": "q20",
+      "prompt": "Qu'est-il arrivé à Louis XVII, fils de Louis XVI ?",
+      "choices": [
+        "Il meurt au temple en prison",
+        "Il s'exile en Angleterre définitivement",
+        "Il devient roi sous le nom de Louis XVIII",
+        "Il rejoint les armées de Napoléon",
+        "Il disparaît lors de la Terreur"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que Louis XVII est mort au temple, en prison."
+    },
+    {
+      "id": "q21",
+      "prompt": "Quelle est la position du Congrès de Vienne concernant les frontières de la France ?",
+      "choices": [
+        "Retour aux frontières d'avant la RF",
+        "Démantèlement total du territoire",
+        "Annexion des régions de l'Est",
+        "Occupation permanente de Paris",
+        "Extension jusqu'aux rives du Rhin"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le principe d'équilibre impose que la France retrouve ses frontières d'avant la Révolution."
+    },
+    {
+      "id": "q22",
+      "prompt": "Comment le Congrès de Vienne traite-t-il la question des indemnités de guerre pour la France ?",
+      "choices": [
+        "Elle ne paie pas d'indemnités",
+        "Elle paie une somme colossale",
+        "Elle doit céder toutes ses colonies",
+        "Elle finance la reconstruction de Vienne",
+        "Elle paie uniquement à l'Angleterre"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte mentionne que les puissances ne font pas payer d'indemnités à la France pour les dégâts créés."
+    },
+    {
+      "id": "q23",
+      "prompt": "Selon le principe d'équilibre, combien de grandes puissances sont jugées nécessaires au minimum pour la paix ?",
+      "choices": [
+        "Trois grandes puissances",
+        "Deux grandes puissances",
+        "Une seule puissance hégémonique",
+        "Cinq puissances régionales",
+        "Toutes les nations d'Europe"
+      ],
+      "correctIndex": 0,
+      "explanation": "L'idée de l'équilibre européen est qu'il faut un minimum de trois grandes puissances pour maintenir la paix."
+    },
+    {
+      "id": "q24",
+      "prompt": "Quelles sont les trois puissances citées comme formant l'équilibre continental ?",
+      "choices": [
+        "Russie, Prusse et Autriche",
+        "France, Angleterre et Espagne",
+        "Russie, Angleterre et France",
+        "Prusse, Belgique et Autriche",
+        "Italie, Autriche et Russie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte identifie la Russie, la Prusse et l'Autriche comme les piliers de cet équilibre."
+    },
+    {
+      "id": "q25",
+      "prompt": "Quelle région est contenue dans l'empire d'Autriche après le Congrès ?",
+      "choices": [
+        "Le Nord de l'Italie",
+        "Le Sud de l'Espagne",
+        "L'Ouest de la France",
+        "Le Nord de la Belgique",
+        "L'Est de la Russie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise que l'Autriche contient alors le Nord de l'Italie."
+    },
+    {
+      "id": "q26",
+      "prompt": "Quel est le but stratégique de la création d'États-tampon autour de la France ?",
+      "choices": [
+        "Donner du temps pour mobiliser les armées",
+        "Faciliter le commerce avec l'Angleterre",
+        "Diffuser les idées de la Révolution",
+        "Créer une zone de libre-échange",
+        "Installer des bases militaires russes"
+      ],
+      "correctIndex": 0,
+      "explanation": "Les États-tampon doivent permettre aux grandes puissances de mobiliser leurs armées en cas de nouvelle sortie française des frontières."
+    },
+    {
+      "id": "q27",
+      "prompt": "Quels sont les deux principaux États-tampon créés ou renforcés par le Congrès ?",
+      "choices": [
+        "Royaume des Pays-Bas et Piémont-Sardaigne",
+        "Royaume de Belgique et Suisse",
+        "Espagne et Royaume de Westphalie",
+        "Danemark et Confédération Germanique",
+        "Lombardie et Duché de Varsovie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte identifie clairement le royaume des Pays-Bas et le royaume de Piémont-Sardaigne comme États-tampon."
+    },
+    {
+      "id": "q28",
+      "prompt": "De quels territoires est composé le nouveau Royaume des Pays-Bas en 1815 ?",
+      "choices": [
+        "Anciens PB autrichiens et Provinces-Unies",
+        "Hollande et Nord de l'Allemagne",
+        "Belgique et Est de la France",
+        "Luxembourg et Sud de l'Angleterre",
+        "Provinces-Unies et Danemark"
+      ],
+      "correctIndex": 0,
+      "explanation": "Il regroupe les anciens Pays-Bas autrichiens (future Belgique), la principauté de Liège et les Provinces-Unies du Nord."
+    },
+    {
+      "id": "q29",
+      "prompt": "Quelle est la durée de l'union au sein du Royaume des Pays-Bas ?",
+      "choices": [
+        "Globalement 15 ans",
+        "Environ 50 ans",
+        "Près d'un siècle",
+        "Moins de 5 ans",
+        "Plus de 200 ans"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que cette structure dure globalement 15 ans."
+    },
+    {
+      "id": "q30",
+      "prompt": "Quelle différence religieuse majeure divise le Nord et le Sud du Royaume des Pays-Bas ?",
+      "choices": [
+        "Sud catholique / Nord protestant",
+        "Sud protestant / Nord catholique",
+        "Sud athée / Nord luthérien",
+        "Sud anglican / Nord calviniste",
+        "Sud orthodoxe / Nord catholique"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte précise : Sud catholiques, Nord protestants."
+    },
+    {
+      "id": "q31",
+      "prompt": "Quel royaume sera le moteur de l'unification italienne par 'le bas' ?",
+      "choices": [
+        "Le royaume de Piémont-Sardaigne",
+        "Le royaume des Deux-Siciles",
+        "L'État pontifical",
+        "Le grand-duché de Toscane",
+        "Le royaume de Lombardie-Vénétie"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le Piémont-Sardaigne est désigné comme le moteur de l'unification italienne par l'adhésion des populations."
+    },
+    {
+      "id": "q32",
+      "prompt": "Quelle puissance est le moteur de l'unification allemande par 'le haut' ?",
+      "choices": [
+        "La Prusse",
+        "L'Autriche",
+        "La Bavière",
+        "La Saxe",
+        "Le Hanovre"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte identifie la Prusse comme le moteur de l'unification allemande par l'adhésion des princes."
+    },
+    {
+      "id": "q33",
+      "prompt": "Où et quand l'Empire allemand est-il proclamé ?",
+      "choices": [
+        "Janvier 1871 à Versailles",
+        "Juin 1815 à Waterloo",
+        "Mars 1848 à Francfort",
+        "Décembre 1804 à Paris",
+        "Août 1914 à Berlin"
+      ],
+      "correctIndex": 0,
+      "explanation": "La proclamation a lieu en janvier 1871 dans la galerie des glaces à Versailles."
+    },
+    {
+      "id": "q34",
+      "prompt": "Qui est le personnage central du 'concert européen' mentionné dans le texte ?",
+      "choices": [
+        "Le prince de Metternich",
+        "Le duc de Wellington",
+        "Le tsar Alexandre Ier",
+        "Le diplomate Talleyrand",
+        "Le roi Louis-Philippe"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte désigne le prince de Metternich comme 'le grand personnage' du concert européen."
+    },
+    {
+      "id": "q35",
+      "prompt": "Quelle puissance finit par saborder le système du concert européen dans les années 1820 ?",
+      "choices": [
+        "L'Angleterre",
+        "La France",
+        "La Russie",
+        "L'Autriche",
+        "La Prusse"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dès la 2e moitié des années 20, l'Angleterre saborde le système et le rend inopérant."
+    },
+    {
+      "id": "q36",
+      "prompt": "Quelle force politique majeure du XIXe siècle est ignorée par les hommes du Congrès ?",
+      "choices": [
+        "Les aspirations nationales",
+        "Le conservatisme agraire",
+        "Le droit divin des rois",
+        "Le mercantilisme économique",
+        "Le colonialisme africain"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte indique que les aspirations nationales sont ignorées par les hommes du Congrès."
+    },
+    {
+      "id": "q37",
+      "prompt": "Au début du XIXe siècle, à quelle force politique le nationalisme est-il allié ?",
+      "choices": [
+        "Le libéralisme",
+        "Le conservatisme",
+        "L'absolutisme",
+        "Le théocratisme",
+        "Le protectionnisme"
+      ],
+      "correctIndex": 0,
+      "explanation": "Au début du XIXe siècle, le nationalisme s'allie avec le libéralisme et est considéré comme un mouvement de gauche."
+    },
+    {
+      "id": "q38",
+      "prompt": "Quel événement est cité comme le 'sommet du nationalisme qui explose' ?",
+      "choices": [
+        "La Première Guerre mondiale",
+        "La Révolution de 1830",
+        "La Commune de Paris",
+        "La bataille de Waterloo",
+        "Le Congrès de Vienne"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte identifie la 1ère Guerre mondiale (1GM) comme le sommet de l'explosion du nationalisme."
+    },
+    {
+      "id": "q39",
+      "prompt": "Selon le texte, où les idées nationales commencent-elles à apparaître ?",
+      "choices": [
+        "Dans le cœur des individus",
+        "Uniquement dans les académies",
+        "Seulement dans les traités secrets",
+        "Dans les codes judiciaires",
+        "Dans les bourses de valeurs"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte affirme que les idées nationales commencent à apparaître dans le cœur des individus."
+    },
+    {
+      "id": "q40",
+      "prompt": "Quelle est la métaphore utilisée pour décrire la paix dans le cadre de l'équilibre européen ?",
+      "choices": [
+        "La cerise sur le gâteau",
+        "Le socle de la pyramide",
+        "La lumière dans la nuit",
+        "L'enclume et le marteau",
+        "Le calme avant la tempête"
+      ],
+      "correctIndex": 0,
+      "explanation": "Le texte cite : 'La paix c'est la cerise sur le gâteau, ce n'est jamais le gâteau'."
+    }
+  ],
+  "course": "Histoire"
+}
