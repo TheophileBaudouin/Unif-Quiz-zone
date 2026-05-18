@@ -1,0 +1,495 @@
+{
+  "quizId": "premiere-guerre-mondiale",
+  "title": "La Première Guerre mondiale",
+  "section": {
+    "id": "premiere-guerre-mondiale",
+    "title": "La Première Guerre mondiale",
+    "startPage": 69,
+    "endPage": 74,
+    "summary": "Origines (nationalismes, système d'alliances), caractéristiques de la guerre totale (tranchées, nouvelles armes) et conséquences économiques, sociales et territoriales.",
+    "estimatedQuestionCount": 30
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "À partir de quelle année le conflit commence-t-il à être surnommé la « Grande Guerre » ?",
+      "choices": [
+        "En 1914",
+        "Dès 1915",
+        "En 1916",
+        "Dès 1917",
+        "En 1918"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q2",
+      "prompt": "Quelle caractéristique définit la Première Guerre mondiale comme une « guerre totale » ?",
+      "choices": [
+        "L'usage exclusif de technologies maritimes",
+        "L'implication unique des armées de métier",
+        "L'engagement des armées et des sociétés",
+        "La limitation géographique aux pays d'Europe",
+        "La brièveté des combats sur les divers fronts"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q3",
+      "prompt": "Quelle était la première puissance mondiale au début du XXe siècle selon le texte ?",
+      "choices": [
+        "L'Empire allemand",
+        "L'Empire russe",
+        "L'Empire britannique",
+        "L'Autriche-Hongrie",
+        "La France républicaine"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel pourcentage du stock d'or mondial l'Europe possédait-elle en 1914 ?",
+      "choices": [
+        "Environ 25%",
+        "Environ 50%",
+        "Environ 75%",
+        "Environ 90%",
+        "Exactement 100%"
+      ],
+      "correctIndex": 4
+    },
+    {
+      "id": "q5",
+      "prompt": "Quelle vision du nationalisme est associée à l'Allemagne impériale ?",
+      "choices": [
+        "Le nationalisme électif démocratique",
+        "Le nationalisme de séparation libéral",
+        "Le nationalisme ethnique autoritaire",
+        "Le nationalisme cosmopolite moderne",
+        "Le nationalisme de type contractuel"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q6",
+      "prompt": "Qui est l'auteur de l'ouvrage « Imagined Communities » mentionné dans le texte ?",
+      "choices": [
+        "Guillaume II",
+        "Benedict Anderson",
+        "Paul Valéry",
+        "Alfred Machin",
+        "Otto von Bismarck"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q7",
+      "prompt": "Quel concept politique Guillaume II développe-t-il pour l'Empire allemand ?",
+      "choices": [
+        "Le panslavisme",
+        "L'Entente cordiale",
+        "La Weltpolitik",
+        "L'irredentisme",
+        "Le libéralisme"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q8",
+      "prompt": "Pourquoi la Russie s'est-elle tournée vers une politique panslaviste après 1905 ?",
+      "choices": [
+        "Suite à sa victoire sur l'Empire Ottoman",
+        "Pour contrer l'influence britannique au sud",
+        "En réaction à une défaite cuisante face au Japon",
+        "Pour s'allier économiquement avec l'Allemagne",
+        "Suite à la conquête de l'Alsace-Lorraine"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q9",
+      "prompt": "En 1908, quelle région l'Autriche-Hongrie (AH) a-t-elle annexée, provoquant des tensions ?",
+      "choices": [
+        "Le Trentin",
+        "La Serbie",
+        "La Bosnie",
+        "L'Alsace",
+        "Le Maroc"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q10",
+      "prompt": "Comment le nationalisme français évolue-t-il après la défaite de 1871 ?",
+      "choices": [
+        "Il devient expansionniste et confiant",
+        "Il s'efface devant le pacifisme social",
+        "Il devient défensif, angoissé et xénophobe",
+        "Il se tourne vers l'unification européenne",
+        "Il adopte une vision ethnique multilingue"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q11",
+      "prompt": "Quelles terres étaient revendiquées par l'irrédentisme italien en 1870 ?",
+      "choices": [
+        "Le Vatican et la Sicile",
+        "Le Trentin et Trieste",
+        "La Corse et la Savoie",
+        "L'Éthiopie et l'Érythrée",
+        "La Vénétie et Naples"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q12",
+      "prompt": "Quel empire est qualifié d'« homme malade » à la fin du XIXe siècle ?",
+      "choices": [
+        "L'Empire britannique",
+        "L'Empire allemand",
+        "L'Autriche-Hongrie",
+        "L'Empire du Japon",
+        "L'Empire français"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q13",
+      "prompt": "Quelle valeur devient une force mobilisatrice « sacrée » au début des années 1900 ?",
+      "choices": [
+        "La Démocratie",
+        "La Patrie",
+        "Le Progrès",
+        "La Religion",
+        "Le Socialisme"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q14",
+      "prompt": "Que définit la Convention de Genève de 1864 ?",
+      "choices": [
+        "Les alliances militaires offensives",
+        "Le droit de la guerre sur terre",
+        "Le partage des colonies africaines",
+        "L'interdiction des armes chimiques",
+        "La création de la monnaie unique"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q15",
+      "prompt": "Quel souverain a voulu rassembler les puissances lors des conventions de La Haye ?",
+      "choices": [
+        "Guillaume II",
+        "Nicolas II",
+        "Édouard VII",
+        "François-Joseph",
+        "Victor-Emmanuel III"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q16",
+      "prompt": "Quels pays composaient la Triple Alliance en 1882 ?",
+      "choices": [
+        "France, Russie, Grande-Bretagne",
+        "Allemagne, Autriche-Hongrie, Italie",
+        "Allemagne, Russie, Autriche-Hongrie",
+        "Italie, Serbie, Bulgarie",
+        "France, Belgique, Luxembourg"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q17",
+      "prompt": "En quelle année l'Entente cordiale a-t-elle été signée ?",
+      "choices": [
+        "1892",
+        "1904",
+        "1907",
+        "1911",
+        "1914"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q18",
+      "prompt": "Quelle crise diplomatique majeure a eu lieu au Maroc en 1911 ?",
+      "choices": [
+        "La crise de Tanger",
+        "La crise de Casablanca",
+        "La crise d'Agadir",
+        "La crise de Fès",
+        "La crise de Rabat"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q19",
+      "prompt": "Quelle compensation la France a-t-elle cédée à l'Allemagne après la crise de 1911 ?",
+      "choices": [
+        "L'Alsace-Lorraine",
+        "Le port de Tanger",
+        "Le « bec de canard » du Congo",
+        "L'Indochine française",
+        "La souveraineté sur le Maroc"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q20",
+      "prompt": "Pourquoi la Bulgarie rejoint-elle les puissances centrales (les Centraux) ?",
+      "choices": [
+        "Parce qu'elle est frustrée par la 2ème guerre balkanique",
+        "Suite à un accord secret avec la Russie impériale",
+        "Pour défendre l'intégrité de l'Empire Ottoman",
+        "À cause de liens ethniques avec les Allemands",
+        "Pour obtenir un accès maritime à l'Atlantique"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q21",
+      "prompt": "Où et quand Franz-Ferdinand a-t-il été assassiné ?",
+      "choices": [
+        "À Vienne le 28 juin 1914",
+        "À Sarajevo le 28 juin 1914",
+        "À Belgrade le 23 juillet 1914",
+        "À Berlin le 1er août 1914",
+        "À Paris le 3 août 1914"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q22",
+      "prompt": "Quelle organisation secrète est impliquée dans l'attentat de Sarajevo ?",
+      "choices": [
+        "Les Jeunes-Turcs",
+        "La Main Noire",
+        "Le Sinn Féin",
+        "Les Carbonari",
+        "Les Boxers"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q23",
+      "prompt": "À quelle date l'Autriche-Hongrie déclare-t-elle la guerre à la Serbie ?",
+      "choices": [
+        "Le 28 juin 1914",
+        "Le 23 juillet 1914",
+        "Le 28 juillet 1914",
+        "Le 30 juillet 1914",
+        "Le 1er août 1914"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q24",
+      "prompt": "Quel est l'objectif principal du plan Schlieffen-Moltke ?",
+      "choices": [
+        "Attaquer la Russie en priorité absolue",
+        "Prendre Paris rapidement pour éviter deux fronts",
+        "Organiser un blocus maritime de l'Angleterre",
+        "Envahir la Suisse pour contourner les Alpes",
+        "Négocier une paix séparée avec la Belgique"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q25",
+      "prompt": "Quel événement entraîne l'entrée en guerre de la Grande-Bretagne ?",
+      "choices": [
+        "L'assassinat de Franz-Ferdinand",
+        "La mobilisation générale de la Russie",
+        "La violation de la neutralité belge",
+        "L'attaque allemande contre Verdun",
+        "Le naufrage du paquebot Lusitania"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q26",
+      "prompt": "Qui sont les seuls à partir à la guerre « en chantant » selon le texte ?",
+      "choices": [
+        "Les paysans mobilisés",
+        "Les ouvriers syndicalistes",
+        "Les étudiants",
+        "Les officiers de carrière",
+        "Les populations urbaines"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q27",
+      "prompt": "Quelle citation est attribuée à Paul Valéry concernant la fin du conflit ?",
+      "choices": [
+        "« La guerre est un massacre de gens qui ne se connaissent pas »",
+        "« Plus jamais ça sur le sol européen »",
+        "« Maintenant, nous autres civilisations, savons que nous sommes mortels »",
+        "« Le droit prime la force dans les relations »",
+        "« La victoire appartient à celui qui tient le plus longtemps »"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q28",
+      "prompt": "À quelle date l'Empire Ottoman rejoint-il les puissances centrales ?",
+      "choices": [
+        "Août 1914",
+        "Novembre 1914",
+        "Mai 1915",
+        "Janvier 1916",
+        "Avril 1917"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q29",
+      "prompt": "Pourquoi l'Italie rejoint-elle le camp des Alliés en mai 1915 ?",
+      "choices": [
+        "Pour libérer Rome de l'influence française",
+        "Pour obtenir les concessions allemandes en Chine",
+        "Suite à l'invasion de son territoire par l'Autriche",
+        "Pour soutenir le tsar Nicolas II par solidarité",
+        "En raison d'un traité de défense avec la Belgique"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q30",
+      "prompt": "Quel pays rejoint les Alliés en avril 1917 ?",
+      "choices": [
+        "Le Japon",
+        "L'Italie",
+        "Les USA",
+        "Le Brésil",
+        "La Chine"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q31",
+      "prompt": "Quelle est la seule zone géographique où l'on ne se bat pas durant la 1GM ?",
+      "choices": [
+        "L'Océanie",
+        "L'Afrique",
+        "Les Amériques",
+        "L'Asie de l'Est",
+        "Le Moyen-Orient"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q32",
+      "prompt": "En 1916, quel empire lance la conscription générale, malgré le refus de l'Australie ?",
+      "choices": [
+        "L'Empire allemand",
+        "L'Empire britannique",
+        "L'Empire russe",
+        "L'Empire français",
+        "L'Empire ottoman"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q33",
+      "prompt": "Quel effet psychologique majeur est attribué à l'usage des gaz de combat ?",
+      "choices": [
+        "Une ferveur patriotique accrue",
+        "Une panique due à l'anonymat des visages masqués",
+        "Une volonté de reddition immédiate",
+        "Une haine renforcée contre les civils",
+        "Une indifférence totale face au danger"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q34",
+      "prompt": "Quels nouveaux moyens techniques permettent de sortir de l'impasse des tranchées ?",
+      "choices": [
+        "La cavalerie lourde et les piques",
+        "L'artillerie de montagne uniquement",
+        "L'aviation militaire et les chars légers",
+        "Les navires cuirassés de haute mer",
+        "L'utilisation massive du télégraphe"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q35",
+      "prompt": "Quelle conséquence tragique le blocus économique a-t-il eue à partir de 1916 ?",
+      "choices": [
+        "L'arrêt total de la production de munitions",
+        "La mort de faim de 750 000 civils à Berlin et Vienne",
+        "L'exil massif des élites vers la Suisse",
+        "La mutinerie systématique des marins allemands",
+        "L'effondrement immédiat du front militaire"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q36",
+      "prompt": "Quand le génocide arménien a-t-il été lancé par l'Empire ottoman ?",
+      "choices": [
+        "En août 1914",
+        "En janvier 1915",
+        "En avril 1915",
+        "En mai 1916",
+        "En octobre 1917"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q37",
+      "prompt": "Quelle organisation internationale est créée après la guerre sur une idée américaine ?",
+      "choices": [
+        "L'ONU",
+        "La SDN",
+        "L'OTAN",
+        "L'OECE",
+        "Le Pacte de Varsovie"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q38",
+      "prompt": "Quel traité de 1925 marque une période de détente internationale ?",
+      "choices": [
+        "Le traité de Versailles",
+        "Le pacte de Locarno",
+        "Le pacte Briand-Kellogg",
+        "Le traité de Trianon",
+        "La convention de La Haye"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q39",
+      "prompt": "Quelle crise économique majeure survient en 1929 ?",
+      "choices": [
+        "Une crise de pénurie alimentaire",
+        "Une crise de surproduction et de crédit",
+        "Une hyperinflation uniquement allemande",
+        "Une crise liée à la rareté de l'or",
+        "Une crise de sous-consommation pétrolière"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q40",
+      "prompt": "Quelle est la conséquence politique de la crise de 1929 mentionnée à la fin ?",
+      "choices": [
+        "Le triomphe du libéralisme pur",
+        "Le renforcement de l'extrême droite et de l'extrême gauche",
+        "La disparition des nationalismes territoriaux",
+        "L'unification politique des États-Unis et de l'Europe",
+        "Le retour généralisé aux monarchies absolues"
+      ],
+      "correctIndex": 1
+    }
+  ],
+  "course": "Histoire"
+}
