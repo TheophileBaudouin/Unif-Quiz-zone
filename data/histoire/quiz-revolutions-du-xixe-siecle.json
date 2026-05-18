@@ -1,0 +1,535 @@
+{
+  "quizId": "revolutions-du-xixe-siecle",
+  "title": "Les vagues révolutionnaires du XIXe siècle",
+  "section": {
+    "id": "revolutions-du-xixe-siecle",
+    "title": "Les vagues révolutionnaires du XIXe siècle",
+    "startPage": 63,
+    "endPage": 64,
+    "summary": "Analyse des vagues de 1820, 1830 et 1848 (Printemps des peuples) à travers l'Europe. Étude des échecs, des succès nationaux et de la Commune de Paris de 1871.",
+    "estimatedQuestionCount": 15
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Quelles sont les trois grandes vagues révolutionnaires mentionnées comme traversant l'Europe au XIXe siècle ?",
+      "choices": [
+        "Les vagues de 1789, de 1815 et de 1848.",
+        "Les vagues de 1815, de 1830 et de 1871.",
+        "Les vagues de 1820, de 1830 et de 1848.",
+        "Les vagues de 1830, de 1848 et de 1871.",
+        "Les vagues de 1820, de 1848 et de 1890."
+      ],
+      "correctIndex": 2,
+      "explanation": "Le texte identifie explicitement 1820, 1830 et 1848 comme les trois grandes vagues révolutionnaires du siècle."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quel édifice diplomatique les mouvements révolutionnaires du XIXe siècle cherchent-ils à déconstruire ?",
+      "choices": [
+        "L'ordre établi par le Traité de Versailles.",
+        "L'édifice bâti lors du Congrès de Vienne.",
+        "La structure de la Sainte-Alliance impériale.",
+        "Le système colonial imposé par les Britanniques.",
+        "L'organisation politique de la Restauration."
+      ],
+      "correctIndex": 1,
+      "explanation": "Les mouvements révolutionnaires visent à défaire l'ordre européen établi au Congrès de Vienne."
+    },
+    {
+      "id": "q3",
+      "prompt": "Comment est qualifiée l'organisation des mouvements de 1820 dans le texte ?",
+      "choices": [
+        "Des soulèvements populaires de grande ampleur.",
+        "Des insurrections paysannes structurées.",
+        "Des groupuscules isolés sans lien populaire.",
+        "Des coalitions militaires internationales.",
+        "Des partis politiques légalement constitués."
+      ],
+      "correctIndex": 2,
+      "explanation": "En 1820, l'action est le fait de groupuscules agissant souvent dans des sociétés secrètes."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quel est l'épicentre géographique de la vague révolutionnaire de 1830 ?",
+      "choices": [
+        "Vienne, siège de l'Empire d'Autriche-Hongrie.",
+        "Paris, d'où partent les ondes de choc.",
+        "Bruxelles, centre de la révolte belge.",
+        "Berlin, moteur de l'unification allemande.",
+        "Rome, foyer du nationalisme de gauche."
+      ],
+      "correctIndex": 1,
+      "explanation": "Le texte précise qu'en 1830, Paris est l'épicentre d'où partent les ondes de choc vers l'Europe."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quels sont les deux épicentres principaux de la vague de 1848 selon le document ?",
+      "choices": [
+        "Paris et Bruxelles.",
+        "Vienne et Berlin.",
+        "Paris et Londres.",
+        "Paris et Vienne.",
+        "Rome et Francfort."
+      ],
+      "correctIndex": 3,
+      "explanation": "En 1848, la révolution a deux épicentres : Paris (vers l'Allemagne et l'Italie) et Vienne."
+    },
+    {
+      "id": "q6",
+      "prompt": "Quelles sont les trois questions analytiques fondamentales posées pour étudier ces révolutions ?",
+      "choices": [
+        "Les causes, les moyens et les conséquences.",
+        "Les acteurs, les objectifs et les résultats.",
+        "Le contexte, la chronologie et l'héritage.",
+        "Les leaders, les batailles et les traités.",
+        "Les classes, les nations et les empires."
+      ],
+      "correctIndex": 1,
+      "explanation": "L'étude repose sur l'analyse des acteurs, des objectifs et des résultats obtenus."
+    },
+    {
+      "id": "q7",
+      "prompt": "Quelle est l'évolution schématique des forces sociales en action au cours du siècle ?",
+      "choices": [
+        "Peuple -> Classe bourgeoise -> Militaires.",
+        "Étudiants -> Militaires -> Classe ouvrière.",
+        "Groupuscules -> Bourgeoisie -> Masses populaires.",
+        "Aristocratie -> Bourgeoisie -> Prolétariat.",
+        "Ruralité -> Urbanité -> Industrialisation."
+      ],
+      "correctIndex": 2,
+      "explanation": "Le texte décrit un passage des groupuscules vers la bourgeoisie, puis vers la participation du peuple."
+    },
+    {
+      "id": "q8",
+      "prompt": "Qui sont les principaux acteurs de la vague révolutionnaire de 1820 ?",
+      "choices": [
+        "Les ouvriers et les paysans sans terre.",
+        "Les bourgeois et les commerçants urbains.",
+        "Les militaires et les étudiants.",
+        "L'aristocratie libérale et le clergé.",
+        "Les fonctionnaires et les artisans."
+      ],
+      "correctIndex": 2,
+      "explanation": "En 1820, ce sont principalement les militaires et les étudiants qui mènent l'action."
+    },
+    {
+      "id": "q9",
+      "prompt": "Pourquoi les militaires sont-ils mécontents lors de la vague de 1820 ?",
+      "choices": [
+        "Ils sont en demi-solde après les guerres napoléoniennes.",
+        "Ils refusent de servir les régimes constitutionnels.",
+        "Ils sont exclus des décisions du Congrès de Vienne.",
+        "Ils demandent une augmentation de leur influence politique.",
+        "Ils souhaitent rétablir l'Empire autoritaire de Napoléon."
+      ],
+      "correctIndex": 0,
+      "explanation": "Le mécontentement vient du fait que les guerres sont finies et qu'ils se retrouvent en demi-solde."
+    },
+    {
+      "id": "q10",
+      "prompt": "Quelle est la caractéristique idéologique des étudiants en 1820 ?",
+      "choices": [
+        "Ils prônent un retour à l'Ancien Régime.",
+        "Ils sont nostalgiques de l'époque révolutionnaire.",
+        "Ils exigent la création de partis socialistes.",
+        "Ils défendent le maintien du statu quo monarchique.",
+        "Ils militent pour le suffrage universel immédiat."
+      ],
+      "correctIndex": 1,
+      "explanation": "Les étudiants de 1820 sont décrits comme nostalgiques de l'époque révolutionnaire."
+    },
+    {
+      "id": "q11",
+      "prompt": "Comment le mouvement révolutionnaire de 1820 est-il structurellement organisé ?",
+      "choices": [
+        "Sous forme de partis politiques parlementaires.",
+        "Via des syndicats ouvriers en pleine expansion.",
+        "Dans des petites sociétés secrètes sans lien populaire.",
+        "Par des assemblées de citoyens auto-organisées.",
+        "À travers des milices paysannes territoriales."
+      ],
+      "correctIndex": 2,
+      "explanation": "L'explosion révolutionnaire de 1820 se fait dans des sociétés secrètes sans lien avec la population réelle."
+    },
+    {
+      "id": "q12",
+      "prompt": "Quelle classe sociale est l'acteur dominant de la révolution de 1830 ?",
+      "choices": [
+        "La paysannerie en révolte contre les seigneurs.",
+        "La classe bourgeoise mécontente de la Restauration.",
+        "Le prolétariat urbain des grandes manufactures.",
+        "La petite noblesse progressiste des campagnes.",
+        "L'armée régulière souhaitant un changement de régime."
+      ],
+      "correctIndex": 1,
+      "explanation": "Les bourgeois sont les acteurs clés de 1830, car ils s'estiment non reconnus par la Restauration."
+    },
+    {
+      "id": "q13",
+      "prompt": "Quelle action de Charles X provoque le mécontentement bourgeois en 1830 ?",
+      "choices": [
+        "Sa volonté de supprimer totalement la Charte libérale.",
+        "Son souhait de remettre le drapeau blanc au lys bleu.",
+        "Sa décision d'augmenter massivement les impôts fonciers.",
+        "Son refus de s'engager dans les conflits coloniaux.",
+        "Sa tentative d'abolir la propriété privée urbaine."
+      ],
+      "correctIndex": 1,
+      "explanation": "Charles X veut rétablir des symboles de l'Ancien Régime, comme le drapeau blanc au lys bleu."
+    },
+    {
+      "id": "q14",
+      "prompt": "Quel rôle le peuple joue-t-il dans les révolutions de 1830 ?",
+      "choices": [
+        "Une force autonome avec ses propres revendications.",
+        "Une force dirigée utilisée comme force brute par les bourgeois.",
+        "Un soutien passif restant à l'écart des barricades.",
+        "Une organisation structurée en conseils d'ouvriers.",
+        "Une garde nationale chargée de protéger le roi."
+      ],
+      "correctIndex": 1,
+      "explanation": "Le peuple est utilisé par les bourgeois comme force brute, mais il n'est pas une force autonome en 1830."
+    },
+    {
+      "id": "q15",
+      "prompt": "Quelles zones géographiques voient naître un désir d'unité nationale en 1830 ?",
+      "choices": [
+        "Les zones britanniques et scandinaves.",
+        "Les zones italiennes et allemandes.",
+        "Les régions russes et polonaises.",
+        "L'Empire ottoman et les Balkans.",
+        "Les provinces espagnoles et portugaises."
+      ],
+      "correctIndex": 1,
+      "explanation": "En 1830, il y a un début de désir de faire l'Italie et l'Allemagne."
+    },
+    {
+      "id": "q16",
+      "prompt": "Qui sont les acteurs principaux du 'Printemps des peuples' en 1848 ?",
+      "choices": [
+        "Les diplomates et les chefs d'État européens.",
+        "Les masses populaires urbaines et rurales.",
+        "Uniquement les intellectuels des universités.",
+        "Les officiers supérieurs des armées impériales.",
+        "La grande bourgeoisie financière exclusivement."
+      ],
+      "correctIndex": 1,
+      "explanation": "1848 est caractérisé par l'action des masses populaires urbaines et rurales."
+    },
+    {
+      "id": "q17",
+      "prompt": "Où la participation rurale est-elle particulièrement marquée en 1848 ?",
+      "choices": [
+        "Surtout en France et en Grande-Bretagne.",
+        "Exclusivement dans la péninsule italique.",
+        "Surtout en Europe centrale et de l'est.",
+        "Dans les zones côtières de la mer du Nord.",
+        "Dans les colonies d'Amérique latine."
+      ],
+      "correctIndex": 2,
+      "explanation": "Les masses rurales sont surtout actives en Europe centrale et de l'est durant la vague de 1848."
+    },
+    {
+      "id": "q18",
+      "prompt": "Quel est l'objectif politique premier de la vague révolutionnaire de 1820 ?",
+      "choices": [
+        "L'instauration d'un suffrage universel immédiat.",
+        "L'obtention d'une constitution ou loi fondamentale.",
+        "Le renversement total de la hiérarchie sociale.",
+        "La création d'une alliance militaire défensive.",
+        "La suppression de la propriété privée des terres."
+      ],
+      "correctIndex": 1,
+      "explanation": "En 1820, le but est d'obtenir une constitution pour limiter l'arbitraire des princes."
+    },
+    {
+      "id": "q19",
+      "prompt": "Quel type de nationalisme caractérise la Belgique en 1830 ?",
+      "choices": [
+        "Un nationalisme par unification avec la France.",
+        "Un nationalisme de conquête impériale.",
+        "Un nationalisme par séparation des Hollandais.",
+        "Un nationalisme purement culturel et linguistique.",
+        "Un nationalisme religieux contre les protestants."
+      ],
+      "correctIndex": 2,
+      "explanation": "En Belgique, l'objectif national est la séparation d'avec les Hollandais."
+    },
+    {
+      "id": "q20",
+      "prompt": "Quelle est la nature du mouvement nationaliste dans les zones italiennes en 1830 ?",
+      "choices": [
+        "Un mouvement conservateur et monarchiste.",
+        "Un mouvement de gauche nationaliste.",
+        "Une coalition cléricale pour l'unité du Pape.",
+        "Une organisation secrète de droite radicale.",
+        "Une alliance entre l'aristocratie et l'Autriche."
+      ],
+      "correctIndex": 1,
+      "explanation": "Le document décrit le mouvement italien de 1830 comme étant de gauche nationaliste."
+    },
+    {
+      "id": "q21",
+      "prompt": "Quels sont les trois types d'objectifs cumulatifs de la vague de 1848 ?",
+      "choices": [
+        "Militaires, religieux et économiques.",
+        "Éducatifs, artistiques et diplomatiques.",
+        "Politiques, nationaux et sociaux.",
+        "Territoriaux, dynastiques et juridiques.",
+        "Législatifs, exécutifs et judiciaires."
+      ],
+      "correctIndex": 2,
+      "explanation": "1848 combine des objectifs politiques, nationaux et sociaux."
+    },
+    {
+      "id": "q22",
+      "prompt": "Quel est le résultat national concret des révolutions de 1848 ?",
+      "choices": [
+        "L'unification immédiate et totale de l'Europe.",
+        "Le démarrage réel de l'unification allemande et italienne.",
+        "La fin de l'influence autrichienne en Europe du Sud.",
+        "La création d'un État slave indépendant au centre.",
+        "Le démantèlement de l'Empire de Russie."
+      ],
+      "correctIndex": 1,
+      "explanation": "1848 marque le démarrage réel du processus d'unification pour l'Allemagne et l'Italie."
+    },
+    {
+      "id": "q23",
+      "prompt": "Quelle est la cause économique majeure de l'explosion des peuples en 1848 ?",
+      "choices": [
+        "Une inflation galopante due à l'or américain.",
+        "Une crise démarrée en 1846 par de mauvaises récoltes.",
+        "L'instauration de taxes douanières excessives.",
+        "La chute brutale du cours de la monnaie anglaise.",
+        "Une grève générale des transports ferroviaires."
+      ],
+      "correctIndex": 1,
+      "explanation": "La misère due à la crise économique de 1846 (mauvaises récoltes) est un facteur clé."
+    },
+    {
+      "id": "q24",
+      "prompt": "Comment la Révolution Industrielle (RI) influence-t-elle les mouvements de 1848 ?",
+      "choices": [
+        "Elle enrichit les ouvriers, les rendant plus influents.",
+        "Elle crée des conditions de vie et de travail à la limite de la survie.",
+        "Elle facilite le transport des troupes pour réprimer les révoltes.",
+        "Elle détourne le peuple de la politique grâce à la technologie.",
+        "Elle unifie les marchés européens avant les nations."
+      ],
+      "correctIndex": 1,
+      "explanation": "La RI a créé une classe ouvrière dont les conditions de travail sont précaires et proches de la survie."
+    },
+    {
+      "id": "q25",
+      "prompt": "Quel est le bilan final de la vague révolutionnaire de 1820 ?",
+      "choices": [
+        "L'adoption de chartes libérales dans toute l'Europe.",
+        "Un échec total sans constitution ou réforme accordée.",
+        "La chute de plusieurs monarchies absolues en Orient.",
+        "Le succès des complots militaires à Paris et Moscou.",
+        "L'indépendance immédiate des nations balkaniques."
+      ],
+      "correctIndex": 1,
+      "explanation": "1820 se solde par un échec sans aucun résultat concret ou constitution accordée."
+    },
+    {
+      "id": "q26",
+      "prompt": "Quel pays adopte la constitution la plus libérale de l'époque après 1830 ?",
+      "choices": [
+        "La France, sous la Monarchie de Juillet.",
+        "La Belgique, après son indépendance.",
+        "Le Royaume-Uni des Pays-Bas.",
+        "La Russie, sous l'influence des étudiants.",
+        "L'Espagne, suite à une révolte militaire."
+      ],
+      "correctIndex": 1,
+      "explanation": "La Belgique obtient son indépendance et une constitution considérée comme la plus libérale d'alors."
+    },
+    {
+      "id": "q27",
+      "prompt": "Quel rôle la constitution belge a-t-elle joué à l'échelle internationale ?",
+      "choices": [
+        "Elle a servi de base au Traité de Vienne.",
+        "Elle a été un modèle pour la décolonisation en Amérique latine.",
+        "Elle a été rejetée par l'ensemble des libéraux européens.",
+        "Elle a imposé le français comme langue diplomatique.",
+        "Elle a interdit toute forme de monarchie constitutionnelle."
+      ],
+      "correctIndex": 1,
+      "explanation": "Le texte indique que la constitution belge a servi de modèle aux mouvements en Amérique latine."
+    },
+    {
+      "id": "q28",
+      "prompt": "Qui remplace Charles X sur le trône de France après la révolution de 1830 ?",
+      "choices": [
+        "Napoléon III, premier président élu.",
+        "Louis-Philippe d'Orléans, le 'roi bourgeois'.",
+        "Louis XVIII, pour une seconde restauration.",
+        "Lafayette, à la tête d'un gouvernement provisoire.",
+        "Le Duc de Berry, héritier légitime de la couronne."
+      ],
+      "correctIndex": 1,
+      "explanation": "C'est Louis-Philippe d'Orléans qui monte sur le trône, qualifié de 'roi bourgeois'."
+    },
+    {
+      "id": "q29",
+      "prompt": "Quelle est la particularité du titre de Louis-Philippe d'Orléans ?",
+      "choices": [
+        "Il est sacré 'Empereur des Français' par le Pape.",
+        "Il est 'Roi de France et de Navarre' par droit divin.",
+        "Il est 'Roi des Français' et roi constitutionnel.",
+        "Il refuse tout titre royal pour être 'Premier Citoyen'.",
+        "Il est nommé 'Protecteur de la Nation' par l'armée."
+      ],
+      "correctIndex": 2,
+      "explanation": "Il est le seul roi de l'histoire de France à être 'Roi des Français' et roi constitutionnel."
+    },
+    {
+      "id": "q30",
+      "prompt": "Comment est qualifié le résultat global de la vague de 1848 à court terme ?",
+      "choices": [
+        "Une victoire définitive de la démocratie sociale.",
+        "Globalement un échec avec une reprise en main conservatrice.",
+        "Un succès total pour l'unification de l'Italie.",
+        "Une transformation pacifique des empires en républiques.",
+        "L'instauration d'un parlement européen à Vienne."
+      ],
+      "correctIndex": 1,
+      "explanation": "Malgré l'ampleur du mouvement, c'est globalement un échec car les forces conservatrices reprennent la main."
+    },
+    {
+      "id": "q31",
+      "prompt": "Quel acquis démocratique majeur subsiste en France après 1848 ?",
+      "choices": [
+        "Le droit de grève et de coalition ouvrière.",
+        "L'instauration du suffrage universel masculin.",
+        "L'abolition définitive de la peine de mort.",
+        "La séparation de l'Église et de l'État.",
+        "La gratuité totale de l'enseignement primaire."
+      ],
+      "correctIndex": 1,
+      "explanation": "Le suffrage universel masculin est maintenu en France après la révolution de 1848."
+    },
+    {
+      "id": "q32",
+      "prompt": "Quel changement social important intervient en Europe centrale suite à 1848 ?",
+      "choices": [
+        "L'adoption du système de sécurité sociale.",
+        "L'abandon des droits féodaux.",
+        "La limitation de la journée de travail à 8 heures.",
+        "L'interdiction du travail des enfants en usine.",
+        "La redistribution égalitaire de toutes les terres."
+      ],
+      "correctIndex": 1,
+      "explanation": "Dans l'Europe centrale (Empire autrichien), les droits féodaux sont abandonnés."
+    },
+    {
+      "id": "q33",
+      "prompt": "En quelle année les droits féodaux sont-ils finalement abandonnés en Russie ?",
+      "choices": [
+        "En 1820, suite aux révoltes étudiantes.",
+        "En 1848, lors du Printemps des peuples.",
+        "En 1863, plus tard que dans le reste de l'Europe.",
+        "En 1871, pendant la Commune de Paris.",
+        "En 1905, après la défaite contre le Japon."
+      ],
+      "correctIndex": 2,
+      "explanation": "Le texte précise que les droits féodaux en Russie ne sont abandonnés qu'en 1863."
+    },
+    {
+      "id": "q34",
+      "prompt": "Quelle nouvelle source de légitimité pour les souverains émerge après 1848 ?",
+      "choices": [
+        "Le sacre religieux traditionnel dans les cathédrales.",
+        "La constitution, qui rend le souverain légitime.",
+        "L'élection directe du monarque par le peuple.",
+        "La force pure de l'armée dévouée à la couronne.",
+        "La reconnaissance diplomatique par la Sainte-Alliance."
+      ],
+      "correctIndex": 1,
+      "explanation": "Il devient normal d'avoir une constitution, et le souverain tire désormais sa légitimité de celle-ci."
+    },
+    {
+      "id": "q35",
+      "prompt": "Quelle est la principale caractéristique de la Commune de 1871 par rapport aux vagues précédentes ?",
+      "choices": [
+        "Elle se concentre uniquement sur l'unification nationale.",
+        "Elle a un aspect idéologique annonçant le XXe siècle.",
+        "Elle est dirigée par la bourgeoisie libérale de province.",
+        "Elle vise à rétablir une constitution monarchique.",
+        "Elle refuse toute forme de violence ou de lutte armée."
+      ],
+      "correctIndex": 1,
+      "explanation": "La Commune n'est plus seulement une question de constitution ou de nation, elle a une dimension idéologique."
+    },
+    {
+      "id": "q36",
+      "prompt": "Qui s'affronte lors de la guerre civile de 1871 en France ?",
+      "choices": [
+        "La France et la Prusse pour le contrôle de l'Alsace.",
+        "Paris (Communards) et la Province (Versaillais).",
+        "L'armée de Napoléon III et les républicains radicaux.",
+        "Les paysans bretons et les ouvriers lyonnais.",
+        "Les étudiants parisiens et les milices étudiantes."
+      ],
+      "correctIndex": 1,
+      "explanation": "La Commune représente une guerre civile entre les Communards (Paris) et les Versaillais (la Province)."
+    },
+    {
+      "id": "q37",
+      "prompt": "Comment se nomme la période de répression sanglante de la Commune ?",
+      "choices": [
+        "La Terreur Blanche de la Restauration.",
+        "La Semaine sanglante.",
+        "Le Massacre de la Saint-Barthélemy.",
+        "La Grande Peur des campagnes.",
+        "L'Automne de fer des conservateurs."
+      ],
+      "correctIndex": 1,
+      "explanation": "La répression des Communards par l'armée régulière est appelée la 'Semaine sanglante'."
+    },
+    {
+      "id": "q38",
+      "prompt": "Quelle conséquence idéologique majeure la Commune a-t-elle eue sur le socialisme ?",
+      "choices": [
+        "Elle a renforcé la crédibilité du socialisme réformiste.",
+        "Elle a marqué la fin définitive du socialisme utopique.",
+        "Elle a permis l'unification des partis socialistes européens.",
+        "Elle a conduit à l'abandon total des idées collectivistes.",
+        "Elle a imposé le socialisme comme religion d'État."
+      ],
+      "correctIndex": 1,
+      "explanation": "L'événement entraîne la fin définitive du socialisme utopique, déjà affaibli en 1848."
+    },
+    {
+      "id": "q39",
+      "prompt": "Comment Trotsky et Lénine analysent-ils la Commune de Paris ?",
+      "choices": [
+        "Comme un échec historique à ne jamais reproduire.",
+        "Comme la preuve qu'une révolution socialiste est possible.",
+        "Comme un mouvement bourgeois déguisé en révolte populaire.",
+        "Comme une simple mutinerie militaire sans portée politique.",
+        "Comme un obstacle au développement du capitalisme russe."
+      ],
+      "correctIndex": 1,
+      "explanation": "Ils l'analysent pour montrer qu'une révolution socialiste est possible, même sans maturité capitaliste complète."
+    },
+    {
+      "id": "q40",
+      "prompt": "De quoi la Commune de Paris est-elle devenue le symbole selon le texte ?",
+      "choices": [
+        "Du triomphe de la monarchie constitutionnelle.",
+        "De la gauche extrême pour l'époque.",
+        "De la stabilité de la IIIe République naissante.",
+        "De l'alliance entre l'Église et le peuple ouvrier.",
+        "Du déclin définitif de la ville de Paris."
+      ],
+      "correctIndex": 1,
+      "explanation": "La Commune est devenue un symbole de la gauche extrême pour son époque."
+    }
+  ],
+  "course": "Histoire"
+}
