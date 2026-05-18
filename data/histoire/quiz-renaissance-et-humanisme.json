@@ -1,0 +1,535 @@
+{
+  "quizId": "renaissance-et-humanisme",
+  "title": "La Renaissance et l'Humanisme",
+  "section": {
+    "id": "renaissance-et-humanisme",
+    "title": "La Renaissance et l'Humanisme",
+    "startPage": 18,
+    "endPage": 28,
+    "summary": "Exploration du renouveau intellectuel et artistique. Détaille l'humanisme italien, le rôle des mécènes comme les Médicis, et les révolutions artistiques (perspective, peinture à l'huile) en Italie et en Europe du Nord.",
+    "estimatedQuestionCount": 35
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Selon le médiéviste Jacques Le Goff, quand se terminerait potentiellement la période qualifiée de « long Moyen Âge » ?",
+      "choices": [
+        "À la fin du XVe siècle avec l'imprimerie",
+        "Au cours du XVIIIe siècle avec les Lumières",
+        "Dès le XIVe siècle avec la peste noire",
+        "Au début du XVIIe siècle après la Renaissance",
+        "À la fin du XVIe siècle avec les guerres de religion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jacques Le Goff propose le concept de 'long Moyen Âge' qui s'étendrait jusqu'au XVIIIe siècle, contestant ainsi la rupture radicale de la Renaissance."
+    },
+    {
+      "id": "q2",
+      "prompt": "Quels sont les arguments d'ordre « philosophique » évoqués par certains historiens pour déprécier la notion de Renaissance ?",
+      "choices": [
+        "L'absence totale de progrès technique dans le domaine agricole",
+        "Le déclin irrémédiable des structures sociales féodales",
+        "L'origine du nationalisme, de la colonisation et de la traite",
+        "Le rejet systématique des savoirs scientifiques de l'Antiquité",
+        "La persistance généralisée de l'analphabétisme en Europe"
+      ],
+      "correctIndex": 2,
+      "explanation": "La Renaissance est parfois critiquée comme le démarrage de phénomènes perçus négativement aujourd'hui : colonialisme, nationalisme et européo-centrisme."
+    },
+    {
+      "id": "q3",
+      "prompt": "Selon Jean-Marie Le Gall, comment l'individu se définit-il majoritairement durant le Moyen Âge par rapport à la Renaissance ?",
+      "choices": [
+        "Par une introspection constante à travers l'écriture personnelle",
+        "Comme un acteur autonome détaché de toute structure étatique",
+        "En étant inscrit dans différents réseaux comme les villages et royaumes",
+        "Par une volonté farouche de devenir maître et possesseur de la nature",
+        "Comme un créateur génial égalant par sa pensée la puissance divine"
+      ],
+      "correctIndex": 2,
+      "explanation": "Au Moyen Âge, l'individu est défini par son appartenance à des réseaux collectifs (village, royaume), contrairement à la redéfinition de l'individu à la Renaissance."
+    },
+    {
+      "id": "q4",
+      "prompt": "Quelle distinction le texte établit-il entre l'attitude de l'homme du XVIe siècle et celle de l'homme du XVIIe siècle face à la nature ?",
+      "choices": [
+        "L'homme du XVIe siècle est conquérant tandis que celui du XVIIe est humble",
+        "L'homme du XVIe siècle l'exploite alors que celui du XVIIe la vénère",
+        "L'homme du XVIe siècle est amène alors que celui du XVIIe veut s'en rendre maître",
+        "L'homme du XVIe siècle la craint tandis que celui du XVIIe l'ignore totalement",
+        "L'homme du XVIe siècle est destructeur alors que celui du XVIIe la protège"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le texte oppose la douceur des hommes du XVIe à l'ambition cartésienne du XVIIe de se faire 'maître et possesseur de la nature'."
+    },
+    {
+      "id": "q5",
+      "prompt": "Quel événement majeur est associé à l'année 1450 dans le cadre des propositions de datation de la Renaissance ?",
+      "choices": [
+        "La fin de la phase religieuse de la Guerre de Trente Ans",
+        "L'apparition du courant religieux nommé le jansénisme",
+        "La chute de Constantinople, capitale de l'Empire Romain d'Orient",
+        "La signature des traités de paix mettant fin aux guerres d'Italie",
+        "La fondation du Collège Royal par le roi François Ier à Paris"
+      ],
+      "correctIndex": 2,
+      "explanation": "1450 marque une date charnière incluant la fin de la guerre de Cent ans, l'invention de l'imprimerie et la chute de Constantinople."
+    },
+    {
+      "id": "q6",
+      "prompt": "Pourquoi l'année 1630 est-elle suggérée comme date de fin de la période de la Renaissance ?",
+      "choices": [
+        "Elle marque l'invention de la peinture à l'huile par les Flamands",
+        "Elle correspond à la fin de la phase religieuse de la Guerre de Trente Ans",
+        "Elle coïncide avec le sac de Rome par les mercenaires de Charles Quint",
+        "Elle voit la publication du Courtisan de Baldassare Castiglione",
+        "Elle signe l'arrêt de mort de l'humaniste Thomas More en Angleterre"
+      ],
+      "correctIndex": 1,
+      "explanation": "La période 1630 marque la fin de la dimension religieuse de la Guerre de Trente Ans et l'apparition du jansénisme."
+    },
+    {
+      "id": "q7",
+      "prompt": "Comment est défini le concept de « Patriciat urbain » dans le contexte des villes marchandes italiennes ?",
+      "choices": [
+        "Une alliance militaire entre les condottieri et la papauté romaine",
+        "Une fusion entre la bourgeoisie urbaine et l'ancienne noblesse",
+        "Une classe sociale composée exclusivement de paysans enrichis",
+        "Une guilde regroupant uniquement les banquiers d'origine étrangère",
+        "Un conseil de sages chargé de réguler le prix des draps de laine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le patriciat urbain représente la fusion entre la nouvelle puissance économique bourgeoise et la légitimité de l'ancienne noblesse."
+    },
+    {
+      "id": "q8",
+      "prompt": "Que désigne le terme de « Condottieri » apparu dans les principautés italiennes ?",
+      "choices": [
+        "Des maîtres d'écoles urbaines spécialisés en rhétorique classique",
+        "Des chefs d'État issus de contrats militaires (capitaines de guerre)",
+        "Des experts chargés de négocier les contrats entre artistes et mécènes",
+        "Des ambassadeurs permanents représentant les intérêts des Médicis",
+        "Des marchands de soie originaires de la Méditerranée Orientale"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les Condottieri étaient des capitaines de guerre (de condotta, contrat militaire) devenus chefs d'État, comme les Sforza à Milan."
+    },
+    {
+      "id": "q9",
+      "prompt": "Quel souverain italien se présentait comme un empereur romain tout en étant décrit comme une « grosse brute » et un mécène ?",
+      "choices": [
+        "Cosme de Médicis à Florence",
+        "Ludovic le More à Milan",
+        "Sigismond Malatesta à Rimini",
+        "Frédéric de Montefeltre à Urbino",
+        "Borso d'Este à Ferrare"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sigismond Malatesta adoptait les codes de la Renaissance et se présentait comme un empereur romain tout en étant un prince éclairé et brutal."
+    },
+    {
+      "id": "q10",
+      "prompt": "À quel secteur d'activité les Médicis doivent-ils leur ascension initiale à Florence au milieu du XIVe siècle ?",
+      "choices": [
+        "L'exportation exclusive de vins de Toscane vers l'Angleterre",
+        "Le commerce de l'alun pour la teinture des tissus précieux",
+        "Le commerce du drap de Flandre, de la soie et l'activité bancaire",
+        "La fabrication d'armes lourdes pour les cités-États en conflit",
+        "Le monopole du transport maritime entre Venise et Constantinople"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'ascension des Médicis repose sur le textile (drap de Flandre, soie) et sur leur puissance en tant que banquiers internationaux."
+    },
+    {
+      "id": "q11",
+      "prompt": "Quelle était la particularité politique du pouvoir des Médicis sous Laurent le Magnifique ?",
+      "choices": [
+        "Une dictature militaire assumée sans aucune forme d'élection",
+        "Une monarchie de droit divin reconnue officiellement par le Pape",
+        "Une monarchie gardant toutes les apparences d'une république",
+        "Une théocratie basée sur les principes de saint François d'Assise",
+        "Un gouvernement de technocrates choisis dans les écoles urbaines"
+      ],
+      "correctIndex": 2,
+      "explanation": "Les Médicis exercent une autorité de fait ('tirent les ficelles') sans poste politique officiel, maintenant les structures républicaines de Florence."
+    },
+    {
+      "id": "q12",
+      "prompt": "Quel anachronisme volontaire figure dans l'œuvre de Ghirlandaio représentant Saint François d'Assise ?",
+      "choices": [
+        "La présence de soldats romains dans une église médiévale",
+        "La représentation de Laurent le Magnifique et de ses proches au XIIIe s.",
+        "L'utilisation d'ordinateurs et de télescopes par les moines franciscains",
+        "La figure du Pape Pie II discutant avec des marchands flamands",
+        "L'arrière-plan montrant les pyramides d'Égypte au lieu de l'Italie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bien que l'épisode se passe au XIIIe siècle, Ghirlandaio peint au premier plan Laurent le Magnifique et les dirigeants de la banque Médicis."
+    },
+    {
+      "id": "q13",
+      "prompt": "Quelle différence fondamentale existait-il entre l'enseignement universitaire et celui des écoles urbaines ?",
+      "choices": [
+        "L'université enseignait l'art alors que les écoles enseignaient le droit",
+        "L'université visait les savoirs théoriques et les écoles les savoirs pratiques",
+        "L'université était gratuite tandis que les écoles étaient privées et chères",
+        "L'université formait les prêtres et les écoles les futurs militaires",
+        "L'université utilisait le grec ancien et les écoles uniquement le toscan"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les universités se concentraient sur les savoirs théoriques tandis que les écoles urbaines enseignaient le calcul, l'écriture et la rhétorique pratique."
+    },
+    {
+      "id": "q14",
+      "prompt": "Que désigne le concept cicéronien d' « Otium » valorisé par les humanistes ?",
+      "choices": [
+        "Une paresse totale dédiée au mépris des affaires publiques",
+        "Un loisir intelligent consacré à l'apprentissage et à la culture",
+        "Une forme d'austérité religieuse visant le salut de l'âme",
+        "Un exercice physique intense destiné à préparer l'homme à la guerre",
+        "Un engagement politique exclusif au détriment de la vie privée"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'otium est le loisir noble et intelligent qui permet de s'élever par l'étude des arts et de la littérature."
+    },
+    {
+      "id": "q15",
+      "prompt": "Comment les humanistes considéraient-ils le latin classique par rapport au latin médiéval ?",
+      "choices": [
+        "Comme une langue morte et inutile pour la science moderne",
+        "Comme l'idéal linguistique à restaurer au-delà des évolutions du Moyen Âge",
+        "Comme un code secret réservé uniquement aux transactions bancaires",
+        "Comme une menace pour le développement des littératures nationales",
+        "Comme une invention des 'Barbares' destinée à corrompre l'Italie"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pour les humanistes, le latin classique d'avant le Moyen Âge est la langue de référence et l'idéal à pratiquer."
+    },
+    {
+      "id": "q16",
+      "prompt": "Selon la notion d' « Humanitas », sur quoi est fondée l'exaltation de l'homme ?",
+      "choices": [
+        "Sur la soumission aveugle aux déchaînements de la nature",
+        "Sur l'accumulation de richesses par tous les moyens possibles",
+        "Sur la beauté, la culture, la grandeur et l'action héroïque",
+        "Sur le refus catégorique de s'engager dans les affaires de la cité",
+        "Sur l'abandon total des plaisirs terrestres pour la vie érémitique"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'humanitas est une vision optimiste de l'homme capable de créer de la beauté et de s'illustrer par des actions héroïques et culturelles."
+    },
+    {
+      "id": "q17",
+      "prompt": "Que représente la « Virtù » pour un homme de la Renaissance ?",
+      "choices": [
+        "Une piété religieuse extrême menant au retrait du monde",
+        "Une technique de combat spécifique aux condottieri de Milan",
+        "L'énergie et la force morale permettant de maîtriser ses passions",
+        "L'obéissance absolue aux ordres du Prince et de l'Église",
+        "L'art de peindre en utilisant la perspective géométrique"
+      ],
+      "correctIndex": 2,
+      "explanation": "La virtù est une science du bon comportement, une force morale qui permet à l'homme d'agir efficacement sur terre pour son bonheur."
+    },
+    {
+      "id": "q18",
+      "prompt": "Quel auteur grec a été la « nouvelle star » de l'humanisme grâce aux traductions de Marsile Ficin ?",
+      "choices": [
+        "Aristote et sa vision du monde sensible",
+        "Homère et ses récits épiques de la guerre",
+        "Platon et sa théorie des Idées",
+        "Plutarque et ses biographies comparées",
+        "Hérodote et ses chroniques historiques"
+      ],
+      "correctIndex": 2,
+      "explanation": "Platon a largement inspiré l'humanisme après avoir été redécouvert et traduit par Marsile Ficin."
+    },
+    {
+      "id": "q19",
+      "prompt": "Dans la fresque de Raphaël « L'École d'Athènes », quels philosophes illustrent l'opposition entre les Idées et le monde sensible ?",
+      "choices": [
+        "Socrate et Plutarque",
+        "Platon et Aristote",
+        "Épicure et Zénon",
+        "Cicéron et Sénèque",
+        "Héraclite et Parménide"
+      ],
+      "correctIndex": 1,
+      "explanation": "Raphaël représente Platon montrant le ciel (les Idées) et Aristote montrant la terre (le monde sensible)."
+    },
+    {
+      "id": "q20",
+      "prompt": "Pourquoi Dante Alighieri est-il considéré comme le premier auteur au sens moderne du terme ?",
+      "choices": [
+        "Parce qu'il a écrit exclusivement en latin classique pur",
+        "Parce qu'il a été le premier à utiliser l'imprimerie pour ses textes",
+        "Parce qu'il fait de la passion l'objet du texte et utilise la langue vernaculaire",
+        "Parce qu'il a dirigé l'université de Padoue pendant vingt ans",
+        "Parce qu'il a refusé toute allusion aux personnages de son époque"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dante utilise le toscan (langue vernaculaire) et introduit une subjectivité et une modernité dans l'expression littéraire."
+    },
+    {
+      "id": "q21",
+      "prompt": "Quel événement historique sert de toile de fond au « Décaméron » de Jean Boccace ?",
+      "choices": [
+        "Le sac de Rome par les troupes impériales en 1527",
+        "La chute de Constantinople face aux Turcs en 1453",
+        "L'épidémie de peste noire en 1348",
+        "La signature du traité de paix après la guerre de Cent ans",
+        "L'exécution de Thomas More par le roi Henri VIII"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dans le Décaméron, dix jeunes gens se réfugient à la campagne pour échapper à la contagion de la peste de 1348."
+    },
+    {
+      "id": "q22",
+      "prompt": "Pour quelle raison l'humaniste Thomas More a-t-il été exécuté par Henri VIII ?",
+      "choices": [
+        "Pour avoir détourné les fonds du Collège des cinq langues",
+        "Pour avoir conseillé au roi de ne pas divorcer et de rester lié à Rome",
+        "Pour avoir tenté d'introduire la perspective italienne à la cour",
+        "Pour avoir traduit la Bible en anglais sans l'autorisation du Pape",
+        "Pour avoir comploté avec François Ier afin d'envahir Londres"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thomas More, chancelier humaniste, s'est opposé au divorce d'Henri VIII et à la rupture avec l'autorité papale."
+    },
+    {
+      "id": "q23",
+      "prompt": "Comment Baldassare Castiglione définit-il l'individu accompli dans son ouvrage « Le Courtisan » ?",
+      "choices": [
+        "Comme un guerrier impitoyable ne reculant devant aucune violence",
+        "Comme un maître de ses émotions et de son intelligence affichant sa virtù",
+        "Comme un riche marchand obsédé par le calcul et l'accroissement de ses biens",
+        "Comme un moine contemplatif dévoué uniquement à la prière latine",
+        "Comme un inventeur capable de construire des machines de guerre complexes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le courtisan idéal est celui qui développe l'humanitas, le raffinement des manières et une maîtrise totale de soi."
+    },
+    {
+      "id": "q24",
+      "prompt": "Quelle thèse Norbert Elias soutient-il à propos du succès des manuels de civilité comme « Le Courtisan » ?",
+      "choices": [
+        "Ils sont le signe d'un déclin inévitable de l'autorité royale",
+        "Ils participent à un processus de civilisation des mœurs venu des puissants",
+        "Ils favorisent la rébellion des classes populaires contre l'aristocratie",
+        "Ils sont la preuve que la culture de la Renaissance était purement orale",
+        "Ils ont été créés pour encourager les nobles à quitter les cours princières"
+      ],
+      "correctIndex": 1,
+      "explanation": "Norbert Elias voit dans ces ouvrages une tentative de policer la société et de discipliner les pulsions par des normes contraignantes."
+    },
+    {
+      "id": "q25",
+      "prompt": "Quel est l'objectif principal de l'ouvrage « L'Éloge de la folie » (1509) d'Érasme ?",
+      "choices": [
+        "Faire l'apologie de la guerre comme moteur de la civilisation",
+        "Dénoncer l'hypocrisie et le ridicule de toutes les catégories sociales",
+        "Proposer une nouvelle méthode de calcul pour les banques Médicis",
+        "Célébrer la victoire de Charles Quint lors du sac de Rome",
+        "Expliquer les règles de la perspective aux peintres flamands"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dans ce texte, Érasme fait parler la Folie pour critiquer les travers des avocats, courtisans, juristes et membres de l'Église."
+    },
+    {
+      "id": "q26",
+      "prompt": "Quel travail philologique d'Érasme a provoqué un scandale religieux à son époque ?",
+      "choices": [
+        "La traduction de l'Enfer de Dante en latin classique",
+        "L'édition du texte grec du Nouveau Testament dénonçant des versets faux",
+        "La rédaction d'un manuel de diplomatie pour le duc d'Urbino",
+        "La critique des méthodes de construction de la coupole de Brunelleschi",
+        "La publication des mémoires secrets de Laurent le Magnifique"
+      ],
+      "correctIndex": 1,
+      "explanation": "Érasme a appliqué l'esprit critique aux textes sacrés, révélant que certains versets sur la Trinité étaient des ajouts tardifs."
+    },
+    {
+      "id": "q27",
+      "prompt": "Quelle est la devise de l'abbaye de Thélème dans l'œuvre de François Rabelais ?",
+      "choices": [
+        "Savoir c'est pouvoir",
+        "Fais ce que voudras",
+        "Ora et labora",
+        "Méfie-toi du temps",
+        "L'homme est un loup pour l'homme"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cette devise illustre la confiance de Rabelais en l'homme bien éduqué, capable de se diriger librement vers le bien."
+    },
+    {
+      "id": "q28",
+      "prompt": "Selon Giorgio Vasari, quel peintre est considéré comme le précurseur de la Renaissance ?",
+      "choices": [
+        "Léonard de Vinci",
+        "Michel-Ange",
+        "Giotto",
+        "Botticelli",
+        "Raphaël"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vasari identifie Giotto (1267-1337) comme celui qui a rompu avec le style byzantin pour initier la modernité picturale."
+    },
+    {
+      "id": "q29",
+      "prompt": "Quelle innovation majeure Giotto apporte-t-il à la peinture par rapport au style byzantin ?",
+      "choices": [
+        "L'utilisation systématique du fond d'or pour représenter l'éternité",
+        "L'absence totale de cadre architectural autour des personnages",
+        "La structuration de l'espace en profondeur et la transformation en récit",
+        "Le refus de représenter la gamme des émotions humaines",
+        "Le retour à une représentation plate sans aucune règle d'optique"
+      ],
+      "correctIndex": 2,
+      "explanation": "Giotto installe ses personnages dans des décors précis et utilise des gestes expressifs pour raconter une histoire dans l'espace."
+    },
+    {
+      "id": "q30",
+      "prompt": "Que signifie la valeur de « Magnificence » dans la société italienne de la Renaissance ?",
+      "choices": [
+        "L'accumulation secrète de richesses sans jamais les dépenser",
+        "Le mépris affiché pour les artistes et les intellectuels humanistes",
+        "Le savoir-donner et l'encouragement de l'activité économique par des dons",
+        "L'obligation pour les pauvres de vénérer les symboles républicains",
+        "La destruction systématique des monuments de l'Antiquité romaine"
+      ],
+      "correctIndex": 2,
+      "explanation": "La magnificence est une vertu sociale où les grandes familles financent l'art et les infrastructures pour leur prestige et le bien commun."
+    },
+    {
+      "id": "q31",
+      "prompt": "Pourquoi peut-on dire que le patron (commanditaire) est un « co-auteur » de l'œuvre d'art ?",
+      "choices": [
+        "Parce qu'il peint lui-même les visages des personnages secondaires",
+        "Parce que des contrats précis définissent les couleurs et l'iconographie",
+        "Parce qu'il fournit obligatoirement tous les pinceaux à l'artiste",
+        "Parce que son nom est plus grand que celui de l'artiste sur le tableau",
+        "Parce qu'il interdit à l'artiste de s'entourer d'experts humanistes"
+      ],
+      "correctIndex": 1,
+      "explanation": "Les contrats étaient extrêmement précis sur les matériaux, le prix et le programme iconographique, limitant la liberté de l'artiste."
+    },
+    {
+      "id": "q32",
+      "prompt": "Quel événement interrompt brutalement les grands chantiers romains en 1527 ?",
+      "choices": [
+        "La mort subite du peintre Raphaël lors d'une fête au Vatican",
+        "L'éruption du Vésuve détruisant une partie de la ville de Rome",
+        "Le sac de Rome mené par les mercenaires de l'empereur Charles Quint",
+        "L'interdiction de la peinture à l'huile par un décret papal",
+        "La banqueroute totale de la banque Médicis à Florence"
+      ],
+      "correctIndex": 2,
+      "explanation": "Le sac de Rome par les troupes de Charles Quint a provoqué un traumatisme majeur et l'arrêt temporaire des travaux artistiques."
+    },
+    {
+      "id": "q33",
+      "prompt": "Quelle interprétation Marsile Ficin donne-t-il à l'idée que l'homme est fait à l'image de Dieu ?",
+      "choices": [
+        "L'homme doit rester passif car seul Dieu possède la pensée",
+        "Le pouvoir humain est presque égal à la nature divine par l'acte de créer",
+        "L'homme est incapable de concevoir le moindre projet intellectuel",
+        "L'homme ne doit jamais s'exprimer par le langage ou les livres",
+        "La beauté est une illusion dangereuse que l'homme doit éviter"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pour Ficin, l'homme possède le génie du créateur car il conçoit par l'esprit, exprime par le langage et représente par l'édifice."
+    },
+    {
+      "id": "q34",
+      "prompt": "Dans le tableau « La Tempête » de Giorgione, que symbolise la colonne brisée ?",
+      "choices": [
+        "La solidité éternelle de la cité de Dieu",
+        "L'arrivée imminente de nouveaux ordres architecturaux",
+        "L'emblème qui signifie la Mort",
+        "Le refus de l'artiste de suivre les règles de la géométrie",
+        "Le lien indestructible entre Adam et Ève"
+      ],
+      "correctIndex": 2,
+      "explanation": "La colonne brisée est un symbole traditionnel de la mort dans l'iconographie de la Renaissance."
+    },
+    {
+      "id": "q35",
+      "prompt": "Parmi ces éléments, lequel caractérise l'ordre architectural corinthien mentionné dans le texte ?",
+      "choices": [
+        "Une forme de trapèze très simple sans aucune décoration",
+        "L'utilisation d'une volute en forme de spirale au sommet",
+        "La présence de feuilles d'acanthe (plante idéale inexistante)",
+        "Le refus d'utiliser le nombre d'or pour les proportions",
+        "L'absence de socle pour soutenir la structure de la colonne"
+      ],
+      "correctIndex": 2,
+      "explanation": "L'ordre corinthien se reconnaît à ses chapiteaux ornés de feuilles d'acanthe, empruntées à l'architecture antique."
+    },
+    {
+      "id": "q36",
+      "prompt": "Comment Leon Battista Alberti définit-il la fonction du peintre ?",
+      "choices": [
+        "Copier fidèlement chaque défaut de la réalité sans aucune idéalisation",
+        "Peindre sur une surface plate pour donner l'impression du relief et du corps",
+        "Utiliser uniquement des couleurs primaires pour symboliser la pureté",
+        "Représenter les personnages en fonction de leur importance sociale",
+        "Éviter tout recours à la géométrie pour privilégier l'inspiration"
+      ],
+      "correctIndex": 1,
+      "explanation": "Alberti définit la peinture comme l'art de donner l'illusion de la réalité et des trois dimensions sur une surface plane."
+    },
+    {
+      "id": "q37",
+      "prompt": "Quel courant spirituel influence profondément les artistes flamands de la Renaissance au Nord ?",
+      "choices": [
+        "Le jansénisme radical de l'abbaye de Port-Royal",
+        "La « dévotion moderne » prônant une foi plus intérieure",
+        "L'orthodoxie byzantine imposant les fonds dorés",
+        "Le culte exclusif des saints militaires de l'Antiquité",
+        "Le rejet total de toute forme de représentation religieuse"
+      ],
+      "correctIndex": 1,
+      "explanation": "La 'dévotion moderne' est le moteur du changement artistique en Europe du Nord, privilégiant l'intériorité."
+    },
+    {
+      "id": "q38",
+      "prompt": "Quelle innovation technique permet aux peintres flamands d'obtenir des rendus de tissus et de larmes d'une qualité exceptionnelle ?",
+      "choices": [
+        "L'invention de la perspective à point de fuite unique",
+        "La généralisation de la peinture à l'huile",
+        "L'utilisation systématique de la feuille d'acanthe broyée",
+        "La suppression totale du vernis sur les planches de bois",
+        "L'usage de miroirs déformants pour tracer les contours"
+      ],
+      "correctIndex": 1,
+      "explanation": "La peinture à l'huile permet une finesse de rendu et une richesse de couleurs impossibles à atteindre avec d'autres techniques."
+    },
+    {
+      "id": "q39",
+      "prompt": "Dans « Les Époux Arnolfini » de Van Eyck, quel symbole représente la fidélité ?",
+      "choices": [
+        "La fenêtre avec du verre",
+        "La présence d'un petit chien",
+        "Le miroir convexe au fond de la pièce",
+        "Une seule bougie allumée sur le lustre",
+        "Le fruit orange posé sur le meuble"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dans la peinture flamande, chaque objet a un sens ; le chien est le symbole traditionnel de la fidélité conjugale."
+    },
+    {
+      "id": "q40",
+      "prompt": "Quelle technique particulière est utilisée dans « Les Ambassadeurs » de Holbein pour représenter une tête de mort ?",
+      "choices": [
+        "La technique du clair-obscur poussée à l'extrême",
+        "L'anamorphose (déformation nécessitant un regard particulier)",
+        "L'utilisation d'une peinture phosphorescente invisible à l'œil nu",
+        "La gravure sur cuivre insérée directement sur le bois",
+        "La fresque sur enduit frais selon la méthode florentine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Holbein utilise une anamorphose pour peindre une vanité (crâne), rappelant la précarité de la vie terrestre au milieu des savoirs."
+    }
+  ],
+  "course": "Histoire"
+}
